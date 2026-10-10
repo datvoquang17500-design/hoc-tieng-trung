@@ -66,14 +66,16 @@ Tab Thẻ từ, Ôn tập, Tổng quan và bộ lọc Ngữ pháp tự nhận b�
 ## 3. Đưa lên mạng (GitHub Pages)
 
 App chạy tại **https://datvoquang17500-design.github.io/hoc-tieng-trung/**, lấy code từ repo
-https://github.com/datvoquang17500-design/hoc-tieng-trung (nhánh ).
+https://github.com/datvoquang17500-design/hoc-tieng-trung (nhánh `main`).
 
 Sau khi thêm bài hoặc sửa app, đẩy code lên là site tự cập nhật sau khoảng 1 phút:
 
-\On branch main
-Your branch is up to date with 'origin/main'.
+```
+git add -A
+git commit -m "Thêm bài L10"
+git push
+```
 
-nothing to commit, working tree clean
-- Các file Excel,  và  không được đưa lên (xem ). Repo là công khai.
+- Các file Excel, `_old/` và `deploy/` không được đưa lên (xem `.gitignore`). Repo là công khai.
 - Trên iPhone: mở link bằng Safari → Chia sẻ → **Thêm vào MH chính**. Sau mỗi lần cập nhật, mở app bằng icon 學 **hai lần** để thấy bản mới.
 - Tiến độ học lưu riêng trên từng máy và không mất khi cập nhật.
