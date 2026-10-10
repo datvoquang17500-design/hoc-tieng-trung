@@ -63,12 +63,17 @@ node tools/import-excel.js bai10.xlsx L10 "L10 · 春節"          # ghi vào da
 
 Tab Thẻ từ, Ôn tập, Tổng quan và bộ lọc Ngữ pháp tự nhận bài mới, không cần sửa code.
 
-## 3. Đưa lên iPhone
+## 3. Đưa lên mạng (GitHub Pages)
 
-Tạo lại thư mục `deploy/` rồi kéo thả lên Netlify (site → *Deploys*):
+App chạy tại **https://datvoquang17500-design.github.io/hoc-tieng-trung/**, lấy code từ repo
+https://github.com/datvoquang17500-design/hoc-tieng-trung (nhánh ).
 
-```
-rm -rf deploy && mkdir deploy && cp index.html app.js data.js styles.css sw.js manifest.webmanifest icon.svg icon-180.png icon-512.png deploy/
-```
+Sau khi thêm bài hoặc sửa app, đẩy code lên là site tự cập nhật sau khoảng 1 phút:
 
-Trên iPhone mở app bằng icon 學 **hai lần** để thấy bản mới. Tiến độ học lưu riêng trên từng máy và không mất khi cập nhật.
+\On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+- Các file Excel,  và  không được đưa lên (xem ). Repo là công khai.
+- Trên iPhone: mở link bằng Safari → Chia sẻ → **Thêm vào MH chính**. Sau mỗi lần cập nhật, mở app bằng icon 學 **hai lần** để thấy bản mới.
+- Tiến độ học lưu riêng trên từng máy và không mất khi cập nhật.
