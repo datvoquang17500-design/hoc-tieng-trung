@@ -1,0 +1,7 @@
+# Không đưa lên GitHub (repo GitHub Pages miễn phí là công khai)
+_old/
+deploy/
+*.xlsx
+~$*
+.DS_Store
+Thumbs.db
