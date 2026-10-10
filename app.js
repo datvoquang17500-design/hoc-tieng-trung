@@ -28,7 +28,8 @@ function readJSON(key) {
 }
 function loadStore() {
   // known: { hanzi: ngày thuộc }   srs: { hanzi: { lv, due } }   completed: { mã bài: ngày hoàn thành }
-  const base = { known: {}, srs: {}, completed: {}, wrong: {}, quizzes: [], convoBest: {}, backup: {}, prefs: {} };
+  // wordAt / unitAt: thời điểm (ms) thay đổi gần nhất của từng từ / từng bài — dùng để gộp khi đồng bộ nhiều máy.
+  const base = { known: {}, srs: {}, completed: {}, wrong: {}, quizzes: [], convoBest: {}, wordAt: {}, unitAt: {}, backup: {}, prefs: {} };
   const saved = readJSON(STORE_KEY);
   if (saved) return { ...base, ...saved, prefs: { ...base.prefs, ...(saved.prefs || {}) } };
   // Chuyển tiến độ từ bản app cũ (nếu mở trên cùng trình duyệt)
@@ -40,8 +41,16 @@ function loadStore() {
   return base;
 }
 const store = loadStore();
+// Cấu hình đồng bộ đám mây (mã truy cập GitHub…) lưu riêng: không nằm trong file sao lưu / bản lưu tự động.
+const SYNC_KEY = 'zhStudy.sync';
+const SYNC_DELAY = 15000; // gửi lên đám mây sau 15 giây kể từ thay đổi cuối
+let syncCfg = readJSON(SYNC_KEY) || {};
+let syncTimer = null, syncing = false;
+// Khai báo kiểu function (được "hoist") vì save() bên dưới gọi tới ngay từ lúc khởi động.
+function syncOn() { return !!syncCfg.token; }
 function save() {
   try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* private mode */ }
+  scheduleSync();
 }
 
 // ================================================================
@@ -68,6 +77,7 @@ function review(h, remembered) {
   } else {
     store.srs[h] = { lv: 0, due: addDays(todayKey(), INTERVALS[0]) };
   }
+  store.wordAt[h] = Date.now();
   save();
   return store.srs[h];
 }
@@ -128,7 +138,7 @@ function checkCompletion() {
   UNITS.forEach((u, i) => {
     const id = unitId(u);
     if (store.completed[id] || !UNIT_HANZI[i].length) return;
-    if (UNIT_HANZI[i].every(isKnown)) { store.completed[id] = todayKey(); done.push(u.title); }
+    if (UNIT_HANZI[i].every(isKnown)) { store.completed[id] = todayKey(); store.unitAt[id] = Date.now(); done.push(u.title); }
   });
   if (done.length) save();
   return done;
@@ -146,6 +156,7 @@ function setKnown(h, val) {
     delete store.known[h];
     delete store.srs[h];
   }
+  store.wordAt[h] = Date.now();
   save();
   return val ? checkCompletion()[0] : null;
 }
@@ -157,8 +168,10 @@ function resetUnit(i) {
   const u = UNITS[i], hs = UNIT_HANZI[i];
   if (!confirm(`Học lại "${u.title}"?\n\n${hs.length} từ của bài sẽ về trạng thái chưa thuộc, lịch ôn của các từ này cũng bị xoá.\n(App tự giữ một bản lưu trước khi đặt lại.)`)) return;
   takeSnapshot('Trước khi học lại ' + u.title);
-  hs.forEach(h => { delete store.known[h]; delete store.srs[h]; delete store.wrong[h]; });
+  const now = Date.now();
+  hs.forEach(h => { delete store.known[h]; delete store.srs[h]; delete store.wrong[h]; store.wordAt[h] = now; });
   delete store.completed[unitId(u)];
+  store.unitAt[unitId(u)] = now;
   save();
   if (state.unit === i || state.unit === 'all') buildDeck(false);
   render();
@@ -186,6 +199,10 @@ function progressSig() {
 }
 const validData = d => !!d && typeof d === 'object' && !!d.known && typeof d.known === 'object' && !Array.isArray(d.known);
 function applyData(d) {
+  // Đánh dấu mọi từ/bài bị ảnh hưởng là "vừa thay đổi" → khi đồng bộ, bản vừa khôi phục sẽ thắng bản cũ trên mạng.
+  const now = Date.now();
+  new Set([...Object.keys(store.known), ...Object.keys(d.known)]).forEach(h => { store.wordAt[h] = now; });
+  new Set([...Object.keys(store.completed), ...Object.keys(d.completed || {})]).forEach(id => { store.unitAt[id] = now; });
   store.known = { ...d.known };
   store.srs = { ...(d.srs || {}) };
   store.completed = { ...(d.completed || {}) };
@@ -222,7 +239,9 @@ function backupStatus() {
   const changed = b.sig !== progressSig();
   const days = b.lastAt ? daysBetween(b.lastAt, todayKey()) : null;
   const snoozed = !!b.snoozeUntil && b.snoozeUntil > todayKey();
-  return { lastAt: b.lastAt, days, changed, remind: !snoozed && n >= 5 && changed && (days === null || days >= BACKUP_REMIND_DAYS) };
+  // Đang đồng bộ đám mây bình thường → không cần nhắc sao lưu file.
+  const cloudOk = syncOn() && !syncCfg.error && !!syncCfg.lastAt && Date.now() - syncCfg.lastAt < BACKUP_REMIND_DAYS * 864e5;
+  return { lastAt: b.lastAt, days, changed, remind: !cloudOk && !snoozed && n >= 5 && changed && (days === null || days >= BACKUP_REMIND_DAYS) };
 }
 function markBackedUp() {
   store.backup = { lastAt: todayKey(), sig: progressSig(), snoozeUntil: null };
@@ -291,6 +310,231 @@ function fmtDateTime(iso) {
 }
 
 // ================================================================
+// ĐỒNG BỘ ĐÁM MÂY qua GitHub Gist (gist bí mật, 1 file JSON).
+// Mỗi lần đồng bộ: tải bản trên mạng → gộp với bản trên máy → gửi lại nếu khác.
+// Gộp theo từng từ / từng bài: bên nào thay đổi sau (wordAt / unitAt lớn hơn) thì thắng,
+// nên bỏ đánh dấu hay "Học lại" trên một máy cũng được truyền sang máy kia.
+// ================================================================
+const GIST_FILE = 'hoc-tieng-trung-tien-do.json';
+const GH_API = 'https://api.github.com';
+const TOKEN_URL = 'https://github.com/settings/tokens/new?scopes=gist&description=Hoc%20tieng%20Trung';
+function saveSync() { try { localStorage.setItem(SYNC_KEY, JSON.stringify(syncCfg)); } catch (e) { /* ignore */ } }
+function stableStringify(v) {
+  if (Array.isArray(v)) return '[' + v.map(stableStringify).join(',') + ']';
+  if (v && typeof v === 'object') return '{' + Object.keys(v).sort().map(k => JSON.stringify(k) + ':' + stableStringify(v[k])).join(',') + '}';
+  return JSON.stringify(v === undefined ? null : v);
+}
+const syncData = () => ({ ...progressData(), wordAt: store.wordAt, unitAt: store.unitAt });
+function sigOf(d) {
+  const s = stableStringify(d);
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+  return h + ':' + s.length;
+}
+const isDirty = () => syncOn() && sigOf(syncData()) !== syncCfg.lastSig;
+function scheduleSync() {
+  if (!syncOn()) return;
+  clearTimeout(syncTimer);
+  syncTimer = setTimeout(() => { if (isDirty()) syncNow(); }, SYNC_DELAY);
+}
+
+function mergeProgress(L, R) {
+  const out = { known: {}, srs: {}, completed: {}, wordAt: {}, unitAt: {}, wrong: {}, convoBest: {} };
+  const LW = L.wordAt || {}, RW = R.wordAt || {};
+  const words = new Set([...Object.keys(L.known || {}), ...Object.keys(R.known || {}), ...Object.keys(LW), ...Object.keys(RW)]);
+  for (const h of words) {
+    const lt = LW[h] || 0, rt = RW[h] || 0;
+    if (lt || rt) out.wordAt[h] = Math.max(lt, rt);
+    if (lt !== rt) {
+      const src = rt > lt ? R : L;
+      if (src.known && src.known[h]) { out.known[h] = src.known[h]; if (src.srs && src.srs[h]) out.srs[h] = src.srs[h]; }
+    } else {
+      // cùng mốc (dữ liệu cũ chưa có mốc thời gian): giữ nếu bên nào cũng thuộc; lịch ôn lấy bên tiến xa hơn
+      const lk = L.known && L.known[h], rk = R.known && R.known[h];
+      if (lk || rk) {
+        out.known[h] = lk && rk ? (lk < rk ? lk : rk) : (lk || rk);
+        const ls = L.srs && L.srs[h], rs = R.srs && R.srs[h];
+        const pick = !ls ? rs : !rs ? ls : ((rs.lv || 0) > (ls.lv || 0) || ((rs.lv || 0) === (ls.lv || 0) && (rs.due || '') > (ls.due || ''))) ? rs : ls;
+        if (pick) out.srs[h] = pick;
+      }
+    }
+  }
+  const LU = L.unitAt || {}, RU = R.unitAt || {};
+  const units = new Set([...Object.keys(L.completed || {}), ...Object.keys(R.completed || {}), ...Object.keys(LU), ...Object.keys(RU)]);
+  for (const id of units) {
+    const lt = LU[id] || 0, rt = RU[id] || 0;
+    if (lt || rt) out.unitAt[id] = Math.max(lt, rt);
+    const lc = L.completed && L.completed[id], rc = R.completed && R.completed[id];
+    const c = lt === rt ? (lc || rc) : (rt > lt ? rc : lc);
+    if (c) out.completed[id] = c;
+  }
+  for (const src of [L.wrong || {}, R.wrong || {}]) for (const [h, n] of Object.entries(src)) out.wrong[h] = Math.max(out.wrong[h] || 0, n);
+  for (const src of [L.convoBest || {}, R.convoBest || {}]) for (const [t, p] of Object.entries(src)) out.convoBest[t] = Math.max(out.convoBest[t] || 0, p);
+  const qmap = new Map();
+  for (const q of [...(L.quizzes || []), ...(R.quizzes || [])]) qmap.set(q.at ? 'a' + q.at : JSON.stringify([q.date, q.topic, q.total, q.correct]), q);
+  out.quizzes = [...qmap.values()].sort((a, b) => (a.at || Date.parse(a.date) || 0) - (b.at || Date.parse(b.date) || 0)).slice(-200);
+  return out;
+}
+
+async function gh(path, { token, ...opts } = {}) {
+  const res = await fetch(GH_API + path, {
+    ...opts,
+    cache: 'no-store',
+    headers: { Accept: 'application/vnd.github+json', Authorization: 'Bearer ' + (token || syncCfg.token), 'X-GitHub-Api-Version': '2022-11-28', ...(opts.body ? { 'Content-Type': 'application/json' } : {}) },
+  });
+  if (!res.ok) {
+    const err = new Error('HTTP ' + res.status);
+    err.status = res.status;
+    err.rate = res.headers.get('x-ratelimit-remaining') === '0';
+    throw err;
+  }
+  return res;
+}
+const gistPayload = () => JSON.stringify({ app: 'zhStudy-sync', version: 1, updatedAt: new Date().toISOString(), data: syncData() });
+async function findGist() {
+  for (let page = 1; page <= 5; page++) {
+    const list = await (await gh(`/gists?per_page=100&page=${page}`)).json();
+    const g = list.find(x => x.files && x.files[GIST_FILE]);
+    if (g) return g.id;
+    if (list.length < 100) break;
+  }
+  return null;
+}
+async function createGist() {
+  const g = await (await gh('/gists', { method: 'POST', body: JSON.stringify({
+    description: 'Học tiếng Trung: tiến độ học (app tự đồng bộ, đừng sửa tay)', public: false,
+    files: { [GIST_FILE]: { content: gistPayload() } },
+  }) })).json();
+  return g.id;
+}
+async function readGist() {
+  const g = await (await gh('/gists/' + syncCfg.gistId)).json();
+  const f = g.files && g.files[GIST_FILE];
+  if (!f) return null;
+  let text = f.content;
+  if (f.truncated && f.raw_url) text = await (await fetch(f.raw_url, { cache: 'no-store' })).text();
+  try { const p = JSON.parse(text); return p && p.app === 'zhStudy-sync' && validData(p.data) ? p : null; } catch (e) { return null; }
+}
+async function writeGist() {
+  await gh('/gists/' + syncCfg.gistId, { method: 'PATCH', body: JSON.stringify({ files: { [GIST_FILE]: { content: gistPayload() } } }) });
+}
+function applyMerged(m) {
+  if (Object.keys(store.known).some(h => !m.known[h])) takeSnapshot('Trước khi đồng bộ'); // sắp mất từ → giữ một bản để quay lại
+  Object.assign(store, { known: m.known, srs: m.srs, completed: m.completed, wrong: m.wrong, quizzes: m.quizzes, convoBest: m.convoBest, wordAt: m.wordAt, unitAt: m.unitAt });
+  save();
+}
+// Trả về số từ đã thuộc tăng/giảm do nhận thay đổi từ máy khác (null nếu không đổi gì trên máy này).
+// Gọi trong lúc đang đồng bộ → chờ chung lần đồng bộ đó (không chạy song song).
+let syncPromise = null;
+function syncNow() {
+  if (!syncOn()) return Promise.resolve(null);
+  if (!syncing) syncPromise = runSync();
+  return syncPromise;
+}
+async function runSync() {
+  if (!navigator.onLine) { syncCfg.error = 'offline'; saveSync(); refreshSyncUI(); return null; }
+  syncing = true;
+  refreshSyncUI();
+  let pulled = null;
+  try {
+    if (!syncCfg.gistId) syncCfg.gistId = await findGist();
+    let remote = null;
+    if (syncCfg.gistId) {
+      try { remote = await readGist(); } catch (e) {
+        if (e.status !== 404) throw e;
+        // gist cũ bị xoá → tìm gist mà máy khác đã tạo lại; không có thì tự tạo mới bên dưới
+        syncCfg.gistId = await findGist();
+        if (syncCfg.gistId) remote = await readGist();
+      }
+    }
+    if (!syncCfg.gistId) {
+      syncCfg.gistId = await createGist();
+    } else {
+      if (remote) {
+        const local = syncData();
+        const merged = mergeProgress(local, remote.data);
+        if (sigOf(merged) !== sigOf(local)) {
+          const before = Object.keys(store.known).length;
+          applyMerged(merged);
+          pulled = Object.keys(store.known).length - before;
+        }
+      }
+      if (!remote || sigOf(remote.data) !== sigOf(syncData())) await writeGist();
+    }
+    syncCfg.lastSig = sigOf(syncData());
+    syncCfg.lastAt = Date.now();
+    syncCfg.error = null;
+  } catch (e) {
+    syncCfg.error = e.status === 401 ? 'auth' : (e.status === 403 || e.status === 429) && e.rate ? 'rate' : e.status ? 'http ' + e.status : 'offline';
+  } finally {
+    syncing = false;
+    saveSync();
+    if (pulled !== null) { checkCompletion(); render(); } else refreshSyncUI();
+    if (!syncCfg.error && isDirty()) scheduleSync(); // có thay đổi trong lúc đang đồng bộ
+  }
+  return pulled;
+}
+function refreshSyncUI() { if (state.tab === 'home' && !document.activeElement?.matches('#sync-token')) render(); }
+function syncStatus() {
+  if (syncing) return { cls: 'busy', text: 'Đang đồng bộ…' };
+  const e = syncCfg.error;
+  if (e === 'auth') return { cls: 'err', text: 'Mã truy cập không còn hợp lệ (hết hạn hoặc đã bị thu hồi). Bấm Ngắt kết nối rồi kết nối lại bằng mã mới.' };
+  if (e === 'offline') return { cls: 'warn', text: 'Chưa đồng bộ được vì không có mạng. App sẽ tự thử lại khi có mạng.' };
+  if (e === 'rate') return { cls: 'warn', text: 'GitHub đang tạm giới hạn số lần gửi. App sẽ thử lại sau.' };
+  if (e) return { cls: 'warn', text: `Lỗi đồng bộ (${e}). App sẽ thử lại sau.` };
+  if (!syncCfg.lastAt) return { cls: 'warn', text: 'Chưa đồng bộ lần nào.' };
+  return { cls: 'ok', text: `Đã đồng bộ lúc ${fmtDateTime(syncCfg.lastAt)}${isDirty() ? ' · có thay đổi đang chờ gửi' : ''}` };
+}
+function syncErrorToast() {
+  const e = syncCfg.error;
+  return e === 'auth' ? 'Mã truy cập không hợp lệ' : e === 'offline' ? 'Không có mạng, sẽ thử lại sau' : e ? 'Lỗi đồng bộ, sẽ thử lại sau' : '';
+}
+async function connectSync() {
+  const inp = $('#sync-token');
+  const token = (inp && inp.value || '').trim();
+  if (!token) { toast('Dán mã truy cập vào ô trước'); return; }
+  const btn = $('[data-act="sync-connect"]');
+  if (btn) { btn.disabled = true; btn.textContent = 'Đang kết nối…'; }
+  try {
+    const res = await gh('/user', { token });
+    const scopes = res.headers.get('x-oauth-scopes'); // mã kiểu "classic" mới có header này
+    if (scopes !== null && !scopes.split(',').map(s => s.trim()).includes('gist')) throw Object.assign(new Error('scope'), { scope: true });
+    const user = await res.json();
+    syncCfg = { token, login: user.login };
+    saveSync();
+    if (inp) inp.blur();
+    const pulled = await syncNow();
+    if (syncCfg.error) toast(syncErrorToast());
+    else toast(`Đã kết nối @${user.login}` + (pulled > 0 ? ` · nhận thêm ${pulled} từ từ máy khác` : ''));
+  } catch (e) {
+    toast(e.scope ? 'Mã thiếu quyền "gist". Tạo lại mã và tick ô gist.' : e.status === 401 ? 'Mã không đúng hoặc đã hết hạn' : 'Không kết nối được, kiểm tra mạng rồi thử lại');
+    if (btn) { btn.disabled = false; btn.textContent = 'Kết nối'; }
+  }
+}
+function viewSync() {
+  if (!syncOn()) return `<div class="card stack">
+    <div><b class="row" style="gap:6px">${icon('cloud', 18)} Đồng bộ đám mây</b><div class="small muted">Tự lưu tiến độ lên GitHub sau mỗi lần học. Dùng cùng một mã trên nhiều máy để học tiếp ở máy nào cũng được.</div></div>
+    <input class="input" id="sync-token" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Dán mã truy cập GitHub (ghp_…)">
+    <button class="btn btn-primary" data-act="sync-connect">Kết nối</button>
+    <details class="snaps"><summary>Cách lấy mã truy cập</summary>
+      <ol class="small steps">
+        <li>Mở <a href="${TOKEN_URL}" target="_blank" rel="noopener">trang tạo mã của GitHub</a> (đăng nhập nếu được hỏi). Ô <b>gist</b> đã được tick sẵn, không cần tick thêm ô nào.</li>
+        <li>Mục <b>Expiration</b>: chọn <b>No expiration</b> (hoặc 1 năm).</li>
+        <li>Kéo xuống cuối, bấm <b>Generate token</b>, rồi copy mã (bắt đầu bằng <code>ghp_</code>). GitHub chỉ hiện mã này 1 lần.</li>
+        <li>Quay lại đây, dán mã vào ô trên và bấm <b>Kết nối</b>. Trên máy khác: dán cùng mã đó.</li>
+      </ol>
+      <p class="small muted" style="margin:0">Mã chỉ có quyền tạo/sửa gist, được lưu trên máy này và không nằm trong file sao lưu. Có thể thu hồi bất cứ lúc nào trong GitHub → Settings → Developer settings.</p>
+    </details>
+  </div>`;
+  const st = syncStatus();
+  return `<div class="card stack">
+    <div class="row between"><div><b class="row" style="gap:6px">${icon('cloud', 18)} Đồng bộ đám mây</b><div class="small muted">GitHub @${esc(syncCfg.login || '')} · tự đồng bộ sau mỗi lần học</div></div><span class="sync-dot ${st.cls}" title="${esc(st.text)}"></span></div>
+    <div class="small ${st.cls === 'err' ? 'err-text' : 'muted'}">${esc(st.text)}</div>
+    <div class="row"><button class="btn grow" data-act="sync-now" ${syncing ? 'disabled' : ''}>${icon('reset', 16)} Đồng bộ ngay</button><button class="btn btn-ghost" data-act="sync-off">Ngắt kết nối</button></div>
+  </div>`;
+}
+
+// ================================================================
 // UTILS
 // ================================================================
 const $ = sel => document.querySelector(sel);
@@ -323,6 +567,7 @@ const ICON = {
   reset: '<path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/>',
   save: '<path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/>',
   upload: '<path d="M12 21V9"/><path d="m7 14 5-5 5 5"/><path d="M5 3h14"/>',
+  cloud: '<path d="M17.5 19H7a5 5 0 1 1 .9-9.92A6 6 0 0 1 19 11a4 4 0 0 1-1.5 8Z"/>',
 };
 const icon = (name, size) => `<svg viewBox="0 0 24 24" ${size ? `width="${size}" height="${size}"` : ''} fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${ICON[name]}</svg>`;
 
@@ -513,11 +758,12 @@ function viewHome() {
   <div class="hard-list">${hard.map(([h, n]) =>
     `<button class="chip-word" data-act="word" data-h="${esc(h)}"><div class="han">${esc(h)}</div><div class="small muted">sai ${n} lần</div></button>`).join('')}</div>` : ''}
 
-  <div class="section-title">Sao lưu dữ liệu</div>
-  <div class="card stack">
+  <div class="section-title">Đồng bộ & sao lưu</div>
+  ${viewSync()}
+  <div class="card stack" style="margin-top:12px">
     <div><b>Lần sao lưu gần nhất</b><div class="small muted">${bs.lastAt ? `${fmtVN(bs.lastAt)} · ${bs.changed ? 'có thay đổi chưa sao lưu' : 'đã gồm tiến độ mới nhất'}` : 'Chưa sao lưu lần nào'}</div></div>
     <div class="row"><button class="btn btn-primary grow" data-act="backup">${icon('save', 18)} Sao lưu ra file</button><button class="btn grow" data-act="restore-file">${icon('upload', 18)} Khôi phục</button></div>
-    <p class="small muted" style="margin:0">Tiến độ chỉ lưu trên máy này. Trên iPhone, chọn <b>Lưu vào Tệp</b> (iCloud Drive) để giữ bản sao an toàn; khi đổi máy hoặc cài lại app, bấm Khôi phục và chọn file đó.</p>
+    <p class="small muted" style="margin:0">${syncOn() ? 'Sao lưu file là lớp dự phòng thêm cho đồng bộ đám mây.' : 'Tiến độ chỉ lưu trên máy này.'} Trên iPhone, chọn <b>Lưu vào Tệp</b> (iCloud Drive) để giữ bản sao an toàn; khi đổi máy hoặc cài lại app, bấm Khôi phục và chọn file đó.</p>
     ${snaps.length ? `<details class="snaps"><summary>Bản lưu tự động trên máy (${snaps.length})</summary>
       ${snaps.map((sn, i) => `<div class="snap-row"><div class="grow"><div>${fmtDateTime(sn.at)}</div><div class="small muted">${esc(sn.reason)} · ${sn.known} từ đã thuộc</div></div><button class="link-btn" data-act="restore-snap" data-i="${i}">${icon('reset', 14)} Quay lại</button></div>`).join('')}
       <p class="small muted" style="margin:8px 0 0">Bản tự động nằm trên máy này nên sẽ mất nếu xoá app. Dùng để quay lại khi lỡ tay.</p></details>` : ''}
@@ -955,7 +1201,7 @@ function nextQuiz() {
   qz.picked = null;
   if (qz.idx >= qz.questions.length) {
     const topic = QUIZ_TOPICS().find(t => t.key === state.quizTopic);
-    store.quizzes.push({ date: todayKey(), topic: qz.retry ? 'Làm lại câu sai' : (topic ? topic.label : state.quizTopic), total: qz.questions.length, correct: qz.answers.filter(a => a.ok).length });
+    store.quizzes.push({ at: Date.now(), date: todayKey(), topic: qz.retry ? 'Làm lại câu sai' : (topic ? topic.label : state.quizTopic), total: qz.questions.length, correct: qz.answers.filter(a => a.ok).length });
     if (store.quizzes.length > 200) store.quizzes = store.quizzes.slice(-200);
     save();
   }
@@ -1084,6 +1330,11 @@ document.addEventListener('click', e => {
       if (isKnown(d.h)) { setKnown(d.h, false); toast('Đã bỏ đánh dấu'); } else markKnown(d.h);
       render(); break;
 
+    case 'sync-connect': connectSync(); break;
+    case 'sync-now': syncNow().then(p => toast(syncCfg.error ? syncErrorToast() : p ? 'Đã nhận thay đổi từ máy khác' : 'Đã đồng bộ')); break;
+    case 'sync-off':
+      if (confirm('Ngắt đồng bộ đám mây trên máy này?\n\nTiến độ trên máy và bản trên GitHub vẫn được giữ nguyên. Muốn bật lại thì dán lại mã truy cập.')) { clearTimeout(syncTimer); syncCfg = {}; saveSync(); render(); toast('Đã ngắt đồng bộ'); }
+      break;
     case 'backup': exportBackup(); break;
     case 'backup-later': store.backup = { ...store.backup, snoozeUntil: addDays(todayKey(), 3) }; save(); render(); toast('Sẽ nhắc lại sau 3 ngày'); break;
     case 'restore-file': { const inp = $('#restore-input'); inp.value = ''; inp.click(); break; }
@@ -1189,7 +1440,11 @@ document.addEventListener('keydown', e => {
 let lastDay = todayKey();
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'visible' && todayKey() !== lastDay) { lastDay = todayKey(); dailySnapshot(); render(); }
+  if (!syncOn()) return;
+  if (document.visibilityState === 'hidden') { if (isDirty()) syncNow(); }
+  else if (!syncCfg.lastAt || Date.now() - syncCfg.lastAt > 30000 || syncCfg.error) syncNow();
 });
+window.addEventListener('online', () => { if (syncOn()) syncNow(); });
 
 // ================================================================
 // BOOT
@@ -1201,6 +1456,7 @@ if (!QUIZ_MODES.some(m => m.key === state.quizMode) || (state.quizMode === 'list
 restoreDeck();
 dailySnapshot();
 render();
+if (syncOn()) syncNow();
 
 if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
   navigator.serviceWorker.register('sw.js').catch(() => {});

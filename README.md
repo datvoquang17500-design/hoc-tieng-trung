@@ -9,9 +9,22 @@ Mở `index.html` để dùng. Toàn bộ nội dung học nằm trong **`data.j
 - **Hoàn thành bài:** thuộc hết từ trong bài thì bài được đánh dấu Hoàn thành và giữ nguyên trạng thái đó. Muốn học lại từ đầu thì bấm **Học lại** (ở Tổng quan hoặc tab Thẻ từ). Việc này xoá trạng thái đã thuộc và lịch ôn của các từ trong bài.
 - Nhắc ôn chỉ hiện **trong app**. Web app trên iPhone không tự gửi thông báo khi đang đóng.
 
+## Đồng bộ đám mây (GitHub Gist)
+
+Mục **Đồng bộ & sao lưu** ở cuối tab Tổng quan:
+
+1. Bấm "Cách lấy mã truy cập", rồi mở trang tạo mã của GitHub (ô **gist** đã được tick sẵn). Chọn Expiration **No expiration**, bấm **Generate token** và copy mã `ghp_…`.
+2. Dán mã vào ô, bấm **Kết nối**. App tự tạo 1 gist bí mật tên `hoc-tieng-trung-tien-do.json`.
+3. Máy khác: dán **cùng mã** đó, app tự tìm gist và gộp tiến độ.
+
+- Tự gửi lên sau khoảng 15 giây kể từ thay đổi cuối, và ngay khi thoát app. Mở app thì tự tải bản mới về.
+- Gộp **theo từng từ / từng bài**: thay đổi nào mới hơn thì được giữ. Đánh dấu, bỏ đánh dấu, ôn tập, Học lại, khôi phục bản cũ đều được truyền sang máy kia. Trước khi một lần đồng bộ làm mất từ trên máy, app tự giữ 1 bản lưu "Trước khi đồng bộ".
+- Mất mạng vẫn học bình thường, có mạng lại thì app tự gửi.
+- Mã chỉ có quyền gist, lưu trên máy (không nằm trong file sao lưu). **Ngắt kết nối** để xoá mã khỏi máy. Thu hồi mã: GitHub → Settings → Developer settings → Personal access tokens.
+
 ## Sao lưu tiến độ
 
-Tiến độ chỉ lưu trên máy đang dùng (không có máy chủ). Phần **Sao lưu dữ liệu** ở cuối tab Tổng quan có:
+Tiến độ lưu trên máy đang dùng. Ngoài đồng bộ đám mây, phần **Đồng bộ & sao lưu** còn có:
 
 - **Sao lưu ra file:** trên iPhone mở bảng Chia sẻ, chọn **Lưu vào Tệp** (nên chọn iCloud Drive). Trên máy tính thì tải file `hoc-tieng-trung-NGÀY.json` về.
 - **Khôi phục:** chọn file sao lưu, app hỏi xác nhận rồi thay tiến độ hiện tại. Dùng khi đổi máy hoặc lỡ xoá app.
