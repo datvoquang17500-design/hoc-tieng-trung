@@ -789,7 +789,8 @@ function filterWords(words, filter) {
 const filteredWords = () => filterWords(unitWords(), state.filter);
 function buildDeck(doShuffle) {
   const words = filteredWords();
-  state.deck = doShuffle ? shuffle(words) : words;
+  // "Tất cả các bài" luôn xáo trộn để không phải lúc nào cũng bắt đầu từ bài đầu tiên
+  state.deck = doShuffle || state.unit === 'all' ? shuffle(words) : words;
   state.deckIdx = 0;
   state.flipped = false;
   saveDeck();
@@ -943,6 +944,15 @@ function viewWordList() {
   </div>`;
 }
 
+// Lật thẻ và đọc luôn chữ Hán (lần lật là thao tác chạm nên iPhone cho phép phát âm).
+function flipCard() {
+  const f = $('#flash'), w = state.deck[state.deckIdx];
+  if (!f || !w) return;
+  state.flipped = !state.flipped;
+  f.classList.toggle('flipped', state.flipped);
+  speak(w.hanzi);
+}
+
 function markCurrent(known) {
   const w = state.deck[state.deckIdx];
   if (!w) return;
@@ -978,14 +988,16 @@ function tokenize(text) {
 
 function viewChat() {
   const c = CONVERSATIONS[state.convo] || CONVERSATIONS[0];
-  const first = c.lines[0] && c.lines[0].speaker;
+  const first = (c.lines.find(l => l.speaker) || {}).speaker;
   return `
   <select class="input han" data-act="convo">
     ${CONVERSATIONS.map((x, i) => `<option value="${i}" ${i === state.convo ? 'selected' : ''}>${esc(x.title)}</option>`).join('')}
   </select>
   <p class="small muted" style="margin:8px 2px 14px">Chạm vào từ được gạch chân để xem nghĩa. Nút loa để nghe cả câu.</p>
   <div class="chat">
-    ${c.lines.map(l => `
+    ${c.lines.map(l => !l.speaker ? `
+      <div class="narr han">${l.zh.length > 30 ? speakBtn(l.zh, 'icon-btn speak-inline') : ''}${tokenize(l.zh)}
+        ${l.en ? `<div class="small muted" style="font-family:var(--font)">${esc(l.en)}</div>` : ''}</div>` : `
       <div class="bubble-wrap ${l.align === 'right' || (l.align !== 'left' && l.speaker !== first) ? 'right' : ''}">
         <div class="speaker han">${esc(l.speaker)}</div>
         <div class="bubble han">${speakBtn(l.zh, 'icon-btn speak-inline')}${tokenize(l.zh)}
@@ -1348,7 +1360,7 @@ document.addEventListener('click', e => {
     case 'toggle-reverse': state.reverse = !state.reverse; state.flipped = false; savePrefs(); render(); toast(state.reverse ? 'Thẻ đảo chiều: nhìn nghĩa → nhớ chữ Hán' : 'Thẻ thường: nhìn chữ Hán → nhớ nghĩa'); break;
     case 'shuffle': buildDeck(true); render(); toast('Đã xáo trộn'); break;
     case 'restart-deck': buildDeck(false); render(); break;
-    case 'flip': state.flipped = !state.flipped; $('#flash').classList.toggle('flipped', state.flipped); break;
+    case 'flip': flipCard(); break;
     case 'mark': markCurrent(d.k === '1'); break;
     case 'review': reviewCurrent(d.k === '1'); break;
     case 'prev': if (state.deckIdx > 0) moveTo(state.deckIdx - 1); break;
@@ -1359,7 +1371,9 @@ document.addEventListener('click', e => {
 
     case 'cq-start': {
       const c = CONVERSATIONS[state.convo];
-      state.cq = { questions: shuffle(c.questions).slice(0, 5), idx: 0, picked: null, score: 0 };
+      // xáo cả thứ tự đáp án để đáp án đúng không cố định một vị trí
+      const mix = q => { const order = shuffle(q.options.map((_, i) => i)); return { ...q, options: order.map(i => q.options[i]), correct: order.indexOf(q.correct) }; };
+      state.cq = { questions: shuffle(c.questions).slice(0, 5).map(mix), idx: 0, picked: null, score: 0 };
       render(); break;
     }
     case 'cq-pick': {
@@ -1431,7 +1445,7 @@ document.addEventListener('touchend', e => {
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') closeSheet();
   if (state.tab !== 'cards' || state.view !== 'card' || e.target.matches('input, select')) return;
-  if (e.key === ' ') { e.preventDefault(); const f = $('#flash'); if (f) { state.flipped = !state.flipped; f.classList.toggle('flipped', state.flipped); } }
+  if (e.key === ' ') { e.preventDefault(); flipCard(); }
   if (e.key === 'ArrowRight') moveTo(state.deckIdx + 1);
   if (e.key === 'ArrowLeft' && state.deckIdx > 0) moveTo(state.deckIdx - 1);
 });

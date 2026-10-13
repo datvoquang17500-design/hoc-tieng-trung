@@ -1,0 +1,48 @@
+#UNIT P4-07|PAVC4 · L7 感情的事
+#CONVO PAVC4 · L7 感情的事
+|（謝美真、陳台麗的房間）|(Phòng của Tạ Mỹ Chân và Trần Đài Lệ)
+美真|好了，別哭了，也許事情沒有你想的那麼嚴重。|Thôi nào, đừng khóc nữa, có khi chuyện không nghiêm trọng như bạn nghĩ đâu.
+台麗|我妹妹親眼看見的，他跟一個女的手拉著手在公園散步，還會錯嗎？|Em gái tôi tận mắt nhìn thấy, anh ta tay trong tay với một cô gái đi dạo trong công viên, còn sai được sao?
+美真|你妹妹看清楚了嗎？說不定是長得像你男朋友的人。|Em gái bạn nhìn rõ chưa? Biết đâu là người trông giống bạn trai bạn.
+台麗|我們在一起兩年了，他常來我們家，我妹妹不會看錯的。|Bọn tôi bên nhau hai năm rồi, anh ấy hay đến nhà tôi, em tôi không nhìn nhầm đâu.
+美真|既然兩年了，你就應該很了解他，怎麼對他沒信心呢？|Đã hai năm rồi thì bạn phải rất hiểu anh ấy chứ, sao lại không tin anh ấy?
+台麗|我就是太了解他了，才這麼沒信心，果然我走了才半年多，他就交了新的女朋友了。真可惡！|Chính vì tôi quá hiểu anh ta nên mới không tin, quả nhiên tôi đi mới hơn nửa năm anh ta đã có bạn gái mới. Thật đáng ghét!
+美真|我覺得你還是應該先問清楚比較好。|Tôi thấy bạn vẫn nên hỏi cho rõ trước thì hơn.
+台麗|有什麼好問的？！我對他那麼好，他卻騙我，不如分手算了。|Có gì mà hỏi?! Tôi đối xử tốt với anh ta thế mà anh ta lại lừa tôi, chia tay quách cho xong.
+美真|你還是給他一個解釋的機會吧，也許是誤會呢！|Bạn vẫn nên cho anh ấy một cơ hội giải thích đi, biết đâu là hiểu lầm!
+台麗|這不是第一次了，一年前也發生過同樣的事，他求了我半天，我就心軟了，原諒了他。這次他說什麼，我都不相信了。|Đây không phải lần đầu, một năm trước cũng xảy ra chuyện y như vậy, anh ta van xin tôi mãi, tôi mềm lòng tha thứ. Lần này anh ta nói gì tôi cũng không tin nữa.
+美真|真的？！原來他這麼花！老是腳踏兩條船！那你為什麼還這麼愛他？|Thật à?! Hoá ra anh ta trăng hoa thế! Lúc nào cũng bắt cá hai tay! Thế sao bạn vẫn yêu anh ta như vậy?
+台麗|我們個性跟興趣都差不多，他很懂女孩子心理，口才也好。而且他又長得那麼帥。|Tính cách và sở thích bọn tôi khá giống nhau, anh ấy rất hiểu tâm lý con gái, ăn nói cũng giỏi. Hơn nữa anh ấy lại đẹp trai như thế.
+美真|難怪你這麼傷心。可是話說回來，如果你老是擔心他會變心，不是也很痛苦嗎？太不值得了！再說你這麼聰明漂亮，個性又溫柔，還怕沒有人愛嗎？我就知道好幾個人對你有意思。|Thảo nào bạn buồn như vậy. Nhưng nói đi cũng phải nói lại, nếu bạn cứ lo anh ta thay lòng đổi dạ chẳng phải cũng rất khổ sao? Quá không đáng! Hơn nữa bạn thông minh xinh đẹp thế này, tính lại dịu dàng, còn sợ không ai yêu sao? Tôi biết có mấy người để ý bạn đấy.
+台麗|我再也不要談戀愛了，太痛苦了！|Tôi sẽ không bao giờ yêu đương nữa, khổ quá!
+|（敲門聲）|(Tiếng gõ cửa)
+美真|有人來了，我去開門，也許是高偉立。哎喲，高偉立，這麼大的雨，你怎麼不打把傘？|Có người đến, tôi ra mở cửa, có lẽ là Cao Vỹ Lập. Ôi chao, Vỹ Lập, mưa to thế sao bạn không che ô?
+偉立|我出門的時候，雨很小，誰知道會越下越大呢？|Lúc tôi ra khỏi nhà mưa còn nhỏ, ai ngờ càng lúc càng to?
+美真|快進來！我拿條毛巾給你擦擦。|Mau vào đi! Tôi lấy khăn cho bạn lau.
+偉立|台麗呢？她答應幫我看作文的。|Đài Lệ đâu? Cô ấy hứa xem giúp tôi bài văn mà.
+美真|她在房間裡。作文，我來幫你看吧！她今天心情不好。|Cô ấy ở trong phòng. Bài văn để tôi xem giúp! Hôm nay cô ấy tâm trạng không tốt.
+偉立|怎麼啦？|Sao vậy?
+美真|感情方面的問題。|Chuyện tình cảm.
+偉立|那我不打擾她了，我的作文就麻煩你了。|Vậy tôi không làm phiền cô ấy nữa, bài văn của tôi nhờ bạn vậy.
+|（圖書館門口）|(Trước cửa thư viện)
+偉立|台麗這兩天心情好點了沒有？|Mấy hôm nay tâm trạng Đài Lệ khá hơn chưa?
+美真|我一直勸她想開一點，現在好多了。|Tôi cứ khuyên cô ấy nghĩ thoáng ra, giờ đỡ nhiều rồi.
+建國|還好有你安慰她、支持她。|May mà có bạn an ủi, ủng hộ cô ấy.
+美真|朋友嘛！應該的。你們放心，失戀雖然痛苦，可是她不會因為想不開而自殺的。|Bạn bè mà! Nên làm thôi. Các bạn yên tâm, thất tình tuy đau khổ nhưng cô ấy sẽ không vì nghĩ quẩn mà tự tử đâu.
+偉立|上星期報上有個新聞，你們看到沒有？有個女的沒結婚就懷了孕，男朋友卻變心了，她一生氣，就把男朋友殺了，後來自己也自殺了。|Tuần trước trên báo có một tin, các bạn đọc chưa? Có cô gái chưa cưới đã mang thai, bạn trai lại thay lòng, cô ấy tức giận giết bạn trai, sau đó tự tử.
+建國|她真想不開。可以去墮胎啊？何必非殺人不可呢？|Cô ấy thật nghĩ quẩn. Có thể đi phá thai mà? Cần gì phải giết người?
+美真|可是墮胎也是殺人啊！不管胎兒多小，都是一個生命。不過，如果不墮胎，孩子生下來沒人養，也是問題。再說，即使能墮胎，對母親也是很大的傷害。我雖然不是很保守的人，可是還是不太能接受未婚懷孕的事。|Nhưng phá thai cũng là giết người! Thai nhi dù nhỏ đến mấy cũng là một sinh mạng. Có điều nếu không phá, đứa trẻ sinh ra không ai nuôi cũng là vấn đề. Hơn nữa, dù có phá thai được thì với người mẹ cũng là tổn thương lớn. Tôi tuy không phải người bảo thủ lắm nhưng vẫn khó chấp nhận chuyện mang thai trước hôn nhân.
+偉立|墮胎這個問題很複雜，與其墮胎，不如避孕。|Chuyện phá thai rất phức tạp, phá thai chi bằng tránh thai.
+美真|不跟你們聊了，我要去看書了，再見。|Không nói chuyện với các bạn nữa, tôi đi đọc sách đây, tạm biệt.
+建國|再見。偉立，要是你的女朋友懷孕了，你怎麼辦？|Tạm biệt. Vỹ Lập, nếu bạn gái cậu có thai thì cậu làm sao?
+偉立|我可是受過性教育的，才不會糊裡糊塗地跟人上床。我也不要我的女朋友做未婚媽媽。|Tớ đã được giáo dục giới tính đấy, đời nào lại mơ mơ hồ hồ lên giường với người ta. Tớ cũng không muốn bạn gái làm mẹ đơn thân.
+建國|未婚媽媽的問題還好解決，要是得了傳染病，就麻煩了。|Vấn đề mẹ đơn thân còn dễ giải quyết, nếu mắc bệnh truyền nhiễm thì mới phiền.
+偉立|所以才有那麼多「請用保險套」的宣傳啊！|Thế nên mới có nhiều chiến dịch tuyên truyền "Hãy dùng bao cao su" đấy!
+#Q
+台麗為什麼哭？|她妹妹看見她男朋友跟別的女孩子手拉著手散步|她考試考得不好|她的錢被偷了|她生病了|0
+台麗為什麼不相信她男朋友了？|一年前也發生過同樣的事|她妹妹喜歡說謊|她男朋友長得不帥|他們才認識兩個月|0
+台麗為什麼這麼愛她男朋友？|兩人個性興趣差不多，他懂女孩子心理、口才好又帥|他很有錢|他是她的老師|他會做飯|0
+偉立為什麼淋濕了？|出門時雨很小，沒帶傘，後來雨越下越大|他掉進河裡了|他去游泳了|他洗了澡|0
+偉立來找台麗做什麼？|請她幫忙看作文|請她吃飯|還她錢|跟她借書|0
+偉立對墮胎的看法是什麼？|與其墮胎，不如避孕|墮胎沒有問題|應該結婚|不應該受性教育|0
+美真不太能接受什麼事？|未婚懷孕|談戀愛|分手|上圖書館|0

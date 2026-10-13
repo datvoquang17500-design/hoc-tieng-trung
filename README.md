@@ -5,6 +5,7 @@ Mở `index.html` để dùng. Toàn bộ nội dung học nằm trong **`data.j
 ## Cách app ghi nhớ tiến độ
 
 - **Đã thuộc:** bấm "Đã thuộc" trên thẻ (hoặc tick trong Danh sách). Từ đó bắt đầu lịch ôn.
+- **Thẻ từ:** chọn "Tất cả các bài" thì thẻ luôn được xáo ngẫu nhiên; chọn một bài thì theo thứ tự trong bài. Lật thẻ là app tự đọc từ.
 - **Lịch ôn:** từ đã thuộc được nhắc lại sau **1 → 3 → 7 → 14 → 28 → 60 ngày**. Khi đến hạn, Tổng quan hiện "N từ đến hạn ôn", tab Thẻ từ có số đỏ. Ôn ở bộ lọc **Cần ôn**: "Vẫn nhớ" thì lên mốc kế tiếp, "Quên rồi" thì quay về mốc 1 ngày. Qua mốc 60 ngày là **Thành thạo**, không nhắc nữa.
 - **Hoàn thành bài:** thuộc hết từ trong bài thì bài được đánh dấu Hoàn thành và giữ nguyên trạng thái đó. Muốn học lại từ đầu thì bấm **Học lại** (ở Tổng quan hoặc tab Thẻ từ). Việc này xoá trạng thái đã thuộc và lịch ôn của các từ trong bài.
 - Nhắc ôn chỉ hiện **trong app**. Web app trên iPhone không tự gửi thông báo khi đang đóng.
@@ -30,6 +31,16 @@ Tiến độ lưu trên máy đang dùng. Ngoài đồng bộ đám mây, phần
 - **Khôi phục:** chọn file sao lưu, app hỏi xác nhận rồi thay tiến độ hiện tại. Dùng khi đổi máy hoặc lỡ xoá app.
 - **Bản lưu tự động trên máy:** mỗi ngày 1 bản, kèm 1 bản trước khi bấm Học lại hoặc Khôi phục. Giữ 10 bản gần nhất, bấm **Quay lại** để trở về. Các bản này nằm trên máy nên sẽ mất nếu xoá app.
 - **Nhắc sao lưu:** đã ≥ 7 ngày chưa sao lưu mà tiến độ có thay đổi thì Tổng quan hiện thẻ nhắc ("Để sau" sẽ hoãn 3 ngày).
+
+## Sách 實用視聽華語 (PAVC) 4 & 5
+
+Nội dung lấy từ sách nằm trong thư mục **`content/pavc/`**, mỗi bài là một hoặc hai file văn bản (`P4-03.txt`: bài khoá + câu hỏi; `P4-03.v.txt`: từ vựng + ngữ pháp). Định dạng ghi ở đầu `tools/build-pavc.js`. Sửa hoặc thêm file rồi chạy:
+
+```
+node tools/build-pavc.js     # dựng lại data-pavc.js
+```
+
+Sau đó tăng `VERSION` trong `sw.js` và đẩy lên như mục 3. Bài 1–2 của PAVC4 trùng với L7–L9 đã có nên không nhập lại.
 
 ## 1. Thêm bài mới từ Excel (cách nhanh nhất)
 

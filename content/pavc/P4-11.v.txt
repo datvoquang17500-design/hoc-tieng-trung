@@ -1,0 +1,88 @@
+#VOCAB
+探親|tànqīn|thám thân|VO|thăm người thân|我這次去日本是去探親的，我姑姑住在那兒。|Lần này tôi đi Nhật là để thăm người thân, cô tôi sống ở đó.
+親戚|qīnqi|thân thích|N|họ hàng|孩子們都結婚以後，親戚就多了。|Con cái đều lập gia đình rồi thì họ hàng nhiều lên.
+親人|qīnrén|thân nhân|N|người thân (ruột thịt)|李家就小李一個孩子，父母都死了以後，他就沒有親人了。|Nhà họ Lý chỉ có mình Tiểu Lý, bố mẹ mất rồi cậu ấy không còn người thân nào.
+家人|jiārén|gia nhân|N|người nhà|王美美雖然做得不好，可是家人都很支持她，這樣的家庭真讓人羨慕。|Vương Mỹ Mỹ tuy làm chưa tốt nhưng người nhà đều ủng hộ cô, gia đình như vậy thật đáng ngưỡng mộ.
+老家|lǎojiā|lão gia|N|quê nhà, quê gốc|我住在紐約，可是我的老家在臺北。|Tôi sống ở New York, nhưng quê gốc ở Đài Bắc.
+驚訝|jīngyà|kinh nhạ|SV|ngạc nhiên, kinh ngạc|我們都很驚訝，小王居然放棄了出國留學的機會。|Chúng tôi đều rất ngạc nhiên, Tiểu Vương vậy mà từ bỏ cơ hội đi du học.
+驚喜|jīngxǐ|kinh hỉ|N|sự bất ngờ (vui)|我女朋友生日，我打算給她開個派對，可是不先告訴她，要給她個驚喜。|Sinh nhật bạn gái, tôi định tổ chức tiệc cho cô ấy nhưng không báo trước, muốn tạo bất ngờ.
+激動|jīdòng|kích động|SV|xúc động, kích động|我們第一次贏了世界杯足球賽，大家都激動得流下了眼淚。|Lần đầu chúng tôi vô địch World Cup, ai cũng xúc động rơi nước mắt.
+外婆|wàipó|ngoại bà|N|bà ngoại||
+外公|wàigōng|ngoại công|N|ông ngoại|我外公外婆只有我媽一個女兒。|Ông bà ngoại tôi chỉ có mỗi mẹ tôi là con gái.
+婆婆|pópo|bà bà|N|mẹ chồng; bà cụ||
+公公|gōnggong|công công|N|bố chồng; ông cụ|林小姐結婚以後跟公公婆婆住在一起，除了照顧先生小孩，還要照顧兩位老人，很辛苦。|Cô Lâm cưới xong sống chung với bố mẹ chồng, ngoài chăm chồng con còn chăm hai ông bà, rất vất vả.
+老公|lǎogōng|lão công|N|chồng (khẩu ngữ)||
+老婆|lǎopó|lão bà|N|vợ (khẩu ngữ)|現在有的年輕人交男女朋友，還沒結婚，就叫對方「老公」、「老婆」，真肉麻！|Bây giờ có người trẻ mới yêu chưa cưới đã gọi nhau "chồng ơi", "vợ ơi", thật sến!
+祭祖|jìzǔ|tế tổ|VO|cúng tổ tiên|華人在過年的時候都要祭祖，表示沒忘記祖先。|Người Hoa dịp Tết đều cúng tổ tiên, tỏ ý không quên tổ tiên.
+衛生設備|wèishēng shèbèi|vệ sinh thiết bị|N|thiết bị vệ sinh|這個房子連馬桶都沒有，衛生設備真差。|Căn nhà này đến bồn cầu cũng không có, thiết bị vệ sinh thật tệ.
+衛生|wèishēng|vệ sinh|SV|vệ sinh, sạch sẽ|小王上了廁所，沒洗手就拿東西吃，真不衛生。|Tiểu Vương đi vệ sinh xong không rửa tay đã cầm đồ ăn, thật mất vệ sinh.
+設備|shèbèi|thiết bị|N|thiết bị, trang thiết bị|這個語言實驗室的設備都很新，錄音機都是電腦控制的。|Thiết bị phòng thí nghiệm ngôn ngữ này đều rất mới, máy ghi âm đều điều khiển bằng máy tính.
+衛生紙|wèishēng zhǐ|vệ sinh chỉ|N|giấy vệ sinh||
+面紙|miàn zhǐ|diện chỉ|N|khăn giấy|衛生紙是廁所裡用的，如果要擦嘴、擦手，應該用面紙。|Giấy vệ sinh dùng trong toilet, muốn lau miệng, lau tay thì dùng khăn giấy.
+改善|gǎishàn|cải thiện|V|cải thiện|捷運建好以後，塞車的情況改善了很多。|MRT xây xong, tình trạng tắc đường cải thiện nhiều.
+戒指|jièzhǐ|giới chỉ|N|nhẫn|結婚戒指應該戴在哪一個手指頭上？|Nhẫn cưới nên đeo ở ngón tay nào?
+隨身聽|suíshēntīng|tuỳ thân thính|N|máy nghe nhạc cầm tay (Walkman)|有些年輕人一邊走路，一邊用隨身聽聽音樂，聽不到汽車的聲音，很危險。|Có người trẻ vừa đi vừa nghe nhạc bằng máy nghe cầm tay, không nghe được tiếng xe, rất nguy hiểm.
+計算機|jìsuànjī|kế toán cơ|N|máy tính bỏ túi||
+計算|jìsuàn|kế toán|V|tính toán|有了計算機以後，很多人的計算能力就變差了。|Có máy tính bỏ túi rồi, khả năng tính toán của nhiều người kém đi.
+海關|hǎiguān|hải quan|N|hải quan|小王去日本的時候，海關不讓他把媽媽給他的水果帶上飛機。|Lúc Tiểu Vương đi Nhật, hải quan không cho mang hoa quả mẹ đưa lên máy bay.
+光|guāng|quang|A|chỉ, riêng|大城市裡的生活費相當高，光房租就要花掉薪水的三分之一。|Chi phí sinh hoạt ở thành phố lớn khá cao, riêng tiền nhà đã ngốn một phần ba lương.
+檢查|jiǎnchá|kiểm tra|V/N|kiểm tra, khám|每個人每年都應該做一次健康檢查，如果有病才能早一點發現。|Mỗi người mỗi năm nên khám sức khoẻ một lần, có bệnh mới phát hiện sớm được.
+繳稅|jiǎoshuì|giao thuế|VO|nộp thuế|在臺灣工作的人，最少要繳百分之六的稅。|Người làm việc ở Đài Loan ít nhất phải nộp 6% thuế.
+繳|jiǎo|giao|V|nộp, đóng (thuế, phí)|以前水電費要去銀行繳，現在用網路繳就可以了。|Trước tiền điện nước phải ra ngân hàng nộp, giờ nộp qua mạng là được.
+稅|shuì|thuế|N|thuế||
+所得稅|suǒdé shuì|sở đắc thuế|N|thuế thu nhập||
+關稅|guān shuì|quan thuế|N|thuế quan||
+上稅|shàngshuì|thượng thuế|VO|nộp thuế, đóng thuế|老林帶了幾個照相機去大陸送朋友，按規定要上稅。|Lão Lâm mang mấy cái máy ảnh sang đại lục tặng bạn, theo quy định phải đóng thuế.
+免稅店|miǎnshuì diàn|miễn thuế điếm|N|cửa hàng miễn thuế|關稅高的東西，在免稅店買，便宜很多。|Đồ thuế cao mua ở cửa hàng miễn thuế rẻ hơn nhiều.
+禮多人不怪|lǐ duō rén bú guài|lễ đa nhân bất quái|IE|lễ nhiều người không trách|老林不過請你吃火鍋，你幹嘛帶這麼多禮物去？——禮多人不怪嘛！|Lão Lâm chỉ mời bạn ăn lẩu, sao bạn mang nhiều quà thế? — Lễ nhiều người không trách mà!
+而已|éryǐ|nhi dĩ|P|mà thôi, chỉ thế thôi|我們當警察的，春節假期很短，只有三天而已！|Chúng tôi làm cảnh sát, nghỉ Tết rất ngắn, chỉ có ba ngày thôi!
+標準|biāozhǔn|tiêu chuẩn|N/SV|tiêu chuẩn; chuẩn|王小姐的英文發音很標準，一點臺灣口音都沒有。|Phát âm tiếng Anh của cô Vương rất chuẩn, không chút giọng Đài Loan nào.
+肩膀|jiānbǎng|kiên bàng|N|vai|很多女孩認為結婚的好處是有一個肩膀可以靠了。|Nhiều cô gái cho rằng lợi ích của kết hôn là có một bờ vai để dựa.
+專心|zhuānxīn|chuyên tâm|SV/A|chuyên tâm, chăm chú|老張看書，看得太專心了，我叫了幾次，他才聽見。|Lão Trương đọc sách chăm chú quá, tôi gọi mấy lần ông ấy mới nghe thấy.
+嚇一跳|xià yí tiào|hách nhất khiêu|V-NU-M|giật mình|那個女人忽然大叫一聲，把我們都嚇了一跳。|Người phụ nữ đó bỗng hét lên một tiếng, làm chúng tôi giật cả mình.
+嚇|xià|hách|V|doạ, làm sợ|孩子被那隻大狗嚇得哭起來了。|Đứa bé bị con chó to doạ đến bật khóc.
+撿|jiǎn|kiểm|V|nhặt|我今天在路上撿到五十塊錢，不知道是誰掉的？|Hôm nay tôi nhặt được 50 đồng trên đường, không biết ai đánh rơi?
+大伯|dàbó|đại bá|N|bác cả (anh cả của bố)||
+伯父|bófù|bá phụ|N|bác (anh của bố); bác (gọi người lớn tuổi)||
+伯母|bómǔ|bá mẫu|N|bác gái|我爺爺奶奶還住在老家，由大伯父跟大伯母照顧。|Ông bà tôi vẫn sống ở quê, do bác cả và bác gái chăm sóc.
+合照|hézhào|hợp chiếu|V/N|chụp ảnh chung; ảnh chụp chung|照相機給你，幫我們幾個人合照一張，怎麼樣？|Đưa bạn máy ảnh, chụp giúp mấy người chúng tôi một tấm chung nhé?
+自從|zìcóng|tự tòng|A|từ khi|自從失戀以後，小林再也不敢談戀愛了。|Từ khi thất tình, Tiểu Lâm không dám yêu nữa.
+台商|Táishāng|Đài thương|N|thương nhân Đài Loan|台商在大陸做生意，跟日商、美商競爭的時候，在語言方面沒有什麼問題。|Thương nhân Đài Loan làm ăn ở đại lục, khi cạnh tranh với thương nhân Nhật, Mỹ thì không có vấn đề gì về ngôn ngữ.
+通航|tōngháng|thông hàng|V|thông tuyến hàng không/hàng hải|台灣跟歐洲一些城市通航以後，飛機就可以直飛，不必轉機了。|Đài Loan mở đường bay với một số thành phố châu Âu rồi thì có thể bay thẳng, không cần quá cảnh.
+打斷|dǎduàn|đả đoạn|V/RC|ngắt lời; đánh gãy|隨便打斷別人的談話是不禮貌的。|Tự tiện ngắt lời người khác là bất lịch sự.
+斷|duàn|đoạn|V/RE|gãy, đứt|這次颱風好大，颳倒了我家院子裡的一棵大樹，把電線都拉斷了。|Cơn bão lần này rất to, quật đổ cây lớn trong sân nhà tôi, làm đứt cả dây điện.
+班機|bānjī|ban cơ|N|chuyến bay||
+班|bān|ban|M|chuyến (máy bay, xe, tàu)|從市中心到我們學校的地下鐵每三分鐘就有一班。|Tàu điện ngầm từ trung tâm đến trường tôi cứ ba phút có một chuyến.
+登機|dēngjī|đăng cơ|V|lên máy bay|AA03號班機就要起飛了，請各位趕快登機吧！|Chuyến bay AA03 sắp cất cánh, mời quý khách nhanh chóng lên máy bay!
+誤點|wùdiǎn|ngộ điểm|V|trễ giờ, trễ chuyến|因為雪太大，所以火車來晚了，誤點了一個小時。|Vì tuyết quá dày nên tàu đến muộn, trễ một tiếng.
+航空公司|hángkōng gōngsī|hàng không công ty|N|hãng hàng không|你搭的班機是哪一家航空公司的？告訴我，我好去接你。|Chuyến bay bạn đi là của hãng nào? Cho tôi biết để tôi đi đón.
+冷淡|lěngdàn|lãnh đạm|SV|lạnh nhạt|王太太不喜歡女兒的男朋友，所以不願意跟他說話，對他的態度總是很冷淡。|Bà Vương không thích bạn trai con gái nên không muốn nói chuyện, thái độ luôn lạnh nhạt.
+淡|dàn|đạm|SV|nhạt|不管他們家的菜、還是茶、咖啡，味道都太淡，不合我的口味。|Món ăn, trà hay cà phê nhà họ đều nhạt quá, không hợp khẩu vị tôi.
+取消|qǔxiāo|thủ tiêu|V|huỷ bỏ|本來下午要開會，因為老闆有事，所以取消了。|Chiều nay vốn có họp, vì sếp có việc nên huỷ rồi.
+旅客|lǚkè|lữ khách|N|hành khách|能不能麻煩你查一下旅客名單？看我爸爸是不是坐這班飛機。|Phiền bạn tra giúp danh sách hành khách, xem bố tôi có đi chuyến bay này không.
+顧客|gùkè|cố khách|N|khách hàng (mua hàng)|因為很多人要買禮物，所以聖誕節前一個禮拜，是我們店裡顧客最多的時候。|Vì nhiều người mua quà nên tuần trước Giáng sinh là lúc cửa hàng đông khách nhất.
+說明|shuōmíng|thuyết minh|V/N|giải thích, thuyết minh|這是我們公司的新產品，我來跟你說明一下這部機器的用法。|Đây là sản phẩm mới của công ty, để tôi giải thích cho bạn cách dùng máy này.
+說明書|shuōmíngshū|thuyết minh thư|N|sách hướng dẫn sử dụng|如果你不懂這部機器的用法，就請你看說明書。|Nếu không biết cách dùng máy này thì đọc sách hướng dẫn.
+降落|jiàngluò|giáng lạc|V|hạ cánh|各位旅客：飛機快要降落了，請回到你的位子坐好，並且繫好安全帶。|Thưa quý khách, máy bay sắp hạ cánh, xin về chỗ ngồi và thắt dây an toàn.
+增加|zēngjiā|tăng gia|V|tăng thêm|全球人口增加的速度好快，二〇〇六年已經有六十五億了。|Dân số toàn cầu tăng rất nhanh, năm 2006 đã có 6,5 tỷ người.
+海峽|hǎixiá|hải hiệp|N|eo biển|法國跟英國中間的海峽有多少公里？|Eo biển giữa Pháp và Anh dài bao nhiêu km?
+岸|àn|ngạn|N|bờ|從美國東岸飛到西岸需要幾個小時？|Bay từ bờ Đông sang bờ Tây nước Mỹ mất mấy tiếng?
+兩岸|liǎng'àn|lưỡng ngạn|N|hai bờ (eo biển Đài Loan)||
+交流|jiāoliú|giao lưu|N/V|giao lưu, trao đổi|台灣的舞蹈團到美國來表演，也算是一種文化交流。|Đoàn múa Đài Loan sang Mỹ biểu diễn cũng coi như một kiểu giao lưu văn hoá.
+溝通|gōutōng|câu thông|V/N|giao tiếp, trao đổi, thông hiểu|老陳不愛說話，跟同事的溝通不夠，所以常常發生誤會。|Lão Trần ít nói, trao đổi với đồng nghiệp không đủ nên hay xảy ra hiểu lầm.
+代溝|dàigōu|đại câu|N|khoảng cách thế hệ|我爺爺雖然年紀很大，可是他對現代的東西很有興趣，跟我們沒有代溝。|Ông tôi tuy cao tuổi nhưng rất hứng thú với đồ hiện đại, không có khoảng cách thế hệ với chúng tôi.
+非法|fēifǎ|phi pháp|AT|phi pháp, bất hợp pháp|小王畢業以後，不想回國，留下來打工，可是沒有工作證，算是非法移民。|Tiểu Vương tốt nghiệp không muốn về nước, ở lại làm thêm nhưng không có giấy phép lao động, coi như nhập cư trái phép.
+合法|héfǎ|hợp pháp|AT|hợp pháp|王先生跟李小姐已經結婚了，是合法夫妻了。|Ông Vương và cô Lý đã kết hôn, là vợ chồng hợp pháp rồi.
+走私|zǒusī|tẩu tư|V/N|buôn lậu|小高箱子裡有幾包大麻，警察認為他走私毒品，就把他抓起來了。|Trong vali Tiểu Cao có mấy gói cần sa, cảnh sát cho rằng cậu ta buôn lậu ma tuý nên bắt luôn.
+造成|zàochéng|tạo thành|V|gây ra, tạo nên|老林在高速公路上違規超車，撞到前面的車，造成嚴重的車禍。|Lão Lâm vượt ẩu trên cao tốc đâm vào xe phía trước, gây ra tai nạn nghiêm trọng.
+來往|láiwǎng|lai vãng|V|qua lại, giao thiệp|我認識老張已經很多年了，可是我們很少來往，一年見不到一次面。|Tôi quen lão Trương nhiều năm rồi nhưng ít qua lại, một năm không gặp được một lần.
+統一|tǒngyī|thống nhất|N/V|thống nhất|東德和西德在一九九〇年十月宣布統一。|Đông Đức và Tây Đức tuyên bố thống nhất vào tháng 10 năm 1990.
+#GRAMMAR
+……V的V，V的V／SV的SV，SV的SV|"Người thì …, người thì …": một phần trong chủ đề thế này, một phần thế kia; động từ/tính từ đơn âm, mang tính miêu tả động (gần nghĩa 有的…有的…).|後來看到親人們老的老，死的死，忍不住難過。|Sau thấy người thân người thì già, người thì mất, không kìm được buồn.|下課以後，同學們走的走，睡的睡，教室裡沒幾個人了。|Tan học, bạn thì về, bạn thì ngủ, lớp chẳng còn mấy người.
+V個沒完|"V mãi không dứt": làm mãi không muốn hoặc không thể dừng; thường mang ý người nói thấy không hay.|跟親戚談起來，就談個沒完。|Nói chuyện với họ hàng thì nói mãi không hết.|雨下個沒完，我們哪兒都去不了。|Mưa mãi không dứt, chúng tôi chẳng đi đâu được.
+光……就……|"Chỉ riêng … đã …": 光 nghĩa là "chỉ", giới hạn phạm vi; 就 nhấn mạnh số lượng nhiều hơn dự đoán.|通過海關的時候，光檢查就花了不少時間。|Lúc qua hải quan, chỉ riêng kiểm tra đã mất không ít thời gian.|大城市裡生活費很高，光房租就要花掉薪水的三分之一。|Ở thành phố lớn chi phí cao, riêng tiền nhà đã ngốn một phần ba lương.
+倒是SV得很|"Lại … lắm": nhấn mạnh mức độ trái với hoặc cao hơn điều người kia nghĩ, vì người nói thấy họ hiểu sai.|大陸的物價跟這裡比起來倒是低得很。|Vật giá đại lục so với ở đây lại thấp lắm.|你以為他很兇？他人倒是好得很。|Bạn tưởng anh ấy dữ à? Anh ấy lại tốt lắm.
+才NU-M(N)而已|"Chỉ … mà thôi": 才 nhấn mạnh số lượng ít; 而已 ở cuối câu nghĩa "chỉ thế thôi", có ý "chẳng có gì to tát".|拿坐公車來說，才人民幣幾毛錢而已！|Lấy xe buýt làm ví dụ, chỉ mấy hào Nhân dân tệ thôi!|我們當警察的，春節假期只有三天而已！|Chúng tôi làm cảnh sát, nghỉ Tết chỉ có ba ngày thôi!
+……，更別說……了|"…, càng không cần nói đến … nữa": vế trước thường dùng 連…都… hoặc 即使…也…; vế sau là trường hợp hiển nhiên hơn.|臺灣去的人看到什麼都說便宜，更別說從歐美去的人了。|Người từ Đài Loan sang thấy gì cũng bảo rẻ, càng không cần nói người từ Âu Mỹ.|他連中文都說不好，更別說台語了。|Anh ta tiếng Trung còn nói chưa tốt, nói gì đến tiếng Đài.
+V一Mv（嚇一跳、看一眼…）|Lượng từ động tác (Mv) chỉ số lần của hành động, thường không thêm danh từ phía sau: 次、下、回、頓、場、趟、遍、口、腳、拳、眼、聲…|哎喲！原來是你們，嚇了我一跳。|Ối! Hoá ra là các bạn, làm tôi giật cả mình.|那個人對我那麼不客氣，我真想打他一拳。|Người đó vô lễ thế, tôi thật muốn đấm hắn một cú.
+自從……以來|"Từ khi … đến nay": từ một thời điểm trong quá khứ đến hiện tại, tình trạng nào đó vẫn luôn tồn tại.|自從大陸政策開放以來，去大陸投資的臺商越來越多了。|Từ khi đại lục mở cửa chính sách đến nay, thương nhân Đài Loan sang đầu tư ngày càng nhiều.|自從搬到這裡以來，我每天都走路上班。|Từ khi chuyển đến đây, ngày nào tôi cũng đi bộ đi làm.

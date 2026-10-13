@@ -1,0 +1,94 @@
+#VOCAB
+動手|dòngshǒu|động thủ|VO|bắt tay vào làm; ra tay (đánh người)|各位，要吃餃子的話，就自己動手包吧！|Mọi người ơi, muốn ăn sủi cảo thì tự tay gói nhé!
+道理|dàolǐ|đạo lý|N|lý lẽ, đạo lý, lẽ phải|「有借有還，再借不難」，這個道理，難道你不懂嗎？|"Có vay có trả, lần sau vay không khó", đạo lý này lẽ nào bạn không hiểu?
+講道理|jiǎng dàolǐ|giảng đạo lý|VO|nói lý lẽ; biết điều|你還哭！太不講道理了！是你先動手打人的。|Còn khóc à! Thật quá vô lý! Là con ra tay đánh người trước mà.
+有道理|yǒu dàolǐ|hữu đạo lý|SV|có lý, hợp lý|我幫你這麼大的忙，你還罵我，真沒道理。|Tôi giúp bạn nhiều như vậy mà bạn còn mắng tôi, thật vô lý.
+合理|hélǐ|hợp lý|SV|hợp lý|這個電視五十塊錢，價錢還算合理，可以買。|Cái TV này 50 đồng, giá cũng hợp lý, mua được.
+洗碗機|xǐwǎnjī|tẩy oản cơ|N|máy rửa bát||
+洗衣機|xǐyījī|tẩy y cơ|N|máy giặt||
+音樂會|yīnyuèhuì|âm nhạc hội|N|buổi hoà nhạc|今天晚上活動中心有一場音樂會，你要不要去聽？|Tối nay ở trung tâm hoạt động có một buổi hoà nhạc, bạn có muốn đi nghe không?
+音樂|yīnyuè|âm nhạc|N|âm nhạc||
+音樂家|yīnyuèjiā|âm nhạc gia|N|nhạc sĩ, nhà âm nhạc|貝多芬、莫札特都是有名的音樂家，你喜歡哪一位的音樂？|Beethoven, Mozart đều là những nhà âm nhạc nổi tiếng, bạn thích nhạc của ai?
+樂器|yuèqì|nhạc khí|N|nhạc cụ||
+有線電視|yǒuxiàn diànshì|hữu tuyến điện thị|N|truyền hình cáp|我們家以前裝了有線電視，每個月要付幾十塊，後來我們工作太忙，沒時間看，就不裝了。|Nhà tôi trước có lắp truyền hình cáp, mỗi tháng trả mấy chục đồng, sau công việc bận quá không có thời gian xem nên thôi không lắp nữa.
+電線|diànxiàn|điện tuyến|N|dây điện|你的電腦後面這麼多電線，哪一根才是螢幕的啊？|Sau máy tính của bạn nhiều dây điện thế, sợi nào mới là của màn hình?
+足球|zúqiú|túc cầu|N|bóng đá|昨天的足球比賽，24號踢得最好，一共踢進了三球。|Trận bóng đá hôm qua, số 24 đá hay nhất, ghi được tổng cộng ba bàn.
+美式足球|Měishì zúqiú|Mỹ thức túc cầu|N|bóng bầu dục Mỹ|我們打的是美式足球，打法跟歐洲人不一樣。|Chúng tôi chơi bóng bầu dục kiểu Mỹ, cách chơi khác người châu Âu.
+頻道|píndào|tần đạo|N|kênh (truyền hình)|我們家裝的有線電視有一百多個頻道。|Truyền hình cáp nhà tôi lắp có hơn một trăm kênh.
+氣象|qìxiàng|khí tượng|N|khí tượng, thời tiết|噓！別說話，我們聽聽氣象報告，看明天會不會下雪。|Suỵt! Đừng nói nữa, nghe dự báo thời tiết xem mai có tuyết không.
+影集|yǐngjí|ảnh tập|N|phim bộ truyền hình (series)|這個影集是有關一個年輕醫生的事情，每星期三播出。|Phim bộ này kể về một bác sĩ trẻ, phát sóng vào thứ Tư hằng tuần.
+集|jí|tập|M|tập (phim, sách)|這個影集每一集都提出一個值得討論的問題。|Mỗi tập của phim bộ này đều nêu ra một vấn đề đáng bàn luận.
+電影台|diànyǐng tái|điện ảnh đài|N|kênh phim điện ảnh|如果你想看電影，有十幾個電影台可以選。|Nếu bạn muốn xem phim thì có hơn mười kênh phim để chọn.
+新聞台|xīnwén tái|tân văn đài|N|kênh tin tức||
+體育台|tǐyù tái|thể dục đài|N|kênh thể thao||
+台|tái|đài|M|kênh; lượng từ cho máy móc, thiết bị|我最常看的是六十五台。|Kênh tôi xem nhiều nhất là kênh 65.
+想像|xiǎngxiàng|tưởng tượng|V|tưởng tượng|我真不敢想像，如果沒有了太陽，這個世界會變成什麼樣子？！|Tôi thật không dám tưởng tượng, nếu không có mặt trời thì thế giới này sẽ thành ra sao?!
+想像力|xiǎngxiànglì|tưởng tượng lực|N|trí tưởng tượng|這個孩子很有想像力，常把雲想成各種各樣的東西。|Đứa bé này rất giàu trí tưởng tượng, thường tưởng tượng mây thành đủ thứ.
+發音|fāyīn|phát âm|N/VO|phát âm|老丁的發音不好，常常把「找」說成「腳」。|Lão Đinh phát âm không chuẩn, hay nói "找" thành "腳".
+談情說愛|tán qíng shuō ài|đàm tình thuyết ái|IE|tán tỉnh, nói chuyện yêu đương|我爺爺奶奶不喜歡看到年輕人在公園裡談情說愛。|Ông bà tôi không thích thấy người trẻ yêu đương trong công viên.
+連續劇|liánxùjù|liên tục kịch|N|phim truyền hình dài tập|雖然連續劇的故事都差不多，很無聊，可是很多人還是每天看。|Tuy chuyện phim dài tập na ná nhau, rất chán, nhưng nhiều người vẫn xem mỗi ngày.
+配音|pèiyīn|phối âm|VO|lồng tiếng|這個明星在電影裡唱的歌都是別人替他配音的。|Các bài hát ngôi sao này hát trong phim đều do người khác lồng tiếng.
+表達|biǎodá|biểu đạt|V|bày tỏ, diễn đạt|我的中文還不夠好，沒辦法把我心裡的意思都表達出來。|Tiếng Trung của tôi chưa đủ tốt, không diễn đạt hết được ý trong lòng.
+方式|fāngshì|phương thức|N|cách thức, phương thức|我喜歡用舞蹈的方式來表達心裡的感覺。|Tôi thích dùng điệu múa để bày tỏ cảm xúc trong lòng.
+中式|Zhōngshì|Trung thức|AT|kiểu Trung Quốc||
+美式|Měishì|Mỹ thức|AT|kiểu Mỹ|美式速食熱狗、漢堡都吃膩了，換換口味，吃中式的排骨飯吧！|Đồ ăn nhanh kiểu Mỹ như hotdog, hamburger ăn ngán rồi, đổi khẩu vị ăn cơm sườn kiểu Trung đi!
+肉麻|ròumá|nhục ma|SV|sến, nổi da gà, ghê|華人覺得對著一個人說：「我愛你」，非常肉麻。|Người Hoa thấy nói thẳng với ai đó "Anh yêu em" là rất sến.
+跟|gēn|cân|V|đi theo, theo sau|王美美不管去哪兒，她的狗都跟在她後面。|Vương Mỹ Mỹ đi đâu con chó cũng theo sau cô ấy.
+劇情|jùqíng|kịch tình|N|tình tiết, cốt truyện (phim, kịch)|警察追小偷的劇情太平常了，沒什麼意思。|Tình tiết cảnh sát đuổi trộm quá bình thường, chẳng có gì hay.
+談話性節目|tánhuàxìng jiémù|đàm thoại tính tiết mục|N|chương trình talkshow|臺灣的談話性節目，除了談政治以外，像買賣房子、男女關係……都有人談。|Các talkshow ở Đài Loan ngoài chính trị ra, những chuyện như mua bán nhà, quan hệ nam nữ… đều có người bàn.
+新聞性|xīnwénxìng|tân văn tính|N|tính thời sự, giá trị tin tức|這個消息新聞性不夠，所以電視沒有播出。|Tin này không đủ giá trị thời sự nên truyền hình không phát.
+紀念性|jìniànxìng|kỷ niệm tính|N|tính kỷ niệm|這塊玉是爺爺奶奶送給我的，雖然不值什麼錢，可是有紀念性。|Miếng ngọc này ông bà tặng tôi, tuy không đáng bao nhiêu tiền nhưng có giá trị kỷ niệm.
+重要性|zhòngyàoxìng|trọng yếu tính|N|tầm quan trọng|從這件事，你就知道趙主任在公司的重要性了。|Qua chuyện này bạn sẽ biết tầm quan trọng của chủ nhiệm Triệu ở công ty.
+知識性|zhīshìxìng|tri thức tính|N|tính tri thức, giá trị kiến thức|如果你要看知識性的雜誌，我會推薦國家地理雜誌。|Nếu bạn muốn đọc tạp chí mang tính tri thức, tôi sẽ giới thiệu National Geographic.
+時間性|shíjiānxìng|thời gian tính|N|tính thời hạn, tính thời điểm|不管什麼藥，都有時間性。過期以後，就不能吃了。|Thuốc nào cũng có thời hạn, hết hạn rồi thì không uống được nữa.
+觀眾|guānzhòng|quan chúng|N|khán giả|看動物表演的觀眾，大部分是小孩子。|Khán giả xem động vật biểu diễn phần lớn là trẻ con.
+聽眾|tīngzhòng|thính chúng|N|thính giả|小高主持的廣播節目很受歡迎，常常收到聽眾寄來的信。|Chương trình phát thanh Tiểu Cao dẫn rất được yêu thích, thường nhận được thư thính giả gửi đến.
+大眾|dàzhòng|đại chúng|N|đại chúng, quần chúng|我們要讓社會大眾了解政府這幾年到底做了些什麼。|Chúng ta phải để công chúng hiểu mấy năm nay chính phủ rốt cuộc đã làm được những gì.
+報名|bàomíng|báo danh|VO|đăng ký (tham gia)|要參加戶外教學活動的同學，趕快去辦公室報名。|Bạn nào muốn tham gia hoạt động dã ngoại thì mau lên văn phòng đăng ký.
+回答|huídá|hồi đáp|V|trả lời||
+答案|dá'àn|đáp án|N|đáp án, câu trả lời|這個問題，你如果不會回答，可以看書後面的答案。|Câu hỏi này nếu bạn không trả lời được thì xem đáp án ở cuối sách.
+捏一把冷汗|niē yì bǎ lěnghàn|niết nhất bả lãnh hãn|IE|toát mồ hôi lạnh, lo thót tim (thay cho ai)|老李喝了這麼多酒，還要自己開車回家，我們都替他捏一把冷汗。|Lão Lý uống nhiều rượu thế còn tự lái xe về, chúng tôi đều lo thót tim thay ông ấy.
+捏|niē|niết|V|nắm, véo, bóp (bằng ngón tay)|他捏著鼻子說：「好難聞的味道啊！」|Anh ta bịt mũi nói: "Mùi gì khó ngửi quá!"
+冷汗|lěnghàn|lãnh hãn|N|mồ hôi lạnh|我媽發現小偷進來了，不敢大聲叫，緊張得出了一身冷汗。|Mẹ tôi phát hiện trộm vào nhà, không dám kêu to, căng thẳng toát cả mồ hôi lạnh.
+刺激|cìjī|thích kích|N/V/SV|kích thích; cú sốc; gay cấn|坐雲霄飛車又刺激又好玩。|Đi tàu lượn siêu tốc vừa kịch tính vừa vui.
+主持人|zhǔchírén|chủ trì nhân|N|người dẫn chương trình, người chủ trì|我們新年晚會的主持人還說了些笑話，讓氣氛很輕鬆。|Người dẫn chương trình tiệc tất niên của chúng tôi còn kể vài câu chuyện cười, làm không khí rất thoải mái.
+主持|zhǔchí|chủ trì|V|chủ trì, dẫn (chương trình)|大家都覺得他主持得很好。|Mọi người đều thấy anh ấy dẫn rất hay.
+主播|zhǔbò|chủ bá|N/V|biên tập viên, người dẫn bản tin|五十六台的新聞主播李小姐，頭腦好、發音清楚。|Cô Lý, biên tập viên bản tin kênh 56, đầu óc nhanh nhạy, phát âm rõ ràng.
+主人|zhǔrén|chủ nhân|N|chủ nhà (người mời)|你請客，你是主人，怎麼現在才來呢？|Bạn mời khách, bạn là chủ mà sao giờ mới đến?
+紅|hóng|hồng|SV|nổi tiếng, được ưa chuộng|王美美在這部連續劇裡演醫生，播出以後，她就紅了。|Vương Mỹ Mỹ đóng vai bác sĩ trong bộ phim này, phim phát sóng xong cô ấy nổi tiếng luôn.
+綜藝節目|zòngyì jiémù|tống nghệ tiết mục|N|chương trình tạp kỹ (variety show)||
+風趣|fēngqù|phong thú|SV|hài hước, dí dỏm|王先生說話很風趣，跟他在一起，大家都笑個不停。|Ông Vương nói chuyện rất dí dỏm, ở cùng ông ấy ai cũng cười không ngớt.
+現場|xiànchǎng|hiện trường|N|hiện trường, tại chỗ|那家銀行被搶了，警察接到電話以後，很快就趕到了現場。|Ngân hàng đó bị cướp, cảnh sát nhận điện thoại xong rất nhanh đã có mặt tại hiện trường.
+豐富|fēngfù|phong phú|SV|phong phú, dồi dào|今天的晚飯有魚、有肉，還有青菜，真是豐富。|Bữa tối nay có cá, có thịt, còn có rau, thật phong phú.
+記者|jìzhě|ký giả|N|phóng viên, nhà báo|丁小姐是我們報社的文字記者，只負責寫文章，不管照相的事。|Cô Đinh là phóng viên viết của toà báo chúng tôi, chỉ phụ trách viết bài, không lo chuyện chụp ảnh.
+舞者|wǔzhě|vũ giả|N|vũ công||
+作者|zuòzhě|tác giả|N|tác giả||
+讀者|dúzhě|độc giả|N|độc giả|這篇文章很受讀者歡迎，作者是誰？是有名的作家嗎？|Bài viết này được độc giả rất yêu thích, tác giả là ai? Có phải nhà văn nổi tiếng không?
+挑戰性|tiǎozhànxìng|khiêu chiến tính|N|tính thử thách|這樣的工作我做過，所以對我沒什麼挑戰性。|Công việc như vậy tôi làm rồi nên không có gì thử thách với tôi.
+挑戰|tiǎozhàn|khiêu chiến|V/N|thách thức; thử thách|這些球員很難管，當他們的教練是一種挑戰。|Mấy cầu thủ này rất khó quản, làm huấn luyện viên của họ là một thử thách.
+反應|fǎnyìng|phản ứng|N/V|phản ứng|我們剛認識，你就約我吃飯、看電影，害我不知道怎麼反應才好。|Chúng ta mới quen mà bạn đã hẹn tôi đi ăn, xem phim, làm tôi không biết phản ứng thế nào.
+否則|fǒuzé|phủ tắc|A|nếu không thì, bằng không|學語言最好常練習，否則很快就忘了。|Học ngoại ngữ tốt nhất nên luyện tập thường xuyên, nếu không sẽ quên rất nhanh.
+SNG轉播車|SNG zhuǎnbòchē|SNG chuyển bá xa|N|xe truyền hình vệ tinh SNG|電視台用SNG轉播車播新聞的時候，觀眾就好像在現場一樣。|Khi đài truyền hình dùng xe SNG phát tin, khán giả như đang ở hiện trường.
+連線|liánxiàn|liên tuyến|VO|kết nối (mạng, trực tuyến)|雖然你的卡不是這家銀行的，你還是可以在這裡提錢，因為銀行都已經連線了。|Tuy thẻ của bạn không phải của ngân hàng này, bạn vẫn rút tiền ở đây được vì các ngân hàng đã kết nối với nhau.
+權威性|quánwēixìng|quyền uy tính|N|tính uy tín, tính chuyên môn|老丁是這方面的權威，所以他的報告都相當有權威性。|Lão Đinh là chuyên gia hàng đầu lĩnh vực này nên báo cáo của ông ấy rất có uy tín.
+權威|quánwēi|quyền uy|N|chuyên gia hàng đầu, người có uy tín|老丁研究海洋動物已經很多年了，是這方面的權威。|Lão Đinh nghiên cứu động vật biển đã nhiều năm, là chuyên gia hàng đầu lĩnh vực này.
+權利|quánlì|quyền lợi|N|quyền lợi, quyền|在大部分的國家，受小學教育不但是人民的權利，也是義務。|Ở phần lớn các nước, học tiểu học không chỉ là quyền mà còn là nghĩa vụ của người dân.
+權力|quánlì|quyền lực|N|quyền lực|在我們國家最有權力的人是總統，他什麼事都可以管。|Ở nước chúng tôi người có quyền lực nhất là tổng thống, việc gì ông ấy cũng quản được.
+實在|shízài|thực tại|SV/A|thật thà; thật sự, quả thực|想把中文學好，實在不容易。|Muốn học giỏi tiếng Trung quả thật không dễ.
+實在說|shízài shuō|thực tại thuyết|IE|nói thật thì|實在說，我也懂得不多。|Nói thật thì tôi cũng không biết nhiều.
+卡通影片|kǎtōng yǐngpiàn|ca thông ảnh phiến|N|phim hoạt hình|這部卡通影片本來是一本很受歡迎的漫畫書。|Bộ phim hoạt hình này vốn là một cuốn truyện tranh rất được yêu thích.
+影片|yǐngpiàn|ảnh phiến|N|phim, đoạn phim|錢老師在上課的時候，放了一部影片，讓學生了解什麼是京劇。|Thầy Tiền chiếu một bộ phim trong giờ học để học sinh hiểu Kinh kịch là gì.
+兒童|értóng|nhi đồng|N|trẻ em, thiếu nhi|小孩子坐飛機可以買兒童票。|Trẻ con đi máy bay có thể mua vé trẻ em.
+公共電視|gōnggòng diànshì|công cộng điện thị|N|truyền hình công cộng|公共電視台的節目，都不是商業性的。|Chương trình của đài truyền hình công cộng đều không mang tính thương mại.
+免得|miǎnde|miễn đắc|CONJ|để khỏi, kẻo|你去以前，先跟他連絡一下，免得他不在家，見不到。|Trước khi đi bạn liên lạc với anh ấy trước, kẻo anh ấy không có nhà, không gặp được.
+免費|miǎnfèi|miễn phí|A/AT|miễn phí|在這個加油站加油，他們給你免費洗車。|Đổ xăng ở trạm này, họ rửa xe miễn phí cho bạn.
+國語|guóyǔ|quốc ngữ|N|tiếng Quốc ngữ (tiếng phổ thông ở Đài Loan)||
+#GRAMMAR
+哪裡有……的道理？！|Câu hỏi tu từ: "làm gì có lý nào lại…?!" — "哪裡" ở đây nghĩa là "怎麼會", dùng phản vấn để khẳng định điều vừa nói là vô lý, không nên có.|哪裡有讓客人動手的道理？！|Làm gì có lý nào lại để khách tự tay làm?!|今天我請客，哪裡有你付錢的道理？！|Hôm nay tôi mời, làm gì có chuyện bạn trả tiền?!
+就（設定範圍，反駁）|"就" dùng để phản bác ý người kia: nêu ra một trường hợp ngoại lệ — "chính … thì (không/có) …".|有些談情說愛的連續劇就不適合配音。|Có những phim bộ tình cảm thì lại không hợp để lồng tiếng.|誰說的？！我跟我弟弟就坐公車上學。|Ai bảo thế?! Tôi với em trai tôi thì đi xe buýt đi học đấy.
+替NP捏一把冷汗|Lo thót tim, toát mồ hôi lạnh thay cho ai (vì người đó đang ở tình thế nguy hiểm, căng thẳng).|每次到了要宣布答案的時候，都替參加比賽的人捏一把冷汗。|Mỗi lần đến lúc công bố đáp án đều lo toát mồ hôi thay người dự thi.|他剛學會開車，就帶著女朋友開車上高速公路，真讓人替他們捏一把冷汗。|Anh ta vừa biết lái xe đã chở bạn gái lên đường cao tốc, thật khiến người ta lo thót tim.
+因為……而……|"Vì … mà …": "而" là liên từ nối nguyên nhân với kết quả, nghĩa như "所以/就". Hay dùng trong văn viết hoặc lời nói trang trọng.|有的主持人還因為主持這類節目而紅了起來。|Có người dẫn chương trình còn nổi tiếng nhờ dẫn loại chương trình này.|花跟樹都會因為很久不下雨而乾死。|Hoa và cây đều sẽ chết khô vì lâu ngày không mưa.
+……，否則的話，……|"Nếu không thì…": đặt ở đầu vế sau, nghĩa "nếu không như vậy thì"; sau "否則的話" ngắt giọng, có thể bỏ "的話".|記者反應一定要快，否則的話，很難跟別人競爭。|Phóng viên phản ứng phải nhanh, nếu không thì rất khó cạnh tranh với người khác.|音樂會開始以前我們就得進去，否則的話，門一關上就進不去了。|Phải vào trước khi buổi hoà nhạc bắt đầu, nếu không cửa đóng lại là không vào được.
+倒不如|"Thà … còn hơn", "chẳng bằng…": "倒" làm giọng nhẹ nhàng, uyển chuyển hơn "不如".|她們說話實在太快，我常聽不懂，倒不如看卡通影片，比較輕鬆愉快。|Họ nói quá nhanh, tôi thường không hiểu, thà xem phim hoạt hình còn thoải mái vui vẻ hơn.|連續劇都是些談情說愛的故事，沒什麼變化，倒不如看綜藝節目。|Phim bộ toàn chuyện yêu đương, chẳng có gì mới, thà xem chương trình tạp kỹ còn hơn.
+……，免得……|"…để khỏi / kẻo…": sau "免得" là điều phiền phức hoặc không tốt mà người nói muốn tránh; đứng đầu vế sau.|我們還是回去看吧，免得看到很晚，對你們不方便。|Chúng tôi về xem thì hơn, kẻo xem đến khuya, bất tiện cho các bạn.|你最好早點回家，免得太太嘮叨。|Bạn nên về nhà sớm, kẻo vợ cằn nhằn.
+說V(O)就V(O)|"Nói … là … ngay": nhấn mạnh việc xảy ra rất nhanh, vừa nói/nghĩ tới là làm (hoặc xảy ra) ngay.|你們怎麼說走就走？|Sao các bạn nói đi là đi luôn vậy?|颱風說來就來，快得大家來不及準備。|Bão nói đến là đến, nhanh đến mức mọi người không kịp chuẩn bị.

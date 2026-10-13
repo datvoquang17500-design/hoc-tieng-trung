@@ -1,0 +1,42 @@
+#UNIT P4-05|PAVC4 · L5 我愛看表演
+#CONVO PAVC4 · L5 我愛看表演
+|（高偉立跟謝美真在講電話）|(Cao Vỹ Lập và Tạ Mỹ Chân đang nói chuyện điện thoại)
+偉立|這星期五藝術中心有一個古典芭蕾舞表演，是紐約來的舞團。你們想不想去看？|Thứ sáu này ở trung tâm nghệ thuật có một buổi biểu diễn ba lê cổ điển, của đoàn múa đến từ New York. Các bạn có muốn đi xem không?
+美真|星期五不行，我另外有約了。不知道台麗要不要去。她在洗澡，你等一下，別掛喔！台麗！高偉立問你，星期五要不要去藝術中心看芭蕾舞？|Thứ sáu không được, tôi có hẹn khác rồi. Không biết Đài Lệ có muốn đi không. Cô ấy đang tắm, bạn chờ chút, đừng cúp máy nhé! Đài Lệ! Cao Vỹ Lập hỏi bạn thứ sáu có muốn đi trung tâm nghệ thuật xem ba lê không?
+台麗|可以啊。我來跟他說。高偉立啊！你想去看芭蕾舞？這個舞團怎麼樣啊？|Được chứ. Để tôi nói với cậu ấy. Vỹ Lập à! Bạn muốn đi xem ba lê à? Đoàn múa này thế nào?
+偉立|他們剛從歐洲表演回來，根據報上的評論，他們的水準相當高。錯過這次機會，就得自己去紐約看了。|Họ vừa biểu diễn ở châu Âu về, theo bình luận trên báo thì trình độ của họ khá cao. Bỏ lỡ lần này thì phải tự đi New York mà xem.
+台麗|好吧！星期五幾點鐘？一張票多少錢？|Được thôi! Thứ sáu mấy giờ? Một vé bao nhiêu tiền?
+偉立|八點。學生票大概是十二塊錢，我還沒上網查。|Tám giờ. Vé sinh viên khoảng 12 đồng, tôi chưa lên mạng kiểm tra.
+台麗|好，那你先買票。上次我跟美真想看舞台劇，因為上網訂票的人太多，半天都進不了那個網站，等我們上線的時候，票正好賣完，你說多氣人哪！|Được, vậy bạn mua vé trước đi. Lần trước tôi với Mỹ Chân muốn xem kịch sân khấu, vì người đặt vé trên mạng đông quá, mãi không vào được trang web, đến lúc vào được thì vé vừa hết, bạn nói xem có tức không!
+偉立|那麼我這就上網訂票，免得又買不到就看不成了。不過這不是熱門音樂演唱會，票應該不難買。我們幾點，在哪裡見？要不要我去接妳？|Vậy tôi lên mạng đặt vé ngay, kẻo lại không mua được rồi không xem được. Nhưng đây không phải buổi hoà nhạc đình đám, vé chắc không khó mua. Mình gặp mấy giờ, ở đâu? Có cần tôi đến đón bạn không?
+台麗|不必了，我自己坐車去吧！我下了課，得回來換件正式的衣服，穿牛仔褲去，別人會笑話我不懂規矩。|Không cần đâu, tôi tự đi xe. Tan học tôi phải về thay bộ đồ trang trọng, mặc quần bò đi thì người ta sẽ cười tôi không biết phép tắc.
+偉立|好，八點開演，我們七點半在藝術中心門口見。|Được, tám giờ mở màn, bảy rưỡi mình gặp ở cổng trung tâm nghệ thuật.
+台麗|好啊，要是沒買到票，打電話告訴我，別讓我白跑一趟。|Được, nếu không mua được vé thì gọi điện báo tôi, đừng để tôi đi một chuyến công cốc.
+偉立|好，就這麼辦。跟美真說，她不去看，一定會後悔的。|Được, cứ thế nhé. Nói với Mỹ Chân là cô ấy không đi xem thì chắc chắn sẽ hối hận.
+台麗|就是嘛！我這就跟她說，再見。|Đúng thế! Tôi nói với cô ấy ngay đây, tạm biệt.
+|（謝美真、陳台麗家門口）|(Trước cửa nhà Tạ Mỹ Chân và Trần Đài Lệ)
+台麗|謝謝你送我回來。燈都亮著，美真一定回來了，要不要進來坐一下？|Cảm ơn bạn đưa tôi về. Đèn vẫn sáng, chắc Mỹ Chân về rồi, có muốn vào ngồi chút không?
+偉立|好啊，不會太晚吧？|Được, không muộn quá chứ?
+台麗|沒關係，反正明天沒有課。咦，陸康，好久不見了。還記不記得高偉立？|Không sao, dù sao mai cũng không có tiết. Ơ, Lục Khang, lâu quá không gặp. Còn nhớ Cao Vỹ Lập không?
+陸康|記得，記得。那天我們合作得很愉快！|Nhớ chứ, nhớ chứ. Hôm đó chúng tôi hợp tác rất vui vẻ!
+偉立|你好，我們又見面了。|Chào bạn, chúng ta lại gặp nhau rồi.
+美真|我們的事也剛討論完，他正打算走呢！大家坐啊！別站著說話。怎麼樣？今天的表演好不好？|Việc của bọn tôi cũng vừa bàn xong, cậu ấy đang định về đấy! Mọi người ngồi đi! Đừng đứng nói chuyện. Thế nào? Buổi biểu diễn hôm nay có hay không?
+偉立|好極了。沒想到這麼轟動，都坐滿了。|Hay tuyệt. Không ngờ lại gây tiếng vang như vậy, chật kín chỗ.
+台麗|今天的芭蕾舞比我從前看過的都精彩，不過我更喜歡現代舞。|Buổi ba lê hôm nay đặc sắc hơn tất cả những buổi tôi từng xem, nhưng tôi thích múa hiện đại hơn.
+美真|我在臺灣的時候，常去看雲門舞集的舞蹈發表會，他們總是從中華文化裡找題材，可是卻能用現代舞的方式來表現，所以場場都很轟動，你也看過吧？|Hồi ở Đài Loan tôi hay đi xem các buổi công diễn của Vân Môn Vũ Tập, họ luôn lấy đề tài từ văn hoá Trung Hoa nhưng lại thể hiện bằng múa hiện đại, nên buổi nào cũng gây tiếng vang, bạn cũng xem rồi chứ?
+台麗|嗯。我記得有一次是大陸人移民臺灣的故事，很多人都感動得掉眼淚，我的印象很深。|Ừ. Tôi nhớ có lần là câu chuyện người đại lục di cư sang Đài Loan, nhiều người cảm động đến rơi nước mắt, tôi ấn tượng rất sâu.
+陸康|是啊！雲門的舞，很多題材跟表現方式都參考了中國的傳統戲劇。|Đúng vậy! Các điệu múa của Vân Môn, nhiều đề tài và cách thể hiện đều tham khảo hí kịch truyền thống Trung Quốc.
+偉立|他們來美國表演過嗎？真希望有機會能看看，多了解一點兒中華文化。|Họ đã từng sang Mỹ biểu diễn chưa? Thật mong có dịp được xem, hiểu thêm một chút văn hoá Trung Hoa.
+台麗|美國跟歐洲有很多地方都曾經請他們去表演過。由於雲門的刺激和社會的發展，各種藝術工作者也開始嘗試改變原有的表演方式。|Nhiều nơi ở Mỹ và châu Âu đều từng mời họ đến biểu diễn. Do sự kích thích của Vân Môn và sự phát triển của xã hội, các nghệ sĩ cũng bắt đầu thử thay đổi cách biểu diễn vốn có.
+陸康|對！就拿京劇來說，有的人編新劇本，有的人採用西方的表演方式，所以願意接受京劇的年輕人越來越多了。|Đúng! Lấy Kinh kịch làm ví dụ, có người viết kịch bản mới, có người áp dụng cách biểu diễn phương Tây, nên người trẻ chịu đón nhận Kinh kịch ngày càng nhiều.
+美真|「當代傳奇劇場」的表演那麼成功，就是一個很好的例子。他們在英國表演的時候，不但觀眾的反應相當熱烈，各傳播媒體也給他們很高的評價。|Buổi biểu diễn thành công như vậy của "Nhà hát Truyền kỳ Đương đại" là một ví dụ rất hay. Khi họ biểu diễn ở Anh, không chỉ khán giả phản ứng rất nồng nhiệt mà các phương tiện truyền thông cũng đánh giá họ rất cao.
+台麗|他們在國家劇院表演時，非常轟動。大家都沒想到莎士比亞的劇本也可以用京劇的方式來表演。|Khi họ diễn ở Nhà hát Quốc gia đã gây tiếng vang lớn. Không ai ngờ kịch bản của Shakespeare cũng có thể diễn theo kiểu Kinh kịch.
+美真|不管怎麼說，我覺得現代舞像抽象畫，京劇像歌劇，都一樣難懂，我寧願聽流行歌曲，偶像歌手的簽唱會，我從來不會錯過。|Dù nói thế nào, tôi thấy múa hiện đại giống tranh trừu tượng, Kinh kịch giống opera, đều khó hiểu như nhau, tôi thà nghe nhạc pop, buổi ký tặng của ca sĩ thần tượng thì tôi chưa bao giờ bỏ lỡ.
+#Q
+偉立星期五想請台麗去看什麼表演？|紐約來的古典芭蕾舞|京劇|現代舞|流行音樂演唱會|0
+美真為什麼星期五不能去？|她另外有約了|她要洗澡|她不喜歡芭蕾舞|她買不到票|0
+台麗為什麼要回家換衣服？|穿牛仔褲去，別人會笑話她不懂規矩|她的衣服髒了|天氣太冷|她要去接偉立|0
+上次台麗跟美真為什麼沒看成舞台劇？|上網訂票的人太多，等她們上線的時候票賣完了|她們忘了時間|表演取消了|票太貴|0
+雲門舞集的表演有什麼特色？|從中華文化裡找題材，用現代舞的方式來表現|只跳古典芭蕾舞|只在臺灣表演|用京劇的方式唱歌|0
+美真自己最喜歡什麼？|流行歌曲跟偶像歌手的簽唱會|京劇|現代舞|抽象畫|0
+「當代傳奇劇場」用京劇的方式表演了誰的劇本？|莎士比亞|貝多芬|莫札特|福爾摩斯|0

@@ -1,0 +1,42 @@
+#UNIT P4-12|PAVC4 · L12 救救我們的地球吧
+#CONVO PAVC4 · L12 救救我們的地球吧
+|（宿舍門口）|(Cửa ký túc xá)
+李平|偉立，你去哪裡？|Vỹ Lập, cậu đi đâu đấy?
+偉立|我把這些舊報紙送到紙張回收處去，馬上就回來。|Tớ mang đống báo cũ này đến điểm thu gom giấy, về ngay.
+李平|慢慢來，不急，我沒什麼要緊的事。|Cứ từ từ, không vội, tớ không có việc gì gấp.
+偉立|好了，什麼事？|Xong rồi, chuyện gì thế?
+李平|我想去購物中心逛逛，那裡最近大減價，很多東西打八折。剛剛給你們打電話，一直講話中，我只好走過來看看你們要不要一起去。|Tớ muốn đi dạo trung tâm mua sắm, dạo này ở đó giảm giá lớn, nhiều thứ giảm 20%. Vừa gọi điện cho các cậu mà máy bận mãi, tớ đành đi bộ sang xem các cậu có muốn đi cùng không.
+偉立|可以啊！你的運氣還真好，我哥哥這禮拜不用車，我們今天可以開車去。走，上去問問建國吧。|Được chứ! Cậu đúng là may, tuần này anh tớ không dùng xe, hôm nay mình lái xe đi được. Đi, lên hỏi Kiến Quốc xem.
+李平|看你把舊報紙送走，讓我想起在臺灣的時候，不但垃圾要分類，廚餘要回收，連舊報紙都還可以賣給收破爛的。|Thấy cậu mang báo cũ đi làm tớ nhớ hồi ở Đài Loan, không chỉ rác phải phân loại, rác thức ăn phải thu gom, mà đến báo cũ còn bán được cho người thu mua đồng nát.
+偉立|舊報紙還可以賣錢啊？！|Báo cũ còn bán được tiền à?!
+李平|這有什麼好大驚小怪的？！舊報紙並不是垃圾，而是可以回收的資源。他們可以賣給工廠做比較差的再生紙啊！臺灣還有一些人靠收舊報紙、舊玻璃瓶生活呢！|Có gì mà phải ngạc nhiên?! Báo cũ không phải rác mà là tài nguyên tái chế được. Họ bán cho nhà máy làm giấy tái chế loại kém hơn! Ở Đài Loan còn có người sống nhờ thu mua báo cũ, chai thuỷ tinh cũ đấy!
+偉立|那能收回多少舊東西啊？對環保有幫助嗎？|Thế thu lại được bao nhiêu đồ cũ? Có giúp gì cho bảo vệ môi trường không?
+李平|從前人沒什麼環保觀念，工廠老闆收買舊東西，目的只是省錢，並沒有考慮到對環境的影響。這些年以來，因為污染的情形越來越嚴重，臺灣保護環境的運動多了起來，才引起了大家對環保的重視。|Ngày trước người ta chẳng có khái niệm bảo vệ môi trường, chủ nhà máy thu mua đồ cũ chỉ để tiết kiệm tiền, không hề nghĩ đến ảnh hưởng với môi trường. Mấy năm gần đây vì ô nhiễm ngày càng nghiêm trọng, các phong trào bảo vệ môi trường ở Đài Loan nhiều lên, mới khiến mọi người coi trọng việc bảo vệ môi trường.
+偉立|我們的環保運動已經有好多年了，像四月二十二號的「地球日」，就是提醒大家地球只有一個，我們必須愛惜資源、節約能源，免得人類將來沒辦法在地球上生活。|Phong trào bảo vệ môi trường của chúng tớ đã có nhiều năm rồi, như "Ngày Trái Đất" 22 tháng 4 là để nhắc mọi người Trái Đất chỉ có một, chúng ta phải quý trọng tài nguyên, tiết kiệm năng lượng, kẻo sau này loài người không sống được trên Trái Đất.
+李平|說到能源，世界各國都在想辦法找新能源，像核能、太陽能、風力發電什麼的。不過，這些能源，各有各的問題。不是廢料很難處理，就是設備很貴，要不然就得看天氣，都不理想。|Nói đến năng lượng, các nước đều đang tìm năng lượng mới, như năng lượng hạt nhân, năng lượng mặt trời, điện gió… Nhưng mỗi loại đều có vấn đề riêng. Không phải chất thải khó xử lý thì là thiết bị đắt tiền, không thì phải tuỳ thời tiết, đều không lý tưởng.
+偉立|說來說去，還是要靠我們自己認真做好環保。|Nói đi nói lại, vẫn phải dựa vào chính chúng ta nghiêm túc bảo vệ môi trường.
+李平|那麼，經過這麼多年的努力，你們環保的成績怎麼樣？|Vậy sau bao nhiêu năm nỗ lực, thành tích bảo vệ môi trường của các cậu thế nào?
+偉立|空氣跟水源比較乾淨了，破壞森林、綠地的情形也少了，另外還通過了些法律，管理、控制有毒的廢棄物。|Không khí và nguồn nước sạch hơn, tình trạng phá rừng, phá đất xanh cũng ít đi, ngoài ra còn thông qua một số luật để quản lý, kiểm soát chất thải độc hại.
+李平|如果臺灣以前不那麼重視經濟發展，大家都認真遵守環保法律，也許污染的情形就不至於那麼嚴重了。|Nếu trước kia Đài Loan không quá coi trọng phát triển kinh tế, mọi người đều nghiêm túc tuân thủ luật môi trường, có lẽ ô nhiễm đã không đến mức nghiêm trọng như vậy.
+偉立|只要隨時注意環保問題，現在開始，也不晚啊！|Chỉ cần lúc nào cũng chú ý vấn đề môi trường thì bắt đầu từ bây giờ cũng không muộn!
+|（謝美真、陳台麗家門口。高偉立在車裡，按一聲喇叭。）|(Trước cửa nhà Tạ Mỹ Chân và Trần Đài Lệ. Cao Vỹ Lập ngồi trong xe, bấm còi một tiếng.)
+台麗|來了！來了！別按了，小心別人來抗議你製造噪音！|Đến đây! Đến đây! Đừng bấm nữa, cẩn thận người ta đến phản đối bạn gây tiếng ồn!
+偉立|我又沒有一直按！別緊張，我才按了一聲而已。欸，美真呢？|Tôi đâu có bấm mãi! Đừng căng thẳng, tôi mới bấm một tiếng thôi. Ơ, Mỹ Chân đâu?
+台麗|她馬上就來，今天該她倒垃圾。哎呀！我想起來了，我們有一袋空瓶子、可樂罐子，該拿去退錢了。對不起，你再等一下。|Cô ấy ra ngay, hôm nay đến lượt cô ấy đổ rác. Ối! Tôi nhớ ra rồi, nhà tôi có một túi chai rỗng, lon cô-ca, phải mang đi trả lấy tiền. Xin lỗi, bạn chờ thêm chút.
+美真|今天真謝謝你開車帶我們去買菜，平常都是我們自己提回來，重得要命。欸？台麗幹嘛又跑回去？|Hôm nay thật cảm ơn bạn lái xe đưa bọn tôi đi chợ, bình thường đều tự xách về, nặng muốn chết. Ơ? Đài Lệ sao lại chạy vào nhà?
+偉立|去拿空瓶子。嗯，這個習慣不錯，既可以換錢，又不會污染環境。|Đi lấy chai rỗng. Ừ, thói quen này tốt, vừa đổi được tiền vừa không gây ô nhiễm môi trường.
+台麗|真抱歉！等得不耐煩了吧？等一下瓶子換了錢，請你吃冰淇淋。|Thật xin lỗi! Chờ sốt ruột rồi phải không? Lát nữa chai đổi được tiền, tôi mời bạn ăn kem.
+偉立|那太好了！有冰淇淋吃，給你們當司機還值得。|Thế thì tốt quá! Có kem ăn, làm tài xế cho các bạn cũng đáng.
+台麗|我小時候，這些罐子、寶特瓶都不能退錢，每天丟掉的不知道有多少。想想看這些垃圾對環境的污染有多大！|Hồi tôi còn nhỏ, mấy lon, chai nhựa này không trả lấy tiền được, ngày nào cũng vứt đi không biết bao nhiêu. Thử nghĩ xem chỗ rác này gây ô nhiễm môi trường lớn đến mức nào!
+美真|不止這些，還有塑膠袋、廢輪胎、紙尿布什麼的。這一類的廢棄物都很難處理，埋了會污染水源，燒了又會有毒氣。空氣裡的二氧化碳太多，又會讓溫室效應更嚴重。唉！環境這麼糟糕，難怪得癌症的人越來越多了。|Không chỉ những thứ này, còn túi nilon, lốp xe cũ, tã giấy… Loại chất thải này đều khó xử lý, chôn thì ô nhiễm nguồn nước, đốt thì sinh khí độc. Khí CO2 trong không khí quá nhiều lại làm hiệu ứng nhà kính nặng thêm. Haizz! Môi trường tệ như vậy, thảo nào người mắc ung thư ngày càng nhiều.
+台麗|是啊！我看情形已經嚴重得不能不重視了。全球暖化，連冰河都開始融化了。|Đúng vậy! Tôi thấy tình hình đã nghiêm trọng đến mức không thể không coi trọng nữa. Trái Đất nóng lên, đến băng hà cũng bắt đầu tan chảy.
+偉立|科學家既然發明了這些「用了就丟」的東西，就應該趕快想出解決的辦法。|Các nhà khoa học đã phát minh ra những thứ "dùng xong vứt" này thì nên nhanh chóng nghĩ ra cách giải quyết.
+台麗|就是嘛！哎喲！說著說著就到了，真快啊！還是有車方便。|Đúng thế! Ồ! Nói chuyện một lúc đã đến nơi, nhanh thật! Có xe vẫn tiện hơn.
+#Q
+偉立要把舊報紙送到哪裡？|紙張回收處|垃圾桶|圖書館|購物中心|0
+李平為什麼走過來找偉立？|打電話一直講話中，想問他們要不要一起去購物中心|他要借車|他要還報紙|他找建國有事|0
+在臺灣，舊報紙可以怎麼處理？|賣給收破爛的，做再生紙|只能丟掉|燒掉|送給圖書館|0
+李平認為新能源有什麼問題？|廢料難處理、設備貴，或者得看天氣|太便宜了|太乾淨了|沒有人用|0
+台麗為什麼又跑回去？|去拿空瓶子、可樂罐子去退錢|她忘了帶錢包|她要倒垃圾|她要換衣服|0
+美真說塑膠袋、廢輪胎這類廢棄物為什麼難處理？|埋了會污染水源，燒了會有毒氣|太重了|太貴了|沒有人要|0
+偉立認為科學家應該做什麼？|趕快想出解決「用了就丟」東西的辦法|發明更多用了就丟的東西|研究冰淇淋|去開車|0

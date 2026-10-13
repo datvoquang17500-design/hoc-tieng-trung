@@ -1,0 +1,47 @@
+#UNIT P4-11|PAVC4 · L11 探親
+#CONVO PAVC4 · L11 探親
+|（活動中心）|(Trung tâm hoạt động)
+錢太太|我們的語言交換要暫停兩個星期，因為我要陪我媽回大陸。|Buổi trao đổi ngôn ngữ của chúng ta phải tạm dừng hai tuần, vì tôi phải đưa mẹ về đại lục.
+偉立|哦，大陸什麼地方？那裡還有很多親戚嗎？|Ồ, chỗ nào ở đại lục? Ở đó còn nhiều họ hàng không?
+錢太太|我們要去山西。我幾個舅舅還住在那兒。|Chúng tôi đi Sơn Tây. Mấy người cậu của tôi vẫn sống ở đó.
+偉立|你們以前回去過嗎？|Trước đây cô đã về chưa?
+錢太太|一九八七年政府一開放大陸探親，我媽就回去了。我因為工作的關係，一直沒辦法去，這是我第一次跟我媽回老家。|Năm 1987 chính phủ vừa cho phép về đại lục thăm thân là mẹ tôi về ngay. Tôi vì công việc nên mãi không đi được, đây là lần đầu tôi cùng mẹ về quê.
+偉立|妳一定很興奮吧？|Chắc cô háo hức lắm?
+錢太太|我還好。記得我媽第一次回去的時候，本來很高興，後來看到親人們老的老，死的死，忍不住難過；再加上看到老家跟她離開的時候差不多，沒什麼改變，又很驚訝，心情實在很複雜。|Tôi thì bình thường. Nhớ lần đầu mẹ tôi về, ban đầu rất vui, sau thấy người thân người thì già, người thì mất, không kìm được buồn; lại thấy quê nhà gần như y như lúc bà đi, chẳng thay đổi gì, cũng rất ngạc nhiên, tâm trạng thật phức tạp.
+偉立|聽你這麼說，我可以想像你媽媽當時激動的心情。|Nghe cô nói vậy, cháu có thể tưởng tượng được tâm trạng xúc động của mẹ cô lúc đó.
+錢太太|是啊！我媽跟我外婆一見面，就抱在一起大哭，祭祖的時候又哭。跟親戚談起來，就談個沒完。|Đúng thế! Mẹ tôi vừa gặp bà ngoại là ôm nhau khóc to, lúc cúng tổ tiên lại khóc. Nói chuyện với họ hàng thì nói mãi không hết.
+偉立|離開了這麼多年，妳媽媽回大陸還住得慣嗎？|Đi xa bao nhiêu năm như vậy, mẹ cô về đại lục có ở quen không?
+錢太太|當然住不慣了。|Tất nhiên là không quen rồi.
+偉立|什麼地方不習慣？|Không quen chỗ nào ạ?
+錢太太|那時候，鄉下地方衛生設備比較差，不太方便。不過，聽說現在情況已經改善了很多。|Hồi đó vùng quê thiết bị vệ sinh khá kém, không tiện lắm. Nhưng nghe nói bây giờ tình hình đã cải thiện nhiều rồi.
+偉立|去大陸要花很多錢嗎？|Đi đại lục có tốn nhiều tiền không?
+錢太太|聽我媽說，旅費沒花多少錢，可是她每次都買很多禮物帶回去。以前都買手錶、金戒指、電視機、隨身聽什麼的，後來帶的就是衣服、皮包、計算機了。通過海關的時候，光檢查就花了不少時間，還繳了很多稅。|Mẹ tôi kể tiền đi lại không tốn bao nhiêu, nhưng lần nào bà cũng mua rất nhiều quà mang về. Trước toàn mua đồng hồ, nhẫn vàng, TV, máy nghe nhạc, sau mang quần áo, túi xách, máy tính bỏ túi. Lúc qua hải quan, chỉ riêng kiểm tra đã mất không ít thời gian, còn đóng nhiều thuế.
+偉立|為什麼要帶那麼多禮物啊？|Sao phải mang nhiều quà thế ạ?
+錢太太|禮多人不怪嘛！而且這麼多年沒有照顧家人，給點禮物，我媽才覺得心安。除了禮物，有時候我媽還給紅包呢！|Lễ nhiều người không trách mà! Hơn nữa bao năm không chăm lo cho người nhà, tặng chút quà mẹ tôi mới thấy yên lòng. Ngoài quà, có lúc mẹ tôi còn lì xì nữa!
+偉立|大陸的東西貴不貴？|Đồ ở đại lục có đắt không?
+錢太太|大陸的物價跟這裡比起來倒是低得很。拿坐公車來說，才人民幣幾毛錢而已！臺灣去的人看到什麼都說便宜，更別說從歐美去的人了。|Vật giá đại lục so với ở đây lại thấp lắm. Lấy đi xe buýt làm ví dụ, chỉ mấy hào Nhân dân tệ thôi! Người từ Đài Loan sang thấy gì cũng bảo rẻ, càng không cần nói người từ Âu Mỹ sang.
+偉立|這麼說，如果我要去大陸，也不必擔心錢不夠了。|Nói vậy thì nếu cháu đi đại lục cũng không cần lo thiếu tiền.
+錢太太|雖然他們對當地人跟外國人的收費標準不一樣，不過我想還是不需要花太多錢的。|Tuy họ thu phí người địa phương và người nước ngoài theo tiêu chuẩn khác nhau, nhưng tôi nghĩ vẫn không cần tốn nhiều tiền đâu.
+|（李平坐在校園一棵大樹下）|(Lý Bình ngồi dưới một gốc cây lớn trong khuôn viên trường)
+美真|嗨！看什麼看得那麼專心？|Chào! Xem gì mà chăm chú thế?
+李平|哎喲！原來是你們，嚇了我一跳。|Ối! Hoá ra là các bạn, làm tôi giật cả mình.
+美真|你的東西掉了。咦，誰的相片？|Đồ của bạn rơi kìa. Ơ, ảnh của ai thế?
+李平|是我爸去大陸，跟我大伯一家合照的。我大伯去廣東開了一家工廠。|Là bố tôi sang đại lục chụp chung với cả nhà bác cả. Bác cả tôi sang Quảng Đông mở một nhà máy.
+美真|自從大陸政策開放以來，去大陸投資的臺商越來越多了。|Từ khi đại lục mở cửa chính sách, thương nhân Đài Loan sang đại lục đầu tư ngày càng nhiều.
+偉立|大陸市場那麼大，台商一定很賺錢吧？|Thị trường đại lục lớn như vậy, thương nhân Đài Loan chắc kiếm được nhiều tiền lắm?
+李平|那也不一定。大概要看是什麼生意吧！由於兩岸還不能直接通航，我們進出大陸，都得在香港或是日本轉機……|Cũng chưa chắc. Có lẽ còn tuỳ làm ăn gì! Do hai bờ còn chưa thể bay thẳng, chúng tôi ra vào đại lục đều phải quá cảnh ở Hồng Kông hoặc Nhật Bản…
+美真|說到轉機，我想起來我姑姑第一次去北京，碰到下大雪，班機誤點，航空公司的態度很冷淡，害她們在機場等了好幾個小時，都沒有人管。|Nói đến quá cảnh, tôi nhớ ra lần đầu cô tôi đi Bắc Kinh, gặp tuyết rơi dày, chuyến bay bị trễ, thái độ hãng hàng không rất lạnh nhạt, làm họ phải chờ ở sân bay mấy tiếng mà không ai quan tâm.
+李平|我大伯說，現在如果有班機誤點或取消的情形，航空公司都會對旅客說明原因，比以前好多了。不過話說回來，轉機還是會多花錢跟時間，也多了一次起飛跟降落的危險。對生意人來說，這樣成本就增加了。|Bác tôi nói bây giờ nếu chuyến bay trễ hoặc huỷ, hãng hàng không đều giải thích nguyên nhân cho hành khách, tốt hơn trước nhiều. Nhưng nói đi cũng phải nói lại, quá cảnh vẫn tốn thêm tiền và thời gian, lại thêm một lần nguy hiểm cất cánh hạ cánh. Với người làm ăn thì như vậy chi phí tăng lên.
+美真|既然不一定賺錢，政府為了保護台商跟台灣經濟，對投資大陸有一些限制是應該的。|Đã không chắc có lãi thì chính phủ để bảo vệ thương nhân và kinh tế Đài Loan mà có một số hạn chế với việc đầu tư vào đại lục là nên.
+偉立|兩岸開始交流以後，對兩邊有什麼影響？|Sau khi hai bờ bắt đầu giao lưu thì có ảnh hưởng gì đến hai bên?
+李平|當然增加了互相溝通的機會，可以更了解對方。但是也帶來一些問題，比方台灣人在大陸出了事，應該按照哪一邊的法律來處理？台商在大陸投資以後，在哪一邊繳稅？另外還有技術合作、非法走私的問題。|Tất nhiên tăng thêm cơ hội trao đổi, hiểu nhau hơn. Nhưng cũng mang đến một số vấn đề, ví dụ người Đài Loan gặp chuyện ở đại lục thì xử lý theo luật bên nào? Thương nhân Đài Loan đầu tư ở đại lục rồi thì đóng thuế ở bên nào? Ngoài ra còn vấn đề hợp tác kỹ thuật, buôn lậu phi pháp.
+美真|有些台商單身一個人在大陸工作，太太孩子都留在台灣，很容易就跟當地人發生婚外情，造成很多家庭問題。|Có thương nhân Đài Loan làm việc một mình ở đại lục, vợ con ở lại Đài Loan, rất dễ nảy sinh quan hệ ngoài luồng với người địa phương, gây ra nhiều vấn đề gia đình.
+李平|除了這些，由於幾十年沒來往，兩邊剛開始交流的時候，很多詞彙都不一樣。後來因為可以看到對方的電視節目、連續劇什麼的，有些詞彙已經「統一」啦！|Ngoài những điều này, do mấy chục năm không qua lại, lúc hai bên mới bắt đầu giao lưu nhiều từ vựng không giống nhau. Sau vì có thể xem chương trình TV, phim bộ của nhau, nên một số từ vựng đã "thống nhất" rồi!
+偉立|這一點我們上課的時候，老師也提到過。語言跟文化的改變真有意思。|Điểm này lúc học thầy cô cũng có nhắc. Sự thay đổi của ngôn ngữ và văn hoá thật thú vị.
+#Q
+錢太太為什麼要暫停語言交換？|她要陪她媽媽回大陸探親|她生病了|她要搬家|她工作太忙|0
+錢太太的媽媽第一次回大陸時心情為什麼很複雜？|親人老的老、死的死，老家又沒什麼改變|她迷路了|她的錢被偷了|她不想回去|0
+錢太太的媽媽為什麼要帶那麼多禮物？|禮多人不怪，而且多年沒照顧家人，給禮物才心安|大陸買不到東西|親戚要求的|禮物很便宜|0
+李平的大伯在大陸做什麼？|在廣東開了一家工廠|當老師|開飯館|念書|0
+轉機有什麼不好？|多花錢跟時間，也多一次起飛跟降落的危險|不能帶行李|不能買票|飛機太小|0
+兩岸剛開始交流的時候，語言上有什麼問題？|很多詞彙都不一樣|發音完全不同|大陸人不會說中文|字都看不懂|0

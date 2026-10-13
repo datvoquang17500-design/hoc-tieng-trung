@@ -1,0 +1,75 @@
+#VOCAB
+講電話|jiǎng diànhuà|giảng điện thoại|VO|nói chuyện điện thoại|張教授正在講電話，你等他講完了再問他吧。|Giáo sư Trương đang nói điện thoại, bạn chờ ông ấy nói xong rồi hỏi nhé.
+掛電話|guà diànhuà|quải điện thoại|V|cúp máy, gác máy|我哥不同意我的意見，我話還沒講完，他就氣得把電話掛了。|Anh tôi không đồng ý với tôi, tôi chưa nói hết câu anh ấy đã tức giận cúp máy.
+藝術中心|yìshù zhōngxīn|nghệ thuật trung tâm|N|trung tâm nghệ thuật||
+藝術|yìshù|nghệ thuật|N|nghệ thuật|畫畫、音樂、攝影、文學、電影……什麼的，你最喜歡哪一種藝術？|Hội hoạ, âm nhạc, nhiếp ảnh, văn học, điện ảnh… bạn thích loại nghệ thuật nào nhất?
+藝術工作者|yìshù gōngzuòzhě|nghệ thuật công tác giả|N|người làm nghệ thuật, nghệ sĩ|小陳雖然不會畫畫，也不懂音樂，可是他開了一家廣告公司，也算是藝術工作者。|Tiểu Trần tuy không biết vẽ, không hiểu nhạc, nhưng mở một công ty quảng cáo, cũng coi như người làm nghệ thuật.
+藝術家|yìshùjiā|nghệ thuật gia|N|nghệ sĩ, nhà nghệ thuật|大部分的藝術家都不管別人怎麼看自己，所以比較不修邊幅。|Phần lớn nghệ sĩ không quan tâm người khác nhìn mình thế nào, nên khá xuề xoà.
+藝術界|yìshùjiè|nghệ thuật giới|N|giới nghệ thuật|每年的金馬影展都很熱鬧，很多藝術界的人會從世界各地到臺灣來參加這個活動。|Liên hoan phim Kim Mã năm nào cũng náo nhiệt, nhiều người trong giới nghệ thuật từ khắp nơi đến Đài Loan dự.
+古典|gǔdiǎn|cổ điển|AT|cổ điển|你喜歡古典音樂嗎？——喜歡，尤其是海頓寫的。|Bạn thích nhạc cổ điển không? — Thích, nhất là nhạc Haydn.
+古代|gǔdài|cổ đại|N|thời xưa, cổ đại|古代的女人很少有念書的機會。|Phụ nữ thời xưa rất ít có cơ hội đi học.
+字典|zìdiǎn|tự điển|N|từ điển|這個字在我的字典裡居然查不到。|Chữ này tra trong từ điển của tôi vậy mà không có.
+芭蕾舞|bālěiwǔ|ba lôi vũ|N|múa ba lê|王英英每次跳芭蕾舞的時候，都覺得自己像個美麗的公主。|Vương Anh Anh mỗi lần múa ba lê đều thấy mình như một nàng công chúa xinh đẹp.
+洗澡|xǐzǎo|tẩy táo|VO|tắm|當兵的時候，都得站著洗澡，哪裡能像在家裡坐著洗？！|Khi đi lính đều phải đứng tắm, đâu được ngồi tắm như ở nhà?!
+洗澡間|xǐzǎojiān|tẩy táo gian|N|phòng tắm|你兒子洗個澡，把洗澡間弄得到處都是水！|Con trai bạn tắm một cái mà làm phòng tắm chỗ nào cũng toàn nước!
+根據|gēnjù|căn cứ|V/N|căn cứ vào, theo; căn cứ|根據氣象報告，今天不會下雨。|Theo dự báo thời tiết, hôm nay sẽ không mưa.
+評論|pínglùn|bình luận|N/V|bình luận, nhận xét|一般人對那個作家的評論都不太好，因為他寫的小說都很不真實。|Mọi người nhận xét không tốt về nhà văn đó vì tiểu thuyết ông ta viết rất thiếu chân thực.
+水準|shuǐzhǔn|thuỷ chuẩn|N|trình độ, mức, tiêu chuẩn|這兒的人有錢，住大房子，買很貴的東西，生活水準比較高。|Người ở đây giàu, ở nhà to, mua đồ đắt, mức sống khá cao.
+錯過|cuòguò|thác quá|V|bỏ lỡ|我上了個廁所出來，公車剛好開走，錯過了這班車，就要晚一個小時才能到家了。|Tôi đi vệ sinh ra thì xe buýt vừa chạy, lỡ chuyến này phải muộn một tiếng mới về đến nhà.
+舞台劇|wǔtáijù|vũ đài kịch|N|kịch sân khấu|小林的聲音不夠大，發音不夠清楚，不適合演舞台劇。|Giọng Tiểu Lâm không đủ to, phát âm không đủ rõ, không hợp diễn kịch sân khấu.
+上線|shàngxiàn|thượng tuyến|VO|lên mạng, truy cập trực tuyến|進這個網站找資料的人很多，所以不容易上線。|Người vào trang web này tìm tài liệu rất đông nên không dễ truy cập.
+氣人|qìrén|khí nhân|SV|bực mình, tức người|我睡得正舒服的時候，被室友吵醒了，真氣人。|Đang ngủ ngon thì bị bạn cùng phòng làm ồn đánh thức, thật bực mình.
+熱門音樂演唱會|rèmén yīnyuè yǎnchànghuì|nhiệt môn âm nhạc diễn xướng hội|N|buổi hoà nhạc nhạc thịnh hành|我爸爸說熱門音樂演唱會都太吵，其實他是不懂欣賞現在流行的歌。|Bố tôi bảo các buổi hoà nhạc nhạc trẻ đều ồn quá, thật ra là ông không biết thưởng thức nhạc thịnh hành bây giờ.
+熱門音樂|rèmén yīnyuè|nhiệt môn âm nhạc|N|nhạc thịnh hành, nhạc pop||
+演唱會|yǎnchànghuì|diễn xướng hội|N|buổi biểu diễn ca nhạc, concert|那個歌星的歌又快又特別，去聽他的演唱會的，大部分是年輕人。|Bài hát của ca sĩ đó vừa nhanh vừa lạ, người đi nghe concert của anh ta phần lớn là người trẻ.
+簽唱會|qiānchànghuì|thiêm xướng hội|N|buổi hát và ký tặng (fan meeting)|很多歌星發表新歌的時候，會辦簽唱會，除了唱新歌，也給歌迷簽名。|Nhiều ca sĩ khi ra bài mới sẽ tổ chức buổi hát ký tặng, ngoài hát bài mới còn ký tên cho người hâm mộ.
+正式|zhèngshì|chính thức|SV/A|trang trọng, chính thức|張主任的生日舞會很正式，你不能穿得太隨便。|Tiệc sinh nhật của chủ nhiệm Trương rất trang trọng, bạn không được ăn mặc quá tuỳ tiện.
+牛仔褲|niúzǎikù|ngưu tể khố|N|quần bò, quần jeans||
+牛仔|niúzǎi|ngưu tể|N|cao bồi||
+笑話|xiàohuà|tiếu thoại|V/N|cười chê; truyện cười|你用湯匙喝咖啡，會被別人笑話的。|Bạn dùng thìa canh uống cà phê sẽ bị người ta cười chê đấy.
+規矩|guījǔ|quy củ|N/SV|phép tắc, quy tắc; nề nếp|歐洲人吃飯的時候，都用左手拿叉，這是他們的規矩。|Người châu Âu khi ăn đều cầm nĩa tay trái, đó là phép tắc của họ.
+有規矩|yǒu guījǔ|hữu quy củ|SV|có nề nếp, ngoan, lễ phép|王先生的三個小孩都很有規矩，喝湯的時候都不會出聲音。|Ba đứa con ông Vương đều rất có nề nếp, ăn canh không phát ra tiếng.
+規定|guīdìng|quy định|V/N|quy định|我父母規定我每天十一點以前，一定得回家。|Bố mẹ quy định ngày nào tôi cũng phải về nhà trước 11 giờ.
+白|bái|bạch|A|uổng công, phí công|說了半天，他還是不懂，真是白說了。|Nói cả buổi mà anh ta vẫn không hiểu, đúng là nói uổng công.
+趟|tàng|thảng|M|chuyến, lượt (đi lại)|我的東西忘了帶回來，明天下午得去辦公室一趟。|Tôi quên mang đồ về, chiều mai phải lên văn phòng một chuyến.
+後悔|hòuhuǐ|hậu hối|SV/V|hối hận|小李年輕的時候沒有好好兒地念書，現在很後悔。|Hồi trẻ Tiểu Lý không chịu học hành tử tế, bây giờ rất hối hận.
+握手|wòshǒu|ác thủ|VO|bắt tay|你們都不要生氣了，大家握個手，還是好朋友。|Các bạn đừng giận nữa, bắt tay nhau, vẫn là bạn tốt.
+見面|jiànmiàn|kiến diện|VO|gặp mặt|我想跟王老闆見個面，不知道他有沒有時間。|Tôi muốn gặp ông chủ Vương một lát, không biết ông ấy có thời gian không.
+轟動|hōngdòng|oanh động|SV|gây chấn động, gây tiếng vang|李導演得了奧斯卡最佳導演獎的消息傳出來以後，非常轟動，全世界都在談這件事。|Tin đạo diễn Lý đoạt giải Oscar Đạo diễn xuất sắc nhất truyền ra đã gây chấn động, cả thế giới đều bàn tán.
+題材|tícái|đề tài|N|đề tài, chủ đề (tác phẩm)|「愛情」是作家最常用的題材。|"Tình yêu" là đề tài các nhà văn dùng nhiều nhất.
+表現|biǎoxiàn|biểu hiện|V/N|thể hiện, biểu hiện; màn thể hiện|七號今天的表現不好，每次投籃都投不進。|Số 7 hôm nay thể hiện không tốt, lần nào ném rổ cũng trượt.
+印象|yìnxiàng|ấn tượng|N|ấn tượng|找工作面談的時候，要穿得正式一點，因為給人的第一印象很重要。|Khi phỏng vấn xin việc nên mặc trang trọng một chút vì ấn tượng đầu tiên rất quan trọng.
+深|shēn|thâm|SV|sâu|那條河很深，小孩子去游泳太危險。|Con sông đó rất sâu, trẻ con đi bơi quá nguy hiểm.
+參考|cānkǎo|tham khảo|V/N|tham khảo|如果你覺得你做得不夠好，可以參考一下別人的做法。|Nếu thấy mình làm chưa đủ tốt, bạn có thể tham khảo cách làm của người khác.
+參考書|cānkǎoshū|tham khảo thư|N|sách tham khảo|學期開始的時候，王教授給我們一張參考書的書單。|Đầu học kỳ giáo sư Vương đưa chúng tôi một danh sách sách tham khảo.
+傳統|chuántǒng|truyền thống|N/SV|truyền thống|新年的時候給父母拜年，是華人的傳統。|Dịp năm mới chúc Tết bố mẹ là truyền thống của người Hoa.
+戲劇|xìjù|hí kịch|N|kịch, sân khấu kịch|老丁是學戲劇的，所以對電影、舞臺劇都很有研究。|Lão Đinh học ngành sân khấu nên rất am hiểu điện ảnh và kịch sân khấu.
+戲|xì|hí|N|vở kịch, tuồng, phim|女主角病了，我看這場戲大概演不下去了。|Nữ chính bị ốm, tôi thấy vở diễn này chắc không diễn tiếp được.
+歌劇|gējù|ca kịch|N|nhạc kịch, opera|歌劇演員，不但要會演，更要會唱。|Diễn viên opera không chỉ phải biết diễn mà càng phải biết hát.
+歌劇院|gējùyuàn|ca kịch viện|N|nhà hát opera||
+曾經|céngjīng|tằng kinh|A|đã từng|趙先生曾經得過最佳男主角獎，可是現在老了，只能演配角了。|Ông Triệu từng đoạt giải Nam chính xuất sắc nhất, nhưng giờ già rồi chỉ đóng được vai phụ.
+由於|yóuyú|do ư|CONJ|do, bởi vì|由於小王的態度很不客氣，我們決定不幫他的忙。|Do thái độ của Tiểu Vương rất bất lịch sự, chúng tôi quyết định không giúp cậu ta.
+嘗試|chángshì|thường thí|V/N|thử, thử nghiệm|我對沒做過的事都有興趣嘗試，想看看到底是怎麼回事。|Việc gì chưa làm tôi cũng thích thử, muốn xem rốt cuộc nó thế nào.
+編|biān|biên|V|biên soạn, dàn dựng; bịa ra|這個舞團的舞都是王小姐編的。|Các điệu múa của đoàn này đều do cô Vương biên đạo.
+劇本|jùběn|kịch bản|N|kịch bản|這個電影劇本是根據真人真事寫成的。|Kịch bản phim này viết dựa trên người thật việc thật.
+採用|cǎiyòng|thái dụng|V|áp dụng, sử dụng, chọn dùng|我們編雜誌的時候，採用了兩篇張教授的文章。|Khi biên tập tạp chí, chúng tôi đã chọn dùng hai bài của giáo sư Trương.
+接受|jiēshòu|tiếp thụ|V|chấp nhận, tiếp nhận|你怎麼送給我這麼值錢的禮物？我不敢接受。|Sao bạn lại tặng tôi món quà đắt giá thế này? Tôi không dám nhận.
+例子|lìzi|lệ tử|N|ví dụ|這個詞的意思，我們都不明白，請老師舉一個例子。|Nghĩa của từ này chúng em đều không hiểu, xin thầy cho một ví dụ.
+熱烈|rèliè|nhiệt liệt|A/SV|nồng nhiệt, sôi nổi|聽完王教授的演講，大家都說出自己的想法，討論得很熱烈。|Nghe xong bài giảng của giáo sư Vương, mọi người đều nói ra suy nghĩ của mình, thảo luận rất sôi nổi.
+傳播媒體|chuánbò méitǐ|truyền bá môi thể|N|phương tiện truyền thông|世界各國的傳播媒體都很注意全球經濟的發展。|Truyền thông các nước đều rất chú ý đến sự phát triển của kinh tế toàn cầu.
+傳播|chuánbò|truyền bá|V|truyền bá, lan truyền|因為網路方便，不管哪國的消息，很快就能傳播到全世界。|Vì mạng internet tiện lợi, tin tức nước nào cũng nhanh chóng lan ra toàn thế giới.
+評價|píngjià|bình giá|N|sự đánh giá|這個綜藝節目做得很認真，播出以後，得到相當高的評價。|Chương trình tạp kỹ này làm rất chỉn chu, phát sóng xong nhận được đánh giá khá cao.
+國家劇院|guójiā jùyuàn|quốc gia kịch viện|N|Nhà hát Quốc gia|大家都認為能在國家劇院表演的藝術團體，一定得有世界級的水準。|Mọi người đều cho rằng đoàn nghệ thuật được diễn ở Nhà hát Quốc gia phải có trình độ đẳng cấp thế giới.
+抽象畫|chōuxiànghuà|trừu tượng hoạ|N|tranh trừu tượng|這張畢卡索的抽象畫，我看了半天，都看不懂，後來才發現看反了。|Bức tranh trừu tượng này của Picasso tôi xem cả buổi không hiểu, sau mới phát hiện xem ngược.
+抽象|chōuxiàng|trừu tượng|SV|trừu tượng|你說的道理太抽象了，我們沒辦法了解，請你多舉幾個例子。|Lý lẽ bạn nói trừu tượng quá, chúng tôi không hiểu được, bạn cho thêm vài ví dụ đi.
+流行歌曲|liúxíng gēqǔ|lưu hành ca khúc|N|bài hát thịnh hành, nhạc pop|三十年前的流行歌曲，現在聽起來都太慢了。|Nhạc thịnh hành ba mươi năm trước, bây giờ nghe đều quá chậm.
+偶像|ǒuxiàng|ngẫu tượng|N|thần tượng|你是我的偶像，我從小就喜歡看你寫的書。|Bạn là thần tượng của tôi, từ nhỏ tôi đã thích đọc sách bạn viết.
+喔|ō|ác|P|trợ từ nhắc nhở người nghe chú ý (nhé!)|這麼漂亮的牛仔褲，你真的要送給我嗎？可別後悔喔！|Chiếc quần bò đẹp thế này, bạn thật sự tặng tôi à? Đừng hối hận nhé!
+#GRAMMAR
+多SV啊！|"… biết bao!", "thật là … quá!": mức độ rất cao, giọng cảm thán hoặc phản vấn, cuối câu thường có 啊/呀/哪/哇.|等我們上線的時候，票正好賣完，你說多氣人哪！|Đến lúc vào được mạng thì vé vừa hết, bạn nói xem có tức không chứ!|做飯多麻煩啊，還是出去吃吧！|Nấu cơm phiền biết bao, thôi ra ngoài ăn đi!
+V成|"V được, V thành": 成 là bổ ngữ kết quả, chỉ thành công, hoàn thành, thực hiện được; dùng được cả dạng khả năng (V得成/V不成).|我這就上網訂票，免得又買不到就看不成了。|Tôi lên mạng đặt vé ngay, kẻo không mua được rồi không xem được.|昨天我們約好去釣魚，因為雨下得太大，沒去成。|Hôm qua hẹn đi câu cá, vì mưa to quá nên không đi được.
+白V|"V uổng công, V không": 白 là phó từ, hành động làm cũng như không, không đạt kết quả mong muốn (白吃/白住 còn có nghĩa ăn/ở không trả tiền).|要是沒買到票，打電話告訴我，別讓我白跑一趟。|Nếu không mua được vé thì gọi báo tôi, đừng để tôi đi một chuyến công cốc.|爸爸說不可以賭錢，哥哥還是偷偷地去賭，爸爸的話都白說了。|Bố bảo không được đánh bạc, anh vẫn lén đi, lời bố nói đều uổng công.
+曾經|"Đã từng": chỉ hành vi hoặc tình huống đã có trong quá khứ và đã kết thúc. Mẫu: 曾經 + V/SV + 過/了.|美國跟歐洲有很多地方都曾經請他們去表演過。|Nhiều nơi ở Mỹ và châu Âu đều đã từng mời họ đến biểu diễn.|李先生曾經用地震的題材編過劇本，可惜不太成功。|Ông Lý từng viết kịch bản về đề tài động đất, tiếc là không thành công lắm.
+由於|"Do, bởi vì": liên từ, trang trọng hơn 因為. Vế sau có thể dùng 所以/因此/因而. 由於 không đứng đầu vế thứ hai (trừ khi có 是 phía trước).|由於雲門的刺激和社會的發展，各種藝術工作者也開始嘗試改變原有的表演方式。|Do sự kích thích của Vân Môn và sự phát triển xã hội, các nghệ sĩ cũng bắt đầu thử thay đổi cách biểu diễn vốn có.|由於健康有問題，因此張先生不能競選總統。|Do có vấn đề sức khoẻ nên ông Trương không thể tranh cử tổng thống.
+拿NP來說|"Lấy NP làm ví dụ": dùng khi người nói đưa ví dụ để nêu ý kiến, nghĩa như 比方說NP.|就拿京劇來說，有的人編新劇本，有的人採用西方的表演方式。|Lấy Kinh kịch làm ví dụ, có người viết kịch bản mới, có người áp dụng cách diễn phương Tây.|學校的餐廳哪裡比得上這家餐廳？！就拿氣氛來說，這裡羅曼蒂克多了。|Nhà ăn trường sao bằng nhà hàng này?! Lấy không khí mà nói, ở đây lãng mạn hơn nhiều.
+用N來V|"Dùng N để V": N là công cụ, cách thức, phương tiện của hành động V; có thể bỏ 來.|真沒想到莎士比亞的劇本也可以用京劇的方式來表演。|Thật không ngờ kịch bản Shakespeare cũng có thể diễn theo kiểu Kinh kịch.|有些學生用打工賺來的錢來付房租。|Có sinh viên dùng tiền làm thêm kiếm được để trả tiền nhà.

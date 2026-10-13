@@ -1,0 +1,44 @@
+#UNIT P4-08|PAVC4 · L8 女人的地位不同了
+#CONVO PAVC4 · L8 女人的地位不同了
+|（張教授家客廳）|(Phòng khách nhà giáo sư Trương)
+教授|大家隨便坐，別客氣。|Mọi người cứ ngồi tự nhiên, đừng khách sáo.
+偉立|張老師，胡老師說要來您這兒聊天，我就跟來了。|Thầy Trương, cô Hồ nói đến chỗ thầy nói chuyện nên em đi theo.
+教授|歡迎、歡迎。她打電話說你也想來，我很高興，人多熱鬧嘛！|Hoan nghênh, hoan nghênh. Cô ấy gọi điện bảo em cũng muốn đến, thầy rất vui, đông người mới vui mà!
+師母|你們喝什麼茶？香片還是烏龍？|Các em uống trà gì? Trà nhài hay Ô Long?
+胡助教|我們喝香片，好不好？|Mình uống trà nhài nhé?
+孫助教|好，喝一樣的，免得麻煩。|Được, uống giống nhau cho đỡ phiền.
+偉立|好啊，反正我也喝不出來什麼是什麼。|Vâng, dù sao em cũng uống không phân biệt được loại nào ra loại nào.
+教授|偉立難得喝茶，等會兒試試看，喝得慣喝不慣。|Vỹ Lập hiếm khi uống trà, lát nữa thử xem có uống quen không.
+師母|來，大家請喝茶。吃點花生、瓜子。|Nào, mời mọi người uống trà. Ăn chút lạc, hạt dưa.
+偉立|哎呀！糟糕，地毯弄濕了。|Ối! Chết rồi, làm ướt thảm rồi.
+教授|沒關係，我去拿塊布來擦乾就行了。倒是你的手燙著了沒有？|Không sao, thầy lấy miếng vải lau khô là được. Tay em có bị bỏng không?
+偉立|還好。這麼麻煩您，真不好意思。我來吧。|Không sao ạ. Làm phiền thầy thế này thật ngại quá. Để em làm.
+師母|沒什麼，你們老師常幫我做家事，像拖地、割草、打掃院子什麼的，有時候還陪我去超級市場買菜呢。|Không sao, thầy các em hay giúp cô làm việc nhà, như lau nhà, cắt cỏ, quét sân, có khi còn đi siêu thị mua đồ ăn với cô.
+教授|老坐著看書也不行啊！我也應該起來活動活動。|Cứ ngồi đọc sách mãi cũng không được! Thầy cũng nên đứng dậy vận động.
+孫助教|很多男人可不這麼想，像我爸爸就是大男人主義，他還是認為男人不應該進廚房，家事是女人做的。|Nhiều đàn ông không nghĩ vậy đâu, như bố em là gia trưởng, ông vẫn cho rằng đàn ông không nên vào bếp, việc nhà là việc của phụ nữ.
+教授|的確有不少人還有這種想法，可是時代不同了，男人也應該改變了。|Quả thật còn không ít người nghĩ vậy, nhưng thời đại khác rồi, đàn ông cũng nên thay đổi.
+胡助教|就是嘛！想想看，太太是職業婦女，下了班還得趕回家做飯，恨不得自己多長兩雙手，先生卻只知道看報、喝茶，一點忙都不幫，這公平嗎？|Đúng thế! Thử nghĩ xem, vợ là phụ nữ đi làm, tan ca còn phải vội về nấu cơm, chỉ hận không mọc thêm hai đôi tay, chồng thì chỉ biết đọc báo uống trà, chẳng giúp gì cả, thế có công bằng không?
+師母|家本來就不是一個人的，要是太太也上班，負擔部分家庭經濟，先生就更應該幫忙。|Nhà vốn không phải của một người, nếu vợ cũng đi làm, gánh một phần kinh tế gia đình thì chồng càng nên giúp đỡ.
+偉立|對，如果先生不幫忙，太太就不要做飯給他吃。|Đúng, nếu chồng không giúp thì vợ đừng nấu cơm cho anh ta ăn.
+孫助教|那不行啊！時間久了，說不定他就去吃別的女人做的飯了。|Thế không được! Lâu ngày, biết đâu anh ta đi ăn cơm người phụ nữ khác nấu.
+教授|有的女人很能幹，能把事業、家庭都照顧得很好，她們才是真正的「女強人」。|Có những phụ nữ rất giỏi giang, chăm lo tốt cả sự nghiệp lẫn gia đình, họ mới đúng là "nữ cường nhân".
+胡助教|女強人有什麼好？又忙又累，有的先生不但不欣賞，反而覺得沒面子，說不定還想離婚呢！|Nữ cường nhân có gì hay? Vừa bận vừa mệt, có ông chồng không những không trân trọng mà ngược lại còn thấy mất mặt, biết đâu còn muốn ly hôn!
+偉立|兩個合不來的人住在一起，與其整天吵架，還不如離婚算了。|Hai người không hợp nhau sống chung, cả ngày cãi nhau chi bằng ly hôn cho xong.
+師母|哪兒有你想的那麼簡單啊？！孩子怎麼辦？小孩兒喜歡沒有爸爸或媽媽的單親家庭嗎？|Đâu có đơn giản như em nghĩ?! Con cái thì sao? Trẻ con có thích gia đình đơn thân không có bố hoặc mẹ không?
+孫助教|所以很多人為了孩子而不願意離婚。不過我聽說台灣的離婚率越來越高了。社會上的人也不再認為離婚是丟人的事了。|Vì thế nhiều người vì con mà không chịu ly hôn. Nhưng em nghe nói tỷ lệ ly hôn ở Đài Loan ngày càng cao. Người trong xã hội cũng không còn coi ly hôn là chuyện mất mặt nữa.
+偉立|誰喜歡離婚啊？可是如果個性不合或有外遇，還是不得不離婚。|Ai thích ly hôn chứ? Nhưng nếu tính cách không hợp hoặc ngoại tình thì vẫn đành phải ly hôn.
+胡助教|我寧願做「單身貴族」，沒這麼多煩惱。|Em thà làm "quý tộc độc thân", không phiền não như vậy.
+孫助教|那是因為你還沒碰到真正喜歡的人！|Đó là vì chị chưa gặp người thật sự thích thôi!
+師母|從前哪兒有什麼單身貴族啊？在我們那個時代，不結婚，別人會認為你有問題，尤其是女孩子。|Ngày xưa làm gì có quý tộc độc thân? Thời của cô, không lấy chồng người ta sẽ cho là có vấn đề, nhất là con gái.
+教授|而且從前人重男輕女的觀念比較重，女孩子念不念書無所謂，書念得少就不容易找工作，經濟上沒辦法獨立。|Hơn nữa người xưa tư tưởng trọng nam khinh nữ khá nặng, con gái học hay không cũng được, học ít thì khó tìm việc, về kinh tế không tự lập được.
+孫助教|現在的女孩子比較幸運了，想學什麼都可以，甚至於還能出國念書，工作的機會也比以前多了。|Con gái bây giờ may mắn hơn, muốn học gì cũng được, thậm chí còn đi du học được, cơ hội việc làm cũng nhiều hơn trước.
+胡助教|你說的沒錯，可是我覺得女人的薪水跟升級的機會還是沒有男人那麼多。女人還是比較受歧視，男女還不能真正地平等。|Em nói không sai, nhưng chị thấy lương và cơ hội thăng tiến của phụ nữ vẫn không bằng đàn ông. Phụ nữ vẫn bị phân biệt đối xử nhiều hơn, nam nữ vẫn chưa thật sự bình đẳng.
+師母|想要提高女人的社會地位，就得靠你們年輕的繼續努力了！|Muốn nâng cao địa vị xã hội của phụ nữ thì phải nhờ các em, những người trẻ, tiếp tục cố gắng!
+#Q
+張教授常幫師母做什麼？|拖地、割草、打掃院子，陪她買菜|做飯|洗衣服|照顧孩子|0
+孫助教的爸爸有什麼想法？|男人不應該進廚房，家事是女人做的|男人應該幫忙做家事|女人應該出去工作|離婚是丟人的事|0
+胡助教覺得女強人怎麼樣？|又忙又累，有的先生還覺得沒面子|很幸福|很輕鬆|很受先生欣賞|0
+師母認為離婚為什麼不簡單？|要考慮孩子，孩子不喜歡單親家庭|離婚太貴了|法律不允許|父母會反對|0
+胡助教寧願做什麼？|單身貴族|職業婦女|家庭主婦|女強人|0
+胡助教覺得現在男女平等了嗎？|還沒有，女人的薪水跟升級的機會還是比較少|已經完全平等了|女人比男人好|男人比較受歧視|0
+從前女孩子為什麼經濟上沒辦法獨立？|重男輕女，書念得少，不容易找工作|她們不想工作|她們都出國了|她們太忙了|0

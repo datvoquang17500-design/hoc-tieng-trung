@@ -1,0 +1,88 @@
+#VOCAB
+地位|dìwèi|địa vị|N|địa vị|王先生在我們公司的地位最高，誰都得聽他的。|Ông Vương có địa vị cao nhất công ty chúng tôi, ai cũng phải nghe ông ấy.
+職位|zhíwèi|chức vị|N|chức vụ, vị trí công việc|李教授在我們學校的職位是副校長，地位比系主任高一點。|Chức vụ của giáo sư Lý ở trường chúng tôi là phó hiệu trưởng, địa vị cao hơn chủ nhiệm khoa một chút.
+聊天|liáotiān|liêu thiên|VO/N|tán gẫu, trò chuyện|聊天可以讓人心情輕鬆，也可以跟朋友連絡感情。|Trò chuyện giúp tâm trạng thoải mái, cũng gắn kết tình cảm với bạn bè.
+香片|xiāngpiàn|hương phiến|N|trà nhài, trà ướp hoa||
+烏龍|wūlóng|ô long|N|trà Ô Long||
+師母|shīmǔ|sư mẫu|N|vợ thầy giáo, cô (vợ thầy)||
+泡茶|pàochá|phao trà|VO|pha trà|泡烏龍茶不必用剛開的水，要不然不好喝。|Pha trà Ô Long không cần dùng nước vừa sôi, nếu không sẽ không ngon.
+泡|pào|phao|V|ngâm; pha|我很餓，家裡菜都吃完了，只好泡了一碗速食麵吃。|Tôi rất đói, đồ ăn ở nhà hết rồi, đành pha một bát mì ăn liền.
+花生|huāshēng|hoa sinh|N|lạc, đậu phộng||
+瓜子|guāzǐ|qua tử|N|hạt dưa||
+地毯|dìtǎn|địa thảm|N|thảm trải sàn|台灣的天氣太濕，不適合鋪地毯。|Thời tiết Đài Loan ẩm quá, không hợp trải thảm.
+毯子|tǎnzi|thảm tử|N|chăn mỏng, mền|天冷了，晚上睡覺不蓋毯子不行。|Trời lạnh rồi, tối ngủ không đắp chăn không được.
+燙|tàng|thang|V/SV|bỏng, nóng; là (ủi); uốn (tóc); trụng|湯太燙了，等一下，涼一點兒再喝吧！|Canh nóng quá, chờ chút, nguội bớt rồi hẵng ăn!
+割草|gēcǎo|cát thảo|VO|cắt cỏ||
+割|gē|cát|V|cắt; cắt nhượng (đất đai)|一八九五年因為打仗打輸了，清朝政府才把台灣割讓給日本的。|Năm 1895 vì thua trận nên triều đình nhà Thanh mới cắt nhượng Đài Loan cho Nhật.
+打掃|dǎsǎo|đả tảo|V|quét dọn||
+掃|sǎo|tảo|V|quét|這間教室掃得很乾淨，連一張小紙片都看不到。|Phòng học này quét rất sạch, đến một mẩu giấy nhỏ cũng không thấy.
+掃地|sǎodì|tảo địa|VO|quét nhà|媽媽叫你打掃房間，你怎麼只掃掃地就算了？桌子還沒擦呢！|Mẹ bảo con dọn phòng, sao chỉ quét nhà là xong? Bàn còn chưa lau!
+掃毒|sǎodú|tảo độc|VO|quét virus; truy quét ma tuý|現在電腦病毒很多，所以一定要裝掃毒軟體。|Bây giờ virus máy tính nhiều nên nhất định phải cài phần mềm diệt virus.
+院子|yuànzi|viện tử|N|sân, sân vườn|屋子裡人太多，我們到院子裡去談吧！|Trong nhà đông người quá, mình ra sân nói chuyện đi!
+前院|qiányuàn|tiền viện|N|sân trước||
+後院|hòuyuàn|hậu viện|N|sân sau|我們家前院停車，後院曬衣服，沒什麼花草。|Nhà tôi sân trước đỗ xe, sân sau phơi quần áo, chẳng có hoa cỏ gì.
+大男人主義|dà nánrén zhǔyì|đại nam nhân chủ nghĩa|N/SV|chủ nghĩa gia trưởng, trọng nam|我哥哥非常大男人主義，總認為女人什麼都不懂。|Anh tôi cực kỳ gia trưởng, luôn cho rằng phụ nữ cái gì cũng không biết.
+的確|díquè|đích xác|A|quả thật, đúng là|那個孩子的確聰明，不論我教什麼，他都是一學就會。|Đứa bé đó quả thật thông minh, tôi dạy gì nó cũng học là biết ngay.
+職業婦女|zhíyè fùnǚ|chức nghiệp phụ nữ|N|phụ nữ đi làm|結了婚的職業婦女，又要上班，又要管家，非常辛苦。|Phụ nữ đi làm đã lập gia đình vừa phải đi làm vừa lo việc nhà, rất vất vả.
+婦女|fùnǚ|phụ nữ|N|phụ nữ|從前婦女沒有投票權。|Ngày xưa phụ nữ không có quyền bầu cử.
+家庭主婦|jiātíng zhǔfù|gia đình chủ phụ|N|bà nội trợ|王太太覺得念了那麼多書，卻只能做家庭主婦，太可惜了。|Bà Vương thấy học nhiều thế mà chỉ làm bà nội trợ thì quá phí.
+恨不得|hènbude|hận bất đắc|A|chỉ hận không thể, chỉ mong|那個人對我那麼不客氣，我真恨不得打他一拳。|Người đó vô lễ với tôi như vậy, tôi chỉ hận không đấm cho một cú.
+恨|hèn|hận|V/N|căm ghét, hận|她搶走了我的男朋友，我恨她！|Cô ta cướp bạn trai tôi, tôi hận cô ta!
+負擔|fùdān|phụ đảm|V/N|gánh vác; gánh nặng|小趙家只有他一個人工作，他得負擔全家的生活，很辛苦。|Nhà Tiểu Triệu chỉ mình cậu ấy đi làm, phải gánh cả cuộc sống gia đình, rất vất vả.
+能幹|nénggàn|năng cán|SV|giỏi giang, tháo vát|張小姐真能幹，一個人可以做兩個人的事。|Cô Trương thật tháo vát, một mình làm được việc của hai người.
+幹|gàn|cán|V|làm|好好兒地幹！將來一定會有發展。|Làm cho tốt! Sau này nhất định sẽ phát triển.
+事業|shìyè|sự nghiệp|N|sự nghiệp|我不要總是替別人工作，我要想辦法開公司，發展自己的事業。|Tôi không muốn cứ làm thuê cho người khác, tôi muốn mở công ty, phát triển sự nghiệp riêng.
+真正|zhēnzhèng|chân chính|A|thật sự, thực sự|雖然我的朋友很多，可是只有你是真正了解我的人。|Tuy tôi có nhiều bạn nhưng chỉ có bạn là người thật sự hiểu tôi.
+女強人|nǚ qiángrén|nữ cường nhân|N|nữ cường nhân, phụ nữ thành đạt|大家都認為張太太是女強人，因為她不但事業成功，也把家人照顧得很好。|Mọi người đều cho bà Trương là nữ cường nhân vì bà không chỉ thành công trong sự nghiệp mà còn chăm sóc gia đình rất tốt.
+強人|qiángrén|cường nhân|N|người mạnh, người có quyền lực|現在是民主時代，強人政治已經不受歡迎了。|Bây giờ là thời đại dân chủ, chính trị kiểu người mạnh không còn được ưa chuộng.
+強|qiáng|cường|SV|mạnh|這個棒球隊實力很強，難怪能連贏好幾場。|Đội bóng chày này thực lực rất mạnh, thảo nào thắng liền mấy trận.
+反而|fǎn'ér|phản nhi|A|ngược lại, trái lại|我幫了小高那麼多忙，他不但不謝謝我，反而罵我。|Tôi giúp Tiểu Cao nhiều thế, cậu ta không những không cảm ơn mà ngược lại còn mắng tôi.
+沒面子|méi miànzi|một diện tử|SV|mất mặt|太太賺的錢比自己多，小張一直覺得很沒面子。|Vợ kiếm nhiều tiền hơn mình, Tiểu Trương luôn thấy mất mặt.
+面子|miànzi|diện tử|N|thể diện, sĩ diện|我知道點太多菜吃不完，可是我請客，點少了不好看，這是面子問題。|Tôi biết gọi nhiều món ăn không hết, nhưng tôi mời khách, gọi ít không đẹp, đây là vấn đề thể diện.
+離婚|líhūn|ly hôn|VO|ly hôn|王先生結婚才半年，卻發現太太居然腳踏兩條船，就離婚了。|Ông Vương cưới mới nửa năm thì phát hiện vợ bắt cá hai tay nên ly hôn.
+離婚率|líhūn lǜ|ly hôn suất|N|tỷ lệ ly hôn|在台灣離婚率越來越高，聽說四對裡面就有一對離婚。|Ở Đài Loan tỷ lệ ly hôn ngày càng cao, nghe nói cứ bốn cặp thì có một cặp ly hôn.
+比率|bǐlǜ|tỷ suất|N|tỷ lệ|我們學校男生女生的比率大概是1比1.5。|Tỷ lệ nam nữ ở trường chúng tôi khoảng 1:1,5.
+成功率|chénggōng lǜ|thành công suất|N|tỷ lệ thành công|這個實驗能不能做好，大概有百分之八十的成功率，你不必擔心。|Thí nghiệm này có khoảng 80% khả năng thành công, bạn không cần lo.
+出生率|chūshēng lǜ|xuất sinh suất|N|tỷ lệ sinh|有些國家的出生率一年比一年低，孩子越生越少，老人卻越活越久。|Tỷ lệ sinh ở một số nước năm sau thấp hơn năm trước, trẻ sinh ngày càng ít, người già lại sống ngày càng lâu.
+收視率|shōushì lǜ|thu thị suất|N|tỷ suất người xem (rating)|這個連續劇收視率很高，廣告很多，演了半年才結束。|Phim bộ này rating rất cao, nhiều quảng cáo, chiếu nửa năm mới hết.
+合不來|hébulái|hợp bất lai|RC|không hợp nhau|老丁這種只顧自己，不管別人的個性，跟誰都合不來。|Kiểu người chỉ biết mình không quan tâm người khác như lão Đinh thì không hợp với ai cả.
+整天|zhěngtiān|chỉnh thiên|TW|cả ngày|小趙整天吃、喝、玩、樂，一點事都不做。|Tiểu Triệu cả ngày ăn uống vui chơi, chẳng làm việc gì.
+整|zhěng|chỉnh|SV|nguyên, tròn, trọn|今天晚上的音樂會七點整開演，來晚了，就得等中場休息才能進去了。|Buổi hoà nhạc tối nay bắt đầu lúc 7 giờ đúng, đến muộn phải chờ giải lao mới vào được.
+吵架|chǎojià|sảo giá|VO/N|cãi nhau|我妹妹為了孩子的事，常常跟她先生吵架，我告訴她：吵架並不能解決問題。|Em gái tôi hay cãi nhau với chồng vì chuyện con cái, tôi bảo cô ấy: cãi nhau không giải quyết được vấn đề.
+打架|dǎjià|đả giá|VO|đánh nhau|小陳為了女朋友，跟別人打了一架，把鼻子都打破了。|Tiểu Trần vì bạn gái mà đánh nhau với người ta, vỡ cả mũi.
+簡單|jiǎndān|giản đơn|SV|đơn giản|我以為我們兩個結婚是一件很簡單的事，沒想到雙方父母有那麼多意見。|Tôi tưởng hai đứa cưới nhau là chuyện đơn giản, không ngờ bố mẹ hai bên lắm ý kiến thế.
+單親家庭|dānqīn jiātíng|đơn thân gia đình|N|gia đình đơn thân|小李父母很早就離婚了，他一直跟母親住，所以他是在單親家庭長大的。|Bố mẹ Tiểu Lý ly hôn sớm, cậu ấy sống với mẹ, nên lớn lên trong gia đình đơn thân.
+丟人|diūrén|đâu nhân|SV|mất mặt, xấu hổ|王美美認為沒有考上大學很丟人，連門都不想出。|Vương Mỹ Mỹ thấy không đỗ đại học rất mất mặt, đến cửa cũng không muốn ra.
+丟臉|diūliǎn|đâu kiểm|SV/VO|mất mặt, bẽ mặt|大家都考得很好，只有我不及格，真丟臉！|Mọi người đều thi tốt, chỉ mình tôi trượt, thật mất mặt!
+外遇|wàiyù|ngoại ngộ|N|ngoại tình|先生有外遇，在外面有了別的女人，太太總是最後一個知道。|Chồng ngoại tình có người phụ nữ khác bên ngoài, vợ luôn là người biết sau cùng.
+婚外情|hūnwàiqíng|hôn ngoại tình|N|quan hệ ngoài hôn nhân|老林每次換工作，就跟女同事發生婚外情。|Lão Lâm mỗi lần đổi việc lại có quan hệ ngoài luồng với đồng nghiệp nữ.
+單身貴族|dānshēn guìzú|đơn thân quý tộc|N|"quý tộc độc thân" (người độc thân có thu nhập tốt)|你們這些單身貴族，工作好，賺的錢多，又沒有家庭負擔，多舒服啊！|Các bạn quý tộc độc thân việc tốt, tiền nhiều, lại không có gánh nặng gia đình, sướng biết bao!
+單身|dānshēn|đơn thân|AT|độc thân|我現在還是單身，一個人吃飽了，全家都不餓了。|Tôi giờ vẫn độc thân, một mình ăn no là cả nhà không đói.
+貴族|guìzú|quý tộc|N|quý tộc|李愛美跟王子結了婚，就成了貴族。|Lý Ái Mỹ cưới hoàng tử nên thành quý tộc.
+上班族|shàngbān zú|thượng ban tộc|N|dân công sở|這家餐廳附近有很多公司，所以客人都是上班族。|Gần nhà hàng này có nhiều công ty nên khách toàn dân công sở.
+夜貓族|yèmāo zú|dạ miêu tộc|N|cú đêm (người thức khuya)|現在的年輕人大部分都是夜貓族，夜裡十二點以前就上床睡覺的，已經難得看到了。|Người trẻ bây giờ phần lớn là cú đêm, ngủ trước 12 giờ đêm đã hiếm thấy rồi.
+追星族|zhuīxīng zú|truy tinh tộc|N|fan cuồng thần tượng|我妹妹是標準的追星族，為了看她的偶像明星，可以在飛機場等好幾個小時。|Em gái tôi là fan cuồng chính hiệu, để gặp thần tượng có thể chờ ở sân bay mấy tiếng.
+煩惱|fánnǎo|phiền não|V/SV/N|phiền muộn, lo lắng|小張就要出國念書了，現在最大的煩惱就是怕女朋友變心。|Tiểu Trương sắp đi du học, nỗi lo lớn nhất bây giờ là sợ bạn gái thay lòng.
+重男輕女|zhòng nán qīng nǚ|trọng nam khinh nữ|IE|trọng nam khinh nữ|我媽非常重男輕女，我已經有三個女兒了，可是她還叫我再生一個兒子。|Mẹ tôi rất trọng nam khinh nữ, tôi đã có ba con gái mà bà vẫn bảo đẻ thêm một đứa con trai.
+觀念|guānniàn|quan niệm|N|quan niệm, tư tưởng|誰說老人不能穿紅衣服？你的觀念太保守了。|Ai bảo người già không được mặc đồ đỏ? Quan niệm của bạn bảo thủ quá.
+甚至於|shènzhìyú|thậm chí ư|A|thậm chí, đến mức|老李喝醉了，不但不知道家在哪裡，甚至於連自己的名字都忘了。|Lão Lý say đến mức không những không biết nhà ở đâu mà thậm chí quên cả tên mình.
+薪水|xīnshuǐ|tân thuỷ|N|tiền lương|我媽問我男朋友：一個月薪水多少錢？每個月賺的錢夠不夠用？|Mẹ tôi hỏi bạn trai tôi: lương một tháng bao nhiêu? Tiền kiếm mỗi tháng có đủ tiêu không?
+加薪|jiāxīn|gia tân|VO|tăng lương|老闆說，只要我好好兒地幹，三個月以後就給我加薪。|Ông chủ nói chỉ cần tôi làm tốt, ba tháng sau sẽ tăng lương cho tôi.
+升級|shēngjí|thăng cấp|VO|thăng chức; lên lớp|老林連升兩級，現在當了主任了。|Lão Lâm thăng liền hai cấp, giờ làm chủ nhiệm rồi.
+歧視|qíshì|kỳ thị|V/N|phân biệt đối xử, kỳ thị|你們這些大男人主義的人，總是歧視女人！|Các anh đàn ông gia trưởng lúc nào cũng kỳ thị phụ nữ!
+平等|píngděng|bình đẳng|SV/A|bình đẳng|孫中山先生認為全世界各民族都是平等的。|Tôn Trung Sơn cho rằng các dân tộc trên thế giới đều bình đẳng.
+提高|tígāo|đề cao|V|nâng cao|好的教法，可以提高學生的學習興趣。|Cách dạy tốt có thể nâng cao hứng thú học của học sinh.
+提早|tízǎo|đề tảo|A|sớm hơn (dự định)|要是怕塞車，趕不上飛機，你就應該提早半個小時出門。|Nếu sợ tắc đường lỡ máy bay thì bạn nên ra khỏi nhà sớm hơn nửa tiếng.
+靠|kào|kháo|V|dựa vào; tựa; sát cạnh|我在國外留學的時候，朋友們幫了我不少忙，真是「在家靠父母，出外靠朋友。」|Lúc du học, bạn bè giúp tôi rất nhiều, đúng là "ở nhà nhờ bố mẹ, ra ngoài nhờ bạn bè."
+可靠|kěkào|khả kháo|SV|đáng tin cậy|老林這個人很可靠，你請他做的事，他一定替你辦好。|Lão Lâm là người đáng tin, việc bạn nhờ ông ấy nhất định làm tốt.
+繼續|jìxù|kế tục|V|tiếp tục|廣告播完了，我們可以繼續看電視節目了。|Quảng cáo hết rồi, mình xem tiếp chương trình được rồi.
+努力|nǔlì|nỗ lực|A/SV/V/N|nỗ lực, cố gắng|只要努力，我相信你一定會成功的。|Chỉ cần cố gắng, tôi tin bạn nhất định sẽ thành công.
+#GRAMMAR
+V得慣／V不慣|"Quen / không quen V": chỉ có quen hay không với việc làm gì (ăn, uống, ở, nhìn…).|偉立難得喝茶，等會兒試試看，喝得慣喝不慣。|Vỹ Lập hiếm khi uống trà, lát thử xem có uống quen không.|我在這兒住了兩年，還是吃不慣這裡的菜。|Tôi sống ở đây hai năm rồi mà vẫn ăn không quen đồ ăn ở đây.
+的確|"Quả thật, đúng là": tỏ ý đồng ý hoặc khẳng định nhận định của người kia; đặt đầu câu hoặc trước động từ/tính từ/phó từ.|的確有不少人還有這種想法，可是時代不同了。|Quả thật còn không ít người nghĩ vậy, nhưng thời đại khác rồi.|那個孩子的確聰明，不論我教什麼，他都是一學就會。|Đứa bé đó đúng là thông minh, dạy gì cũng học là biết.
+恨不得|"Chỉ hận không thể…, chỉ mong…": rất muốn đạt được một điều mà thực tế không làm được hoặc không nên làm.|太太下了班還得趕回家做飯，恨不得自己多長兩雙手。|Vợ tan ca còn phải vội về nấu cơm, chỉ hận không mọc thêm hai đôi tay.|那個人對我那麼不客氣，我真恨不得打他一拳。|Người đó vô lễ với tôi như vậy, tôi chỉ hận không đấm cho một cú.
+不但不／沒……，反而……|"Không những không … mà ngược lại còn …": sau 反而 là kết quả trái ngược với dự đoán.|有的先生不但不欣賞，反而覺得沒面子。|Có ông chồng không những không trân trọng mà ngược lại còn thấy mất mặt.|我幫了小高那麼多忙，他不但不謝謝我，反而罵我。|Tôi giúp Tiểu Cao nhiều thế, cậu ta không cảm ơn mà còn mắng tôi.
+V得來／V不來|"Hợp / không hợp; làm được / không làm được": (1) hoà hợp hay không (合得來), (2) có biết làm hay không, (3) có thích hay không.|兩個合不來的人住在一起，與其整天吵架，還不如離婚算了。|Hai người không hợp nhau sống chung, cả ngày cãi nhau chi bằng ly hôn cho xong.|這種菜我做不來，你還是請別人做吧。|Món này tôi không biết làm, bạn nhờ người khác đi.
+(在)N上|"Về mặt N, trong phạm vi N": 上 chỉ phạm vi hoặc phương diện.|書念得少就不容易找工作，經濟上沒辦法獨立。|Học ít thì khó tìm việc, về kinh tế không tự lập được.|社會上的人也不再認為離婚是丟人的事了。|Người trong xã hội cũng không còn coi ly hôn là chuyện mất mặt.
+不再……了|"Không còn … nữa": trước đây có, bây giờ đã thay đổi, không như vậy nữa.|社會上的人也不再認為離婚是丟人的事了。|Xã hội cũng không còn coi ly hôn là chuyện mất mặt nữa.|他戒菸以後，就不再咳嗽了。|Từ khi cai thuốc, anh ấy không còn ho nữa.
+甚至於|"Thậm chí, đến mức": nêu trường hợp đặc biệt, ở mức cao hơn, để nhấn mạnh.|現在的女孩子想學什麼都可以，甚至於還能出國念書。|Con gái bây giờ muốn học gì cũng được, thậm chí còn đi du học được.|老李喝醉了，甚至於連自己的名字都忘了。|Lão Lý say đến mức quên cả tên mình.

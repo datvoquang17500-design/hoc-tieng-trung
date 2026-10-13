@@ -1,0 +1,51 @@
+#UNIT P4-04|PAVC4 · L4 這個電影真好看
+#CONVO PAVC4 · L4 這個電影真好看
+|（在錢家）|(Ở nhà ông Tiền)
+錢先生|怎麼樣？都看懂了嗎？|Thế nào? Xem hiểu hết chứ?
+偉立|這部電影的對白都不太長。我不敢說每個字都懂，可是故事我想我懂了。這是什麼時候拍的電影？|Lời thoại phim này đều không dài lắm. Tôi không dám nói hiểu từng chữ, nhưng câu chuyện thì tôi nghĩ là hiểu rồi. Phim này quay khi nào vậy?
+錢太太|我不知道什麼時候拍的，是去年暑假在臺灣上演的。現在網路太方便，盜版又多，去電影院看電影的人越來越少，難得這部電影還很賣座。上個月他回臺灣就帶了這張光碟回來。你喜不喜歡？|Tôi không biết quay khi nào, phim chiếu ở Đài Loan hè năm ngoái. Bây giờ mạng quá tiện, lại nhiều hàng lậu, người ra rạp xem phim ngày càng ít, hiếm có phim này vẫn bán vé chạy. Tháng trước ông ấy về Đài Loan mang đĩa này về. Cậu có thích không?
+偉立|喜歡是喜歡，可是結局慘了一點。我覺得男主角死得太不值得了。|Thích thì thích, nhưng cái kết hơi bi thảm. Tôi thấy nam chính chết thật không đáng.
+錢太太|女主角更可憐！她一個人以後要怎麼活下去啊？！|Nữ chính còn đáng thương hơn! Sau này một mình cô ấy sống tiếp thế nào đây?!
+錢先生|其實導演不必安排這樣的結局。怎麼可能什麼倒楣事都讓男主角碰上了？！太不真實了！|Thật ra đạo diễn không cần sắp đặt cái kết như vậy. Sao chuyện xui xẻo gì cũng để nam chính gặp phải?! Quá không thật!
+偉立|我倒是覺得主角、配角的演技都不錯，尤其是男主角。|Tôi lại thấy diễn xuất của vai chính, vai phụ đều khá, nhất là nam chính.
+錢先生|他是這兩年才紅起來的，去年還得了金馬影展的最佳男主角獎。這個獎給他帶來很多表演的機會，我常在報上看到跟他有關的新聞。不過，這是我第一次看他的電影，演技果然沒話說。|Anh ta mới nổi hai năm nay, năm ngoái còn đoạt giải Nam chính xuất sắc nhất ở Liên hoan phim Kim Mã. Giải này mang lại cho anh ta nhiều cơ hội diễn, tôi hay đọc tin về anh ta trên báo. Nhưng đây là lần đầu tôi xem phim của anh ta, diễn xuất quả nhiên khỏi chê.
+錢太太|劇情很感動人，不過看完這樣的悲劇，讓人心裡很難過，忍不住要掉眼淚。|Cốt truyện rất cảm động, nhưng xem xong bi kịch thế này, trong lòng thấy buồn, không kìm được nước mắt.
+錢先生|你就是愛哭，看連續劇也是這樣。|Bà cứ hay khóc, xem phim bộ cũng thế.
+錢太太|難道你不同情男、女主角的遭遇嗎？|Lẽ nào ông không thương cảm cho cảnh ngộ của nam nữ chính sao?
+錢先生|看電影嘛！何必那麼認真呢？！|Xem phim thôi mà! Cần gì nghiêm trọng thế?!
+偉立|這部電影的音樂很特別，主題曲好像不是國語歌。|Nhạc của phim này rất đặc biệt, bài hát chủ đề hình như không phải bài tiếng Quốc ngữ.
+錢太太|對！那是一首很老的臺灣民謠。我想導演認為這首民謠很能表達電影裡那些人的感情。|Đúng! Đó là một bài dân ca Đài Loan rất cũ. Tôi nghĩ đạo diễn cho rằng bài dân ca này diễn tả rất đúng tình cảm của những người trong phim.
+偉立|除了主題曲以外，還有一個我覺得奇怪的地方。為什麼影片下面有英文也有中文字幕呢？|Ngoài bài chủ đề, còn một chỗ tôi thấy lạ. Sao dưới phim vừa có phụ đề tiếng Anh vừa có phụ đề tiếng Trung?
+錢先生|大概是他們認為這樣可以幫助觀眾了解劇情吧！|Có lẽ họ cho rằng như vậy giúp khán giả hiểu cốt truyện!
+偉立|難得有機會看國語電影，我真要好好謝謝你們。噢！時間不早了，我該走了。|Hiếm khi có dịp xem phim tiếng Quốc ngữ, tôi thật phải cảm ơn ông bà. Ồ! Muộn rồi, tôi phải đi đây.
+錢太太|留下來吃晚飯吧！反正都是家常菜，也不麻煩。|Ở lại ăn tối đi! Dù sao cũng chỉ là cơm nhà, không phiền gì đâu.
+偉立|謝謝，我跟同學約好了，還有別的事，下次再來打擾。|Cảm ơn ạ, cháu hẹn bạn rồi, còn việc khác, lần sau cháu lại đến làm phiền.
+錢先生|好吧！歡迎你常來。|Được rồi! Hoan nghênh cháu thường đến.
+|（林建國敲李平房門）|(Lâm Kiến Quốc gõ cửa phòng Lý Bình)
+李平|請進，門沒鎖。欸，建國，你怎麼來了？|Mời vào, cửa không khoá. Ơ, Kiến Quốc, sao cậu lại đến?
+建國|我來給你錢，謝謝你幫我買隨身碟。給你支票，行吧？真不好意思，拖了這麼久。|Tớ đến trả tiền, cảm ơn cậu mua giúp USB. Đưa cậu séc nhé, được chứ? Thật ngại quá, để lâu thế.
+李平|沒關係。最近怎麼樣？|Không sao. Dạo này thế nào?
+建國|馬馬虎虎，還不就是上課、打工、考試、念書？！|Tàm tạm, chẳng phải vẫn là đi học, làm thêm, thi cử, học bài sao?!
+李平|對了，這個週末有沒有空？|À này, cuối tuần này cậu rảnh không?
+建國|星期六我大概會去看電影。要不然就在家上網看電腦動畫。|Thứ bảy chắc tớ đi xem phim. Không thì ở nhà lên mạng xem phim hoạt hình máy tính.
+李平|既然沒什麼重要的事，就來我們家聚餐吧！星期六晚上有幾個同學要一人帶一個菜來，邊吃邊聊。你也來吧！|Đã không có việc gì quan trọng thì đến nhà tớ ăn chung đi! Tối thứ bảy có mấy bạn mỗi người mang một món đến, vừa ăn vừa trò chuyện. Cậu cũng đến nhé!
+建國|好啊！電影看不看無所謂，吃比較重要。可是，我不會做菜，我帶一個派來，行不行？|Được đó! Xem phim hay không cũng chẳng sao, ăn quan trọng hơn. Nhưng tớ không biết nấu, tớ mang một cái bánh pie đến được không?
+李平|當然可以。你就是不帶東西來，也沒關係啊！|Tất nhiên được. Cậu có không mang gì đến cũng không sao!
+建國|那天吃完飯，還有什麼節目？你有沒有光碟機？我們可以跟錢太太借影碟來看。|Hôm đó ăn xong còn có tiết mục gì? Cậu có đầu đĩa không? Mình có thể mượn đĩa phim của bà Tiền về xem.
+李平|錢太太有什麼好電影？|Bà Tiền có phim gì hay?
+建國|偉立前兩天在他們家看了一部臺灣電影。他說除了演員很好之外，攝影、音效，各方面也都不錯。|Hôm trước Vỹ Lập xem ở nhà họ một bộ phim Đài Loan. Cậu ấy bảo ngoài diễn viên giỏi ra, quay phim, âm thanh, mọi mặt đều tốt.
+李平|你曉不曉得片名是什麼？|Cậu có biết tên phim là gì không?
+建國|糟糕！我想不起來了。你看我的記性！|Chết! Tớ không nhớ ra. Cậu xem trí nhớ của tớ này!
+李平|是什麼樣的片子？文藝愛情片，還是社會寫實片？|Là phim kiểu gì? Phim tình cảm văn nghệ hay phim hiện thực xã hội?
+建國|是一個很寫實的愛情故事。|Là một câu chuyện tình yêu rất hiện thực.
+李平|我不喜歡看這種電影，我喜歡看偵探片跟戰爭片。|Tớ không thích xem loại phim này, tớ thích phim trinh thám và phim chiến tranh.
+建國|文藝片我也不常看。還是恐怖片、科幻片比較刺激，要不然，動作片也不錯。|Phim văn nghệ tớ cũng ít xem. Phim kinh dị, phim khoa học viễn tưởng vẫn kịch tính hơn, không thì phim hành động cũng được.
+李平|比較刺激的電影很多都是限制級的，你還是少看吧！|Phim kịch tính phần nhiều là loại cấm trẻ em, cậu nên xem ít thôi!
+建國|是！大哥！以後我只看輔導級跟普遍級的，行了吧？|Vâng! Đại ca! Sau này em chỉ xem phim loại phụ đạo và phổ thông, được chưa?
+#Q
+錢太太為什麼說這部電影難得？|現在去電影院的人越來越少，這部電影還很賣座|這部電影是免費的|這部電影是她拍的|這部電影沒有盜版|0
+偉立覺得這部電影的結局怎麼樣？|有點慘，男主角死得太不值得|很快樂|很真實|很無聊|0
+錢先生為什麼覺得這部電影不真實？|什麼倒楣事都讓男主角碰上了|演員演技不好|音樂太老了|字幕太多|0
+電影的主題曲是什麼歌？|一首很老的臺灣民謠|一首英文歌|一首國語流行歌|一首京劇|0
+李平喜歡看什麼電影？|偵探片跟戰爭片|文藝愛情片|恐怖片|卡通片|0
+建國星期六晚上要帶什麼去李平家？|一個派|一個菜|一張支票|一張影碟|0

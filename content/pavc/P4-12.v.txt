@@ -1,0 +1,86 @@
+#VOCAB
+地球|dìqiú|địa cầu|N|Trái Đất|地球是我們這個太陽系的一個行星，是人類住的地方。|Trái Đất là một hành tinh trong hệ Mặt Trời, là nơi loài người sinh sống.
+紙張回收處|zhǐzhāng huíshōu chù|chỉ trương hồi thu xứ|N|điểm thu gom giấy tái chế|我們這棟大樓的紙張回收處在地下室，請把舊報紙、用過的紙都送到那裡去。|Điểm thu gom giấy của toà nhà ở tầng hầm, xin mang báo cũ, giấy đã dùng xuống đó.
+回收|huíshōu|hồi thu|V/N|thu hồi, tái chế|我們這裡只回收瓶子，你那個罐子拿到別的地方去吧！|Ở đây chỉ thu chai, cái lon của bạn mang đi chỗ khác nhé!
+購物中心|gòuwù zhōngxīn|cấu vật trung tâm|N|trung tâm mua sắm|週末的時候購物中心好熱鬧！有人來買東西、看電影，也有人來吃飯、玩遊戲。|Cuối tuần trung tâm mua sắm náo nhiệt lắm! Có người đến mua đồ, xem phim, có người đến ăn uống, chơi game.
+大減價|dà jiǎnjià|đại giảm giá|N|đợt giảm giá lớn|這雙鞋，我是大減價的時候買的，特別便宜。|Đôi giày này tôi mua đợt giảm giá lớn, đặc biệt rẻ.
+減價|jiǎnjià|giảm giá|VO|giảm giá|這個音響太貴了，你如果願意減價，我就買。|Dàn âm thanh này đắt quá, nếu bạn chịu giảm giá thì tôi mua.
+打折|dǎzhé|đả chiết|VO|giảm giá (打八折 = giảm 20%, bán 80% giá)|這個冰箱原價五百塊，打八折賣給你，四百塊就好了。|Tủ lạnh này giá gốc 500, giảm 20% bán cho bạn, 400 là được.
+折扣|zhékòu|chiết khấu|N|chiết khấu, mức giảm giá|那家百貨公司雖然大減價，可是只有衣服跟鞋打九折，折扣不多。|Trung tâm thương mại đó tuy giảm giá lớn nhưng chỉ quần áo và giày giảm 10%, mức giảm không nhiều.
+垃圾|lèsè|lạp ngập|N|rác|我的網路信箱裡好多垃圾信件，都是不認識的人寄來的廣告。|Hộp thư của tôi nhiều thư rác, toàn quảng cáo người lạ gửi.
+垃圾桶|lèsè tǒng|lạp ngập dũng|N|thùng rác|這些東西都沒有用了，扔到垃圾桶裡去吧。|Mấy thứ này vô dụng rồi, vứt vào thùng rác đi.
+廚餘|chúyú|trù dư|N|rác thải nhà bếp, thức ăn thừa|水果皮跟吃不完的飯菜，都是廚餘，可以回收。|Vỏ hoa quả và cơm canh ăn không hết đều là rác nhà bếp, có thể thu gom tái chế.
+收破爛|shōu pòlàn|thu phá lạn|VO|thu mua đồng nát, phế liệu|這些鍋子丟了可惜，可以賣給收破爛的。|Mấy cái nồi này vứt đi tiếc, có thể bán cho người thu mua đồng nát.
+破爛|pòlàn|phá lạn|SV/N|rách nát, cũ nát; đồ đồng nát|我家沒什麼值錢的東西，都是些破爛，小偷來了也沒有東西可偷。|Nhà tôi chẳng có gì đáng tiền, toàn đồ cũ nát, trộm vào cũng không có gì để lấy.
+大驚小怪|dà jīng xiǎo guài|đại kinh tiểu quái|IE|chuyện bé xé ra to, làm quá|脫光衣服游泳很舒服，也不是什麼奇怪的事，你不必大驚小怪！|Cởi hết đồ bơi rất thoải mái, cũng chẳng có gì lạ, bạn không cần làm quá lên!
+再生|zàishēng|tái sinh|AT|tái chế|再生紙是用過的紙再處理過的，雖然顏色差一點，可是用起來一樣好。|Giấy tái chế là giấy đã dùng được xử lý lại, tuy màu kém hơn nhưng dùng vẫn tốt như thường.
+玻璃|bōlí|pha lê|N|thuỷ tinh, kính|用玻璃做的杯子、瓶子來裝熱水，不會有毒，比較安全。|Dùng cốc, chai thuỷ tinh đựng nước nóng không có độc, an toàn hơn.
+收買|shōumǎi|thu mãi|V|thu mua; mua chuộc|政府減稅，有時候是為了減輕人民的負擔，有時候只是為了收買人心。|Chính phủ giảm thuế có lúc để giảm gánh nặng cho dân, có lúc chỉ để mua lòng người.
+目的|mùdì|mục đích|N|mục đích||
+目標|mùbiāo|mục tiêu|N|mục tiêu|我來美國的目的是學英文，我的目標是能說得跟美國人一樣好。|Mục đích tôi sang Mỹ là học tiếng Anh, mục tiêu là nói giỏi như người Mỹ.
+目的地|mùdìdì|mục đích địa|N|điểm đến|大峽谷是我們這次旅行的目的地。|Grand Canyon là điểm đến của chuyến đi lần này.
+考慮|kǎolǜ|khảo lự|V|cân nhắc, suy nghĩ|我從來沒想過要結婚，你多給我點時間考慮考慮。|Tôi chưa từng nghĩ đến chuyện kết hôn, cho tôi thêm thời gian suy nghĩ.
+污染|wūrǎn|ô nhiễm|V/N|làm ô nhiễm; sự ô nhiễm|能不能請你到外面去抽菸？免得污染了這裡的空氣。|Bạn ra ngoài hút thuốc được không? Kẻo làm ô nhiễm không khí ở đây.
+保護|bǎohù|bảo hộ|V/N|bảo vệ|我不讓你騎摩托車，是想保護你，怕你出車禍受傷，並不是要限制你的自由。|Anh không cho em đi xe máy là muốn bảo vệ em, sợ em bị tai nạn, không phải để hạn chế tự do của em.
+環境保護|huánjìng bǎohù|hoàn cảnh bảo hộ|N|bảo vệ môi trường (環保)|環保工作，像減少空氣污染、河水污染什麼的，不是短時間就看得到結果的。|Công tác bảo vệ môi trường như giảm ô nhiễm không khí, ô nhiễm sông… không phải thời gian ngắn mà thấy kết quả.
+引起|yǐnqǐ|dẫn khởi|V|gây ra, thu hút|小林喜歡出鋒頭，好引起別人的注意。|Tiểu Lâm thích nổi bật để thu hút sự chú ý của người khác.
+提醒|tíxǐng|đề tỉnh|V|nhắc nhở|小趙的記性不好，你一定要提醒他，明天十點鐘開會。|Tiểu Triệu hay quên, bạn nhất định phải nhắc cậu ấy mai 10 giờ họp.
+愛惜|àixí|ái tích|V|quý trọng, trân quý|大家要愛惜天然資源，少用一點，要不然用完了，就沒有了。|Mọi người phải quý trọng tài nguyên thiên nhiên, dùng ít thôi, không thì dùng hết là không còn.
+節約|jiéyuē|tiết ước|V|tiết kiệm|老王很節省，還常常提醒家人節約用水、用電。|Lão Vương rất tiết kiệm, còn hay nhắc người nhà tiết kiệm nước, điện.
+能源|néngyuán|năng nguyên|N|năng lượng|地球上最好的能源就是太陽能，又安全又便宜，還不會污染環境。|Năng lượng tốt nhất trên Trái Đất là năng lượng mặt trời, vừa an toàn vừa rẻ, lại không ô nhiễm.
+水源|shuǐyuán|thuỷ nguyên|N|nguồn nước|政府規定湖邊不可以露營、烤肉，免得污染了水源。|Chính phủ quy định bên hồ không được cắm trại, nướng thịt, kẻo ô nhiễm nguồn nước.
+核能|hénéng|hạch năng|N|năng lượng hạt nhân|我們不同意建核能電廠，是因為怕發生危險。|Chúng tôi không đồng ý xây nhà máy điện hạt nhân vì sợ xảy ra nguy hiểm.
+太陽能|tàiyángnéng|thái dương năng|N|năng lượng mặt trời|我們這裡常下雨，晴天的時候不多，沒辦法利用太陽能發電。|Ở đây hay mưa, ít ngày nắng, không thể dùng năng lượng mặt trời phát điện.
+風力發電|fēnglì fādiàn|phong lực phát điện|N|điện gió||
+風力|fēnglì|phong lực|N|sức gió|颱風來的時候，風力到了八級的話，學校就停課了。|Khi bão đến, sức gió đạt cấp 8 là trường cho nghỉ học.
+發電|fādiàn|phát điện|VO|phát điện|風力發電要看風的大小，得靠天氣，沒有水力發電、火力發電那麼容易控制。|Điện gió tuỳ vào sức gió, phải dựa vào thời tiết, không dễ kiểm soát như thuỷ điện, nhiệt điện.
+破壞|pòhuài|phá hoại|V|phá hoại, phá huỷ|不要亂踢，桌子、椅子都是學校的東西，你不能隨便破壞。|Đừng đá lung tung, bàn ghế là đồ của trường, không được tuỳ tiện phá hỏng.
+森林|sēnlín|sâm lâm|N|rừng||
+樹林|shùlín|thụ lâm|N|rừng cây, lùm cây||
+雨林|yǔlín|vũ lâm|N|rừng mưa||
+管理|guǎnlǐ|quản lý|V|quản lý|小李是學企業管理的，而且能力不錯，一定能把工廠管理得很好。|Tiểu Lý học quản trị doanh nghiệp, năng lực khá, nhất định quản lý nhà máy tốt.
+管理員|guǎnlǐyuán|quản lý viên|N|người quản lý, bảo vệ toà nhà|我們這棟大樓的管理員很負責，燈壞了馬上修理好。|Người quản lý toà nhà chúng tôi rất có trách nhiệm, đèn hỏng là sửa ngay.
+廢棄物|fèiqìwù|phế khí vật|N|chất thải|你們醫院的廢棄物不能隨便亂扔，否則不但會污染環境，還可能會傷到人。|Chất thải bệnh viện không được vứt bừa, nếu không vừa ô nhiễm môi trường vừa có thể làm người khác bị thương.
+廢物|fèiwù|phế vật|N|đồ bỏ đi; kẻ vô dụng|我沒有花瓶，你把花放在這個寶特瓶裡吧，這就是廢物利用。|Tôi không có lọ hoa, bạn cắm hoa vào chai nhựa này, đây là tận dụng đồ bỏ.
+廢料|fèiliào|phế liệu|N|phế liệu, chất thải|核電廠最大的問題就是核廢料很難處理。|Vấn đề lớn nhất của nhà máy điện hạt nhân là chất thải hạt nhân rất khó xử lý.
+廢話|fèihuà|phế thoại|N|lời vô nghĩa, nói nhảm|我弟弟說了半天，跟這個題目完全沒有關係，都是廢話。|Em tôi nói cả buổi chẳng liên quan gì đến đề, toàn nói nhảm.
+不至於|bú zhìyú|bất chí ư|PH|không đến mức|我的記性雖然不好，可是還不至於忘了自己家的電話號碼。|Trí nhớ tôi tuy kém nhưng không đến mức quên số điện thoại nhà mình.
+按喇叭|àn lǎbā|án lạt bá|VO|bấm còi|計程車司機按了幾聲喇叭，還是沒人出來坐車，他就開走了。|Tài xế taxi bấm còi mấy tiếng mà vẫn không ai ra, anh ta lái đi luôn.
+按|àn|án|V|ấn, bấm|這個照相機是全自動的，只要在這裡按一下就行了。|Máy ảnh này hoàn toàn tự động, chỉ cần bấm vào đây một cái là được.
+喇叭|lǎbā|lạt bá|N|kèn; còi xe; loa|小陳會玩的樂器當中，小喇叭最拿手。|Trong các nhạc cụ Tiểu Trần chơi được, kèn trumpet là giỏi nhất.
+抗議|kàngyì|kháng nghị|V/N|phản đối, biểu tình phản đối|政府減少了給學校的經費，引起了學生的抗議。|Chính phủ cắt kinh phí cho trường học, gây ra sự phản đối của sinh viên.
+噪音|zàoyīn|táo âm|N|tiếng ồn|你音響開得那麼大聲，音樂都變成噪音了。|Bạn mở loa to thế, nhạc thành tiếng ồn mất rồi.
+該|gāi|cai|CV|đến lượt (ai)|我們輪流打掃房間，今天該我室友來做了。|Chúng tôi thay phiên dọn phòng, hôm nay đến lượt bạn cùng phòng tôi.
+退錢|tuìqián|thoái tiền|VO|trả lại tiền, hoàn tiền|店員說這件衣服如果不合適，可以拿去換，但是不可以退錢。|Nhân viên nói nếu áo không vừa có thể đổi nhưng không được trả lại tiền.
+退步|tuìbù|thoái bộ|VO|thụt lùi, sa sút|李愛美這學期很不用功，成績退步了很多。|Lý Ái Mỹ học kỳ này không chăm, thành tích sa sút nhiều.
+要命|yàomìng|yếu mệnh|SV/VO|… muốn chết, cực kỳ; đòi mạng|小錢申請到了兩個獎學金，高興得要命。|Tiểu Tiền xin được hai học bổng, vui muốn chết.
+不耐煩|bú nàifán|bất nại phiền|SV|mất kiên nhẫn, sốt ruột|那個故事，老闆已經說了好幾次了，我們都聽得不耐煩了。|Câu chuyện đó sếp đã kể mấy lần rồi, chúng tôi nghe phát chán.
+耐心|nàixīn|nại tâm|N|sự kiên nhẫn|你想當護士就得有耐心，否則碰到不合作的病人，一定受不了。|Muốn làm y tá phải kiên nhẫn, không thì gặp bệnh nhân không hợp tác chắc chắn không chịu nổi.
+寶特瓶|bǎotèpíng|bảo đặc bình|N|chai nhựa PET||
+V掉|V diào|V điệu|RC|V mất, V hết (bổ ngữ chỉ sự hoàn tất, mất đi)|水果不能帶上飛機，你在這裡吃掉吧！|Hoa quả không được mang lên máy bay, bạn ăn hết ở đây đi!
+塑膠|sùjiāo|tố giao|N|nhựa, chất dẻo|為了保護環境，我們最好少用塑膠袋，多用紙袋。|Để bảo vệ môi trường, nên dùng ít túi nilon, dùng nhiều túi giấy.
+輪胎|lúntāi|luân thai|N|lốp xe|我騎腳踏車，騎到半路，忽然騎不動了，才發現輪胎沒氣了。|Đạp xe được nửa đường bỗng đạp không nổi, mới phát hiện lốp hết hơi.
+輪子|lúnzi|luân tử|N|bánh xe||
+尿布|niàobù|niệu bố|N|tã|小張沒有帶孩子的經驗，尿布都包不好，孩子一動，就鬆開了。|Tiểu Trương không có kinh nghiệm trông con, quấn tã không chặt, đứa bé cựa một cái là tuột.
+尿|niào|niệu|N/V|nước tiểu; đi tiểu (= 小便)|車上沒有廁所，你們小孩子別喝太多水，免得等會兒想尿尿就麻煩了。|Trên xe không có toilet, các con đừng uống nhiều nước, kẻo lát buồn tiểu thì phiền.
+埋|mái|mai|V|chôn|小林把偷來的錢埋在院子裡的一棵大樹下了。|Tiểu Lâm chôn số tiền ăn trộm dưới gốc cây lớn trong sân.
+二氧化碳|èr yǎng huà tàn|nhị dưỡng hoá thán|N|khí CO2||
+氧氣|yǎngqì|dưỡng khí|N|khí oxy|有些人到了很高的山上會有高山症，那是因為高山上的氧氣不夠。|Có người lên núi rất cao bị say độ cao, đó là vì trên núi cao thiếu oxy.
+溫室效應|wēnshì xiàoyìng|ôn thất hiệu ứng|N|hiệu ứng nhà kính||
+癌症|áizhèng|nham chứng|N|bệnh ung thư||
+皮膚癌|pífū'ái|bì phu nham|N|ung thư da|太陽曬多了，容易得皮膚癌，你要小心。|Phơi nắng nhiều dễ bị ung thư da, bạn phải cẩn thận.
+冰河|bīnghé|băng hà|N|sông băng||
+科學家|kēxuéjiā|khoa học gia|N|nhà khoa học||
+科學|kēxué|khoa học|N/SV|khoa học; có tính khoa học|這些資料，你可以用電腦查，這樣一張一張地找，太不科學了吧？！|Tài liệu này bạn tra bằng máy tính được, tìm từng tờ một như thế thật không khoa học?!
+科技|kējì|khoa kỹ|N|khoa học kỹ thuật|生命科學研究人類遺傳的問題，很多國家都在發展這方面的科技。|Khoa học sự sống nghiên cứu vấn đề di truyền của loài người, nhiều nước đang phát triển khoa học kỹ thuật lĩnh vực này.
+發明|fāmíng|phát minh|V/N|phát minh|愛迪生發明電燈以後，人類的生活更方便了。|Sau khi Edison phát minh ra đèn điện, cuộc sống loài người tiện lợi hơn.
+#GRAMMAR
+並不是A，而是B|"Không phải là A mà là B": phủ định A để khẳng định B, 並 nhấn mạnh sự phủ định.|舊報紙並不是垃圾，而是可以回收的資源。|Báo cũ không phải rác mà là tài nguyên tái chế được.|我不讓你騎摩托車，並不是要限制你的自由，而是想保護你。|Anh không cho em đi xe máy không phải để hạn chế tự do mà là muốn bảo vệ em.
+經過……|"Trải qua, qua …": sau một quá trình, một khoảng thời gian hay một hoạt động thì đạt được kết quả.|經過這麼多年的努力，你們環保的成績怎麼樣？|Trải qua bao năm nỗ lực, thành tích bảo vệ môi trường của các bạn thế nào?|經過醫生的治療，他的病好多了。|Qua điều trị của bác sĩ, bệnh của anh ấy đỡ nhiều.
+不至於|"Không đến mức …": tình hình chưa đến mức nghiêm trọng như vậy.|如果大家都認真遵守環保法律，也許污染的情形就不至於那麼嚴重了。|Nếu mọi người đều nghiêm túc tuân thủ luật môi trường, có lẽ ô nhiễm đã không đến mức nghiêm trọng như vậy.|我的記性雖然不好，可是還不至於忘了自己家的電話號碼。|Trí nhớ tôi tuy kém nhưng không đến mức quên số điện thoại nhà mình.
+又不/又沒……|"Có … đâu": 又 tăng giọng phản bác, ý "đâu phải như bạn nghĩ".|別緊張，我又沒有一直按！我才按了一聲而已。|Đừng căng thẳng, tôi có bấm mãi đâu! Tôi mới bấm một tiếng thôi.|你怕什麼？他又不會吃了你。|Bạn sợ gì? Anh ta có ăn thịt bạn đâu.
+該N(V)|"Đến lượt N (làm gì)": 該 + người, chỉ đến phiên ai làm việc gì.|今天該她倒垃圾。|Hôm nay đến lượt cô ấy đổ rác.|我們輪流打掃房間，今天該我室友來做了。|Chúng tôi thay phiên dọn phòng, hôm nay đến lượt bạn cùng phòng tôi.
+SV得要命|"… muốn chết, … kinh khủng": mức độ cực cao, gần như không chịu nổi.|平常都是我們自己提回來，重得要命。|Bình thường đều tự xách về, nặng muốn chết.|小錢申請到了兩個獎學金，高興得要命。|Tiểu Tiền xin được hai học bổng, vui muốn chết.
+不能不|"Không thể không, buộc phải": phủ định hai lần để khẳng định mạnh.|我看情形已經嚴重得不能不重視了。|Tôi thấy tình hình đã nghiêm trọng đến mức không thể không coi trọng.|明天考試，今天晚上我不能不念書。|Mai thi rồi, tối nay tôi không thể không học bài.
+V著V著就……|"Đang V thì bỗng …": trong lúc làm việc gì đó thì xảy ra một việc khác (thường không để ý).|哎喲！說著說著就到了，真快啊！|Ồ! Nói chuyện một lúc đã đến nơi, nhanh thật!|他看著看著就睡著了。|Anh ấy xem một lúc rồi ngủ thiếp đi.
+說來說去|"Nói đi nói lại, rốt cuộc thì": sau khi bàn nhiều, đưa ra kết luận.|說來說去，還是要靠我們自己認真做好環保。|Nói đi nói lại, vẫn phải dựa vào chính chúng ta bảo vệ môi trường.|說來說去，問題還是錢不夠。|Nói đi nói lại, vấn đề vẫn là không đủ tiền.

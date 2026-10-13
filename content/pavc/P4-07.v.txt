@@ -1,0 +1,85 @@
+#VOCAB
+親眼|qīnyǎn|thân nhãn|A|tận mắt|你沒有親眼看見，怎麼能說老林偷了你的錢？|Bạn không tận mắt nhìn thấy sao lại nói lão Lâm lấy trộm tiền của bạn?
+親口|qīnkǒu|thân khẩu|A|chính miệng (nói)|小趙要出國留學，是他親口告訴我們的，一定不會錯。|Tiểu Triệu sắp đi du học là chính miệng cậu ấy nói với chúng tôi, chắc chắn không sai.
+親耳|qīn'ěr|thân nhĩ|A|tận tai (nghe)|當然是真的，我親耳聽到小王說他喜歡你。|Tất nhiên là thật, tôi tận tai nghe Tiểu Vương nói thích bạn.
+親手|qīnshǒu|thân thủ|A|tự tay|這件夾克是我媽親手做的，穿起來特別溫暖。|Chiếc áo khoác này mẹ tôi tự tay may, mặc vào đặc biệt ấm áp.
+親自|qīnzì|thân tự|A|đích thân, tự mình|這個東西，你不要叫別人來拿，你親自來，我才給你。|Thứ này bạn đừng nhờ người khác đến lấy, bạn đích thân đến tôi mới đưa.
+信心|xìnxīn|tín tâm|N|lòng tin, sự tự tin|做生意，我有很多經驗。這次跟你們公司合作，我有信心一定能成功。|Làm ăn tôi có nhiều kinh nghiệm. Lần này hợp tác với công ty các bạn, tôi tin chắc sẽ thành công.
+可惡|kěwù|khả ố|SV/IE|đáng ghét, đáng giận|老陳不來，也不打個電話告訴我們，害我們一直等，真可惡。|Lão Trần không đến cũng chẳng gọi báo, làm chúng tôi chờ mãi, thật đáng ghét.
+騙|piàn|biển|V|lừa, lừa dối|小林昨天沒寫功課，卻騙老師他忘了帶來。|Hôm qua Tiểu Lâm không làm bài tập, lại nói dối thầy là quên mang.
+騙子|piànzi|biển tử|N|kẻ lừa đảo|我在火車站碰到一個人，他說他沒錢買車票，後來才發現他是個騙子，我被騙了。|Tôi gặp một người ở ga, anh ta nói không có tiền mua vé, sau mới phát hiện là kẻ lừa đảo, tôi bị lừa rồi.
+分手|fēnshǒu|phân thủ|V|chia tay|小張又抽菸、又喝酒、又打牌，怎麼都改不了，女朋友受不了，就跟他分手了。|Tiểu Trương vừa hút thuốc vừa uống rượu vừa đánh bài, sửa mãi không được, bạn gái không chịu nổi nên chia tay.
+解釋|jiěshì|giải thích|V/N|giải thích; lời giải thích|我並不想跟你分手，你弄錯我的意思了，為什麼不聽我解釋呢？|Anh không hề muốn chia tay em, em hiểu sai ý anh rồi, sao không nghe anh giải thích?
+誤會|wùhuì|ngộ hội|V/N|hiểu lầm|這是一個誤會，我弟弟不是要偷你的箱子，只是拿錯了。|Đây là một hiểu lầm, em tôi không định lấy trộm vali của bạn, chỉ cầm nhầm thôi.
+發生|fāshēng|phát sinh|V|xảy ra|地震是下午一點十分發生的。|Trận động đất xảy ra lúc 1 giờ 10 chiều.
+求|qiú|cầu|V|cầu xin, van nài|我已經三天沒吃飯了，求求你給我一點錢。|Tôi ba ngày chưa ăn gì rồi, xin anh cho tôi ít tiền.
+要求|yāoqiú|yêu cầu|N/V|yêu cầu, đòi hỏi|老闆要求我們一定要準時上班，做不到就扣錢。|Ông chủ yêu cầu chúng tôi phải đi làm đúng giờ, không làm được thì trừ lương.
+心軟|xīnruǎn|tâm nhuyễn|V|mềm lòng|你弟弟已經賭輸了幾十萬了。你不能心軟，不管他說什麼，你都不能答應借錢給他。|Em bạn thua bạc mấy trăm nghìn rồi. Bạn không được mềm lòng, nó nói gì cũng không được cho vay tiền.
+軟|ruǎn|nhuyễn|SV|mềm|老人的牙多半不好，只能吃軟的東西。|Răng người già phần nhiều không tốt, chỉ ăn được đồ mềm.
+軟體|ruǎntǐ|nhuyễn thể|N|phần mềm (máy tính)|我還沒有裝中文軟體，所以我的電腦不能打中文。|Tôi chưa cài phần mềm tiếng Trung nên máy tính không gõ được chữ Trung.
+原諒|yuánliàng|nguyên lượng|V|tha thứ|這次是我錯了，請你原諒我吧！不要再生氣了。|Lần này là anh sai, em tha thứ cho anh nhé! Đừng giận nữa.
+花|huā|hoa|SV|trăng hoa, lăng nhăng|我老哥很花，常常換女朋友。|Anh tôi rất trăng hoa, thay bạn gái liên tục.
+花花公子|huāhuā gōngzǐ|hoa hoa công tử|N|kẻ trăng hoa, playboy||
+老是|lǎoshì|lão thị|A|lúc nào cũng, cứ hay|這個字的發音，你怎麼老是說錯？我已經改過你好多次了。|Phát âm chữ này sao bạn cứ nói sai mãi? Tôi sửa cho bạn nhiều lần rồi.
+腳踏兩條船|jiǎo tà liǎng tiáo chuán|cước đạp lưỡng điều thuyền|IE|bắt cá hai tay|小王是個花花公子，常常腳踏兩條船，有時候還同時交三、四個女朋友呢！|Tiểu Vương là kẻ trăng hoa, hay bắt cá hai tay, có lúc còn cặp ba bốn cô cùng lúc!
+口才|kǒucái|khẩu tài|N|tài ăn nói|老張的口才真好，能把黑的說成白的，死的說成活的。|Lão Trương ăn nói thật giỏi, có thể nói đen thành trắng, chết thành sống.
+傷心|shāngxīn|thương tâm|SV/VO|đau lòng, buồn|小妹妹的狗死了，她哭得好傷心。|Con chó của em gái chết, em khóc rất đau lòng.
+話說回來|huà shuō huílái|thoại thuyết hồi lai|IE|nói đi cũng phải nói lại|這次是你男朋友錯了，可是話說回來，誰能不犯錯呢？|Lần này là bạn trai bạn sai, nhưng nói đi cũng phải nói lại, ai mà không mắc lỗi?
+變心|biànxīn|biến tâm|VO|thay lòng đổi dạ|我女朋友好幾次都不接我的電話，我想她一定是變心，愛上別人了。|Bạn gái tôi mấy lần không nghe máy, tôi nghĩ chắc cô ấy thay lòng, yêu người khác rồi.
+痛苦|tòngkǔ|thống khổ|N/SV|đau khổ|這個工作壓力太大，為了生活，卻又不得不做，真是痛苦。|Công việc này áp lực quá lớn, vì cuộc sống lại không thể không làm, thật đau khổ.
+再說|zàishuō|tái thuyết|A|hơn nữa; để sau hẵng tính|你罵孩子有什麼用？再說這件事也不是他一個人的錯。|Bạn mắng con có ích gì? Hơn nữa việc này cũng không phải lỗi của mình nó.
+談戀愛|tán liàn'ài|đàm luyến ái|VO|yêu đương, hẹn hò|我聽我爸說他跟我媽談戀愛的時候，沒什麼錢，只能跟我媽在公園散散步。|Bố tôi kể hồi yêu mẹ tôi không có tiền, chỉ đi dạo công viên với mẹ.
+戀愛|liàn'ài|luyến ái|V/N|yêu; tình yêu|我妹妹認識小王以後，變得比以前溫柔、漂亮了，我想她大概是戀愛了。|Từ khi quen Tiểu Vương, em tôi dịu dàng xinh đẹp hơn trước, chắc là đang yêu.
+打傘|dǎsǎn|đả tán|VO|che ô|臺灣女孩怕曬黑，晴天出門一定打傘。|Con gái Đài Loan sợ đen da, trời nắng ra ngoài nhất định che ô.
+傘|sǎn|tán|N|ô, dù||
+雨傘|yǔsǎn|vũ tán|N|ô che mưa||
+陽傘|yángsǎn|dương tán|N|dù che nắng||
+毛巾|máojīn|mao cân|N|khăn mặt, khăn tắm||
+毛|máo|mao|N|lông|你的狗，毛好黑好亮，真漂亮。|Con chó của bạn lông đen bóng, đẹp thật.
+毛衣|máoyī|mao y|N|áo len||
+擦|cā|sát|V|lau, chùi; bôi, thoa|這是我的洗臉毛巾，你怎麼拿來擦桌子？！|Đây là khăn rửa mặt của tôi, sao bạn lại lấy lau bàn?!
+作文|zuòwén|tác văn|N|bài văn, bài tập làm văn|老丁從前念書的時候，作文成績就很好，現在當了記者，文章寫得更棒了。|Hồi đi học lão Đinh viết văn đã giỏi, giờ làm phóng viên viết càng hay.
+心情|xīnqíng|tâm tình|N|tâm trạng|我這次考得很糟糕，所以心情很不好，真想哭。|Lần này tôi thi tệ quá nên tâm trạng rất tồi, thật muốn khóc.
+勸|quàn|khuyến|V|khuyên|小李一直咳嗽，我們都勸他別再抽菸了。|Tiểu Lý ho mãi, chúng tôi đều khuyên cậu ấy đừng hút thuốc nữa.
+想開|xiǎngkāi|tưởng khai|RC|nghĩ thoáng, nghĩ thông|王先生變心以後，王太太一直很難過。最近才想開了，發現一個人也可以過得很好。|Sau khi ông Vương thay lòng, bà Vương buồn mãi. Gần đây mới nghĩ thông, thấy một mình cũng sống tốt.
+安慰|ānwèi|an uỷ|V/N|an ủi|小英一個人在屋子裡哭呢！你去安慰安慰她吧。|Tiểu Anh đang khóc một mình trong phòng! Bạn đi an ủi cô ấy đi.
+失戀|shīliàn|thất luyến|V|thất tình|我哥剛失戀的時候，不但對自己沒有信心，也不敢再交女朋友了。|Hồi anh tôi mới thất tình, không chỉ mất tự tin mà còn không dám quen bạn gái nữa.
+失望|shīwàng|thất vọng|SV|thất vọng|陳太太生日那天，做了一桌的菜，沒想到先生有事，不能回來吃飯，她失望極了。|Hôm sinh nhật bà Trần nấu cả mâm cơm, không ngờ chồng có việc không về ăn được, bà thất vọng vô cùng.
+自殺|zìshā|tự sát|V|tự tử|大部分的學校都有心理輔導室，幫助想自殺的學生，讓他們知道活著是有希望的。|Phần lớn trường học đều có phòng tư vấn tâm lý, giúp học sinh có ý định tự tử hiểu rằng sống là có hy vọng.
+殺|shā|sát|V|giết|這種新發現的病，病毒很厲害，什麼藥都殺不死。|Căn bệnh mới phát hiện này virus rất mạnh, thuốc gì cũng không diệt được.
+結婚|jiéhūn|kết hôn|VO|kết hôn|王美美父母不喜歡小張，所以不同意她跟小張結婚。|Bố mẹ Vương Mỹ Mỹ không thích Tiểu Trương nên không đồng ý cho cô cưới Tiểu Trương.
+訂婚|dìnghūn|đính hôn|VO|đính hôn|錢小姐跟小陳訂婚半年以後，發現個性不合，就分手了。|Cô Tiền đính hôn với Tiểu Trần được nửa năm thì thấy tính cách không hợp nên chia tay.
+求婚|qiúhūn|cầu hôn|N/VO|cầu hôn|你們認識才兩個禮拜，你就答應他的求婚，會不會太快了？|Hai người mới quen hai tuần mà bạn đã nhận lời cầu hôn, có nhanh quá không?
+懷孕|huáiyùn|hoài dựng|VO|mang thai|張太太懷孕了，醫生勸她為了小孩的健康，不可以再抽菸、喝酒了。|Bà Trương có thai, bác sĩ khuyên vì sức khoẻ của con thì không được hút thuốc uống rượu nữa.
+避孕|bìyùn|tị dựng|VO/N|tránh thai|高太太現在還不想懷孕，所以每天吃避孕藥。|Bà Cao hiện chưa muốn có thai nên ngày nào cũng uống thuốc tránh thai.
+墮胎|duòtāi|đoạ thai|VO|phá thai|醫生告訴李小姐：「妳再墮一次胎，以後就不可能再懷孕了。」|Bác sĩ nói với cô Lý: "Cô phá thai thêm lần nữa thì sau này không thể có thai nữa."
+胎兒|tāi'ér|thai nhi|N|thai nhi|很多人都以為孩子生出來才開始接受教育，其實胎兒在媽媽肚子裡已經開始學習了。|Nhiều người tưởng trẻ sinh ra mới bắt đầu được giáo dục, thật ra thai nhi trong bụng mẹ đã bắt đầu học rồi.
+生命|shēngmìng|sinh mệnh|N|sinh mạng, sự sống|抽菸、喝酒、吸毒都對身體有很大的傷害，好像在用生命賭博一樣。|Hút thuốc, uống rượu, dùng ma tuý đều rất hại sức khoẻ, như đang đánh cược bằng mạng sống.
+養|yǎng|dưỡng|V|nuôi|有的老人怕孤單，就養一隻貓來陪自己。|Có người già sợ cô đơn nên nuôi một con mèo bầu bạn.
+收養|shōuyǎng|thu dưỡng|V|nhận nuôi|林太太卻不能生，就收養了妹妹的小女兒，希望將來老了有人照顧。|Bà Lâm không sinh được nên nhận nuôi con gái út của em gái, mong về già có người chăm sóc.
+領養|lǐngyǎng|lĩnh dưỡng|V|nhận con nuôi|她從小就知道自己是領養的，可是養父母都對她很好，像親生的一樣。|Từ nhỏ cô đã biết mình là con nuôi, nhưng bố mẹ nuôi đối xử với cô rất tốt, như con đẻ.
+即使|jíshǐ|tức sử|A|cho dù, ngay cả khi|哥哥已經決定了，不必勸了，即使媽不同意，他也會去做的。|Anh đã quyết rồi, không cần khuyên, cho dù mẹ không đồng ý anh cũng sẽ làm.
+保守|bǎoshǒu|bảo thủ|SV|bảo thủ|老李個性相當保守，從來不敢嘗試新的東西。|Lão Lý tính khá bảo thủ, chưa bao giờ dám thử cái mới.
+與其……，不如……|yǔqí …, bùrú …|dữ kỳ … bất như …|PT|… chi bằng …, thà … còn hơn|天氣這麼好，與其在家裡睡覺，不如出去走走。|Trời đẹp thế này, ở nhà ngủ chi bằng ra ngoài đi dạo.
+性教育|xìng jiàoyù|tính giáo dục|N|giáo dục giới tính|小孩子對性都很好奇，所以性教育是非常重要的。|Trẻ con đều tò mò về giới tính nên giáo dục giới tính rất quan trọng.
+同性戀|tóngxìngliàn|đồng tính luyến|N|đồng tính luyến ái|小張是同性戀，對女孩子沒興趣。|Tiểu Trương là người đồng tính, không hứng thú với con gái.
+糊裡糊塗|hú lǐ hú tú|hồ lý hồ đồ|SV/A|mơ mơ hồ hồ, lơ mơ|小林大學沒念什麼書，糊裡糊塗地就畢業了。|Tiểu Lâm học đại học chẳng học hành gì, cứ lơ mơ thế mà tốt nghiệp.
+未婚媽媽|wèihūn māmā|vị hôn ma ma|N|mẹ đơn thân (chưa kết hôn)||
+未婚|wèihūn|vị hôn|AT|chưa kết hôn|小李已經結婚了，為什麼護照上還是「未婚」？|Tiểu Lý đã kết hôn rồi, sao hộ chiếu vẫn ghi "chưa kết hôn"?
+傳染病|chuánrǎn bìng|truyền nhiễm bệnh|N|bệnh truyền nhiễm|愛滋病這種傳染病，有沒有辦法可以醫？|Bệnh truyền nhiễm như AIDS có cách chữa không?
+傳染|chuánrǎn|truyền nhiễm|V|lây, lây nhiễm|我感冒、咳嗽好幾天了，我怕傳染給同學，上課的時候都戴著口罩。|Tôi cảm ho mấy hôm rồi, sợ lây cho bạn nên lên lớp đều đeo khẩu trang.
+染|rǎn|nhiễm|V|nhuộm; nhiễm (thói xấu)|小林在社會上工作以後，就染上了一些壞習慣，像抽菸、喝酒什麼的。|Từ khi đi làm, Tiểu Lâm nhiễm một số thói xấu như hút thuốc, uống rượu.
+保險套|bǎoxiǎntào|bảo hiểm sáo|N|bao cao su||
+保險|bǎoxiǎn|bảo hiểm|VO/N/SV|bảo hiểm; an toàn|錢放在家裡不保險，還是存在銀行比較好。|Để tiền ở nhà không an toàn, gửi ngân hàng tốt hơn.
+套|tào|sáo|M|bộ (sách, đồ dùng)|這套百科全書一共有二十本。|Bộ bách khoa toàn thư này tổng cộng hai mươi quyển.
+手套|shǒutào|thủ sáo|N|găng tay|天這麼冷，不戴手套出門，手就冷得受不了。|Trời lạnh thế này, ra ngoài không đeo găng thì tay lạnh không chịu nổi.
+宣傳|xuānchuán|tuyên truyền|V/N|tuyên truyền, quảng bá|老張新開了一家飯館，請我們幾個好朋友多幫他宣傳。|Lão Trương mới mở quán ăn, nhờ mấy người bạn thân quảng bá giúp.
+#GRAMMAR
+(S)就是A，才B|"Chính vì A nên mới B": 就是 nhấn mạnh khẳng định, mang giọng phản bác; tình huống sau 才 là do A gây ra.|我就是太了解他了，才這麼沒信心。|Chính vì tôi quá hiểu anh ta nên mới mất lòng tin như vậy.|我就是怕胖，才不吃甜的。|Chính vì sợ béo nên tôi mới không ăn đồ ngọt.
+有什麼好V(O)/SV的？！|"Có gì mà phải …?!": câu phản vấn tỏ ý không đồng tình, không cần thiết; 好 nghĩa "đáng, cần". Có thể kèm sự bất lực, mất kiên nhẫn — nên tránh khi cần lịch sự.|有什麼好問的？！我對他那麼好，他卻騙我。|Có gì mà phải hỏi?! Tôi đối tốt với anh ta thế mà anh ta lại lừa tôi.|有什麼好緊張的？！不過是個小考。|Có gì mà phải căng thẳng?! Chỉ là bài kiểm tra nhỏ thôi.
+話說回來|"Nói đi cũng phải nói lại": thừa nhận ý trước nhưng cho rằng ý sau có lý hơn.|難怪你這麼傷心。可是話說回來，如果你老是擔心他會變心，不是也很痛苦嗎？|Thảo nào bạn buồn thế. Nhưng nói đi cũng phải nói lại, cứ lo anh ta thay lòng chẳng phải cũng khổ sao?|這次是你男朋友錯了，可是話說回來，誰能不犯錯呢？|Lần này bạn trai bạn sai, nhưng nói lại thì ai mà không mắc lỗi?
+再說|"Hơn nữa, vả lại": nối thêm một lý do mà người nói muốn nhắc người nghe chú ý (khác 而且 nối hai vế ngang nhau).|太不值得了！再說你這麼聰明漂亮，還怕沒有人愛嗎？|Quá không đáng! Hơn nữa bạn thông minh xinh đẹp thế, còn sợ không ai yêu sao?|這棟公寓交通不方便，再說房租也不便宜，我看還是另外找吧！|Căn hộ này đi lại bất tiện, vả lại tiền thuê cũng không rẻ, tìm chỗ khác thôi!
+再也不V了|"Không bao giờ … nữa": quyết định dứt khoát, thường sau khi bị tổn thương hay rút ra bài học; 了 không bỏ được.|我再也不要談戀愛了，太痛苦了！|Tôi sẽ không bao giờ yêu nữa, khổ quá!|我怎麼勸小李，他都不聽，我再也不管他的事了。|Khuyên Tiểu Lý thế nào cũng không nghe, tôi không bao giờ lo chuyện của cậu ta nữa.
+誰知道……？|"Ai mà biết/ngờ …?": câu phản vấn, ý là không ngờ lại xảy ra chuyện như vậy.|我出門的時候，雨很小，誰知道會越下越大呢？|Lúc tôi ra khỏi nhà mưa nhỏ, ai ngờ càng lúc càng to?|我只是開個玩笑，誰知道她就哭了？|Tôi chỉ đùa thôi, ai ngờ cô ấy lại khóc?
+即使……也……|"Cho dù … cũng …": nêu giả thiết, nghĩa như 就是……也 nhưng trang trọng hơn.|即使能墮胎，對母親也是很大的傷害。|Cho dù có phá thai được thì với người mẹ cũng là tổn thương lớn.|哥哥已經決定了，即使媽不同意，他也會去做的。|Anh đã quyết rồi, cho dù mẹ không đồng ý anh cũng sẽ làm.
+與其A，不如B|"A chi bằng B", "thà B còn hơn A": so sánh hai lựa chọn, người nói chọn B.|墮胎這個問題很複雜，與其墮胎，不如避孕。|Chuyện phá thai rất phức tạp, phá thai chi bằng tránh thai.|天氣這麼好，與其在家裡睡覺，不如出去走走。|Trời đẹp thế, ở nhà ngủ chi bằng ra ngoài dạo chơi.

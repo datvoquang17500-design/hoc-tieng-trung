@@ -1,0 +1,49 @@
+#UNIT P4-10|PAVC4 · L10 交通的問題
+#CONVO PAVC4 · L10 交通的問題
+|（活動中心外面）|(Bên ngoài trung tâm hoạt động)
+偉立|欸？那個穿紅上衣的是不是美真？|Ơ? Người mặc áo đỏ kia có phải Mỹ Chân không?
+建國|我也不敢確定，我來叫叫看。謝美真！|Tớ cũng không dám chắc, để tớ gọi thử. Tạ Mỹ Chân!
+美真|原來是你們。怎麼都在這兒？|Hoá ra là các bạn. Sao lại ở đây cả thế?
+偉立|我上完課，剛一出教室，就碰到了建國。我們看太陽這麼好，就決定來這兒曬曬太陽，聊聊天。|Tớ học xong, vừa ra khỏi lớp thì gặp Kiến Quốc. Bọn tớ thấy nắng đẹp nên quyết định ra đây phơi nắng, tán gẫu.
+美真|太陽一出來，就有男生脫了上衣、女生脫了鞋子，隨便找個地方坐下曬太陽，我看了真不習慣。|Mặt trời vừa ló ra là có con trai cởi áo, con gái cởi giày, tìm đại chỗ ngồi xuống phơi nắng, tôi nhìn thật không quen.
+建國|看多了就習慣了。好久沒看見你了，忙什麼啊？|Nhìn nhiều sẽ quen. Lâu lắm không gặp bạn, bận gì thế?
+美真|期中考跟報告啊！另外就是幫同學會收捐款。|Thi giữa kỳ với báo cáo! Ngoài ra là giúp hội đồng hương thu tiền quyên góp.
+建國|噢，對了！我收到通知了。你說的捐款就是給那對出車禍的夫婦的吧？|À đúng rồi! Tớ nhận được thông báo rồi. Tiền quyên góp bạn nói là cho cặp vợ chồng bị tai nạn xe phải không?
+偉立|怎麼回事兒？誰出車禍了？|Chuyện gì vậy? Ai bị tai nạn xe?
+美真|有一對留學生夫婦，上個週末帶著孩子開車出去玩，回來的時候，遇上一場大雨。大概因為路滑，又看不清楚，就撞上了對面來的大車。先生來不及急救，當場就死了。|Có một cặp vợ chồng du học sinh, cuối tuần trước chở con lái xe đi chơi, lúc về gặp một trận mưa to. Có lẽ vì đường trơn, lại nhìn không rõ, nên đâm vào chiếc xe lớn đi ngược chiều. Người chồng không kịp cấp cứu, chết tại chỗ.
+偉立|太太怎麼樣？|Người vợ thế nào?
+美真|太太昏迷不醒，被抬上救護車送到醫院動手術，輸了很多血，因為傷得太重，成了植物人了。唉，好好的一對夫妻，一死一傷，真可憐！|Người vợ hôn mê bất tỉnh, được khiêng lên xe cứu thương đưa đến bệnh viện phẫu thuật, truyền rất nhiều máu, vì bị thương quá nặng nên thành người thực vật. Haizz, một đôi vợ chồng đang yên lành, một chết một bị thương, thật tội nghiệp!
+建國|孩子呢？|Còn đứa con?
+美真|他坐在後座，只是輕傷，在急診室擦了點藥，當天就出院了。可是很多事情學校沒辦法處理，已經通知他們在台灣的家人了。|Cháu ngồi ghế sau, chỉ bị thương nhẹ, ở phòng cấp cứu bôi chút thuốc, ngay hôm đó đã ra viện. Nhưng nhiều việc nhà trường không xử lý được, đã báo cho gia đình họ ở Đài Loan rồi.
+建國|為什麼捐錢呢？他們的經濟情況不好嗎？|Sao lại quyên tiền? Tình hình kinh tế của họ không tốt à?
+美真|這對夫婦靠獎學金跟太太打工賺的錢生活。雖然平常很節省，還是沒留下什麼錢。而且這個孩子才十歲，父母又都出了事，所以我們想捐點錢好幫助他。|Cặp vợ chồng này sống nhờ học bổng và tiền người vợ làm thêm. Tuy bình thường rất tiết kiệm nhưng vẫn không để dành được bao nhiêu. Hơn nữa đứa bé mới 10 tuổi mà bố mẹ đều gặp chuyện, nên chúng tôi muốn quyên ít tiền để giúp cháu.
+偉立|真可憐！我也捐一點兒吧！|Tội nghiệp quá! Tớ cũng quyên một ít!
+|（在酒館）|(Ở quán rượu)
+陸康|上個周末我開車去看朋友，沒想到他們那兒的交通那麼亂。我在市區找了半天，也沒看見一個停車位，而且我發現停車費都貴得不得了。|Cuối tuần trước tôi lái xe đi thăm bạn, không ngờ giao thông chỗ họ lộn xộn thế. Tôi tìm cả buổi trong nội thành mà không thấy chỗ đỗ xe nào, lại còn phát hiện phí đỗ xe đắt kinh khủng.
+偉立|你下次去，把車停在郊區的停車場，再坐地下鐵進市區，既省錢又省時間。|Lần sau bạn đi thì đỗ xe ở bãi đỗ ngoại ô, rồi đi tàu điện ngầm vào nội thành, vừa tiết kiệm tiền vừa tiết kiệm thời gian.
+陸康|這倒是個好辦法。欸，對了，美真，給那對夫婦的捐款，你收到多少了？|Đó đúng là cách hay. À này Mỹ Chân, tiền quyên góp cho cặp vợ chồng đó bạn thu được bao nhiêu rồi?
+美真|大概四千五百塊左右，應該會超過五千塊。|Khoảng 4.500 đồng, chắc sẽ vượt 5.000.
+陸康|因為地方報上也登了這個消息，大家都很同情他們，現在不止是我們學校的學生，連一般市民也捐錢了。|Vì báo địa phương cũng đăng tin này, mọi người đều rất thương họ, giờ không chỉ sinh viên trường mình mà cả người dân bình thường cũng quyên tiền.
+美真|這裡的馬路很寬，路況也很好，大家也都遵守交通規則，要不是下雨路滑，大概不會出這麼大的車禍。|Đường ở đây rất rộng, tình trạng đường cũng tốt, mọi người đều tuân thủ luật giao thông, nếu không phải trời mưa đường trơn thì chắc không xảy ra tai nạn lớn như vậy.
+偉立|會不會是他的速度太快，煞車煞不住，才出事的？|Có khi nào anh ta chạy quá nhanh, phanh không kịp nên mới xảy ra chuyện?
+陸康|也有可能。難怪警察常常抓那些超速的。|Cũng có thể. Thảo nào cảnh sát hay bắt những người chạy quá tốc độ.
+偉立|我從來不開快車，可是有一次參加派對，喝了一點酒，開車回家的時候，被警察抓到，開了一張罰單，真划不來。|Tôi chưa bao giờ lái nhanh, nhưng có lần đi tiệc uống chút rượu, lái xe về thì bị cảnh sát bắt, phạt một vé, thật không đáng.
+美真|誰叫你違反交通規則？！酒後開車真的很危險，所以臺灣對酒後開車的人處罰也很重。另外還有超速、闖紅燈、亂超車，也都罰得很多。|Ai bảo bạn vi phạm luật giao thông?! Lái xe sau khi uống rượu thật sự rất nguy hiểm, nên Đài Loan phạt người say rượu lái xe rất nặng. Ngoài ra chạy quá tốc độ, vượt đèn đỏ, vượt ẩu cũng đều bị phạt nặng.
+陸康|我最怕的是摩托車，塞車的時候，鑽來鑽去，甚至於騎上人行道。|Tôi sợ nhất là xe máy, lúc tắc đường cứ len lỏi tới lui, thậm chí còn chạy lên vỉa hè.
+偉立|怎麼會這樣？|Sao lại như vậy?
+陸康|你不知道，路上車多的話，騎摩托車上下班反而方便。|Bạn không biết đấy, đường đông xe thì đi xe máy đi làm lại tiện hơn.
+美真|就是這麼亂，所以我雖然有駕照，還是不敢開車。|Chính vì lộn xộn như thế nên tôi tuy có bằng lái vẫn không dám lái xe.
+陸康|台北的捷運建好了以後，交通情況不是好了很多嗎？|Sau khi tàu điện ngầm Đài Bắc xây xong, tình hình giao thông chẳng phải tốt hơn nhiều sao?
+美真|對啊。我就搭捷運，不必開車了。|Đúng vậy. Tôi đi tàu điện ngầm, không cần lái xe.
+陸康|欸，這邊的駕照，你考了嗎？|À, bằng lái bên này bạn thi chưa?
+美真|下禮拜三才考。|Thứ tư tuần sau mới thi.
+陸康|你去考試的時候，看到「停車再開」的標誌，千萬別忘了停車，也別忘了一上車就繫安全帶。|Khi đi thi, thấy biển "Dừng lại rồi đi", nhất định đừng quên dừng xe, cũng đừng quên vừa lên xe là thắt dây an toàn.
+美真|謝謝，我會注意的。|Cảm ơn, tôi sẽ chú ý.
+#Q
+美真最近忙什麼？|期中考、報告，還有幫同學會收捐款|打工|考駕照|旅行|0
+那對留學生夫婦為什麼出了車禍？|下大雨路滑又看不清楚，撞上了對面來的大車|他們喝了酒|他們闖紅燈|車子壞了|0
+車禍以後，太太怎麼樣了？|傷得太重，成了植物人|當場死了|只是輕傷|已經出院了|0
+大家為什麼要捐錢給那個孩子？|父母都出了事，家裡經濟情況不好|他要出國念書|他要買車|學校要求的|0
+偉立為什麼被警察開了罰單？|喝了一點酒還開車回家|超速|闖紅燈|亂停車|0
+偉立建議陸康下次怎麼去市區？|把車停在郊區停車場，再坐地下鐵進市區|走路去|騎摩托車|坐計程車|0
+美真雖然有駕照，為什麼不敢在臺灣開車？|交通太亂|她不會開車|車子太貴|停車費太貴|0

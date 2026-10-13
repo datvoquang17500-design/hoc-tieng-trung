@@ -5,3 +5,5 @@ deploy/
 ~$*
 .DS_Store
 Thumbs.db
+*.pdf
+*.zip

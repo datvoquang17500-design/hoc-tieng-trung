@@ -1,0 +1,84 @@
+#VOCAB
+叔叔|shúshu|thúc thúc|N|chú (em trai bố)|我父親有兩個弟弟，我大叔已經結婚了，二叔還沒有。|Bố tôi có hai em trai, chú cả đã kết hôn, chú hai thì chưa.
+誇獎|kuājiǎng|khoa tưởng|V/N|khen ngợi|老師誇獎王大明考試成績一次比一次好。|Thầy khen Vương Đại Minh thi lần sau tốt hơn lần trước.
+客戶|kèhù|khách hộ|N|khách hàng|王先生他們公司是我們最大的客戶，跟我們買了不少電腦。|Công ty ông Vương là khách hàng lớn nhất của chúng tôi, mua của chúng tôi không ít máy tính.
+筆|bǐ|bút|M|khoản (tiền); vụ (làm ăn)|我弟弟為了買房子，跟我借了一大筆錢。|Em tôi vay tôi một khoản tiền lớn để mua nhà.
+大小|dàxiǎo|đại tiểu|N|kích cỡ, độ lớn|我租的那個房間，大小比你這個大一點，可以多放一個桌子。|Phòng tôi thuê to hơn phòng bạn một chút, đặt thêm được một cái bàn.
+貿易|màoyì|mậu dịch|N|thương mại, mậu dịch|我叔叔開了一家貿易公司，進口各國的洗衣機。|Chú tôi mở một công ty thương mại, nhập khẩu máy giặt các nước.
+工廠|gōngchǎng|công xưởng|N|nhà máy, xưởng|王先生那家做鞋的工廠，每天可以做一千雙鞋。|Xưởng giày của ông Vương mỗi ngày làm được một nghìn đôi.
+樣品|yàngpǐn|dạng phẩm|N|hàng mẫu|我們公司想請你們工廠做皮包，不過，我想先看看樣品再決定。|Công ty tôi muốn nhờ xưởng các anh làm túi da, nhưng tôi muốn xem hàng mẫu trước rồi quyết định.
+幹嘛|gànmá|cán ma|IE|làm gì?; sao lại?|媽媽剛剛問你話，你幹嘛不說話？|Mẹ vừa hỏi con, sao con không nói gì?
+晚輩|wǎnbèi|vãn bối|N|hậu bối, bậc con cháu|我們雖然年紀差不多，可是你是我爸爸的表弟，所以我還是晚輩。|Tuy chúng ta tuổi xấp xỉ nhau nhưng anh là em họ của bố tôi nên tôi vẫn là bậc dưới.
+長輩|zhǎngbèi|trưởng bối|N|bậc trên, bề trên||
+前輩|qiánbèi|tiền bối|N|tiền bối|您是前輩，經驗比我豐富，以後我要多跟您請教。|Anh là tiền bối, kinh nghiệm hơn tôi, sau này tôi phải thỉnh giáo anh nhiều.
+輩子|bèizi|bối tử|M|đời, kiếp|趙先生一直住在山區，一輩子都沒看過海，所以這次到海邊玩，非常興奮。|Ông Triệu sống cả đời ở vùng núi chưa từng thấy biển, nên lần này đi biển rất phấn khích.
+烤箱|kǎoxiāng|khảo sương|N|lò nướng||
+大嫂|dàsǎo|đại tẩu|N|chị dâu cả; (gọi lịch sự) vợ của bạn|我大嫂跟我哥哥結婚以前，我都叫她李姐姐。|Trước khi chị dâu cưới anh tôi, tôi đều gọi chị ấy là chị Lý.
+網球拍|wǎngqiú pāi|võng cầu phách|N|vợt tennis||
+除非|chúfēi|trừ phi|A|trừ phi, trừ khi|你要我答應你不再喝酒，是不可能的，除非太陽從西邊出來。|Bạn muốn tôi hứa không uống rượu nữa là không thể, trừ khi mặt trời mọc đằng tây.
+外銷|wàixiāo|ngoại tiêu|V/N|xuất khẩu, bán ra nước ngoài||
+內銷|nèixiāo|nội tiêu|V/N|tiêu thụ trong nước|這種汽車外銷的價錢比內銷便宜，是為了打開外國市場。|Giá xuất khẩu loại xe này rẻ hơn giá bán trong nước, là để mở rộng thị trường nước ngoài.
+外銷量|wàixiāo liàng|ngoại tiêu lượng|N|lượng xuất khẩu|這家工廠做的襯衫都出口，每個月的外銷量大概有一百萬件。|Áo sơ mi nhà máy này làm đều xuất khẩu, lượng xuất mỗi tháng khoảng một triệu chiếc.
+品質|pǐnzhí|phẩm chất|N|chất lượng|為了提高生活品質，我姐姐決定搬到郊區去住。|Để nâng cao chất lượng cuộc sống, chị tôi quyết định chuyển ra ngoại ô sống.
+名牌|míngpái|danh bài|N|hàng hiệu, thương hiệu nổi tiếng|王太太逛街的時候，只看名牌的東西，沒有名的牌子，她連看都不看。|Bà Vương đi dạo phố chỉ xem đồ hiệu, nhãn không nổi tiếng thì bà nhìn cũng không nhìn.
+牌子|páizi|bài tử|N|nhãn hiệu; biển, bảng|前面那個牌子上，好大一個「讓」字，難道你沒看見嗎？|Trên tấm biển phía trước có chữ "Nhường" to tướng, lẽ nào bạn không thấy?
+品牌|pǐnpái|phẩm bài|N|thương hiệu|這個牌子的皮箱品質非常好，大家都認為是個可靠的品牌。|Vali da hiệu này chất lượng rất tốt, ai cũng cho là thương hiệu đáng tin cậy.
+打牌|dǎpái|đả bài|VO|chơi bài, đánh bài|我媽喜歡打麻將，我爸喜歡打橋牌，所以我家常有客人來打牌。|Mẹ tôi thích đánh mạt chược, bố thích chơi bài brít nên nhà tôi hay có khách đến chơi bài.
+筆記型電腦|bǐjìxíng diànnǎo|bút ký hình điện não|N|máy tính xách tay (laptop)|筆記型電腦跟桌上型電腦比起來，容量小多了，資料多的話，非用隨身碟不可。|Laptop so với máy bàn dung lượng nhỏ hơn nhiều, nhiều dữ liệu thì phải dùng USB.
+手提電腦|shǒutí diànnǎo|thủ đề điện não|N|máy tính xách tay||
+電子產品|diànzǐ chǎnpǐn|điện tử sản phẩm|N|sản phẩm điện tử|現在電子產品很普遍，像手機、數位相機和電子錶什麼的都是。|Sản phẩm điện tử bây giờ rất phổ biến, như điện thoại, máy ảnh số, đồng hồ điện tử…
+電子|diànzǐ|điện tử|AT/N|điện tử; electron|我弟弟念物理系，一定要上電子方面的課。|Em tôi học khoa Vật lý, nhất định phải học các môn về điện tử.
+功能|gōngnéng|công năng|N|chức năng|冷氣機有調節溫度的功能。|Máy điều hoà có chức năng điều chỉnh nhiệt độ.
+製造|zhìzào|chế tạo|V|chế tạo, sản xuất; tạo ra|美國市場上可以看到很多臺灣製造的東西。|Trên thị trường Mỹ có thể thấy nhiều đồ sản xuất tại Đài Loan.
+造句|zàojù|tạo cú|VO|đặt câu|老師要我們用生詞造句，他從我們寫的句子，就知道我們是不是真的了解生詞的意思。|Thầy bảo chúng tôi dùng từ mới đặt câu, qua câu chúng tôi viết thầy biết chúng tôi có thật hiểu nghĩa từ không.
+生產|shēngchǎn|sinh sản|V/N|sản xuất; sinh con|這種照像機太老了，我們工廠已經不生產了。|Loại máy ảnh này cũ quá rồi, nhà máy chúng tôi không sản xuất nữa.
+產量|chǎnliàng|sản lượng|N|sản lượng|阿拉斯加石油的產量，每天有多少桶？|Sản lượng dầu ở Alaska mỗi ngày bao nhiêu thùng?
+玩具|wánjù|ngoạn cụ|N|đồ chơi||
+家具|jiājù|gia cụ|N|đồ nội thất||
+工具|gōngjù|công cụ|N|dụng cụ, công cụ|我沒有工具，現在沒辦法修車。|Tôi không có dụng cụ, giờ không sửa xe được.
+文具|wénjù|văn cụ|N|văn phòng phẩm|隔壁的文具店賣的筆又便宜又好用。|Bút ở cửa hàng văn phòng phẩm bên cạnh vừa rẻ vừa dễ viết.
+佔……第一位|zhàn … dì yī wèi|chiếm … đệ nhất vị|PT|đứng đầu, chiếm vị trí số một|印尼石油的產量佔亞洲第一位。|Sản lượng dầu của Indonesia đứng đầu châu Á.
+企業|qìyè|xí nghiệp|N|doanh nghiệp|由於中小企業的努力，臺灣的經濟才有今天的成績。|Nhờ sự nỗ lực của doanh nghiệp vừa và nhỏ, kinh tế Đài Loan mới có thành tích như hôm nay.
+企業界|qìyè jiè|xí nghiệp giới|N|giới doanh nghiệp|陳小姐是企業界有名的女強人，一個人管好幾家公司。|Cô Trần là nữ cường nhân nổi tiếng trong giới doanh nghiệp, một mình quản lý mấy công ty.
+原因|yuányīn|nguyên nhân|N|nguyên nhân, lý do|大部分人離婚的原因是個性不合或是有外遇。|Phần lớn người ly hôn vì tính cách không hợp hoặc ngoại tình.
+主要|zhǔyào|chủ yếu|AT|chủ yếu, chính|錢小姐在心理系當助教，主要的工作是帶學生做實驗。|Cô Tiền làm trợ giảng khoa Tâm lý, công việc chính là hướng dẫn sinh viên làm thí nghiệm.
+資本家|zīběnjiā|tư bản gia|N|nhà tư bản, nhà đầu tư|聽說有一個資本家，願意拿出幾百萬，支持我們公司研究這種感冒藥。|Nghe nói có một nhà đầu tư sẵn sàng bỏ ra mấy triệu hỗ trợ công ty chúng tôi nghiên cứu loại thuốc cảm này.
+資本|zīběn|tư bản|N|vốn|三年前我們老闆拿出一百萬，開了這家公司，資本不算多，是小企業。|Ba năm trước ông chủ bỏ ra một triệu mở công ty này, vốn không nhiều, là doanh nghiệp nhỏ.
+成本|chéngběn|thành bản|N|giá vốn, chi phí|這些鬧鐘，我買進來的時候一個十塊錢，你只給八塊錢，我連成本都不夠。|Mấy cái đồng hồ báo thức này tôi nhập 10 đồng một cái, anh trả có 8 đồng, tôi còn không đủ vốn.
+資本主義|zīběn zhǔyì|tư bản chủ nghĩa|N|chủ nghĩa tư bản|資本主義好的地方是大家都有公平競爭的機會，壞的就是貧富差距越來越大。|Điểm tốt của chủ nghĩa tư bản là ai cũng có cơ hội cạnh tranh công bằng, điểm xấu là khoảng cách giàu nghèo ngày càng lớn.
+投資|tóuzī|đầu tư|V/N|đầu tư|教育也是一種投資，讓大家都念書，對國家社會都有好處。|Giáo dục cũng là một kiểu đầu tư, cho mọi người đi học thì có lợi cho đất nước.
+貸款|dàikuǎn|thải khoản|VO/N|vay tiền; khoản vay|我的學費不夠，念大學都是跟銀行貸款的。|Học phí của tôi không đủ, học đại học đều là vay ngân hàng.
+奇蹟|qíjī|kỳ tích|N|kỳ tích, phép màu|醫生說：這個病人一個月沒張開眼睛了，今天能醒過來，是一個奇蹟。|Bác sĩ nói: bệnh nhân này một tháng không mở mắt, hôm nay tỉnh lại được là một phép màu.
+結果|jiéguǒ|kết quả|N/A|kết quả; rốt cuộc|雖然比賽前我們練習了很久，結果還是輸了。|Tuy trước trận đấu chúng tôi tập luyện rất lâu nhưng rốt cuộc vẫn thua.
+比方說|bǐfāngshuō|tỷ phương thuyết|IE|ví dụ như|老趙喜歡戶外的休閒活動，比方說：釣魚、露營、健行什麼的。|Lão Triệu thích hoạt động ngoài trời, ví dụ như câu cá, cắm trại, đi bộ đường dài.
+適當|shìdàng|thích đáng|SV|phù hợp, thích đáng|念書雖然重要，可是也需要有適當的運動，太多太少都容易有問題。|Học hành tuy quan trọng nhưng cũng cần vận động phù hợp, nhiều quá ít quá đều dễ có vấn đề.
+政策|zhèngcè|chính sách|N|chính sách|我們公司的政策是「品質第一」，寧可多花些錢，也要做出最好的產品。|Chính sách của công ty chúng tôi là "chất lượng là trên hết", thà tốn thêm tiền cũng phải làm ra sản phẩm tốt nhất.
+勞工|láogōng|lao công|N|người lao động||
+工人|gōngrén|công nhân|N|công nhân|每個大工廠都有幾千個工人，所以勞工的生活環境跟工作安全都應該注意。|Mỗi nhà máy lớn có mấy nghìn công nhân, nên môi trường sống và an toàn lao động đều phải chú ý.
+工業|gōngyè|công nghiệp|N|công nghiệp|這個國家的農業人口只有百分之二十，已經從農業社會發展成工業社會了。|Dân số nông nghiệp nước này chỉ 20%, đã phát triển từ xã hội nông nghiệp thành xã hội công nghiệp.
+正確|zhèngquè|chính xác|SV|đúng, chính xác|你能不能教我毛筆的正確拿法？|Bạn có thể dạy tôi cách cầm bút lông đúng không?
+景氣|jǐngqì|cảnh khí|SV/N|thịnh vượng; tình hình kinh tế|現在家具市場相當不景氣，很多工廠都停工了。|Thị trường nội thất giờ khá ảm đạm, nhiều xưởng đã ngừng sản xuất.
+臺幣|Táibì|Đài tệ|N|Đài tệ (tiền Đài Loan, TWD)||
+人民幣|Rénmínbì|nhân dân tệ|N|Nhân dân tệ|現在一塊人民幣可以換幾塊臺幣？|Bây giờ một Nhân dân tệ đổi được mấy Đài tệ?
+日幣|Rìbì|Nhật tệ|N|Yên Nhật||
+美金|Měijīn|Mỹ kim|N|đô la Mỹ (USD)||
+歐元|Ōuyuán|Âu nguyên|N|đồng Euro||
+升值|shēngzhí|thăng trị|V/N|tăng giá trị (tiền tệ)|從前一塊美金可以換四十多塊臺幣，現在臺幣升值了，只能換三十多塊了。|Trước đây 1 USD đổi được hơn 40 Đài tệ, giờ Đài tệ tăng giá, chỉ đổi được hơn 30.
+國際|guójì|quốc tế|AT|quốc tế|小張念的是政治學研究所，主修國際關係。|Tiểu Trương học cao học Chính trị học, chuyên ngành Quan hệ quốc tế.
+全球化|quánqiúhuà|toàn cầu hoá|N/V|toàn cầu hoá|現在世界上會說英文的人越來越多，英文這種語言已經全球化了。|Người biết tiếng Anh trên thế giới ngày càng nhiều, tiếng Anh đã toàn cầu hoá rồi.
+工資|gōngzī|công tư|N|tiền lương, tiền công|小王比你有經驗，所以他的工資比你多五十塊。|Tiểu Vương có kinh nghiệm hơn bạn nên lương hơn bạn 50 đồng.
+工錢|gōngqián|công tiền|N|tiền công|你幫別人割草，就這麼點工錢！不如去工廠上班，工資高多了。|Bạn cắt cỏ thuê mà tiền công có chừng này! Chi bằng vào nhà máy làm, lương cao hơn nhiều.
+漲|zhǎng|trướng|V|tăng (giá, nước)|房東說：明年房租要漲五十塊，一個月就三百塊了。|Chủ nhà nói: năm sau tiền nhà tăng 50 đồng, mỗi tháng thành 300.
+漲價|zhǎngjià|trướng giá|VO|tăng giá|因為中東戰爭，石油都漲價了。|Vì chiến tranh Trung Đông, dầu đều tăng giá.
+罷工|bàgōng|bãi công|VO|đình công|小王他們已經罷工五天了，老闆還是不願意提高他們的工資。|Nhóm Tiểu Vương đã đình công năm ngày mà ông chủ vẫn không chịu tăng lương.
+罷課|bàkè|bãi khoá|VO|bãi khoá|學生們決定罷一天課，希望政府知道他們不同意減少教育經費。|Sinh viên quyết định bãi khoá một ngày để chính phủ biết họ phản đối việc cắt giảm kinh phí giáo dục.
+失業|shīyè|thất nghiệp|V/N|thất nghiệp|由於經濟不景氣，失業率一年比一年高。|Do kinh tế suy thoái, tỷ lệ thất nghiệp năm sau cao hơn năm trước.
+哼|hēng|hanh|I|hừ (thán từ tỏ ý bất mãn, khinh thường)|哼！不借就不借，我自己去買一個。|Hừ! Không cho mượn thì thôi, tôi tự đi mua một cái.
+#GRAMMAR
+好不容易……才……|"Mãi mới…, khó khăn lắm mới…": việc đã xảy ra mà đạt được rất không dễ, mang ý cảm thán; có hay không có 不 nghĩa như nhau; hay đi với 才.|好不容易今天中午才坐上了到你們這兒來的飛機。|Mãi đến trưa nay mới lên được máy bay đến chỗ các cháu.|我找了半天，好不容易才找到這家餐廳。|Tôi tìm cả buổi, khó khăn lắm mới tìm được nhà hàng này.
+SV+SV（大小、長短…）|Hai tính từ đơn âm trái nghĩa ghép thành danh từ chỉ số lượng, tính chất, mức độ (大小 kích cỡ, 長短 độ dài, 高矮 chiều cao).|等一下你穿穿看大小合不合適。|Lát nữa cháu đi thử xem cỡ có vừa không.|這兩張桌子長短差不多。|Hai cái bàn này dài ngắn xấp xỉ nhau.
+一方面(N/PN)也……|"Mặt khác cũng là để…": ngoài lý do chính đã nêu còn thêm một lý do phụ, mức quyết định yếu.|這次老闆派我來開會，一方面也了解一下市場上對我們產品的反應。|Lần này sếp cử chú sang họp, mặt khác cũng tìm hiểu phản ứng thị trường với sản phẩm.|我去台灣是為了學中文，一方面也想看看朋友。|Tôi sang Đài Loan để học tiếng Trung, mặt khác cũng muốn thăm bạn bè.
+除非……，否則……|"Trừ khi … nếu không thì …": sau 除非 là điều kiện duy nhất không thể thiếu; có thể đi với 才/否則/要不然.|除非你能保證不弄壞，否則別想。|Trừ khi em đảm bảo không làm hỏng, nếu không thì đừng hòng.|除非太陽從西邊出來，我才會答應你不再喝酒。|Trừ khi mặt trời mọc đằng tây tôi mới hứa với bạn không uống rượu nữa.
+……，主要的是……|"…, chủ yếu là…": sau 主要的是 là nguyên nhân hoặc thành phần lớn nhất của việc vừa nhắc đến.|原因很多，主要的是我們的大資本家比較少。|Có nhiều nguyên nhân, chủ yếu là nhà tư bản lớn của chúng tôi khá ít.|你這次沒考好，題目也許難了一點，不過主要的是你準備得不夠。|Lần này bạn thi không tốt, đề có lẽ hơi khó, nhưng chủ yếu là bạn chuẩn bị chưa đủ.
+NP(之)所以……，是因為……|"Sở dĩ NP …, là vì …": đảo ngược 因為…所以… để làm nổi bật nguyên nhân, lý do.|臺灣之所以能有這麼好的成績，是因為各方面都配合得不錯。|Sở dĩ Đài Loan có thành tích tốt như vậy là vì mọi mặt đều phối hợp tốt.|我之所以學中文，是因為想去臺灣工作。|Sở dĩ tôi học tiếng Trung là vì muốn sang Đài Loan làm việc.
+A不說，還B|"A thì khỏi nói, còn B nữa": A là sự thật ai cũng biết, B là tình huống vượt quá mức mong đợi.|工人的工資漲了不說，有時候還要罷工。|Lương công nhân tăng thì khỏi nói, có lúc còn đình công.|這家餐廳菜貴不說，服務還不好。|Nhà hàng này đồ ăn đắt thì khỏi nói, phục vụ còn kém.

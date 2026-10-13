@@ -1,8 +1,8 @@
 // Service worker: cho phép app chạy offline sau lần mở đầu tiên.
 // Khi sửa data.js / app.js, tăng VERSION để iPhone tải bản mới.
-const VERSION = 'v9';
+const VERSION = 'v10';
 const CACHE = 'zh-study-' + VERSION;
-const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'data.js', 'manifest.webmanifest', 'icon.svg', 'icon-180.png', 'icon-512.png'];
+const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'data.js', 'data-pavc.js', 'workbook.js', 'manifest.webmanifest', 'icon.svg', 'icon-180.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

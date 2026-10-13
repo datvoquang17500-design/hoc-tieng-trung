@@ -1,0 +1,49 @@
+#UNIT P4-03|PAVC4 · L3 你看不看電視
+#CONVO PAVC4 · L3 你看不看電視
+|（謝美真、陳台麗家飯廳）|(Phòng ăn nhà Tạ Mỹ Chân và Trần Đài Lệ)
+美真|大家都吃飽了吧？|Mọi người ăn no cả rồi chứ?
+建國|我從來沒吃得這麼飽過，明天不必吃早飯了。|Tôi chưa bao giờ ăn no thế này, mai khỏi cần ăn sáng luôn.
+偉立|火鍋沒有飯館的菜那麼油膩，正合我的口味。|Lẩu không ngấy mỡ như món ở nhà hàng, rất hợp khẩu vị tôi.
+台麗|你們喜歡就好。我們到客廳坐吧！|Các bạn thích là tốt rồi. Mình ra phòng khách ngồi đi!
+建國|我來收碗盤，這個我最拿手。|Để tôi dọn bát đĩa, việc này tôi giỏi nhất.
+美真|哪裡有讓客人動手的道理？！你們去坐吧，我把碗盤放進洗碗機就來。|Làm gì có chuyện để khách tự tay làm?! Các bạn ra ngồi đi, tôi bỏ bát đĩa vào máy rửa bát rồi ra ngay.
+|（客廳）|(Phòng khách)
+建國|你們房東什麼時候回來？|Chủ nhà của các bạn khi nào về?
+台麗|她去聽音樂會，最早要十一點才會到家。|Bà ấy đi nghe hoà nhạc, sớm nhất cũng phải 11 giờ mới về đến nhà.
+偉立|你們家裝了有線電視嗎？我想看世界杯足球大賽，今天是巴西跟義大利決賽，一定很精彩，非看不可。|Nhà các bạn có lắp truyền hình cáp không? Tôi muốn xem World Cup, hôm nay chung kết Brazil – Ý, chắc chắn rất hay, nhất định phải xem.
+台麗|當然裝了，我們可以看一百多個頻道呢。|Tất nhiên là có, bọn mình xem được hơn một trăm kênh đấy.
+建國|還有半個多鐘頭才開始，我們先聊聊。台麗，你們常看電視嗎？|Còn hơn nửa tiếng nữa mới bắt đầu, mình nói chuyện chút đã. Đài Lệ, các bạn có hay xem TV không?
+台麗|我們只看新聞、氣象、一些影集跟電影。|Bọn mình chỉ xem thời sự, dự báo thời tiết, vài bộ phim truyền hình và phim điện ảnh.
+美真|什麼電影？你們要看電影啊？|Phim gì? Các bạn định xem phim à?
+建國|不是，台麗說她喜歡看電影台的電影。|Không, Đài Lệ nói cô ấy thích xem phim trên kênh điện ảnh.
+美真|我也喜歡，可是我更喜歡看影集。有些外國影集在臺灣播出的時候說的是中文。|Tôi cũng thích, nhưng tôi thích xem phim bộ hơn. Có những phim bộ nước ngoài khi phát ở Đài Loan thì nói tiếng Trung.
+偉立|哇！那一定很有趣，我很難想像他們說中文的樣子。|Wow! Chắc thú vị lắm, tôi khó mà tưởng tượng họ nói tiếng Trung trông thế nào.
+建國|我在臺灣的時候也看到好幾個。看外國人說中文，一方面覺得好玩，另一方面也覺得怪怪的。|Hồi ở Đài Loan tôi cũng xem mấy bộ. Xem người nước ngoài nói tiếng Trung, một mặt thấy vui, mặt khác cũng thấy là lạ.
+偉立|這麼說，臺灣有很多外國的電視影集嘍？|Nói vậy là ở Đài Loan có nhiều phim bộ nước ngoài à?
+台麗|是啊！可是並不是每一個都配了國語發音。有些談情說愛的連續劇就不適合配音。|Đúng vậy! Nhưng không phải bộ nào cũng lồng tiếng Quốc ngữ. Có những phim bộ tình cảm yêu đương thì không hợp để lồng tiếng.
+美真|就是啊！我們表達感情的方式跟西方人不一樣，如果翻譯出來會覺得肉麻。|Đúng thế! Cách chúng ta bày tỏ tình cảm khác người phương Tây, nếu dịch ra sẽ thấy sến.
+台麗|你們看不看連續劇？|Các bạn có xem phim bộ dài tập không?
+建國|女生才喜歡。像我媽，一坐下就半天不動，還跟著劇情一會兒笑、一會兒哭。有時候在外面辦事，還要趕回家看呢！|Chỉ con gái mới thích thôi. Như mẹ tôi, hễ ngồi xuống là cả buổi không nhúc nhích, còn theo tình tiết lúc thì cười lúc thì khóc. Có khi đang ra ngoài làm việc còn phải vội về nhà xem nữa!
+台麗|能讓我爸爸趕回家看的是談話性節目，尤其是討論政治問題的。如果他有不同的意見，還會拿起電話來call in。|Thứ khiến bố tôi vội về nhà xem là các chương trình talkshow, nhất là chương trình bàn về chính trị. Nếu ông có ý kiến khác còn cầm điện thoại gọi vào chương trình.
+偉立|我們在宿舍常看觀眾報名參加比賽的節目，大家都搶著回答問題，每次到了要宣布答案的時候，都替參加比賽的人捏一把冷汗，真是又緊張又刺激。|Ở ký túc xá bọn tôi hay xem chương trình khán giả đăng ký thi đấu, mọi người tranh nhau trả lời, mỗi lần đến lúc công bố đáp án đều toát mồ hôi lạnh thay cho người dự thi, vừa căng thẳng vừa kịch tính.
+美真|我們有時候也看。臺灣電視上也有這種節目，有的主持人還因為主持這類節目而紅了起來。|Bọn mình thỉnh thoảng cũng xem. TV Đài Loan cũng có loại chương trình này, có người dẫn chương trình còn nổi tiếng nhờ dẫn loại chương trình này.
+台麗|這類節目跟綜藝節目的主持人大部分都很風趣，會控制現場氣氛。|Người dẫn của loại chương trình này và chương trình tạp kỹ phần lớn đều rất hài hước, biết kiểm soát không khí tại chỗ.
+偉立|是啊！新聞性節目的主持人就不同了，非要有豐富的專業知識不可。我覺得記者的工作最有挑戰性，反應一定要快，否則的話，很難跟別人競爭。|Đúng! Người dẫn chương trình thời sự thì khác, bắt buộc phải có kiến thức chuyên môn phong phú. Tôi thấy nghề phóng viên thử thách nhất, phản ứng phải nhanh, nếu không thì rất khó cạnh tranh với người khác.
+台麗|臺灣現在有很多新聞台，競爭真的非常激烈。在新聞現場總是可以看到很多SNG轉播車，新聞記者忙著跟電視台連線。|Đài Loan bây giờ có rất nhiều kênh tin tức, cạnh tranh thật sự rất gay gắt. Ở hiện trường tin tức lúc nào cũng thấy nhiều xe truyền hình vệ tinh SNG, phóng viên bận rộn kết nối với đài truyền hình.
+建國|我也注意到臺灣的電視女主播個個都年輕漂亮，可惜有的經驗不夠，看起來權威性不夠。而且她們說話實在太快，我常聽不懂，倒不如看卡通影片，比較輕鬆愉快。|Tôi cũng để ý nữ biên tập viên truyền hình Đài Loan ai cũng trẻ đẹp, tiếc là có người thiếu kinh nghiệm, trông không đủ uy tín. Hơn nữa họ nói quá nhanh, tôi thường nghe không hiểu, thà xem phim hoạt hình còn thoải mái vui vẻ hơn.
+偉立|你還真是長不大啊！臺灣的兒童節目好不好看？|Cậu đúng là không chịu lớn! Chương trình thiếu nhi ở Đài Loan có hay không?
+建國|我沒時間看。只有一次在車站等車，看到個給小孩說故事的節目。堂哥說那是公共電視。|Tôi không có thời gian xem. Chỉ có một lần chờ xe ở bến, thấy một chương trình kể chuyện cho trẻ em. Anh họ tôi bảo đó là kênh truyền hình công cộng.
+美真|各位，球賽快開始了，是哪一台啊？|Mọi người ơi, trận bóng sắp bắt đầu rồi, kênh nào thế?
+偉立|二十七號體育台。不過我們還是回去看吧，免得看到很晚，對你們不方便。（對建國）我們走吧！|Kênh thể thao số 27. Nhưng bọn tôi vẫn nên về xem thì hơn, kẻo xem đến khuya, bất tiện cho các bạn. (Nói với Kiến Quốc) Mình đi thôi!
+美真|欸？你們怎麼說走就走？再坐一下嘛！|Ơ? Sao các bạn nói đi là đi vậy? Ngồi thêm chút nữa đi mà!
+建國|不了，再不走，球賽就真的開始了。謝謝你們的火鍋大餐。|Thôi, không đi bây giờ thì trận đấu bắt đầu thật mất. Cảm ơn bữa lẩu thịnh soạn của các bạn.
+美真|別客氣。沒做什麼特別的東西招待你們。|Đừng khách sáo. Cũng chẳng có món gì đặc biệt để đãi các bạn.
+台麗|有空常來玩。|Rảnh thì thường xuyên đến chơi nhé.
+偉立|謝謝。別送了，快進去吧！外邊冷。|Cảm ơn. Đừng tiễn nữa, mau vào nhà đi! Bên ngoài lạnh.
+#Q
+建國為什麼說明天不必吃早飯了？|因為他吃得太飽了|因為他明天要睡懶覺|因為早飯不好吃|因為他要減肥|0
+偉立為什麼一定要看今天的球賽？|是世界杯巴西跟義大利的決賽|他買了球賽的票|他的朋友參加比賽|他要寫報告|0
+台麗的爸爸最喜歡看哪種節目？|討論政治問題的談話性節目|連續劇|卡通影片|綜藝節目|0
+為什麼有些談情說愛的連續劇不適合配音？|表達感情的方式不同，翻譯出來會覺得肉麻|配音太貴|觀眾聽不懂國語|演員不願意|0
+建國覺得臺灣的電視女主播怎麼樣？|年輕漂亮，可是有的經驗不夠|說話太慢|年紀都很大|很有權威性|0
+偉立和建國為什麼要回去看球賽？|免得看到很晚，對主人不方便|他們家的電視比較大|她們家沒有有線電視|房東不讓他們看|0

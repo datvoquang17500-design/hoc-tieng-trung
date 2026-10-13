@@ -1,0 +1,94 @@
+#VOCAB
+臭|chòu|xú|SV|hôi, thối|冰箱壞了，裡頭的肉都臭了。|Tủ lạnh hỏng, thịt bên trong đều thối hết.
+襪子|wàzi|vạt tử|N|tất, vớ||
+褲襪|kùwà|khố vạt|N|quần tất||
+倒|dào|đảo|V|rót, đổ|客人來了，你陪客人說話，我去倒茶。|Khách đến rồi, bạn tiếp chuyện khách, tôi đi rót trà.
+喉嚨|hóulóng|hầu lung|N|cổ họng|小王的故事讓我感動得想哭，喉嚨裡好像有個東西，說不出話來。|Câu chuyện của Tiểu Vương làm tôi cảm động muốn khóc, trong họng như nghẹn lại, không nói được.
+痛|tòng|thống|N/SV|đau; cơn đau|這雙鞋太緊了，害我腳好痛。|Đôi giày này chật quá, làm chân tôi đau quá.
+醉|zuì|tuý|SV|say (rượu)|小錢喝了兩瓶酒以後，又唱又笑，我看大概是醉了。|Tiểu Tiền uống hai chai rượu xong vừa hát vừa cười, tôi thấy chắc say rồi.
+桶|tǒng|dũng|M|thùng, xô|請你提桶水來，把這個椅子洗一洗。|Bạn xách giúp một xô nước đến, rửa cái ghế này nhé.
+啤酒|píjiǔ|bì tửu|N|bia|老陳喝四瓶啤酒都沒事，可是我只喝一罐就醉了。|Lão Trần uống bốn chai bia vẫn không sao, còn tôi uống một lon đã say.
+暈|yūn|vựng|SV|chóng mặt, choáng|這些孩子吵得我頭都暈了，腦子完全沒辦法想事情。|Lũ trẻ ồn ào làm tôi choáng cả đầu, không nghĩ được gì.
+暈車|yūnchē|vựng xa|V|say xe|我小時候會暈車，長大以後，可能因為常坐車，就不暈了。|Hồi nhỏ tôi hay say xe, lớn lên chắc vì đi xe nhiều nên hết say.
+暈船|yūnchuán|vựng thuyền|V|say sóng|海上風大的時候，暈船的人比較多。|Khi trên biển gió to, người say sóng nhiều hơn.
+暈機|yūnjī|vựng cơ|V|say máy bay|你會暈機，上飛機以前先吃包藥吧。|Bạn hay say máy bay, uống gói thuốc trước khi lên máy bay đi.
+吐|tù / tǔ|thổ|V|nôn, ói (tù); nhổ, khạc ra (tǔ)|小王暈車，下車後，來不及走到洗手間就吐了。|Tiểu Vương say xe, xuống xe chưa kịp vào nhà vệ sinh đã nôn.
+裙子|qúnzi|quần tử|N|váy|妳的腿這麼漂亮，應該穿短裙，穿長裙別人看不到，多可惜！|Chân bạn đẹp thế nên mặc váy ngắn, mặc váy dài người ta không thấy, tiếc biết bao!
+迷你裙|mínǐqún|mê nễ quần|N|váy ngắn, mini skirt||
+派對|pàiduì|phái đối|N|bữa tiệc (party)|這個禮拜五晚上，我要開個派對，請同學來我家玩，你有空來嗎？|Tối thứ sáu này tôi mở tiệc, mời bạn học đến nhà chơi, bạn rảnh đến không?
+活該|huógāi|hoạt cai|IE|đáng đời, đáng kiếp|那個裁判不公平，才被觀眾罵的，他活該！|Trọng tài đó thiên vị nên mới bị khán giả chửi, đáng đời!
+抽大麻菸|chōu dàmáyān|trừu đại ma yên|VO|hút cần sa||
+抽|chōu|trừu|V|hút (thuốc), rút|小李給我一根大麻菸，我抽了一口，就不敢抽了。|Tiểu Lý đưa tôi một điếu cần sa, tôi hút một hơi rồi không dám hút nữa.
+大麻菸|dàmáyān|đại ma yên|N|thuốc lá cần sa||
+抽菸|chōuyān|trừu yên|VO|hút thuốc|我認為吃飽以後抽根菸，是最快樂的事。|Tôi cho rằng ăn no xong hút một điếu thuốc là việc sung sướng nhất.
+菸|yān|yên|N|thuốc lá|一條菸裡面有十包，每包裡面有二十根。|Một cây thuốc lá có mười bao, mỗi bao có hai mươi điếu.
+最後|zuìhòu|tối hậu|A/DEM|cuối cùng; sau cùng|上半場八號表現一直不好，最後教練只好把他換下來了。|Hiệp một số 8 chơi không tốt, cuối cùng huấn luyện viên đành thay anh ta ra.
+吸食|xīshí|hấp thực|V|hút, sử dụng (ma tuý)||
+吸|xī|hấp|V|hít vào, hút|太極拳老師說：「大家先吸一口氣，然後再慢慢地吐出來。」|Thầy dạy thái cực quyền nói: "Mọi người hít một hơi, rồi từ từ thở ra."
+吸管|xīguǎn|hấp quản|N|ống hút|王美美生病了，躺在床上起不來，得用吸管喝水。|Vương Mỹ Mỹ ốm, nằm liệt giường, phải dùng ống hút uống nước.
+毒品|dúpǐn|độc phẩm|N|ma tuý, chất gây nghiện|哪一種毒品，吸食的人最多？|Loại ma tuý nào có nhiều người dùng nhất?
+毒|dú|độc|N/SV/V|chất độc; độc; đầu độc|這種花有毒，碰了以後，皮膚會爛，你要小心。|Loài hoa này có độc, chạm vào da sẽ lở loét, bạn phải cẩn thận.
+吸毒|xīdú|hấp độc|VO|hút chích ma tuý|吸毒的媽媽生出來的小孩，身體比一般孩子弱。|Trẻ do mẹ nghiện ma tuý sinh ra yếu hơn trẻ bình thường.
+中毒|zhòngdú|trúng độc|VO|ngộ độc; nhiễm virus (máy tính)|我室友吃了晚飯回來沒多久，就又吐又拉，醫生說是食物中毒。|Bạn cùng phòng tôi ăn tối về không lâu thì vừa nôn vừa tiêu chảy, bác sĩ bảo bị ngộ độc thực phẩm.
+病毒|bìngdú|bệnh độc|N|virus|我剛剛開email信箱，電腦就忽然不動了，一定是中毒了。不知道是哪一種病毒。|Tôi vừa mở hộp thư email thì máy tính đứng hình, chắc chắn nhiễm virus rồi. Không biết là loại virus gì.
+傷害|shānghài|thương hại|N/V|tổn hại, làm tổn thương|常常打罵孩子，對孩子的心理有很大的傷害。|Thường xuyên đánh mắng con gây tổn hại lớn đến tâm lý trẻ.
+傷|shāng|thương|V/N|làm bị thương; vết thương|你拿刀子的時候要小心，別傷了手。|Cầm dao phải cẩn thận, đừng để đứt tay.
+危險|wēixiǎn|nguy hiểm|N/SV|nguy hiểm|王小姐怕危險，晚上不敢一個人坐計程車。|Cô Vương sợ nguy hiểm, buổi tối không dám đi taxi một mình.
+上癮|shàngyǐn|thượng ẩn|VO|nghiện|老林打麻將本來只是好玩，後來上癮了，一天不打就難過。|Lão Lâm đánh mạt chược ban đầu chỉ cho vui, sau nghiện, một ngày không đánh là khó chịu.
+菸癮|yānyǐn|yên ẩn|N|cơn nghiện thuốc lá|老張的菸癮很大，一天要抽兩包菸。|Lão Trương nghiện thuốc nặng, một ngày hút hai bao.
+酒癮|jiǔyǐn|tửu ẩn|N|cơn thèm rượu|看到這麼多好吃的菜，我的酒癮又來了。|Thấy nhiều món ngon thế này, cơn thèm rượu của tôi lại nổi lên.
+賭癮|dǔyǐn|đổ ẩn|N|nghiện cờ bạc|你想過賭癮可以，但是不可以賭太多錢。|Bạn muốn đánh bạc cho đã cơn thì được, nhưng không được cược quá nhiều tiền.
+毒癮|dúyǐn|độc ẩn|N|nghiện ma tuý|小王的毒癮又犯了，臉白得像紙一樣。|Tiểu Vương lại lên cơn nghiện, mặt trắng bệch như tờ giấy.
+影響|yǐngxiǎng|ảnh hưởng|V/N|ảnh hưởng|老師上課的態度很容易影響學生學習的興趣。|Thái độ lên lớp của thầy cô rất dễ ảnh hưởng đến hứng thú học của học sinh.
+受……的影響|shòu … de yǐngxiǎng|thụ … ảnh hưởng|PT|chịu ảnh hưởng của …|今年雨下得比較多，西瓜受了氣候的影響，都不太甜。|Năm nay mưa nhiều, dưa hấu chịu ảnh hưởng thời tiết nên không ngọt lắm.
+好奇|hàoqí|hiếu kỳ|SV|tò mò|小孩子都很好奇，看到什麼都要問。|Trẻ con đều rất tò mò, thấy gì cũng hỏi.
+好奇心|hàoqíxīn|hiếu kỳ tâm|N|tính tò mò|老趙對什麼都沒興趣，是不是因為沒有好奇心？|Lão Triệu cái gì cũng không hứng thú, có phải vì không có tính tò mò?
+逃避|táobì|đào tị|V|trốn tránh, né tránh|老李一碰到困難就想逃避，不是去喝酒，就是去睡覺。|Lão Lý cứ gặp khó khăn là muốn trốn tránh, không đi uống rượu thì đi ngủ.
+逃|táo|đào|V|chạy trốn|打仗的時候，大家都逃到鄉下去了。|Lúc có chiến tranh, mọi người đều chạy về quê.
+逃走|táozǒu|đào tẩu|RC|bỏ trốn, chạy mất|警察從前門進來，小偷就從後門逃走了。|Cảnh sát vào cửa trước, tên trộm chạy mất qua cửa sau.
+現實|xiànshí|hiện thực|N/SV|thực tế, hiện thực; thực dụng|大家都希望找一個錢多、事少、離家近的工作，可是理想跟現實總是差得很遠。|Ai cũng mong tìm việc lương cao, việc ít, gần nhà, nhưng lý tưởng và thực tế luôn cách xa nhau.
+減輕|jiǎnqīng|giảm khinh|V|giảm nhẹ, làm nhẹ bớt|吃過藥以後，我的病減輕了不少，這個藥真有用。|Uống thuốc xong bệnh tôi đỡ nhiều, thuốc này thật có tác dụng.
+減|jiǎn|giảm|V|trừ, bớt|七減三是四。|Bảy trừ ba bằng bốn.
+減少|jiǎnshǎo|giảm thiểu|V|giảm bớt, giảm|今年暑期班只有八十個學生，比去年的一百二十個減少了三分之一。|Lớp hè năm nay chỉ có 80 học sinh, giảm một phần ba so với 120 năm ngoái.
+戒|jiè|giới|V|cai, bỏ (thói xấu)|小王戒過好幾次菸，總是幾個月以後，又抽起來了。|Tiểu Vương cai thuốc mấy lần, lần nào vài tháng sau cũng hút lại.
+感謝|gǎnxiè|cảm tạ|V|cảm ơn, biết ơn|你們這麼熱心幫忙，我真的很感謝。|Các bạn nhiệt tình giúp đỡ thế này, tôi thật sự rất biết ơn.
+抱怨|bàoyuàn|bão oán|V/N|than phiền, kêu ca|學生總是抱怨功課太多，考試太難。|Học sinh lúc nào cũng than bài tập nhiều, thi khó.
+刷牙|shuāyá|loát nha|VO|đánh răng|我吃了東西以後一定刷牙，所以一天要刷好幾次。|Tôi ăn gì xong cũng đánh răng nên một ngày đánh mấy lần.
+刷|shuā|loát|V|chải, quét||
+牙齒|yáchǐ|nha xỉ|N|răng||
+牙刷|yáshuā|nha loát|N|bàn chải đánh răng|我爺爺的牙都掉光了，不過，他還是每天把假牙拿下來，用牙刷刷乾淨。|Răng ông tôi rụng hết, nhưng ngày nào ông cũng tháo răng giả ra dùng bàn chải đánh sạch.
+刷子|shuāzi|loát tử|N|bàn chải|這把刷子是刷衣服的，你別拿去刷鞋。|Bàn chải này để chải quần áo, đừng lấy đi chải giày.
+按照|ànzhào|án chiếu|V|theo, căn cứ theo|這是你第一次演戲，不會演沒關係，只要按照導演的意思做就行了。|Đây là lần đầu bạn đóng phim, chưa biết diễn không sao, chỉ cần làm theo ý đạo diễn là được.
+法律|fǎlǜ|pháp luật|N|pháp luật||
+律師|lǜshī|luật sư|N|luật sư|我不懂法律，剛買的房子有問題，只好請教律師。|Tôi không rành luật, căn nhà vừa mua có vấn đề, đành phải hỏi luật sư.
+以上|yǐshàng|dĩ thượng|PT|trở lên; những điều trên|按規定，考試成績八十五分以上，才可以申請獎學金。|Theo quy định, điểm thi từ 85 trở lên mới được xin học bổng.
+遵守|zūnshǒu|tuân thủ|V|tuân thủ, chấp hành|火車裡不可以抽菸，那幾個人為什麼不遵守規定，還在抽呢？|Trên tàu không được hút thuốc, sao mấy người kia không tuân thủ quy định, vẫn hút?
+青少年|qīngshàonián|thanh thiếu niên|N|thanh thiếu niên|十幾歲的青少年本來都很活潑、快樂，可是在臺灣，常常因為考試而壓力太大。|Thanh thiếu niên mười mấy tuổi vốn rất hoạt bát vui vẻ, nhưng ở Đài Loan thường bị áp lực thi cử quá lớn.
+暫時|zhànshí|tạm thời|A|tạm thời|我剛來，暫時住在旅館，等找到合適的房子就搬家。|Tôi mới đến, tạm thời ở khách sạn, tìm được nhà phù hợp sẽ chuyển.
+可怕|kěpà|khả phạ|SV|đáng sợ||
+害怕|hàipà|hại phạ|V|sợ hãi|我怕高，我覺得坐飛機是很可怕的事，飛機飛得越高，我越害怕。|Tôi sợ độ cao, thấy đi máy bay là chuyện đáng sợ, máy bay càng bay cao tôi càng sợ.
+黑社會|hēishèhuì|hắc xã hội|N|xã hội đen|社會寫實片常常演的都是黑社會幫派的故事。|Phim hiện thực xã hội thường kể chuyện các băng nhóm xã hội đen.
+重視|zhòngshì|trọng thị|V/N|coi trọng|小林很重視休閒生活，有空的時候一定安排活動。|Tiểu Lâm rất coi trọng đời sống giải trí, rảnh là nhất định sắp xếp hoạt động.
+必須|bìxū|tất tu|A|phải, bắt buộc|按照臺灣法律的規定，必須滿二十歲，才有選舉權。|Theo pháp luật Đài Loan, phải đủ 20 tuổi mới có quyền bầu cử.
+販毒|fàndú|phiến độc|VO|buôn bán ma tuý|我一直奇怪小趙為什麼會吸毒，原來他哥哥是販毒的。|Tôi cứ thắc mắc sao Tiểu Triệu nghiện, hoá ra anh trai cậu ta buôn ma tuý.
+販賣|fànmài|phiến mại|V|buôn bán|網路商店販賣的商品種類很多，價錢卻不一定合理。|Cửa hàng trên mạng bán nhiều loại hàng, nhưng giá chưa chắc hợp lý.
+自動販賣機|zìdòng fànmàijī|tự động phiến mại cơ|N|máy bán hàng tự động|要是你渴了，就到那個自動販賣機去買罐飲料吧。|Nếu bạn khát thì đến máy bán hàng tự động kia mua lon nước nhé.
+逼|bī|bức|V|ép, bắt buộc|他不願意說，你怎麼逼他都沒有用。|Anh ta không muốn nói thì bạn ép thế nào cũng vô ích.
+犯罪|fànzuì|phạm tội|VO|phạm tội|信回教的人認為吃豬肉就是犯罪。|Người theo đạo Hồi cho rằng ăn thịt lợn là có tội.
+犯法|fànfǎ|phạm pháp|VO|phạm pháp|販賣人口是犯法的。|Buôn bán người là phạm pháp.
+犯錯|fàncuò|phạm thác|VO|mắc lỗi|這個字的發音，我已經給你改過好幾次了，你怎麼還是犯一樣的錯？|Phát âm chữ này tôi đã sửa cho bạn mấy lần rồi, sao bạn vẫn mắc cùng một lỗi?
+抓|zhuā|trảo|V|bắt; nắm, chộp; cào|警察都出去抓那個搶錢的人了。|Cảnh sát đều ra ngoài bắt tên cướp tiền rồi.
+家庭|jiātíng|gia đình|N|gia đình|爸爸媽媽都愛我，我很幸運有一個這麼溫暖的家庭。|Bố mẹ đều thương tôi, tôi thật may mắn có một gia đình ấm áp như vậy.
+解決|jiějué|giải quyết|V|giải quyết|我申請到獎學金，有錢去留學了，好高興錢的問題解決了。|Tôi xin được học bổng, có tiền đi du học, mừng quá vấn đề tiền đã giải quyết xong.
+唉|ài|ai|I|haizz (thán từ thở dài)|唉！什麼時候我的錢才夠買車啊！|Haizz! Bao giờ tôi mới đủ tiền mua xe đây!
+古柯鹼|gǔkējiǎn|cổ kha kiềm|N|cocaine||
+搖頭丸|yáotóuwán|dao đầu hoàn|N|thuốc lắc (ecstasy)||
+安非他命|ānfēitāmìng|an phi tha mệnh|N|amphetamine (ma tuý đá)||
+#GRAMMAR
+一M接著一M|"Hết … này đến … khác": sau một M lập tức tiếp một M khác, liên tục không ngừng; động từ đặt phía sau.|我就一杯接著一杯，不停地喝。|Tôi cứ uống hết cốc này đến cốc khác không ngừng.|他好喜歡表現，叫他唱歌，他就一首接著一首地唱了半夜。|Anh ta rất thích thể hiện, bảo hát là hát hết bài này đến bài khác suốt nửa đêm.
+VV看|"V thử xem": 看 sau động từ lặp lại biểu thị thử làm; động từ thường đơn âm tiết, có thể kèm tân ngữ.|他們也叫我抽抽看，我好想試試。|Họ cũng bảo tôi hút thử xem, tôi rất muốn thử.|這個方法不錯，你用用看就知道了。|Cách này hay đấy, bạn dùng thử là biết.
+受(到)N的影響|"Chịu ảnh hưởng của N": N tác động lên chủ ngữ đứng trước 受(到); mang sắc thái bị động.|我想有的人可能是受了壞朋友的影響。|Tôi nghĩ có người có thể bị bạn xấu ảnh hưởng.|小李受了他父親的影響，才在大學學戲劇的。|Tiểu Lý chịu ảnh hưởng của bố nên mới học sân khấu ở đại học.
+在……(之)下|"Trong/dưới (điều kiện) …": cụm danh từ sau 在 là điều kiện cho mệnh đề phía sau.|在這種情形下，想戒就難了。|Trong tình hình đó, muốn cai thì khó rồi.|在考試的壓力下，李愛美每天下了課就去補習。|Dưới áp lực thi cử, ngày nào tan học Lý Ái Mỹ cũng đi học thêm.
+按照NP的規定……|"Theo quy định của NP …": sau 規定 là quy định hoặc yêu cầu bắt buộc do NP đặt ra.|按照你們法律的規定，不是二十一歲以上才可以喝酒嗎？|Theo quy định pháp luật của các bạn, chẳng phải từ 21 tuổi trở lên mới được uống rượu sao?|按照圖書館的規定，不能帶飲料進去。|Theo quy định của thư viện, không được mang đồ uống vào.
+N/NU-M以上（以下、以內、以外）|"… trở lên / trở xuống / trong vòng / ngoài": tính cả mốc được nêu; 以上 đứng một mình nghĩa là "những điều nói trên".|十八歲以上才可以看限制級的片子。|Từ 18 tuổi trở lên mới được xem phim loại cấm.|今天氣溫已經低到零度以下，所以下雪了。|Hôm nay nhiệt độ đã xuống dưới 0 độ nên có tuyết.
+為了……而……|"Vì (mục đích) … mà …": sau 為了 là mục đích; 而 là liên từ nghĩa như 所以/就; dùng trong văn viết hoặc lời trang trọng.|怎麼會有人為了不想睡覺而吸毒呢？|Sao lại có người vì không muốn ngủ mà dùng ma tuý?|我並不是為了健康而戒菸，是為了女朋友才戒的。|Tôi không phải vì sức khoẻ mà cai thuốc, là vì bạn gái mới cai.

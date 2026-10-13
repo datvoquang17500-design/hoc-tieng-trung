@@ -252,6 +252,10 @@ button.stat[disabled] { cursor: default; }
 }
 .right .bubble { background: var(--accent-soft); border-color: transparent; border-radius: 16px 16px 4px 16px; }
 .bubble .speak-inline { float: right; margin: -2px -4px 0 6px; width: 30px; height: 30px; }
+/* dòng dẫn cảnh (在禮堂…) và đoạn văn của bài đọc: không có người nói */
+.narr { align-self: stretch; color: var(--muted); font-size: 15px; line-height: 1.7; text-align: center; padding: 2px 8px; }
+.narr:has(.speak-inline) { color: var(--text); font-size: 18px; text-align: left; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 10px 12px; box-shadow: var(--shadow); }
+.narr .speak-inline { float: right; margin: -2px -4px 0 6px; width: 30px; height: 30px; }
 .tok { border-bottom: 1.5px dotted var(--accent); cursor: pointer; }
 .tok.known { border-bottom-color: var(--ok); }
 

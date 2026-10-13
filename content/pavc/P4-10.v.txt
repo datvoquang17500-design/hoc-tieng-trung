@@ -1,0 +1,100 @@
+#VOCAB
+確定|quèdìng|xác định|V|xác nhận, chắc chắn|你確定丁小姐上飛機了嗎？為什麼名單上沒有她的名字呢？|Bạn chắc cô Đinh lên máy bay rồi chứ? Sao danh sách không có tên cô ấy?
+捐款|juānkuǎn|quyên khoản|VO/N|quyên góp tiền; tiền quyên góp|那幾位企業家答應捐款，幫助沒有錢上大學的人。|Mấy doanh nhân đó hứa quyên tiền giúp những người không có tiền học đại học.
+車禍|chēhuò|xa hoạ|N|tai nạn giao thông|在高速公路上開車，很容易睡著，不小心就發生車禍了。|Lái xe trên cao tốc rất dễ buồn ngủ, sơ ý là xảy ra tai nạn.
+夫婦|fūfù|phu phụ|N|vợ chồng|去年的聖誕派對，老闆夫婦不但來參加了，還送了每個人一份禮物。|Tiệc Giáng sinh năm ngoái, vợ chồng ông chủ không chỉ đến dự mà còn tặng mỗi người một món quà.
+遇上|yùshàng|ngộ thượng|RC|gặp phải|我們在日本旅行的時候，沒想到遇上了大地震。|Lúc chúng tôi du lịch Nhật Bản, không ngờ gặp phải trận động đất lớn.
+撞上|zhuàngshàng|chàng thượng|RC|đâm vào, va vào|我第一次開車出去，看到對面有大車開過來，一緊張，就撞上了路邊的一棵大樹。|Lần đầu lái xe ra đường, thấy xe lớn chạy ngược chiều, căng thẳng quá nên đâm vào cái cây bên đường.
+撞|zhuàng|chàng|V|đâm, húc, va|聽說牛生氣的時候會用頭撞人，是真的嗎？|Nghe nói bò tức giận sẽ húc người, có thật không?
+撞到|zhuàngdào|chàng đáo|RC|va phải|剛剛那場籃球賽，三號搶球的時候，不小心撞到了對方的頭。|Trận bóng rổ vừa rồi, số 3 lúc tranh bóng sơ ý va vào đầu đối phương.
+撞球|zhuàngqiú|chàng cầu|N|bi-a|要把不同顏色的球先後打進洞並不容易，所以打撞球也需要技術。|Đưa các bi màu khác nhau lần lượt vào lỗ không dễ, nên chơi bi-a cũng cần kỹ thuật.
+對面|duìmiàn|đối diện|PW|phía đối diện|學校前面的公車不到你家，你應該到對面去坐。|Xe buýt trước cổng trường không đến nhà bạn, bạn nên sang bên đối diện mà bắt.
+當場|dāngchǎng|đương trường|A|ngay tại chỗ|聽說得了最佳女主角獎，李小姐高興得當場就哭起來了。|Nghe tin đoạt giải Nữ chính xuất sắc, cô Lý vui đến mức khóc ngay tại chỗ.
+當天|dāngtiān|đương thiên|TW|ngay hôm đó, trong ngày|臺中離臺北不遠，早上去，當天就可以回來。|Đài Trung cách Đài Bắc không xa, sáng đi trong ngày là về được.
+當時|dāngshí|đương thời|TW|lúc đó, khi ấy|我表弟對客人很不禮貌，當時我姑姑沒說什麼，客人走了以後，才罵了他一頓。|Em họ tôi rất vô lễ với khách, lúc đó cô tôi không nói gì, khách về rồi mới mắng nó một trận.
+當地|dāngdì|đương địa|AT|địa phương, sở tại|去旅行的時候，如果不習慣當地的食物，會很麻煩。|Đi du lịch nếu không quen đồ ăn địa phương sẽ rất phiền.
+昏迷不醒|hūnmí bù xǐng|hôn mê bất tỉnh|IE|hôn mê bất tỉnh|小林吃錯了藥，昏迷不醒已經兩天了，不管怎麼叫他，他都沒有反應。|Tiểu Lâm uống nhầm thuốc, hôn mê bất tỉnh đã hai ngày, gọi thế nào cũng không phản ứng.
+昏倒|hūndǎo|hôn đảo|RC|ngất xỉu|李愛美怕胖，沒吃早飯就去跑步運動。沒跑多久，頭暈、腳軟，就昏倒了。|Lý Ái Mỹ sợ béo, không ăn sáng đã đi chạy bộ. Chạy không lâu thì chóng mặt, mỏi chân rồi ngất xỉu.
+抬|tái|đài|V|khiêng, nâng|那個冰箱太重，兩個人恐怕也抬不動。|Cái tủ lạnh đó nặng quá, hai người e cũng khiêng không nổi.
+抬頭|táitóu|đài đầu|VO|ngẩng đầu|我做錯了事，覺得不好意思，所以不敢抬起頭來。|Tôi làm sai, thấy ngại nên không dám ngẩng đầu lên.
+救護車|jiùhùchē|cứu hộ xa|N|xe cứu thương||
+救|jiù|cứu|V|cứu|看見孩子掉進河裡，小王就馬上跳下去救孩子。|Thấy đứa bé rơi xuống sông, Tiểu Vương lập tức nhảy xuống cứu.
+急救|jíjiù|cấp cứu|V/N|cấp cứu, sơ cứu|中學的時候有一門課，教我們急救常識，碰到有人受傷、昏倒，就知道怎麼救他們了。|Hồi trung học có môn dạy kiến thức sơ cứu, gặp người bị thương, ngất xỉu là biết cách cứu.
+護士|hùshì|hộ sĩ|N|y tá|如果病人太重，你抬不動，可以找男護士來幫你。|Nếu bệnh nhân nặng quá bạn không khiêng nổi, có thể nhờ y tá nam giúp.
+救火|jiùhuǒ|cứu hoả|VO|chữa cháy|喂，你們快派人來救火，要不然火越來越大，就沒辦法控制了。|Alo, các anh mau cử người đến chữa cháy, không thì lửa càng lúc càng to, không kiểm soát được nữa.
+救火車|jiùhuǒchē|cứu hoả xa|N|xe cứu hoả (= 消防車)||
+醫院|yīyuàn|y viện|N|bệnh viện||
+出院|chūyuàn|xuất viện|VO|ra viện||
+住院|zhùyuàn|trú viện|VO|nằm viện|我們才聽說李主任生病住院了，去醫院看他，他卻已經出院了。|Chúng tôi vừa nghe chủ nhiệm Lý ốm nằm viện, đến thăm thì ông ấy đã ra viện rồi.
+動手術|dòng shǒushù|động thủ thuật|VO|phẫu thuật, mổ (= 開刀)|老王鼻子裡長了一個東西，醫生說得動手術拿出來。|Trong mũi lão Vương mọc một cái gì đó, bác sĩ bảo phải mổ lấy ra.
+手術|shǒushù|thủ thuật|N|ca phẫu thuật|老林決定開刀，是因為醫生說，如果手術成功的話，他的病就不會再犯了。|Lão Lâm quyết định mổ vì bác sĩ nói nếu phẫu thuật thành công thì bệnh sẽ không tái phát.
+手術房|shǒushùfáng|thủ thuật phòng|N|phòng mổ||
+輸血|shūxiě|thâu huyết|VO|truyền máu||
+血|xiě|huyết|N|máu||
+流血|liúxiě|lưu huyết|VO|chảy máu|小李受傷了，流了很多血，在醫院開刀的時候，醫生給他輸了很多血。|Tiểu Lý bị thương chảy nhiều máu, lúc mổ ở bệnh viện bác sĩ truyền cho cậu ấy rất nhiều máu.
+捐血|juānxiě|quyên huyết|VO|hiến máu|醫院的血不夠了，希望大家去捐血。|Bệnh viện thiếu máu, mong mọi người đi hiến máu.
+植物人|zhíwùrén|thực vật nhân|N|người thực vật|小陳的弟弟是植物人，全身都不會動，得靠他照顧。|Em trai Tiểu Trần là người thực vật, toàn thân không cử động được, phải dựa vào anh chăm sóc.
+植物|zhíwù|thực vật|N|thực vật, cây cối|植物也是有生命的，不管樹啊，花啊，草啊，都應該好好地照顧。|Thực vật cũng có sự sống, dù là cây, hoa hay cỏ đều nên chăm sóc cẩn thận.
+夫妻|fūqī|phu thê|N|vợ chồng|這對夫婦感情非常好，所以太太快死的時候，對先生說：「真希望我們下輩子還能做夫妻。」|Cặp vợ chồng này rất tình cảm, lúc vợ sắp mất nói với chồng: "Mong kiếp sau mình vẫn là vợ chồng."
+妻子|qīzi|thê tử|N|vợ||
+未婚夫|wèihūnfū|vị hôn phu|N|chồng chưa cưới|王小姐上個禮拜才訂婚，昨天就跟著未婚夫出國留學了。|Cô Vương tuần trước mới đính hôn, hôm qua đã theo chồng chưa cưới đi du học.
+未婚妻|wèihūnqī|vị hôn thê|N|vợ chưa cưới||
+後座|hòuzuò|hậu toạ|N|ghế sau||
+前座|qiánzuò|tiền toạ|N|ghế trước|出車禍的時候，坐在前座比坐在後座危險嗎？|Khi xảy ra tai nạn, ngồi ghế trước có nguy hiểm hơn ghế sau không?
+輕傷|qīngshāng|khinh thương|N|vết thương nhẹ||
+重傷|zhòngshāng|trọng thương|N|trọng thương|報上說上次颱風來的時候，死了四個人，重傷一個，輕傷七個。|Báo nói đợt bão vừa rồi chết bốn người, một người bị thương nặng, bảy người bị thương nhẹ.
+急診室|jízhěnshì|cấp chẩn thất|N|phòng cấp cứu|救護車送來的病人，一定要先送到醫院的急診室去急救。|Bệnh nhân xe cứu thương chở đến nhất định phải đưa vào phòng cấp cứu trước.
+急診|jízhěn|cấp chẩn|N|khám cấp cứu|現在已經過了醫院的掛號時間，可是你燒得這麼高，我們趕快去掛急診。|Giờ đã quá giờ đăng ký khám, nhưng bạn sốt cao thế, mình mau đi khám cấp cứu.
+處理|chǔlǐ|xử lý|V|xử lý, giải quyết|你們公司忽然發生事情的時候，由誰來處理？|Công ty các bạn đột nhiên xảy ra chuyện thì ai xử lý?
+節省|jiéshěng|tiết tỉnh|SV/V|tiết kiệm|為了節省時間，開會的時候，有意見請大家長話短說。|Để tiết kiệm thời gian, khi họp có ý kiến xin mọi người nói ngắn gọn.
+停車位|tíngchēwèi|đình xa vị|N|chỗ đỗ xe||
+停車費|tíngchēfèi|đình xa phí|N|phí đỗ xe|這裡的停車費是按小時算的。|Phí đỗ xe ở đây tính theo giờ.
+停車場|tíngchēchǎng|đình xa trường|N|bãi đỗ xe|這個停車場很大，有三千個停車位。|Bãi đỗ xe này rất lớn, có ba nghìn chỗ.
+地下鐵|dìxiàtiě|địa hạ thiết|N|tàu điện ngầm|為了解決上下班塞車的問題，市政府決定建兩條地下鐵。|Để giải quyết tắc đường giờ đi làm, chính quyền thành phố quyết định xây hai tuyến tàu điện ngầm.
+左右|zuǒyòu|tả hữu|A|khoảng, chừng|從這裡開車到飛機場，大概要一個鐘頭左右。|Từ đây lái xe ra sân bay mất khoảng một tiếng.
+超過|chāoguò|siêu quá|V|vượt quá|我們學校規定修滿128個學分就能畢業，我已經修了130個了，超過了。|Trường quy định đủ 128 tín chỉ là tốt nghiệp, tôi đã học 130, vượt rồi.
+登|dēng|đăng|V|đăng (báo); leo (núi)|我想把舊車賣了，買新車，就在報上登了一個賣車的廣告。|Tôi muốn bán xe cũ mua xe mới nên đăng quảng cáo bán xe trên báo.
+不止|bùzhǐ|bất chỉ|A|không chỉ; hơn|小高在旅行社當導遊，歐洲已經去了不止二十次了。|Tiểu Cao làm hướng dẫn viên ở công ty du lịch, đi châu Âu không dưới hai mươi lần rồi.
+寬|kuān|khoan|SV|rộng|這條河太寬了，從這邊都看不到那邊。|Con sông này rộng quá, bên này không nhìn thấy bờ bên kia.
+路況|lùkuàng|lộ huống|N|tình trạng đường xá|開車上路以前，最好先了解一下路況。|Trước khi lái xe ra đường tốt nhất nên tìm hiểu tình trạng đường.
+情況|qíngkuàng|tình huống|N|tình hình, tình trạng|他開刀以後，情況不錯，應該很快就可以出院了。|Sau ca mổ tình trạng anh ấy tốt, chắc sắp ra viện.
+交通規則|jiāotōng guīzé|giao thông quy tắc|N|luật giao thông|我不懂這裡的交通規則，所以不敢在這裡開車。|Tôi không rành luật giao thông ở đây nên không dám lái xe.
+規則|guīzé|quy tắc|N|quy tắc, luật|玩捉迷藏的時候，沒有數到十，不可以張開眼睛，你怎麼可以不遵守遊戲規則？|Chơi trốn tìm chưa đếm đến mười không được mở mắt, sao bạn lại không tuân thủ luật chơi?
+速度|sùdù|tốc độ|N|tốc độ|我哥哥看書的速度很快，別人三個小時看完的書，他兩個小時就看完了。|Anh tôi đọc sách rất nhanh, sách người khác đọc ba tiếng anh ấy hai tiếng là xong.
+煞車|shāchē|sát xa|VO/N|phanh xe; phanh|紅燈亮了，你沒看見嗎？趕快煞車！|Đèn đỏ rồi, bạn không thấy à? Phanh mau!
+超速|chāosù|siêu tốc|V|chạy quá tốc độ|你別開太快，小心超速了，警察來抓你。|Đừng lái nhanh quá, cẩn thận quá tốc độ cảnh sát bắt.
+超車|chāochē|siêu xa|VO|vượt xe|老丁太太快生了，他為了趕到醫院去，一連超了好幾部車。|Vợ lão Đinh sắp sinh, ông ấy vì vội đến bệnh viện nên vượt liền mấy xe.
+開罰單|kāi fádān|khai phạt đơn|VO|viết biên lai phạt|我找不到停車位，只好把車停在店門口。沒想到才幾分鐘，就被開了罰單。|Tôi không tìm được chỗ đỗ, đành đỗ trước cửa hàng. Không ngờ mới mấy phút đã bị phạt.
+開|kāi|khai|V|viết (séc, hoá đơn), cấp|我帶的現金不夠，開張支票給你，行不行？|Tiền mặt tôi mang không đủ, viết séc cho bạn được không?
+罰單|fádān|phạt đơn|N|biên lai phạt|你怎麼老是亂停車、超速，罰單又來了。|Sao bạn cứ đỗ xe bừa bãi, chạy quá tốc độ, lại bị phạt rồi.
+處罰|chǔfá|xử phạt|V/N|xử phạt, trừng phạt|你沒犯什麼大錯，處罰不會太重的。|Bạn không mắc lỗi gì lớn, hình phạt sẽ không nặng đâu.
+罰|fá|phạt|V|phạt|如果你不早一點來，我們就要罰你洗碗。|Nếu bạn không đến sớm hơn, chúng tôi sẽ phạt bạn rửa bát.
+划不來|huábulái|hoạch bất lai|RC|không đáng, không bõ|你因為小陳沒跟你道歉，就氣得不吃飯，划得來划不來？！|Chỉ vì Tiểu Trần không xin lỗi mà bạn tức đến bỏ ăn, có đáng không?!
+划船|huáchuán|hoạch thuyền|VO|chèo thuyền|昨天划船比賽的時候，小王的動作跟別的隊員不能配合，我們划不快，就輸了。|Hôm qua thi chèo thuyền, động tác Tiểu Vương không ăn khớp với đồng đội, chúng tôi chèo không nhanh nên thua.
+違反|wéifǎn|vi phản|V|vi phạm|我們最好簽個合約，將來有人違反合約的話，就可以按照合約上的規定來處理。|Chúng ta nên ký hợp đồng, sau này ai vi phạm thì xử lý theo quy định trong hợp đồng.
+闖紅燈|chuǎng hóngdēng|xông hồng đăng|VO|vượt đèn đỏ|你為什麼看到紅燈還往前開？闖紅燈是要罰錢的呀！|Sao thấy đèn đỏ còn chạy tiếp? Vượt đèn đỏ bị phạt tiền đấy!
+闖|chuǎng|xông|V|xông vào|我們正在開會討論事情，他沒敲門就闖了進來。|Chúng tôi đang họp bàn việc, anh ta không gõ cửa mà xông vào.
+摩托車|mótuōchē|ma thác xa|N|xe máy (= 機車)|有人騎摩托車，因為怕熱而不戴安全帽。|Có người đi xe máy vì sợ nóng mà không đội mũ bảo hiểm.
+鑽|zuān|toản|V|chui, len lỏi, khoan|有風從門下面鑽進來，難怪房間裡這麼冷！|Gió lùa vào từ dưới cửa, thảo nào trong phòng lạnh thế!
+人行道|rénxíngdào|nhân hành đạo|N|vỉa hè, đường đi bộ||
+單行道|dānxíngdào|đơn hành đạo|N|đường một chiều|我知道我們走錯路了，可是這是單行道，只能往前開，等下一個路口再轉回來。|Tôi biết mình đi nhầm đường rồi, nhưng đây là đường một chiều, chỉ đi thẳng được, đến ngã tư sau mới quay lại.
+快車道|kuài chēdào|khoái xa đạo|N|làn xe chạy nhanh||
+慢車道|màn chēdào|mạn xa đạo|N|làn xe chạy chậm|司機先生，我快要到了。麻煩你走慢車道。|Bác tài ơi, tôi sắp đến rồi. Phiền bác đi làn chậm.
+地下道|dìxiàdào|địa hạ đạo|N|đường hầm đi bộ|為了安全，我們最好走人行道，如果要過馬路就走地下道。|Để an toàn nên đi vỉa hè, muốn qua đường thì đi hầm đi bộ.
+駕照|jiàzhào|giá chiếu|N|bằng lái xe|你沒有駕照，怎麼可以開車啊？|Bạn không có bằng lái sao lại lái xe?
+執照|zhízhào|chấp chiếu|N|giấy phép, chứng chỉ hành nghề|雖然你是法律系畢業的，可是還沒考上執照，不能當律師。|Tuy bạn tốt nghiệp khoa Luật nhưng chưa thi đỗ chứng chỉ thì không làm luật sư được.
+捷運|jiéyùn|tiệp vận|N|tàu điện ngầm/đường sắt đô thị (MRT)|捷運建好以後，由於交通方便，郊區的房價也漲了很多。|MRT xây xong, nhờ đi lại thuận tiện nên giá nhà ngoại ô cũng tăng nhiều.
+搭|dā|đáp|V|đi (xe, tàu)|搭公車太慢，計程車太貴，還是搭捷運好，又快又方便。|Đi xe buýt chậm quá, taxi đắt quá, đi MRT vẫn tốt hơn, vừa nhanh vừa tiện.
+標誌|biāozhì|tiêu chí|N|biển báo, ký hiệu|你看到這個標誌，就應該知道在這裡不可以抽菸。|Thấy biển này là phải biết ở đây không được hút thuốc.
+千萬|qiānwàn|thiên vạn|A|nhất định, tuyệt đối (dùng trong câu khuyên, dặn)|你千萬別一個人去滑雪，太危險了。|Bạn tuyệt đối đừng đi trượt tuyết một mình, nguy hiểm lắm.
+繫|jì|hệ|V|buộc, thắt|你的鞋帶鬆了，快繫好。|Dây giày bạn lỏng rồi, mau buộc lại.
+安全帶|ānquándài|an toàn đới|N|dây an toàn||
+#GRAMMAR
+剛(一)……，就……|"Vừa … là …": việc sau 剛(一) vừa xong thì việc sau 就 xảy ra ngay; chỉ dùng kể chuyện quá khứ.|我上完課，剛一出教室，就碰到了建國。|Học xong, tôi vừa ra khỏi lớp là gặp ngay Kiến Quốc.|我剛到家，就下起雨來了。|Tôi vừa về đến nhà thì trời đổ mưa.
+……的N就是……|"N mà … chính là …": 就是 xác định rõ, nhấn mạnh điều vừa được nhắc tới.|你說的捐款就是給那對出車禍的夫婦的吧？|Tiền quyên góp bạn nói chính là cho cặp vợ chồng bị tai nạn đó phải không?|我說的那個人就是他。|Người tôi nói chính là anh ta.
+NP靠……生活|"NP sống nhờ …": NP là người; sau 靠 là cách thức, phương tiện hoặc người cung cấp chi phí sinh hoạt.|這對夫婦靠獎學金跟太太打工賺的錢生活。|Cặp vợ chồng này sống nhờ học bổng và tiền vợ làm thêm.|他沒有工作，靠父母生活。|Anh ta không có việc làm, sống nhờ bố mẹ.
+……好……|"…để (có thể)…": 好 là trợ động từ nghĩa 可以/以便; làm việc phía trước để đạt mục đích phía sau.|我們想捐點錢好幫助他。|Chúng tôi muốn quyên ít tiền để giúp cháu.|你把電話號碼給我，我好跟你連絡。|Bạn cho tôi số điện thoại để tôi liên lạc với bạn.
+既……又……|"Vừa … vừa …": cùng lúc có hai tính chất; sau 既 và 又 thường là động từ/tính từ cùng cấu trúc, mức độ sau 又 cao hơn.|把車停在郊區的停車場，再坐地下鐵進市區，既省錢又省時間。|Đỗ xe ở ngoại ô rồi đi tàu điện vào nội thành, vừa tiết kiệm tiền vừa tiết kiệm thời gian.|這件衣服既便宜又好看。|Bộ quần áo này vừa rẻ vừa đẹp.
+NU-M(N)左右|"Khoảng …": nhiều hơn hoặc ít hơn con số đó một chút.|大概四千五百塊左右，應該會超過五千塊。|Khoảng 4.500 đồng, chắc sẽ vượt 5.000.|從這裡開車到飛機場，大概要一個鐘頭左右。|Lái xe từ đây ra sân bay mất khoảng một tiếng.
+不止|"Không chỉ, hơn": vượt quá một phạm vi hoặc số lượng; sau 不止 có thể là số lượng, danh từ, động từ, mệnh đề.|現在不止是我們學校的學生，連一般市民也捐錢了。|Giờ không chỉ sinh viên trường mình mà cả người dân bình thường cũng quyên tiền.|歐洲他已經去了不止二十次了。|Châu Âu anh ấy đã đi không dưới hai mươi lần.
+千萬|"Nhất định, tuyệt đối": dùng trong câu khuyên nhủ, dặn dò; thường đi với 別/不要/要.|看到「停車再開」的標誌，千萬別忘了停車。|Thấy biển "Dừng lại rồi đi" nhất định đừng quên dừng xe.|你千萬要記得吃藥，要不然病不容易好。|Bạn nhất định phải nhớ uống thuốc, không thì khó khỏi bệnh.

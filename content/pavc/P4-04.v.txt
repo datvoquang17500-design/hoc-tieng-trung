@@ -1,0 +1,82 @@
+#VOCAB
+對白|duìbái|đối bạch|N|lời thoại (phim, kịch)|這個連續劇裡的人說話相當風趣，對白真的很精彩。|Nhân vật trong phim bộ này nói chuyện khá dí dỏm, lời thoại thật sự rất hay.
+拍|pāi|phách|V|quay (phim), chụp (ảnh); vỗ, đập|這部連續劇因為很受歡迎而拍了一百集。|Phim bộ này vì được yêu thích nên đã quay đến một trăm tập.
+盜版|dàobǎn|đạo bản|N/V|bản lậu; in lậu, sao chép lậu|我發現我的漫畫書被人盜版了，價錢便宜一半，氣死我了。|Tôi phát hiện truyện tranh của mình bị in lậu, giá rẻ một nửa, tức chết đi được.
+原版|yuánbǎn|nguyên bản|N|bản gốc, bản chính hãng|雖然盜版便宜很多，可是我為了支持我喜歡的歌星，寧願多花錢，也要買原版光碟。|Tuy bản lậu rẻ hơn nhiều, nhưng để ủng hộ ca sĩ mình thích, tôi thà tốn thêm tiền cũng mua đĩa chính hãng.
+版|bǎn|bản|M|trang (báo); lần xuất bản|一般來說，報紙的第一版都是最重要的新聞。|Nói chung trang nhất của báo đều là tin quan trọng nhất.
+出版|chūbǎn|xuất bản|VO|xuất bản|我們這本書是一九九九年出版的，現在已經出到第十一版了。|Cuốn sách này xuất bản năm 1999, đến nay đã in đến lần thứ mười một.
+電影院|diànyǐngyuàn|điện ảnh viện|N|rạp chiếu phim|新建的電影院常分好幾個廳，每個廳演的電影都不同。|Rạp phim mới xây thường chia thành nhiều phòng, mỗi phòng chiếu một phim khác nhau.
+難得|nándé|nan đắc|A/SV|hiếm khi, hiếm có|張老闆一個月有二十天在外頭忙，難得回家吃一頓飯。|Ông chủ Trương một tháng có hai mươi ngày bận bên ngoài, hiếm khi về nhà ăn một bữa cơm.
+賣座|màizuò|mại toạ|SV/N|đắt khách, bán vé chạy; doanh thu phòng vé|這場音樂會很賣座，我排了幾個鐘頭的隊，都沒買到票。|Buổi hoà nhạc này rất đắt khách, tôi xếp hàng mấy tiếng đồng hồ mà không mua được vé.
+結局|jiéjú|kết cục|N|kết cục, cái kết|王小姐跟她男朋友感情一直很好，可是上個星期分開了，誰都沒想到會是這樣的結局。|Cô Vương và bạn trai tình cảm luôn rất tốt, nhưng tuần trước chia tay, không ai ngờ kết cục lại như vậy.
+男主角|nán zhǔjiǎo|nam chủ giác|N|nam chính, nam diễn viên chính||
+女主角|nǚ zhǔjiǎo|nữ chủ giác|N|nữ chính, nữ diễn viên chính|林小姐寫的小說，男主角一定又英俊又有錢，女主角不是聰明、漂亮，就是溫柔、大方。|Trong tiểu thuyết cô Lâm viết, nam chính nhất định vừa đẹp trai vừa giàu, nữ chính không thông minh xinh đẹp thì cũng dịu dàng hào phóng.
+主角|zhǔjiǎo|chủ giác|N|vai chính||
+配角|pèijiǎo|phối giác|N|vai phụ|小李在這部電影裡演男主角的同事，不太重要，是配角，可是演得比主角好。|Tiểu Lý đóng vai đồng nghiệp của nam chính trong phim này, không quan trọng lắm, chỉ là vai phụ nhưng diễn hay hơn vai chính.
+角色|jiǎosè|giác sắc|N|vai diễn, nhân vật|老趙演過各種不同的角色，舞台經驗非常豐富。|Lão Triệu đã đóng đủ loại vai khác nhau, kinh nghiệm sân khấu rất phong phú.
+可憐|kělián|khả liên|SV/V|đáng thương; thương xót|這個孩子從小父母就死了，真可憐！|Đứa trẻ này mồ côi cha mẹ từ nhỏ, thật đáng thương!
+導演|dǎoyǎn|đạo diễn|N/V|đạo diễn|小陳是第一次演電影，什麼都要導演教他。|Tiểu Trần lần đầu đóng phim, cái gì cũng cần đạo diễn chỉ.
+真實|zhēnshí|chân thực|SV|chân thực, có thật|這種事情完全是想像的，在真實生活裡是不可能的。|Chuyện này hoàn toàn là tưởng tượng, trong đời thực là không thể.
+演技|yǎnjì|diễn kỹ|N|kỹ năng diễn xuất|小錢的演技很差，不管演什麼角色都不像。|Diễn xuất của Tiểu Tiền rất kém, đóng vai gì cũng không giống.
+演員|yǎnyuán|diễn viên|N|diễn viên|一個好演員應該什麼角色都能演。|Một diễn viên giỏi nên đóng được mọi vai.
+得獎|déjiǎng|đắc tưởng|VO|đoạt giải, được giải|老丁的文章參加這次的比賽，得了個大獎。|Bài văn của lão Đinh dự cuộc thi lần này đã đoạt giải lớn.
+最佳|zuìjiā|tối giai|AT|tốt nhất, xuất sắc nhất|李先生導演的電影都很受歡迎，這是他第三次得到最佳導演獎。|Phim ông Lý đạo diễn đều được yêu thích, đây là lần thứ ba ông đoạt giải Đạo diễn xuất sắc nhất.
+果然|guǒrán|quả nhiên|A|quả nhiên, đúng như dự đoán|我室友做事總是很不小心，這次果然出事了。|Bạn cùng phòng tôi làm gì cũng cẩu thả, lần này quả nhiên gặp chuyện.
+感動|gǎndòng|cảm động|SV/V|cảm động; làm cảm động|我老哥為了幫助我，不顧自己的安全，真讓我感動。|Anh trai tôi bất chấp an toàn của mình để giúp tôi, thật khiến tôi cảm động.
+悲劇|bēijù|bi kịch|N|bi kịch|因為戰爭，老孫跟家人分開了四十多年，才又再見面，這真是時代的悲劇。|Vì chiến tranh, lão Tôn xa gia đình hơn bốn mươi năm mới gặp lại, thật là bi kịch của thời đại.
+喜劇|xǐjù|hỷ kịch|N|hài kịch|喜劇應該對白風趣，能讓觀眾從心裡笑出來。|Hài kịch nên có lời thoại dí dỏm, khiến khán giả cười từ trong lòng.
+掉眼淚|diào yǎnlèi|điệu nhãn lệ|VO|rơi nước mắt, khóc|張太太的感情很豐富，看電影、看小說的時候，動不動就掉眼淚。|Bà Trương rất đa cảm, xem phim, đọc tiểu thuyết là hở chút lại rơi nước mắt.
+掉|diào|điệu|V|rơi, rớt; đánh mất|先生，你的錢掉在地上了。|Anh ơi, tiền của anh rơi xuống đất rồi.
+眼淚|yǎnlèi|nhãn lệ|N|nước mắt|王太太的孩子病了很久，她為孩子的病，流了不少眼淚。|Con bà Vương ốm lâu, bà đã rơi không ít nước mắt vì bệnh của con.
+同情|tóngqíng|đồng tình|N/V|thương cảm, đồng cảm|這個孩子的父母都死了，現在他最需要的是幫助，不是同情。|Bố mẹ đứa trẻ này đều mất rồi, bây giờ nó cần nhất là sự giúp đỡ chứ không phải thương hại.
+同情心|tóngqíngxīn|đồng tình tâm|N|lòng trắc ẩn|王美美難過得哭了，你還笑她。你真沒同情心！|Vương Mỹ Mỹ buồn đến khóc mà bạn còn cười cô ấy. Bạn thật không có lòng trắc ẩn!
+遭遇|zāoyù|tao ngộ|N/V|cảnh ngộ (không may); gặp phải|陳小姐第一次出國旅行，就遭遇到很可怕的事，不但錢被搶光了，還被打了一頓。|Cô Trần lần đầu đi du lịch nước ngoài đã gặp chuyện khủng khiếp, không chỉ bị cướp hết tiền mà còn bị đánh một trận.
+何必|hébì|hà tất|A|cần gì phải, hà tất|弟弟不來就算了，你何必生氣呢？|Em trai không đến thì thôi, bạn cần gì phải giận?
+認真|rènzhēn|nhận chân|SV/A|nghiêm túc, chăm chỉ|只要你認真學習，沒有什麼學不會的。|Chỉ cần bạn học nghiêm túc thì không có gì không học được.
+主題曲|zhǔtíqǔ|chủ đề khúc|N|bài hát chủ đề|那部連續劇的主題曲很好聽，可是歌詞好像跟劇情沒什麼關係。|Bài hát chủ đề của phim bộ đó rất hay, nhưng lời bài hát hình như chẳng liên quan gì đến cốt truyện.
+字幕|zìmù|tự mạc|N|phụ đề|男主角說印地安話的時候，我一句都聽不懂，只好看字幕。|Lúc nam chính nói tiếng thổ dân, tôi không hiểu câu nào, đành phải xem phụ đề.
+家常菜|jiāchángcài|gia thường thái|N|món ăn gia đình, cơm nhà|這些菜我常做，都是些家常菜，沒有什麼特別的。|Mấy món này tôi hay nấu, đều là món ăn gia đình, chẳng có gì đặc biệt.
+鎖|suǒ|toả|V/N|khoá|小偷來過了，你最好換一把鎖比較安全。|Trộm vào nhà rồi, bạn nên thay ổ khoá cho an toàn.
+隨身碟|suíshēndié|tuỳ thân điệp|N|USB, ổ đĩa flash|我的資料都存在隨身碟裡，只要有電腦，到哪裡都可以工作。|Tài liệu của tôi đều lưu trong USB, chỉ cần có máy tính, đi đâu cũng làm việc được.
+支票|zhīpiào|chi phiếu|N|séc, chi phiếu|這家商店不收支票，倒是可以用信用卡。|Cửa hàng này không nhận séc, nhưng dùng thẻ tín dụng được.
+旅行支票|lǚxíng zhīpiào|lữ hành chi phiếu|N|séc du lịch|旅行的時候，用旅行支票不但方便，也安全。|Khi đi du lịch, dùng séc du lịch vừa tiện vừa an toàn.
+馬馬虎虎|mǎmǎ hūhū|mã mã hổ hổ|IE|tàm tạm; qua loa|你點的宮保雞丁，味道怎麼樣？——馬馬虎虎，好像沒有上次的好吃。|Món gà Kung Pao bạn gọi vị thế nào? — Tàm tạm, hình như không ngon bằng lần trước.
+馬虎|mǎhū|mã hổ|SV|cẩu thả, qua loa|他做事情很馬虎，不是這裡錯了，就是那裡少了什麼。|Anh ta làm việc rất cẩu thả, không sai chỗ này thì thiếu chỗ kia.
+動畫|dònghuà|động hoạ|N|phim hoạt hình, anime|小王很會畫畫，他做了一些動畫放在我的部落格裡。|Tiểu Vương vẽ rất giỏi, cậu ấy làm mấy đoạn hoạt hình đăng trên blog của tôi.
+聚餐|jùcān|tụ xan|VO|liên hoan, ăn uống tụ tập|為了連絡感情，他們約好每半年找個好餐廳聚餐一次。|Để gắn kết tình cảm, họ hẹn cứ nửa năm tìm một nhà hàng ngon ăn chung một lần.
+聚|jù|tụ|V|tụ họp, tụ tập|好久不見了，找個時間聚聚，大家一起聊聊吧！|Lâu lắm không gặp, tìm lúc nào tụ tập nói chuyện chút đi!
+無所謂|wúsuǒwèi|vô sở vị|IE/SV|không sao cả, sao cũng được|吃不吃飯，我無所謂，反正現在也還不餓。|Ăn hay không tôi sao cũng được, dù sao giờ cũng chưa đói.
+攝影|shèyǐng|nhiếp ảnh|N/V|nhiếp ảnh, quay phim; chụp ảnh|陳助教對攝影很有研究，照出來的相片都很有特色。|Trợ giảng Trần rất am hiểu nhiếp ảnh, ảnh chụp ra đều rất có nét riêng.
+攝影師|shèyǐngshī|nhiếp ảnh sư|N|nhiếp ảnh gia, người quay phim|國家地理雜誌的攝影師都非常專業，他們拍的相片都特別精彩。|Các nhiếp ảnh gia của tạp chí National Geographic đều rất chuyên nghiệp, ảnh họ chụp đều đặc biệt đẹp.
+曉得|xiǎode|hiểu đắc|V|biết|你曉不曉得王英英這幾天為什麼沒來上課？|Bạn có biết mấy hôm nay Vương Anh Anh sao không đi học không?
+片名|piànmíng|phiến danh|N|tên phim|這部美國電影的中文片名跟英文的意思完全不同。|Tên tiếng Trung của bộ phim Mỹ này hoàn toàn khác nghĩa với tên tiếng Anh.
+糟糕|zāogāo|tao cao|IE/SV|chết rồi!, hỏng rồi!; tệ hại|糟糕！我又忘了把鑰匙放在哪兒了！|Chết rồi! Tôi lại quên để chìa khoá ở đâu rồi!
+糟|zāo|tao|SV|tệ, hỏng bét|快回去吧！萬一媽媽發現你不在家就糟了。|Mau về đi! Lỡ mẹ phát hiện bạn không ở nhà thì hỏng bét.
+記性|jìxìng|ký tính|N|trí nhớ|我的記性真不好，剛剛學的就忘了。|Trí nhớ tôi thật kém, vừa học xong đã quên.
+文藝愛情片|wényì àiqíng piàn|văn nghệ ái tình phiến|N|phim tình cảm văn nghệ|我最怕看文藝愛情片了，看他們談情說愛，我總是覺得好肉麻。|Tôi sợ nhất xem phim tình cảm, nhìn họ yêu đương tôi luôn thấy sến.
+愛情|àiqíng|ái tình|N|tình yêu|我覺得你像我哥哥，雖然我很喜歡你，可是這並不是愛情啊！|Em thấy anh giống anh trai em, tuy em rất quý anh nhưng đây không phải tình yêu!
+社會寫實片|shèhuì xiěshí piàn|xã hội tả thực phiến|N|phim hiện thực xã hội|社會寫實片都是一些打人、殺人的故事，不適合小孩子看。|Phim hiện thực xã hội toàn chuyện đánh người, giết người, không hợp cho trẻ con xem.
+寫實|xiěshí|tả thực|SV|hiện thực, chân thực|這本小說相當寫實，故事裡的人好像就住在你家隔壁。|Cuốn tiểu thuyết này khá chân thực, nhân vật trong truyện như sống ngay sát vách nhà bạn.
+偵探片|zhēntàn piàn|trinh thám phiến|N|phim trinh thám||
+偵探|zhēntàn|trinh thám|N|thám tử|這部偵探片是名偵探福爾摩斯的故事。|Phim trinh thám này là chuyện về thám tử lừng danh Sherlock Holmes.
+恐怖片|kǒngbù piàn|khủng bố phiến|N|phim kinh dị||
+恐怖|kǒngbù|khủng bố|SV|đáng sợ, kinh hãi|迪士尼世界的「鬼屋」，沒有我想像的那麼恐怖。|"Nhà ma" ở Disney World không đáng sợ như tôi tưởng.
+科幻片|kēhuàn piàn|khoa huyễn phiến|N|phim khoa học viễn tưởng|我看了外星人這部電影以後，才開始對科幻片有興趣的。|Sau khi xem phim E.T., tôi mới bắt đầu thích phim khoa học viễn tưởng.
+奇幻片|qíhuàn piàn|kỳ huyễn phiến|N|phim kỳ ảo (fantasy)|像哈利波特這樣的奇幻片，特別受兒童歡迎。|Phim kỳ ảo như Harry Potter đặc biệt được trẻ em yêu thích.
+動作片|dòngzuò piàn|động tác phiến|N|phim hành động|臺灣、香港拍的動作片，男主角的功夫都很棒，一個人打好幾個都沒問題。|Phim hành động Đài Loan, Hồng Kông, nam chính võ công đều rất giỏi, một người đánh mấy người cũng không thành vấn đề.
+限制級|xiànzhìjí|hạn chế cấp|AT|loại phim cấm (dưới 18 tuổi)|這是一部限制級的電影，你還沒滿十八歲，不能看。|Đây là phim loại cấm, bạn chưa đủ 18 tuổi, không được xem.
+限制|xiànzhì|hạn chế|V/N|hạn chế|孩子想學什麼，就讓他學什麼，父母不應該限制他們的發展。|Con muốn học gì thì cho học nấy, cha mẹ không nên hạn chế sự phát triển của chúng.
+級|jí|cấp|M|cấp, bậc, hạng|李大華在補習班學法文，已經念到第六級了。|Lý Đại Hoa học tiếng Pháp ở trung tâm, đã học đến cấp sáu rồi.
+分級|fēnjí|phân cấp|VO|phân loại, xếp hạng|臺灣現在也實行電影分級制度了，一共分四級。|Đài Loan bây giờ cũng áp dụng chế độ phân loại phim, tổng cộng chia bốn loại.
+輔導級|fǔdǎojí|phụ đạo cấp|AT|loại phim cần người lớn hướng dẫn (12–18 tuổi)|那部電影是輔導級的，你才十三歲，應該跟父母一起去看。|Phim đó thuộc loại cần hướng dẫn, bạn mới 13 tuổi, nên đi xem cùng bố mẹ.
+輔導|fǔdǎo|phụ đạo|V/N|hướng dẫn, tư vấn, phụ đạo|這個孩子心理有問題，需要老師的輔導。|Đứa trẻ này có vấn đề tâm lý, cần thầy cô tư vấn.
+普遍級|pǔbiànjí|phổ biến cấp|AT|loại phim phổ thông (mọi lứa tuổi)||
+#GRAMMAR
+難得|"Hiếm khi, hiếm có": có thể là tính từ hoặc phó từ, chỉ tình huống không dễ gặp, khó làm được.|去電影院看電影的人越來越少，難得這部電影還很賣座。|Người ra rạp ngày càng ít, hiếm có phim này vẫn bán vé chạy.|難得有機會看國語電影，我真要好好謝謝你們。|Hiếm khi có dịp xem phim tiếng Quốc ngữ, tôi thật phải cảm ơn các bạn.
+SV了一點|"Hơi … quá": không đúng kỳ vọng của người nói, vượt hoặc chưa đạt tiêu chuẩn mong muốn.|喜歡是喜歡，可是結局慘了一點。|Thích thì thích, nhưng cái kết hơi bi thảm.|我要穿大號的，這件是中號，小了一點。|Tôi mặc cỡ lớn, cái này cỡ vừa, hơi nhỏ.
+V下去|"V tiếp": 下去 là bổ ngữ kết quả, chỉ hành động hoặc tình trạng tiếp tục kéo dài.|她一個人以後要怎麼活下去啊？！|Sau này một mình cô ấy sống tiếp thế nào đây?!|這本小說太無聊了，我看不下去了。|Cuốn tiểu thuyết này chán quá, tôi đọc không nổi nữa.
+X給NP帶來……|"X mang lại … cho NP": sau 帶來 thường là điều trừu tượng; cũng nói "X帶給NP…".|這個獎給他帶來很多表演的機會。|Giải thưởng này mang lại cho anh ấy nhiều cơ hội diễn xuất.|洗衣機、洗碗機給家庭主婦帶來很多方便。|Máy giặt, máy rửa bát mang lại nhiều tiện lợi cho các bà nội trợ.
+果然|"Quả nhiên": sự thật hoặc kết quả đúng như dự đoán (ngược nghĩa với 居然 "vậy mà, không ngờ").|這是我第一次看他的電影，演技果然沒話說。|Đây là lần đầu tôi xem phim anh ấy, diễn xuất quả nhiên khỏi chê.|我問他生日禮物買了沒有，他果然忘了買。|Tôi hỏi anh ấy mua quà sinh nhật chưa, quả nhiên anh ấy quên mua.
+何必|"Cần gì phải, hà tất": câu hỏi tu từ, ý thật là "不必 (không cần)".|看電影嘛！何必那麼認真呢？！|Xem phim thôi mà! Cần gì nghiêm trọng thế?!|自己開車去，又方便又省錢，何必參加旅行團？！|Tự lái xe đi vừa tiện vừa tiết kiệm, cần gì phải đi theo đoàn du lịch?!
+還不就是……？！|"Chẳng phải vẫn là … sao?!": mọi thứ vẫn như cũ, không có gì mới; 還 mang nghĩa phản vấn.|最近怎麼樣？——馬馬虎虎，還不就是上課、打工、考試、念書？！|Dạo này thế nào? — Tàm tạm, chẳng phải vẫn là đi học, làm thêm, thi cử, học bài sao?!|她每天在家做什麼？——還不就是做飯、洗衣服、看電視？！|Ngày nào bà ấy ở nhà làm gì? — Chẳng phải vẫn nấu cơm, giặt đồ, xem TV sao?!
+無所謂|"Sao cũng được, không quan trọng": đặt sau việc người nói thấy không quan trọng; có thể dùng một mình.|電影看不看無所謂，吃比較重要。|Xem phim hay không cũng được, ăn quan trọng hơn.|吃不吃飯，我無所謂，反正現在也還不餓。|Ăn hay không tôi sao cũng được, dù sao giờ chưa đói.
