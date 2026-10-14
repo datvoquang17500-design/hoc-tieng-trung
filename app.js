@@ -1085,7 +1085,7 @@ function viewGrammar() {
 // QUIZ
 // ================================================================
 const QUIZ_TOPICS = () => [
-  { key: 'all', label: 'Tổng hợp tất cả từ vựng' },
+  { key: 'all', label: 'Tổng hợp tất cả (từ vựng, ngữ pháp, bài tập sách)' },
   { key: 'todo', label: 'Chỉ từ chưa thuộc' },
   { key: 'known', label: 'Chỉ từ đã thuộc' },
   { key: 'hard', label: 'Từ hay trả lời sai' },
@@ -1167,6 +1167,34 @@ function makeGrammarQ(g) {
   return { kind: 'Chọn mẫu câu phù hợp', promptHtml: esc(g.usage), ...mcq(g.structure, d.map(x => x.structure)), grammar: g, hanOpts: 'text' };
 }
 
+// Câu bài tập sách tự chấm được (bỏ phần tự luận) — dùng cho chủ đề "Tổng hợp tất cả".
+const WB_AUTO = () => (typeof WB === 'undefined' ? [] : WB).flatMap(l => l.sections.filter(s => s.type !== 'open').flatMap(sec => sec.items.map(item => ({ lesson: l, sec, item }))));
+function makeWbQ(src) {
+  const item = wbFresh(src.item, src.sec.type);
+  const base = { kind: 'Bài tập sách', wbSrc: src, kindNote: `${src.lesson.title} · ${src.sec.title}` };
+  if (src.sec.type === 'mcq') {
+    return { ...base, promptHtml: `<span class="han" style="font-size:20px;font-weight:500">${esc(item.prompt)}</span>`, options: item.options, correct: item.correct, hanOpts: 'text', wbMcq: item };
+  }
+  const review = src.sec.type === 'typo' ? item.text : item.tiles.join(' / ');
+  return { ...base, wb: { item, type: src.sec.type }, reviewHtml: `<span class="han">${esc(review)}</span>`, answerText: src.sec.type === 'typo' ? item.fixed : item.tiles.join('') };
+}
+// Trộn đều: khoảng 50% từ vựng, 15% ngữ pháp, 35% bài tập sách; không lặp câu trong một lượt.
+function mixedQuestions(n) {
+  const pools = [
+    { w: 50, items: shuffle(UNIQUE_WORDS), make: makeVocabQ },
+    { w: 15, items: shuffle(GRAMMAR), make: makeGrammarQ },
+    { w: 35, items: shuffle(WB_AUTO()), make: makeWbQ },
+  ].filter(p => p.items.length);
+  const out = [];
+  while (out.length < n && pools.some(p => p.items.length)) {
+    const live = pools.filter(p => p.items.length);
+    let r = Math.random() * live.reduce((t, p) => t + p.w, 0);
+    const p = live.find(x => (r -= x.w) < 0) || live[0];
+    out.push(p.make(p.items.pop()));
+  }
+  return out;
+}
+
 function quizPool(topic) {
   if (topic === 'todo') return UNIQUE_WORDS.filter(w => !isKnown(w.hanzi));
   if (topic === 'known') return UNIQUE_WORDS.filter(w => isKnown(w.hanzi));
@@ -1183,7 +1211,9 @@ function autoSpeak() {
 function startQuiz(fromWords) {
   let questions;
   if (fromWords) {
-    questions = shuffle(fromWords).map(item => item.grammar ? makeGrammarQ(item.grammar) : makeVocabQ(item.word));
+    questions = shuffle(fromWords).map(item => item.wbSrc ? makeWbQ(item.wbSrc) : item.grammar ? makeGrammarQ(item.grammar) : makeVocabQ(item.word));
+  } else if (state.quizTopic === 'all' && state.quizMode === 'mix') {
+    questions = mixedQuestions(state.quizLen);
   } else if (state.quizTopic === 'grammar') {
     questions = shuffle(GRAMMAR).slice(0, state.quizLen).map(makeGrammarQ);
   } else {
@@ -1237,14 +1267,15 @@ function viewQuiz() {
   if (!qz) {
     const topics = QUIZ_TOPICS();
     const isGrammar = state.quizTopic === 'grammar';
-    const size = isGrammar ? GRAMMAR.length : quizPool(state.quizTopic).length;
+    const mixAll = state.quizTopic === 'all' && state.quizMode === 'mix';
+    const size = isGrammar ? GRAMMAR.length : mixAll ? UNIQUE_WORDS.length + GRAMMAR.length + WB_AUTO().length : quizPool(state.quizTopic).length;
     const modes = TTS ? QUIZ_MODES : QUIZ_MODES.filter(m => m.key !== 'listen');
     const mode = modes.find(m => m.key === state.quizMode) || modes[0];
     return `${quizAreaSeg()}
     <div class="card stack">
       <div><div class="field-label">Chủ đề</div>
       <select class="input han" data-act="quiz-topic">${topics.map(t => `<option value="${t.key}" ${t.key === state.quizTopic ? 'selected' : ''}>${esc(t.label)}</option>`).join('')}</select>
-      <div class="small muted" style="margin-top:4px">${size} ${isGrammar ? 'mẫu câu' : 'từ'} trong chủ đề này</div></div>
+      <div class="small muted" style="margin-top:4px">${mixAll ? `${size} câu hỏi: ${UNIQUE_WORDS.length} từ vựng, ${GRAMMAR.length} ngữ pháp, ${WB_AUTO().length} bài tập sách — trộn ngẫu nhiên` : `${size} ${isGrammar ? 'mẫu câu' : 'từ'} trong chủ đề này`}${state.quizTopic === 'all' && !mixAll ? ' (kiểu Nghe / Nhớ chữ Hán chỉ dùng từ vựng)' : ''}</div></div>
       ${isGrammar ? '' : `<div><div class="field-label">Kiểu câu hỏi</div>
       <div class="seg">${modes.map(m => `<button class="${m.key === mode.key ? 'active' : ''}" data-act="quiz-mode" data-m="${m.key}">${m.label}</button>`).join('')}</div>
       <div class="small muted" style="margin-top:4px">${mode.desc}</div></div>`}
@@ -1274,17 +1305,38 @@ function viewQuiz() {
       <div class="review-item">
         <div class="small muted">${esc(a.q.kind)}</div>
         <div style="margin:2px 0">${a.q.reviewHtml || a.q.promptHtml}</div>
-        <div><span style="color:var(--bad)">✗ <span class="han">${esc(a.q.options[a.picked])}</span></span></div>
-        <div><span style="color:var(--ok)">✓ <span class="han">${esc(a.q.options[a.q.correct])}</span></span>
+        ${a.q.wb ? '' : `<div><span style="color:var(--bad)">✗ <span class="han">${esc(a.q.options[a.picked])}</span></span></div>`}
+        <div><span style="color:var(--ok)">✓ <span class="han">${esc(a.q.wb ? a.q.answerText : a.q.wbMcq ? (wbFilled(a.q.wbMcq) || a.q.options[a.q.correct]) : a.q.options[a.q.correct])}</span></span>
           ${a.q.word ? ` <button class="btn btn-ghost small" style="min-height:28px;padding:0 6px" data-act="word" data-h="${esc(a.q.word.hanzi)}">Xem từ</button>` : ''}</div>
       </div>`).join('')}</div>` : ''}`;
   }
 
   const q = qz.questions[qz.idx];
   let fb = '';
+  if (q.wb) {
+    const ans = qz.picked != null ? qz.answers[qz.answers.length - 1] : null;
+    const { body, after } = wbInteractive(q.wb.item, q.wb.type, ans);
+    return `
+  <div class="q-progress">
+    <button class="icon-btn" data-act="quiz-quit" aria-label="Thoát">${icon('x')}</button>
+    <div class="bar"><span style="width:${pct(qz.idx, qz.questions.length)}%"></span></div>
+    <span>${qz.idx + 1}/${qz.questions.length}</span>
+  </div>
+  <div class="card">
+    <div class="q-type">${esc(q.kind)}</div>
+    <div class="small muted han" style="margin:-2px 0 10px">${esc(q.kindNote)}</div>
+    ${body}${after}
+    ${ans ? `<button class="btn btn-primary btn-block" style="margin-top:14px" data-act="quiz-next">${qz.idx + 1 < qz.questions.length ? 'Câu tiếp' : 'Xem kết quả'}</button>` : ''}
+  </div>`;
+  }
   if (qz.picked != null) {
     const ok = qz.picked === q.correct;
-    if (q.word) {
+    if (q.wbMcq) {
+      const full = wbFilled(q.wbMcq);
+      fb = `<div class="feedback"><b style="color:${ok ? 'var(--ok)' : 'var(--bad)'}">${ok ? 'Chính xác!' : 'Chưa đúng.'}</b>
+        ${full ? `<div class="row" style="margin-top:6px"><span class="han grow">${esc(full)}</span>${speakBtn(full)}</div>` : ''}
+        ${q.wbMcq.note ? `<div class="small" style="margin-top:4px">${esc(q.wbMcq.note)}</div>` : ''}</div>`;
+    } else if (q.word) {
       const w = q.word;
       fb = `<div class="feedback"><b style="color:${ok ? 'var(--ok)' : 'var(--bad)'}">${ok ? 'Chính xác!' : 'Chưa đúng.'}</b>
         <span class="han" style="font-size:18px">${esc(w.hanzi)}</span> <span class="pinyin" style="font-size:14px">${esc(w.pinyin)}</span> — ${esc(w.meaning)}
@@ -1307,6 +1359,7 @@ function viewQuiz() {
   </div>
   <div class="card">
     <div class="q-type">${esc(q.kind)}</div>
+    ${q.kindNote ? `<div class="small muted han" style="margin:-2px 0 10px">${esc(q.kindNote)}</div>` : ''}
     <div class="q-prompt ${q.listen ? 'listen' : ''}">${q.promptHtml} ${promptSpeak}</div>
     ${optionsHtml(q, qz.picked, 'quiz-pick', q.hanOpts)}
     ${fb}
@@ -1399,6 +1452,55 @@ function viewWorkbook() {
   </div>`;
 }
 
+// Phần tương tác của câu "tìm chữ sai" và "sắp xếp câu" (dùng cho Bài tập sách và ôn tập tổng hợp).
+function wbInteractive(it, type, ans) {
+  let body = '', after = '';
+  const verdict = ok => `<b style="color:${ok ? 'var(--ok)' : 'var(--bad)'}">${ok ? 'Chính xác!' : 'Chưa đúng.'}</b>`;
+  const sayRow = t => `<div class="row" style="margin-top:6px"><span class="han grow">${esc(t)}</span>${speakBtn(t)}</div>`;
+  if (type === 'typo') {
+    const chars = [...it.text];
+    body = `<div class="typo-line han">${chars.map((ch, i) => {
+      let cls = 'typo-ch';
+      if (it.checked) { if (it.wrong.includes(i)) cls += ' is-wrong'; else if (it.sel.includes(i)) cls += ' miss'; }
+      else if (it.sel.includes(i)) cls += ' sel';
+      return `<button class="${cls}" data-act="wb-ch" data-i="${i}" ${it.checked || /[，。！？、；：「」\s]/.test(ch) ? 'disabled' : ''}>${esc(ch)}</button>`;
+    }).join('')}</div>
+    ${it.checked ? '' : `<div class="small muted" style="margin-top:8px">Câu này có ${it.wrong.length} chữ viết sai · đã chọn ${it.sel.length}</div>`}`;
+    if (!it.checked) after = `<button class="btn btn-primary btn-block" style="margin-top:14px" data-act="wb-check" ${it.sel.length ? '' : 'disabled'}>Kiểm tra</button>`;
+    else after = `<div class="feedback">${verdict(ans.ok)} ${it.wrong.map(i => `<span class="han">${esc(chars[i])} → <b style="color:var(--ok)">${esc([...it.fixed][i])}</b></span>`).join('，')}
+        ${sayRow(it.fixed)}</div>`;
+  } else if (type === 'order') {
+    const answer = it.tiles.join('');
+    body = `<div class="order-built han ${it.checked ? (ans.ok ? 'ok' : 'bad') : ''}">${it.built.length
+        ? it.built.map((ti, k) => `<button class="tile" data-act="wb-untile" data-i="${k}" ${it.checked ? 'disabled' : ''}>${esc(it.tiles[ti])}</button>`).join('')
+        : '<span class="small muted" style="font-family:var(--font)">Chạm các mảnh bên dưới theo đúng thứ tự</span>'}</div>
+      <div class="order-pool han">${it.pool.map(ti => it.built.includes(ti)
+        ? `<span class="tile ghost">${esc(it.tiles[ti])}</span>`
+        : `<button class="tile" data-act="wb-tile" data-i="${ti}" ${it.checked ? 'disabled' : ''}>${esc(it.tiles[ti])}</button>`).join('')}</div>`;
+    if (!it.checked) after = `<div class="row" style="margin-top:14px">
+        <button class="btn" data-act="wb-clear" ${it.built.length ? '' : 'disabled'}>Xếp lại</button>
+        <button class="btn btn-primary grow" data-act="wb-check" ${it.built.length === it.tiles.length ? '' : 'disabled'}>Kiểm tra</button></div>`;
+    else after = `<div class="feedback">${verdict(ans.ok)}
+        ${ans.ok ? '' : '<div class="small muted" style="margin-top:4px">Đáp án:</div>'}${sayRow(answer)}
+        ${ans.ok ? '' : '<button class="btn" style="margin-top:8px;min-height:34px" data-act="wb-mine">Câu của tôi cũng đúng</button>'}</div>`;
+  }
+  return { body, after };
+}
+// Câu bài tập đang làm: trong phần Bài tập sách, hoặc câu bài tập nằm trong lượt ôn tập tổng hợp.
+function wbCur() {
+  if (state.wb) {
+    const wb = state.wb;
+    return { it: wb.items[wb.idx], type: wb.sec.type, record: wbRecord, setOk: () => { wb.answers[wb.idx].ok = true; } };
+  }
+  const qz = state.quiz, q = qz && qz.questions[qz.idx];
+  if (!q || !q.wb) return null;
+  return {
+    it: q.wb.item, type: q.wb.type,
+    record: ok => { if (qz.picked != null) return; qz.picked = ok ? 0 : -1; qz.answers.push({ q, picked: qz.picked, ok }); },
+    setOk: () => { const a = qz.answers[qz.answers.length - 1]; if (a) a.ok = true; },
+  };
+}
+
 function viewWbRun() {
   const wb = state.wb;
   if (wb.idx >= wb.items.length) return viewWbResult();
@@ -1414,32 +1516,9 @@ function viewWbRun() {
     body = `<div class="q-prompt han wb-prompt">${esc(it.prompt)}</div>${optionsHtml(it, it.picked, 'wb-pick', 'text')}`;
     if (ans) after = `<div class="feedback">${verdict(ans.ok)}${full ? sayRow(full) : ''}
       ${it.note ? `<div class="small" style="margin-top:4px">${esc(it.note)}</div>` : ''}</div>${nextBtn}`;
-  } else if (type === 'typo') {
-    const chars = [...it.text];
-    body = `<div class="typo-line han">${chars.map((ch, i) => {
-      let cls = 'typo-ch';
-      if (it.checked) { if (it.wrong.includes(i)) cls += ' is-wrong'; else if (it.sel.includes(i)) cls += ' miss'; }
-      else if (it.sel.includes(i)) cls += ' sel';
-      return `<button class="${cls}" data-act="wb-ch" data-i="${i}" ${it.checked || /[，。！？、；：「」\s]/.test(ch) ? 'disabled' : ''}>${esc(ch)}</button>`;
-    }).join('')}</div>
-    ${it.checked ? '' : `<div class="small muted" style="margin-top:8px">Câu này có ${it.wrong.length} chữ viết sai · đã chọn ${it.sel.length}</div>`}`;
-    if (!it.checked) after = `<button class="btn btn-primary btn-block" style="margin-top:14px" data-act="wb-check" ${it.sel.length ? '' : 'disabled'}>Kiểm tra</button>`;
-    else after = `<div class="feedback">${verdict(ans.ok)} ${it.wrong.map(i => `<span class="han">${esc(chars[i])} → <b style="color:var(--ok)">${esc([...it.fixed][i])}</b></span>`).join('，')}
-        ${sayRow(it.fixed)}</div>${nextBtn}`;
-  } else if (type === 'order') {
-    const answer = it.tiles.join('');
-    body = `<div class="order-built han ${it.checked ? (ans.ok ? 'ok' : 'bad') : ''}">${it.built.length
-        ? it.built.map((ti, k) => `<button class="tile" data-act="wb-untile" data-i="${k}" ${it.checked ? 'disabled' : ''}>${esc(it.tiles[ti])}</button>`).join('')
-        : '<span class="small muted" style="font-family:var(--font)">Chạm các mảnh bên dưới theo đúng thứ tự</span>'}</div>
-      <div class="order-pool han">${it.pool.map(ti => it.built.includes(ti)
-        ? `<span class="tile ghost">${esc(it.tiles[ti])}</span>`
-        : `<button class="tile" data-act="wb-tile" data-i="${ti}" ${it.checked ? 'disabled' : ''}>${esc(it.tiles[ti])}</button>`).join('')}</div>`;
-    if (!it.checked) after = `<div class="row" style="margin-top:14px">
-        <button class="btn" data-act="wb-clear" ${it.built.length ? '' : 'disabled'}>Xếp lại</button>
-        <button class="btn btn-primary grow" data-act="wb-check" ${it.built.length === it.tiles.length ? '' : 'disabled'}>Kiểm tra</button></div>`;
-    else after = `<div class="feedback">${verdict(ans.ok)}
-        ${ans.ok ? '' : '<div class="small muted" style="margin-top:4px">Đáp án:</div>'}${sayRow(answer)}
-        ${ans.ok ? '' : '<button class="btn" style="margin-top:8px;min-height:34px" data-act="wb-mine">Câu của tôi cũng đúng</button>'}</div>${nextBtn}`;
+  } else if (type === 'typo' || type === 'order') {
+    ({ body, after } = wbInteractive(it, type, ans));
+    if (it.checked) after += nextBtn;
   } else {
     const latin = /[a-z]{3}/i.test(it.prompt);
     body = `<div class="q-prompt wb-prompt ${latin ? '' : 'han'}">${esc(it.prompt)}</div>
@@ -1594,22 +1673,22 @@ document.addEventListener('click', e => {
     case 'wb-retry': { const wb = state.wb; startWb(wb.sec.id, wb.answers.filter(a => a && !a.ok).map(a => wb.src[a.i])); break; }
     case 'wb-nextsec': { const l = state.wb.lesson; const s = l.sections[l.sections.indexOf(state.wb.sec) + 1]; if (s) startWb(s.id); break; }
     case 'wb-pick': { const it = state.wb.items[state.wb.idx]; if (it.picked != null) break; it.picked = +d.i; wbRecord(it.picked === it.correct); render(); break; }
-    case 'wb-ch': { const it = state.wb.items[state.wb.idx], i = +d.i; it.sel = it.sel.includes(i) ? it.sel.filter(x => x !== i) : [...it.sel, i]; render(); break; }
-    case 'wb-tile': { const it = state.wb.items[state.wb.idx]; if (!it.built.includes(+d.i)) it.built.push(+d.i); render(); break; }
-    case 'wb-untile': state.wb.items[state.wb.idx].built.splice(+d.i, 1); render(); break;
-    case 'wb-clear': state.wb.items[state.wb.idx].built = []; render(); break;
+    case 'wb-ch': { const it = wbCur().it, i = +d.i; it.sel = it.sel.includes(i) ? it.sel.filter(x => x !== i) : [...it.sel, i]; render(); break; }
+    case 'wb-tile': { const it = wbCur().it; if (!it.built.includes(+d.i)) it.built.push(+d.i); render(); break; }
+    case 'wb-untile': wbCur().it.built.splice(+d.i, 1); render(); break;
+    case 'wb-clear': wbCur().it.built = []; render(); break;
     case 'wb-check': {
-      const wb = state.wb, it = wb.items[wb.idx];
+      const c = wbCur(), it = c.it;
       it.checked = true;
-      if (wb.sec.type === 'typo') wbRecord(it.sel.length === it.wrong.length && it.wrong.every(i => it.sel.includes(i)));
-      else wbRecord(wbPlain(it.built.map(i => it.tiles[i]).join('')) === wbPlain(it.tiles.join('')));
+      if (c.type === 'typo') c.record(it.sel.length === it.wrong.length && it.wrong.every(i => it.sel.includes(i)));
+      else c.record(wbPlain(it.built.map(i => it.tiles[i]).join('')) === wbPlain(it.tiles.join('')));
       render(); break;
     }
-    case 'wb-mine': state.wb.answers[state.wb.idx].ok = true; render(); break;
+    case 'wb-mine': wbCur().setOk(); render(); break;
     case 'wb-reveal': state.wb.items[state.wb.idx].revealed = true; render(); break;
     case 'wb-self': wbRecord(d.k === '1'); wbNext(); break;
     case 'quiz-retry': {
-      const wrong = state.quiz.answers.filter(a => !a.ok).map(a => ({ word: a.q.word, grammar: a.q.grammar }));
+      const wrong = state.quiz.answers.filter(a => !a.ok).map(a => ({ word: a.q.word, grammar: a.q.grammar, wbSrc: a.q.wbSrc }));
       startQuiz(wrong); state.quiz.retry = true; break;
     }
   }
