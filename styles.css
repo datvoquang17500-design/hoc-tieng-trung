@@ -398,3 +398,4 @@ main a { color: var(--accent-text); }
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; }
 }
+.chat .playing .bubble, .chat .narr.playing { outline: 2px solid var(--accent, #c0392b); outline-offset: 2px; }

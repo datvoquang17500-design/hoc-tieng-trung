@@ -573,23 +573,107 @@ const icon = (name, size) => `<svg viewBox="0 0 24 24" ${size ? `width="${size}"
 
 // ---- phát âm (Web Speech API, iOS Safari hỗ trợ sẵn) ----
 const TTS = 'speechSynthesis' in window;
-let zhVoice = null;
+let zhVoice = null, zhVoices = [];
+const zhRank = v => /zh[-_]TW/i.test(v.lang) ? 0 : /zh[-_]CN/i.test(v.lang) ? 1 : 2;
 function pickVoice() {
   if (!TTS) return;
-  const vs = speechSynthesis.getVoices();
-  zhVoice = vs.find(v => /zh[-_]TW/i.test(v.lang)) || vs.find(v => /zh[-_](HK|CN)/i.test(v.lang)) || vs.find(v => /^zh/i.test(v.lang)) || null;
+  zhVoices = speechSynthesis.getVoices().filter(v => /^(zh|cmn|yue)/i.test(v.lang)).sort((a, b) => zhRank(a) - zhRank(b));
+  zhVoice = zhVoices[0] || null;
 }
 if (TTS) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-function speak(text) {
+// opt: { voice, pitch, rate, onend } — dùng cho hội thoại nhiều giọng.
+function speak(text, opt = {}) {
   if (!TTS || !text) return;
-  speechSynthesis.cancel();
+  if (!opt.keep) { speechSynthesis.cancel(); chatPlay = null; }
   const u = new SpeechSynthesisUtterance(text);
-  u.lang = zhVoice ? zhVoice.lang : 'zh-TW';
-  if (zhVoice) u.voice = zhVoice;
-  u.rate = 0.85;
+  const v = opt.voice || zhVoice;
+  u.lang = v ? v.lang : 'zh-TW';
+  if (v) try { u.voice = v; } catch (e) {}
+  u.rate = opt.rate || 0.85;
+  u.pitch = opt.pitch || 1;
+  if (opt.onend) { u.onend = opt.onend; u.onerror = opt.onend; }
   speechSynthesis.speak(u);
 }
+
+// ---- giọng theo nhân vật trong hội thoại ----
+// Giới tính nhân vật trong sách (đoán theo tên / chức danh); nhân vật lạ thì xen kẽ nam–nữ.
+const SPEAKER_SEX = {
+  '偉立': 'm', '建國': 'm', '陸康': 'm', '錢先生': 'm', '教授': 'm', '叔叔': 'm', '爸爸': 'm',
+  '周開文': 'm', '林中平': 'm', '費南多': 'm', '周學盛': 'm', '陳士豐': 'm', '維克': 'm', '陳永慶': 'm', '何平': 'm',
+  '美真': 'f', '台麗': 'f', '錢太太': 'f', '師母': 'f', '姐姐': 'f', '媽媽': 'f',
+  '珊珊': 'f', '小雅': 'f', '明萱': 'f', '高繪玲': 'f', '敏華': 'f', '秀秀': 'f', '怡君': 'f', '黃淑華': 'f', '范美文': 'f',
+};
+function guessSex(name) {
+  if (SPEAKER_SEX[name]) return SPEAKER_SEX[name];
+  if (/(先生|爸|爺|叔|伯|哥|弟|兒子|男|舅|公公)/.test(name)) return 'm';
+  if (/(太太|小姐|媽|奶|姨|姐|妹|女|嫂|婆|母)/.test(name)) return 'f';
+  return null;
+}
+const MALE_VOICE = /(male|男|zhiwei|kangkang|yunxi|yunyang|yunjian|yunze|yunfeng|yunhao|limu|li-mu|yu-shu|wanlung)/i;
+const FEMALE_VOICE = /(female|女|hanhan|yating|huihui|yaoyao|xiaoxiao|xiaoyi|hsiaochen|hsiaoyu|meijia|mei-jia|tingting|ting-ting|sinji|lili|shanshan|yu-na)/i;
+const voiceSex = v => MALE_VOICE.test(v.name) && !/female/i.test(v.name) ? 'm' : FEMALE_VOICE.test(v.name) ? 'f' : null;
+// Gán cho mỗi nhân vật một giọng: ưu tiên giọng đúng giới tính, chưa ai dùng;
+// thiếu giọng thì dùng lại giọng có sẵn nhưng đổi cao độ (nam trầm, nữ cao) để vẫn nghe ra khác người.
+function castVoices(lines) {
+  const names = [...new Set(lines.map(l => l.speaker).filter(Boolean))];
+  const used = new Map(), cast = {};
+  let alt = 0;
+  names.forEach(n => {
+    const sex = guessSex(n) || (alt++ % 2 ? 'f' : 'm');
+    const same = zhVoices.filter(v => voiceSex(v) === sex);
+    const pool = same.length ? same : zhVoices;
+    const voice = pool.slice().sort((a, b) => (used.get(a) || 0) - (used.get(b) || 0) || zhRank(a) - zhRank(b))[0] || null;
+    const k = used.get(voice) || 0; used.set(voice, k + 1);
+    // giọng thật đúng giới tính thì chỉnh nhẹ; phải "mượn" giọng khác giới thì hạ/nâng cao độ rõ hơn
+    const native = voice && voiceSex(voice) === sex;
+    const base = sex === 'm' ? (native ? 1 : 0.6) : (native ? 1.05 : 1.2);
+    const step = [0, 0.12, -0.12, 0.22, -0.22][k % 5];
+    cast[n] = { voice, pitch: Math.max(0.3, Math.min(1.8, base + step)), rate: 0.85 + (k % 3) * 0.04 };
+  });
+  return cast;
+}
+let chatCast = null, chatCastFor = null, chatPlay = null;
+function convoCast(c) {
+  if (chatCastFor !== c || !chatCast) { chatCast = castVoices(c.lines); chatCastFor = c; }
+  return chatCast;
+}
+function speakLine(c, i, opt = {}) {
+  const l = c.lines[i];
+  if (!l) return;
+  const who = l.speaker ? convoCast(c)[l.speaker] : null;
+  speak(l.zh, { ...(who || { rate: 0.9 }), ...opt });
+}
+// Nghe cả bài: đọc lần lượt từng câu, mỗi nhân vật một giọng; tô sáng câu đang đọc.
+function playConvo(c, from = 0) {
+  if (!TTS) { toast('Máy không hỗ trợ đọc'); return; }
+  speechSynthesis.cancel();
+  const run = { c, i: from };
+  chatPlay = run;
+  const mark = () => {
+    document.querySelectorAll('.chat .playing').forEach(x => x.classList.remove('playing'));
+    const el = document.querySelector(`.chat [data-line="${run.i}"]`);
+    if (el && chatPlay === run) { el.classList.add('playing'); el.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); }
+    const b = $('[data-act="chat-play"]');
+    if (b) b.innerHTML = chatPlay === run ? `${icon('speak')} Dừng` : `${icon('speak')} Nghe cả bài`;
+  };
+  const next = () => {
+    if (chatPlay !== run) return;
+    if (!document.querySelector('.chat')) { stopConvo(); return; }
+    if (run.i >= c.lines.length) { chatPlay = null; mark(); return; }
+    mark();
+    speakLine(c, run.i, { keep: true, onend: () => { if (chatPlay !== run) return; run.i++; setTimeout(next, 250); } });
+  };
+  next();
+}
+function stopConvo() {
+  chatPlay = null;
+  if (TTS) speechSynthesis.cancel();
+  document.querySelectorAll('.chat .playing').forEach(x => x.classList.remove('playing'));
+  const b = $('[data-act="chat-play"]');
+  if (b) b.innerHTML = `${icon('speak')} Nghe cả bài`;
+}
 const speakBtn = (text, cls = 'icon-btn') => `<button class="${cls}" data-act="speak" data-text="${esc(text)}" aria-label="Phát âm">${icon('speak')}</button>`;
+const lineBtn = i => `<button class="icon-btn speak-inline" data-act="speak-line" data-i="${i}" aria-label="Phát âm">${icon('speak')}</button>`;
 
 let toastTimer = null;
 function toast(msg) {
@@ -997,14 +1081,17 @@ function viewChat() {
   <select class="input han" data-act="convo">
     ${CONVERSATIONS.map((x, i) => `<option value="${i}" ${i === state.convo ? 'selected' : ''}>${esc(x.title)}</option>`).join('')}
   </select>
-  <p class="small muted" style="margin:8px 2px 14px">Chạm vào từ được gạch chân để xem nghĩa. Nút loa để nghe cả câu.</p>
+  <div class="row between" style="margin:8px 2px 14px;gap:10px">
+    <p class="small muted" style="margin:0">Chạm vào từ được gạch chân để xem nghĩa. Mỗi nhân vật đọc bằng một giọng riêng.</p>
+    <button class="btn btn-ghost" data-act="chat-play" style="flex:none">${icon('speak')} ${chatPlay && chatPlay.c === c ? 'Dừng' : 'Nghe cả bài'}</button>
+  </div>
   <div class="chat">
-    ${c.lines.map(l => !l.speaker ? `
-      <div class="narr han">${l.zh.length > 30 ? speakBtn(l.zh, 'icon-btn speak-inline') : ''}${tokenize(l.zh)}
+    ${c.lines.map((l, i) => !l.speaker ? `
+      <div class="narr han" data-line="${i}">${l.zh.length > 30 ? lineBtn(i) : ''}${tokenize(l.zh)}
         ${l.en ? `<div class="small muted" style="font-family:var(--font)">${esc(l.en)}</div>` : ''}</div>` : `
-      <div class="bubble-wrap ${l.align === 'right' || (l.align !== 'left' && l.speaker !== first) ? 'right' : ''}">
+      <div class="bubble-wrap ${l.align === 'right' || (l.align !== 'left' && l.speaker !== first) ? 'right' : ''}" data-line="${i}">
         <div class="speaker han">${esc(l.speaker)}</div>
-        <div class="bubble han">${speakBtn(l.zh, 'icon-btn speak-inline')}${tokenize(l.zh)}
+        <div class="bubble han">${lineBtn(i)}${tokenize(l.zh)}
           ${l.en ? `<div class="small muted" style="font-family:var(--font)">${esc(l.en)}</div>` : ''}</div>
       </div>`).join('')}
   </div>
@@ -1600,6 +1687,8 @@ document.addEventListener('click', e => {
   switch (act) {
     case 'tab': go(d.tab); break;
     case 'speak': e.stopPropagation(); speak(d.text); break;
+    case 'speak-line': e.stopPropagation(); speakLine(CONVERSATIONS[state.convo], +d.i); break;
+    case 'chat-play': if (chatPlay) stopConvo(); else playConvo(CONVERSATIONS[state.convo]); break;
     case 'word': e.stopPropagation(); openWord(d.h); break;
     case 'close-sheet': closeSheet(); break;
     case 'sheet-known':
@@ -1698,7 +1787,7 @@ document.addEventListener('change', e => {
   if (e.target.id === 'restore-input') { const file = e.target.files && e.target.files[0]; if (file) restoreFromFile(file); return; }
   const act = e.target.dataset.act;
   if (act === 'unit') { state.unit = e.target.value === 'all' ? 'all' : +e.target.value; buildDeck(false); savePrefs(); render(); }
-  if (act === 'convo') { state.convo = +e.target.value; state.cq = null; savePrefs(); render(); window.scrollTo(0, 0); }
+  if (act === 'convo') { stopConvo(); state.convo = +e.target.value; state.cq = null; savePrefs(); render(); window.scrollTo(0, 0); }
   if (act === 'g-filter') { state.gFilter = e.target.value; render(); }
   if (act === 'quiz-topic') { state.quizTopic = e.target.value; savePrefs(); render(); }
   if (act === 'wb-lesson') { state.wbLesson = +e.target.value; savePrefs(); render(); }

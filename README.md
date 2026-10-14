@@ -8,6 +8,7 @@ Mở `index.html` để dùng. Toàn bộ nội dung học nằm trong **`data.j
 - **Thẻ từ:** chọn "Tất cả các bài" thì thẻ luôn được xáo ngẫu nhiên; chọn một bài thì theo thứ tự trong bài. Lật thẻ là app tự đọc từ.
 - **Lịch ôn:** từ đã thuộc được nhắc lại sau **1 → 3 → 7 → 14 → 28 → 60 ngày**. Khi đến hạn, Tổng quan hiện "N từ đến hạn ôn", tab Thẻ từ có số đỏ. Ôn ở bộ lọc **Cần ôn**: "Vẫn nhớ" thì lên mốc kế tiếp, "Quên rồi" thì quay về mốc 1 ngày. Qua mốc 60 ngày là **Thành thạo**, không nhắc nữa.
 - **Hoàn thành bài:** thuộc hết từ trong bài thì bài được đánh dấu Hoàn thành và giữ nguyên trạng thái đó. Muốn học lại từ đầu thì bấm **Học lại** (ở Tổng quan hoặc tab Thẻ từ). Việc này xoá trạng thái đã thuộc và lịch ôn của các từ trong bài.
+- **Hội thoại:** mỗi nhân vật đọc bằng một giọng riêng (nam/nữ khác giọng; máy ít giọng thì đổi cao độ). Nút **Nghe cả bài** đọc lần lượt cả bài. Giới tính nhân vật khai báo trong `SPEAKER_SEX` (app.js); nhân vật chưa khai báo thì xen kẽ nam–nữ.
 - Nhắc ôn chỉ hiện **trong app**. Web app trên iPhone không tự gửi thông báo khi đang đóng.
 
 ## Đồng bộ đám mây (GitHub Gist)
