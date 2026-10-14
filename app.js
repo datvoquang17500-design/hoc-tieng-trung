@@ -629,11 +629,15 @@ const state = {
   quizTopic: P.quizTopic || 'all', quizLen: P.quizLen || 10,
   quizMode: P.quizMode || 'mix', // mix | listen | write
   quiz: null,                   // { questions, idx, picked, answers: [] }
+  quizArea: P.quizArea || 'vocab', // vocab | wb (bài tập sách)
+  wbLesson: P.wbLesson || 0,
+  wb: null,                     // phần bài tập đang làm: { lesson, sec, items, idx, answers }
 };
 function savePrefs() {
   Object.assign(store.prefs, {
     tab: state.tab, unit: state.unit, filter: state.filter, view: state.view, showPinyin: state.showPinyin, reverse: state.reverse,
     convo: state.convo, quizTopic: state.quizTopic, quizLen: state.quizLen, quizMode: state.quizMode,
+    quizArea: state.quizArea, wbLesson: state.wbLesson,
   });
   save();
 }
@@ -1222,15 +1226,21 @@ function nextQuiz() {
   autoSpeak();
 }
 
+const quizAreaSeg = () => WB.length ? `<div class="seg" style="margin-bottom:12px">
+  <button class="${state.quizArea === 'vocab' ? 'active' : ''}" data-act="quiz-area" data-a="vocab">Từ vựng & ngữ pháp</button>
+  <button class="${state.quizArea === 'wb' ? 'active' : ''}" data-act="quiz-area" data-a="wb">Bài tập sách</button></div>` : '';
+
 function viewQuiz() {
+  if (state.wb) return viewWbRun();
   const qz = state.quiz;
+  if (!qz && state.quizArea === 'wb' && WB.length) return quizAreaSeg() + viewWorkbook();
   if (!qz) {
     const topics = QUIZ_TOPICS();
     const isGrammar = state.quizTopic === 'grammar';
     const size = isGrammar ? GRAMMAR.length : quizPool(state.quizTopic).length;
     const modes = TTS ? QUIZ_MODES : QUIZ_MODES.filter(m => m.key !== 'listen');
     const mode = modes.find(m => m.key === state.quizMode) || modes[0];
-    return `
+    return `${quizAreaSeg()}
     <div class="card stack">
       <div><div class="field-label">Chủ đề</div>
       <select class="input han" data-act="quiz-topic">${topics.map(t => `<option value="${t.key}" ${t.key === state.quizTopic ? 'selected' : ''}>${esc(t.label)}</option>`).join('')}</select>
@@ -1302,6 +1312,182 @@ function viewQuiz() {
     ${fb}
     ${qz.picked != null ? `<button class="btn btn-primary btn-block" style="margin-top:14px" data-act="quiz-next">${qz.idx + 1 < qz.questions.length ? 'Câu tiếp' : 'Xem kết quả'}</button>` : ''}
   </div>`;
+}
+
+
+// ================================================================
+// BÀI TẬP SÁCH (Workbook) — dữ liệu ở workbook.js, dựng bằng tools/build-workbook.js
+// Điểm cao nhất mỗi phần lưu trong store.convoBest['wb:<mã phần>'] nên được sao lưu + đồng bộ như điểm hội thoại.
+// ================================================================
+const WB = typeof WORKBOOK !== 'undefined' ? WORKBOOK : [];
+const WB_KIND = { mcq: 'Trắc nghiệm', typo: 'Tìm chữ sai', order: 'Sắp xếp câu', open: 'Tự luận' };
+const wbBest = sec => store.convoBest['wb:' + sec.id];
+const wbLesson = () => WB[state.wbLesson] || WB[0];
+
+function wbFresh(item, type) {
+  if (type === 'mcq') {
+    const order = shuffle(item.options.map((_, i) => i));
+    return { ...item, options: order.map(i => item.options[i]), correct: order.indexOf(item.correct), picked: null };
+  }
+  if (type === 'typo') return { ...item, sel: [], checked: false };
+  if (type === 'order') {
+    let pool = item.tiles.map((_, i) => i);
+    for (let k = 0; k < 5 && pool.every((v, i) => v === i); k++) pool = shuffle(pool);
+    return { ...item, pool, built: [], checked: false };
+  }
+  return { ...item, text: '', revealed: false };
+}
+function startWb(secId, onlyItems) {
+  for (const lesson of WB) {
+    const sec = lesson.sections.find(s => s.id === secId);
+    if (!sec) continue;
+    const items = (onlyItems || sec.items).map(it => wbFresh(it, sec.type));
+    state.wb = { lesson, sec, items, src: onlyItems || sec.items, idx: 0, answers: [], retry: !!onlyItems };
+    render(); window.scrollTo(0, 0);
+    return;
+  }
+}
+function wbRecord(ok) {
+  const wb = state.wb;
+  if (!wb.answers[wb.idx]) wb.answers[wb.idx] = { ok, i: wb.idx };
+}
+function wbNext() {
+  const wb = state.wb;
+  wb.idx++;
+  if (wb.idx >= wb.items.length && !wb.retry) {
+    const p = pct(wb.answers.filter(a => a && a.ok).length, wb.items.length);
+    const key = 'wb:' + wb.sec.id;
+    store.convoBest[key] = Math.max(store.convoBest[key] || 0, p);
+    save();
+  }
+  render(); window.scrollTo(0, 0);
+}
+// So câu sắp xếp: bỏ qua dấu câu và khoảng trắng
+const wbPlain = t => t.replace(/[，。！？、；：,.!?\s]/g, '');
+// Câu trắc nghiệm có chỗ trống → câu hoàn chỉnh để đọc
+// (đáp án nhiều chỗ trống viết "từ1／từ2" theo thứ tự các ＿＿)
+const wbFilled = it => {
+  if (!it.prompt.includes('＿＿')) return '';
+  const parts = it.options[it.correct].split('／');
+  let k = 0;
+  return it.prompt.replace(/＿＿/g, () => parts[Math.min(k++, parts.length - 1)]);
+};
+const wbAnswerText = (it, type) => type === 'mcq' ? (wbFilled(it) || it.options[it.correct]) : type === 'typo' ? it.fixed : type === 'order' ? it.tiles.join('') : it.answer;
+const wbQuestionText = (it, type) => type === 'typo' ? it.text : type === 'order' ? it.tiles.join(' / ') : it.prompt;
+
+function viewWorkbook() {
+  const lesson = wbLesson();
+  const done = lesson.sections.filter(s => wbBest(s) != null).length;
+  return `
+  <select class="input han" data-act="wb-lesson" style="margin-bottom:6px">
+    ${WB.map((l, i) => `<option value="${i}" ${i === state.wbLesson ? 'selected' : ''}>${esc(l.title)}</option>`).join('')}
+  </select>
+  <p class="small muted" style="margin:0 2px 12px">Bài tập trong sách bài tập (Workbook). Đã làm ${done}/${lesson.sections.length} phần. Đáp án do app biên soạn; phần tự luận chỉ là gợi ý.</p>
+  <div class="stack">
+    ${lesson.sections.map(sec => {
+      const best = wbBest(sec);
+      return `<button class="card wb-sec" data-act="wb-start" data-s="${esc(sec.id)}">
+        <div class="grow">
+          <div class="han wb-sec-title">${esc(sec.title)}</div>
+          <div class="small muted">${esc(sec.hint)}</div>
+          <div class="row" style="gap:6px;margin-top:6px;flex-wrap:wrap"><span class="tag">${WB_KIND[sec.type]}</span><span class="tag">${sec.items.length} câu</span>
+          ${best != null ? `<span class="tag ${best >= 80 ? 'ok' : 'accent'}">Tốt nhất ${best}%</span>` : ''}</div>
+        </div>
+        <span class="chev">${icon('right', 20)}</span>
+      </button>`;
+    }).join('')}
+  </div>`;
+}
+
+function viewWbRun() {
+  const wb = state.wb;
+  if (wb.idx >= wb.items.length) return viewWbResult();
+  const it = wb.items[wb.idx], type = wb.sec.type;
+  const ans = wb.answers[wb.idx];
+  let body = '', after = '';
+  const nextBtn = `<button class="btn btn-primary btn-block" style="margin-top:14px" data-act="wb-next">${wb.idx + 1 < wb.items.length ? 'Câu tiếp' : 'Xem kết quả'}</button>`;
+  const verdict = ok => `<b style="color:${ok ? 'var(--ok)' : 'var(--bad)'}">${ok ? 'Chính xác!' : 'Chưa đúng.'}</b>`;
+  const sayRow = t => `<div class="row" style="margin-top:6px"><span class="han grow">${esc(t)}</span>${speakBtn(t)}</div>`;
+
+  if (type === 'mcq') {
+    const full = wbFilled(it);
+    body = `<div class="q-prompt han wb-prompt">${esc(it.prompt)}</div>${optionsHtml(it, it.picked, 'wb-pick', 'text')}`;
+    if (ans) after = `<div class="feedback">${verdict(ans.ok)}${full ? sayRow(full) : ''}
+      ${it.note ? `<div class="small" style="margin-top:4px">${esc(it.note)}</div>` : ''}</div>${nextBtn}`;
+  } else if (type === 'typo') {
+    const chars = [...it.text];
+    body = `<div class="typo-line han">${chars.map((ch, i) => {
+      let cls = 'typo-ch';
+      if (it.checked) { if (it.wrong.includes(i)) cls += ' is-wrong'; else if (it.sel.includes(i)) cls += ' miss'; }
+      else if (it.sel.includes(i)) cls += ' sel';
+      return `<button class="${cls}" data-act="wb-ch" data-i="${i}" ${it.checked || /[，。！？、；：「」\s]/.test(ch) ? 'disabled' : ''}>${esc(ch)}</button>`;
+    }).join('')}</div>
+    ${it.checked ? '' : `<div class="small muted" style="margin-top:8px">Câu này có ${it.wrong.length} chữ viết sai · đã chọn ${it.sel.length}</div>`}`;
+    if (!it.checked) after = `<button class="btn btn-primary btn-block" style="margin-top:14px" data-act="wb-check" ${it.sel.length ? '' : 'disabled'}>Kiểm tra</button>`;
+    else after = `<div class="feedback">${verdict(ans.ok)} ${it.wrong.map(i => `<span class="han">${esc(chars[i])} → <b style="color:var(--ok)">${esc([...it.fixed][i])}</b></span>`).join('，')}
+        ${sayRow(it.fixed)}</div>${nextBtn}`;
+  } else if (type === 'order') {
+    const answer = it.tiles.join('');
+    body = `<div class="order-built han ${it.checked ? (ans.ok ? 'ok' : 'bad') : ''}">${it.built.length
+        ? it.built.map((ti, k) => `<button class="tile" data-act="wb-untile" data-i="${k}" ${it.checked ? 'disabled' : ''}>${esc(it.tiles[ti])}</button>`).join('')
+        : '<span class="small muted" style="font-family:var(--font)">Chạm các mảnh bên dưới theo đúng thứ tự</span>'}</div>
+      <div class="order-pool han">${it.pool.map(ti => it.built.includes(ti)
+        ? `<span class="tile ghost">${esc(it.tiles[ti])}</span>`
+        : `<button class="tile" data-act="wb-tile" data-i="${ti}" ${it.checked ? 'disabled' : ''}>${esc(it.tiles[ti])}</button>`).join('')}</div>`;
+    if (!it.checked) after = `<div class="row" style="margin-top:14px">
+        <button class="btn" data-act="wb-clear" ${it.built.length ? '' : 'disabled'}>Xếp lại</button>
+        <button class="btn btn-primary grow" data-act="wb-check" ${it.built.length === it.tiles.length ? '' : 'disabled'}>Kiểm tra</button></div>`;
+    else after = `<div class="feedback">${verdict(ans.ok)}
+        ${ans.ok ? '' : '<div class="small muted" style="margin-top:4px">Đáp án:</div>'}${sayRow(answer)}
+        ${ans.ok ? '' : '<button class="btn" style="margin-top:8px;min-height:34px" data-act="wb-mine">Câu của tôi cũng đúng</button>'}</div>${nextBtn}`;
+  } else {
+    const latin = /[a-z]{3}/i.test(it.prompt);
+    body = `<div class="q-prompt wb-prompt ${latin ? '' : 'han'}">${esc(it.prompt)}</div>
+      <textarea class="input han wb-text" rows="3" placeholder="Viết câu trả lời bằng chữ Hán…" data-act="wb-text">${esc(it.text)}</textarea>`;
+    if (!it.revealed) after = `<button class="btn btn-primary btn-block" style="margin-top:12px" data-act="wb-reveal">Xem đáp án gợi ý</button>`;
+    else after = `<div class="feedback"><div class="small muted">Đáp án gợi ý:</div>${sayRow(it.answer)}</div>
+      ${ans ? nextBtn : `<div class="small muted" style="margin:12px 2px 6px">So với đáp án, bạn tự chấm:</div>
+      <div class="row"><button class="btn grow" data-act="wb-self" data-k="0">Chưa đúng</button><button class="btn btn-ok grow" data-act="wb-self" data-k="1">${icon('check', 18)} Tôi làm đúng</button></div>`}`;
+  }
+
+  return `
+  <div class="q-progress">
+    <button class="icon-btn" data-act="wb-quit" aria-label="Thoát">${icon('x')}</button>
+    <div class="bar"><span style="width:${pct(wb.idx, wb.items.length)}%"></span></div>
+    <span>${wb.idx + 1}/${wb.items.length}</span>
+  </div>
+  <div class="card">
+    <div class="q-type han">${esc(wb.sec.title)}</div>
+    <div class="small muted" style="margin:-4px 0 10px">${esc(wb.sec.hint)}</div>
+    ${body}${after}
+  </div>`;
+}
+
+function viewWbResult() {
+  const wb = state.wb, n = wb.items.length, type = wb.sec.type;
+  const correct = wb.answers.filter(a => a && a.ok).length;
+  const wrong = wb.answers.filter(a => a && !a.ok);
+  const p = pct(correct, n);
+  const next = wb.lesson.sections[wb.lesson.sections.indexOf(wb.sec) + 1];
+  return `
+  <div class="card" style="text-align:center">
+    <div class="muted han">${esc(wb.sec.title)}</div>
+    <div class="score-big">${p}%</div>
+    <div class="muted">${correct}/${n} câu đúng${wb.retry ? ' · lượt làm lại câu sai' : ''}</div>
+    <div class="row" style="justify-content:center;margin-top:14px;flex-wrap:wrap">
+      ${wrong.length ? '<button class="btn btn-primary" data-act="wb-retry">Làm lại câu sai</button>' : ''}
+      ${next ? '<button class="btn" data-act="wb-nextsec">Phần tiếp theo</button>' : ''}
+      <button class="btn" data-act="wb-home">Danh sách bài tập</button>
+    </div>
+  </div>
+  ${wrong.length ? `<div class="section-title">Câu chưa đúng (${wrong.length})</div>
+  <div class="card" style="padding:4px 16px">${wrong.map(a => {
+    const it = wb.items[a.i];
+    return `<div class="review-item">
+      <div class="han small muted">${esc(wbQuestionText(it, type))}</div>
+      <div><span style="color:var(--ok)">✓ <span class="han">${esc(wbAnswerText(it, type))}</span></span></div>
+    </div>`;
+  }).join('')}</div>` : ''}`;
 }
 
 // ================================================================
@@ -1400,6 +1586,28 @@ document.addEventListener('click', e => {
     case 'quiz-known': { const done = setKnown(d.h, true); el.outerHTML = `<span class="tag ok">${done ? '🎉 Hoàn thành ' + esc(done) : 'Đã lưu vào từ đã thuộc'}</span>`; break; }
     case 'quiz-quit': if (confirm('Thoát bài ôn tập? Kết quả lượt này sẽ không được lưu.')) { state.quiz = null; render(); } break;
     case 'quiz-new': state.quiz = null; render(); break;
+    case 'quiz-area': state.quizArea = d.a; savePrefs(); render(); break;
+    case 'wb-start': startWb(d.s); break;
+    case 'wb-home': state.wb = null; render(); window.scrollTo(0, 0); break;
+    case 'wb-quit': if (state.wb.idx >= state.wb.items.length || confirm('Thoát phần bài tập này? Kết quả lượt này sẽ không được lưu.')) { state.wb = null; render(); } break;
+    case 'wb-next': wbNext(); break;
+    case 'wb-retry': { const wb = state.wb; startWb(wb.sec.id, wb.answers.filter(a => a && !a.ok).map(a => wb.src[a.i])); break; }
+    case 'wb-nextsec': { const l = state.wb.lesson; const s = l.sections[l.sections.indexOf(state.wb.sec) + 1]; if (s) startWb(s.id); break; }
+    case 'wb-pick': { const it = state.wb.items[state.wb.idx]; if (it.picked != null) break; it.picked = +d.i; wbRecord(it.picked === it.correct); render(); break; }
+    case 'wb-ch': { const it = state.wb.items[state.wb.idx], i = +d.i; it.sel = it.sel.includes(i) ? it.sel.filter(x => x !== i) : [...it.sel, i]; render(); break; }
+    case 'wb-tile': { const it = state.wb.items[state.wb.idx]; if (!it.built.includes(+d.i)) it.built.push(+d.i); render(); break; }
+    case 'wb-untile': state.wb.items[state.wb.idx].built.splice(+d.i, 1); render(); break;
+    case 'wb-clear': state.wb.items[state.wb.idx].built = []; render(); break;
+    case 'wb-check': {
+      const wb = state.wb, it = wb.items[wb.idx];
+      it.checked = true;
+      if (wb.sec.type === 'typo') wbRecord(it.sel.length === it.wrong.length && it.wrong.every(i => it.sel.includes(i)));
+      else wbRecord(wbPlain(it.built.map(i => it.tiles[i]).join('')) === wbPlain(it.tiles.join('')));
+      render(); break;
+    }
+    case 'wb-mine': state.wb.answers[state.wb.idx].ok = true; render(); break;
+    case 'wb-reveal': state.wb.items[state.wb.idx].revealed = true; render(); break;
+    case 'wb-self': wbRecord(d.k === '1'); wbNext(); break;
     case 'quiz-retry': {
       const wrong = state.quiz.answers.filter(a => !a.ok).map(a => ({ word: a.q.word, grammar: a.q.grammar }));
       startQuiz(wrong); state.quiz.retry = true; break;
@@ -1414,11 +1622,13 @@ document.addEventListener('change', e => {
   if (act === 'convo') { state.convo = +e.target.value; state.cq = null; savePrefs(); render(); window.scrollTo(0, 0); }
   if (act === 'g-filter') { state.gFilter = e.target.value; render(); }
   if (act === 'quiz-topic') { state.quizTopic = e.target.value; savePrefs(); render(); }
+  if (act === 'wb-lesson') { state.wbLesson = +e.target.value; savePrefs(); render(); }
 });
 
 // Ô tìm kiếm: chỉ render lại danh sách, giữ focus + vị trí con trỏ
 document.addEventListener('input', e => {
   const act = e.target.dataset.act;
+  if (act === 'wb-text') { if (state.wb) state.wb.items[state.wb.idx].text = e.target.value; return; }
   if (act !== 'search' && act !== 'g-search') return;
   const pos = e.target.selectionStart;
   if (act === 'search') state.search = e.target.value; else state.gSearch = e.target.value;

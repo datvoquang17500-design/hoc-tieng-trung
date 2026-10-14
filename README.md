@@ -42,6 +42,16 @@ node tools/build-pavc.js     # dựng lại data-pavc.js
 
 Sau đó tăng `VERSION` trong `sw.js` và đẩy lên như mục 3. Bài 1–2 của PAVC4 trùng với L7–L9 đã có nên không nhập lại.
 
+### Bài tập sách (Workbook)
+
+Tab Ôn tập → **Bài tập sách**. Nguồn nằm ở `content/workbook/` (mỗi bài một file `W4-xx.txt`), gồm các kiểu: trắc nghiệm, tìm chữ sai, sắp xếp câu, nối câu, tự luận. Định dạng ghi ở đầu `tools/build-workbook.js`. Sửa xong chạy:
+
+```
+node tools/build-workbook.js     # dựng lại workbook.js
+```
+
+Điểm cao nhất mỗi phần được lưu và đồng bộ cùng tiến độ.
+
 ## 1. Thêm bài mới từ Excel (cách nhanh nhất)
 
 Chuẩn bị file Excel, hàng 1 là tiêu đề cột:

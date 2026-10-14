@@ -293,6 +293,36 @@ button.stat[disabled] { cursor: default; }
 .choice-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
 .choice-grid .btn.active { border-color: var(--accent); color: var(--accent-text); background: var(--accent-soft); }
 
+/* ---------- bài tập sách (workbook) ---------- */
+.wb-sec { display: flex; align-items: center; gap: 10px; width: 100%; text-align: left; color: inherit; font: inherit; }
+.wb-sec-title { font-size: 17px; font-weight: 600; margin-bottom: 2px; }
+.wb-sec .chev { color: var(--muted); flex: none; }
+.q-type.han { text-transform: none; letter-spacing: 0; font-size: 14px; }
+.q-prompt.wb-prompt { font-size: 20px; font-weight: 500; }
+.q-prompt.wb-prompt:not(.han) { font-size: 16px; }
+.typo-line { display: flex; flex-wrap: wrap; gap: 2px; font-size: 22px; line-height: 1.2; }
+.typo-ch {
+  min-width: 34px; height: 42px; padding: 0 4px; border-radius: 8px; border: 1.5px solid transparent;
+  background: var(--surface-2); color: var(--text); font: inherit;
+}
+.typo-ch[disabled] { background: transparent; cursor: default; }
+.typo-ch.sel { border-color: var(--accent); background: var(--accent-soft); color: var(--accent-text); }
+.typo-ch.is-wrong { border-color: var(--bad); background: var(--bad-soft); color: var(--bad); }
+.typo-ch.miss { border-color: var(--line); text-decoration: line-through; }
+.order-built, .order-pool { display: flex; flex-wrap: wrap; gap: 8px; }
+.order-built {
+  min-height: 58px; padding: 8px; border-radius: 12px; border: 1.5px dashed var(--line); align-items: center; margin-bottom: 14px;
+}
+.order-built.ok { border-style: solid; border-color: var(--ok); background: var(--ok-soft); }
+.order-built.bad { border-style: solid; border-color: var(--bad); background: var(--bad-soft); }
+.tile {
+  padding: 8px 12px; border-radius: 10px; border: 1.5px solid var(--line); background: var(--surface);
+  font: inherit; font-size: 19px; color: var(--text); box-shadow: var(--shadow);
+}
+.tile.ghost { visibility: hidden; }
+.tile[disabled] { cursor: default; box-shadow: none; }
+.wb-text { width: 100%; margin-top: 4px; font-size: 18px; resize: vertical; min-height: 84px; }
+
 /* ---------- bottom sheet ---------- */
 .sheet-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,.35); z-index: 50; animation: fade .2s; }
 .sheet {
