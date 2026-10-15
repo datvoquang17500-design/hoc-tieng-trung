@@ -32,7 +32,7 @@ Tiến độ lưu trên máy đang dùng. Ngoài đồng bộ đám mây, phần
 
 - **Sao lưu ra file:** trên iPhone mở bảng Chia sẻ, chọn **Lưu vào Tệp** (nên chọn iCloud Drive). Trên máy tính thì tải file `hoc-tieng-trung-NGÀY.json` về.
 - **Khôi phục:** chọn file sao lưu, app hỏi xác nhận rồi thay tiến độ hiện tại. Dùng khi đổi máy hoặc lỡ xoá app.
-- **Bản lưu tự động trên máy:** mỗi ngày 1 bản, kèm 1 bản trước khi bấm Học lại hoặc Khôi phục. Giữ 10 bản gần nhất, bấm **Quay lại** để trở về. Các bản này nằm trên máy nên sẽ mất nếu xoá app.
+- **Bản lưu tự động trên máy:** mỗi ngày 1 bản, kèm 1 bản trước khi bấm Học lại hoặc Khôi phục. Giữ 10 bản gần nhất, bấm **Quay lại** để trở về. Các bản này nằm trên máy (IndexedDB, tách khỏi tiến độ chính để không làm đầy bộ nhớ ~5 MB của Safari) nên sẽ mất nếu xoá app.
 - **Nhắc sao lưu:** đã ≥ 7 ngày chưa sao lưu mà tiến độ có thay đổi thì Tổng quan hiện thẻ nhắc ("Để sau" sẽ hoãn 3 ngày).
 
 ## Sách 實用視聽華語 (PAVC) 4 & 5

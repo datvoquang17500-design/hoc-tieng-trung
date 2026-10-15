@@ -50,7 +50,12 @@ let syncTimer = null, syncing = false;
 function syncOn() { return !!syncCfg.token; }
 function save() {
   if (typeof quotaTick !== 'undefined') quotaTick++;
-  try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* private mode */ }
+  const json = JSON.stringify(store);
+  try { localStorage.setItem(STORE_KEY, json); } catch (e) {
+    // bộ nhớ đầy → dọn bản lưu tự động kiểu cũ (nếu còn) rồi thử lại; vẫn lỗi thì báo để người học sao lưu ra file
+    try { localStorage.removeItem('zhStudy.snapshots'); if ((readJSON('zhStudy.snapIndex') || []).some(x => x && x.data)) localStorage.removeItem('zhStudy.snapIndex'); localStorage.setItem(STORE_KEY, json); }
+    catch (e2) { if (!save.warned && typeof toast === 'function') { save.warned = true; setTimeout(() => toast('⚠️ Bộ nhớ máy đầy, chưa lưu được tiến độ. Hãy sao lưu ra file.'), 0); } }
+  }
   scheduleSync();
 }
 
@@ -275,19 +280,81 @@ function applyData(d) {
   checkCompletion();
   save();
 }
-function loadSnaps() { const s = readJSON(SNAP_KEY); return Array.isArray(s) ? s : []; }
-function saveSnaps(list) {
-  // bộ nhớ đầy → bỏ dần bản cũ nhất
-  while (list.length) {
-    try { localStorage.setItem(SNAP_KEY, JSON.stringify(list)); return; } catch (e) { list.pop(); }
+// Bản lưu tự động nằm trong IndexedDB (dung lượng lớn), KHÔNG nằm chung localStorage với tiến độ:
+// localStorage của Safari chỉ ~5 MB, 10 bản chép tiến độ sẽ làm đầy và khiến việc lưu tiến độ chính thất bại.
+// localStorage chỉ giữ danh sách nhỏ (thời điểm, lý do, số từ) để vẽ giao diện ngay.
+// Máy không có IndexedDB (hiếm) → giữ tối đa 2 bản trong localStorage như cũ.
+const SNAP_INDEX_KEY = 'zhStudy.snapIndex';
+const SNAP_DB = 'zhStudy', SNAP_STORE = 'snaps';
+let snapDbP = null;
+function snapDb() {
+  if (!snapDbP) snapDbP = new Promise((res, rej) => {
+    if (typeof indexedDB === 'undefined') { rej(new Error('no idb')); return; }
+    const rq = indexedDB.open(SNAP_DB, 1);
+    rq.onupgradeneeded = () => rq.result.createObjectStore(SNAP_STORE);
+    rq.onsuccess = () => res(rq.result);
+    rq.onerror = () => rej(rq.error);
+    rq.onblocked = () => rej(new Error('blocked'));
+  });
+  return snapDbP;
+}
+function snapTx(mode, fn) {
+  return snapDb().then(db => new Promise((res, rej) => {
+    const tx = db.transaction(SNAP_STORE, mode), st = tx.objectStore(SNAP_STORE);
+    let out;
+    const r = fn(st);
+    if (r) r.onsuccess = () => { out = r.result; };
+    tx.oncomplete = () => res(out);
+    tx.onerror = tx.onabort = () => rej(tx.error);
+  }));
+}
+let snapIdb = typeof indexedDB !== 'undefined';
+function loadSnaps() { const s = readJSON(SNAP_INDEX_KEY); return Array.isArray(s) ? s : []; }
+function saveSnapIndex(list) { try { localStorage.setItem(SNAP_INDEX_KEY, JSON.stringify(list)); } catch (e) { /* ignore */ } }
+function getSnapData(meta) {
+  if (meta.data) return Promise.resolve(meta.data);
+  return snapTx('readonly', st => st.get(meta.id));
+}
+function addSnap(meta, data) {
+  const list = loadSnaps();
+  if (snapIdb) {
+    list.unshift(meta);
+    const drop = list.splice(MAX_SNAPS);
+    saveSnapIndex(list);
+    return snapTx('readwrite', st => { st.put(data, meta.id); drop.forEach(d => st.delete(d.id)); }).catch(() => {
+      // IndexedDB hỏng → bỏ bản vừa ghi khỏi danh sách, chuyển sang chế độ dự phòng
+      snapIdb = false;
+      saveSnapIndex(loadSnaps().filter(x => x.id !== meta.id));
+      addSnap(meta, data);
+    });
   }
+  // dự phòng: tối đa 2 bản trong localStorage, đầy thì bỏ bản cũ
+  list.unshift({ ...meta, data });
+  const keep = list.filter(x => x.data).slice(0, 2);
+  while (keep.length) {
+    try { localStorage.setItem(SNAP_INDEX_KEY, JSON.stringify(keep)); break; } catch (e) { keep.pop(); }
+  }
+  if (!keep.length) saveSnapIndex([]);
+  return Promise.resolve();
 }
 function takeSnapshot(reason) {
   const n = Object.keys(store.known).length;
   if (!n && !store.quizzes.length) return; // chưa có gì để lưu
-  const list = loadSnaps();
-  list.unshift({ at: new Date().toISOString(), day: todayKey(), reason, known: n, data: JSON.parse(JSON.stringify(progressData())) });
-  saveSnaps(list.slice(0, MAX_SNAPS));
+  const meta = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6), at: new Date().toISOString(), day: todayKey(), reason, known: n };
+  addSnap(meta, JSON.parse(JSON.stringify(progressData())));
+}
+// Bản cũ lưu cả dữ liệu trong localStorage ('zhStudy.snapshots') → chuyển sang IndexedDB rồi xoá để giải phóng chỗ.
+async function migrateSnaps() {
+  const old = readJSON(SNAP_KEY);
+  if (!Array.isArray(old)) return;
+  if (!snapIdb) { try { localStorage.removeItem(SNAP_KEY); } catch (e) {} return; }
+  try {
+    const metas = old.slice(0, MAX_SNAPS).filter(x => x && x.data).map((x, i) => ({ id: 'm' + i + Date.parse(x.at || 0).toString(36), at: x.at, day: x.day, reason: x.reason, known: x.known, data: x.data }));
+    await snapTx('readwrite', st => { metas.forEach(m => st.put(m.data, m.id)); });
+    const list = loadSnaps().concat(metas.map(({ data, ...m }) => m)).sort((a, b) => (b.at || '').localeCompare(a.at || '')).slice(0, MAX_SNAPS);
+    saveSnapIndex(list);
+    localStorage.removeItem(SNAP_KEY);
+  } catch (e) { snapIdb = false; }
 }
 function dailySnapshot() {
   if (!loadSnaps().some(s => s.day === todayKey() && s.reason === DAILY)) takeSnapshot(DAILY);
@@ -352,11 +419,14 @@ function restoreFromFile(file) {
 }
 function restoreSnapshot(i) {
   const s = loadSnaps()[i];
-  if (!s || !validData(s.data)) return;
+  if (!s) return;
   if (!confirm(`Quay lại bản lưu ${fmtDateTime(s.at)} (${s.known} từ đã thuộc)?\n\nTiến độ hiện tại (${Object.keys(store.known).length} từ) sẽ được thay thế. App tự giữ một bản của tiến độ hiện tại trước khi quay lại.`)) return;
-  takeSnapshot('Trước khi khôi phục bản tự động');
-  applyData(s.data);
-  afterRestore();
+  getSnapData(s).then(data => {
+    if (!validData(data)) { toast('Không đọc được bản lưu này'); return; }
+    takeSnapshot('Trước khi khôi phục bản tự động');
+    applyData(data);
+    afterRestore();
+  }, () => toast('Không đọc được bản lưu này'));
 }
 function afterRestore() {
   buildDeck(false);
@@ -1934,7 +2004,7 @@ if (!CONVERSATIONS[state.convo]) state.convo = 0;
 if (state.quizTopic !== 'grammar' && !QUIZ_TOPICS().some(t => t.key === state.quizTopic)) state.quizTopic = 'all';
 if (!QUIZ_MODES.some(m => m.key === state.quizMode) || (state.quizMode === 'listen' && !TTS)) state.quizMode = 'mix';
 restoreDeck();
-dailySnapshot();
+migrateSnaps().then(() => { dailySnapshot(); if (state.tab === 'home') render(); });
 render();
 if (syncOn()) syncNow();
 
