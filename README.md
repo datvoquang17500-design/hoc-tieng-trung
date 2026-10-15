@@ -6,9 +6,10 @@ Mở `index.html` để dùng. Toàn bộ nội dung học nằm trong **`data.j
 
 - **Đã thuộc:** bấm "Đã thuộc" trên thẻ (hoặc tick trong Danh sách). Từ đó bắt đầu lịch ôn.
 - **Thẻ từ:** chọn "Tất cả các bài" thì thẻ luôn được xáo ngẫu nhiên; chọn một bài thì theo thứ tự trong bài. Lật thẻ là app tự đọc từ.
-- **Lịch ôn:** từ đã thuộc được nhắc lại sau **1 → 3 → 7 → 14 → 28 → 60 ngày**. Khi đến hạn, Tổng quan hiện "N từ đến hạn ôn", tab Thẻ từ có số đỏ. Ôn ở bộ lọc **Cần ôn**: "Vẫn nhớ" thì lên mốc kế tiếp, "Quên rồi" thì quay về mốc 1 ngày. Qua mốc 60 ngày là **Thành thạo**, không nhắc nữa.
+- **Lịch ôn:** từ đã thuộc được nhắc lại sau **1 → 3 → 7 → 14 → 20 → 30 → 60 → 90 ngày**. Ôn ở bộ lọc **Cần ôn**: "Vẫn nhớ" thì lên mốc kế tiếp, "Quên rồi" thì quay về mốc 1 ngày. Qua mốc 90 ngày là **Thành thạo**, không nhắc nữa.
+- **Mục tiêu mỗi ngày:** chọn 30 / 50 / 100 từ (Tổng quan → Ghi nhớ dài hạn). Mỗi ngày chỉ hiện tối đa bấy nhiêu từ cần ôn (từ quá hạn lâu nhất trước), phần còn lại dời sang hôm sau. Đạt mục tiêu (hoặc ôn hết từ đến hạn) thì ngày đó được tính vào **chuỗi ngày** 🔥. Đã đạt mà vẫn muốn ôn tiếp thì bấm **Ôn thêm**.
 - **Hoàn thành bài:** thuộc hết từ trong bài thì bài được đánh dấu Hoàn thành và giữ nguyên trạng thái đó. Muốn học lại từ đầu thì bấm **Học lại** (ở Tổng quan hoặc tab Thẻ từ). Việc này xoá trạng thái đã thuộc và lịch ôn của các từ trong bài.
-- **Hội thoại:** mỗi nhân vật đọc bằng một giọng riêng (nam/nữ khác giọng; máy ít giọng thì đổi cao độ). Nút **Nghe cả bài** đọc lần lượt cả bài. Giới tính nhân vật khai báo trong `SPEAKER_SEX` (app.js); nhân vật chưa khai báo thì xen kẽ nam–nữ.
+- **Hội thoại:** mỗi nhân vật có giọng đọc riêng (nam/nữ), đọc từ file mp3 tạo sẵn trong `audio/c/`. Nút **Nghe cả bài** đọc lần lượt cả bài. Sửa hoặc thêm hội thoại thì chạy `node tools/build-audio.js` (cần `pip install edge-tts` và có mạng) để tạo audio cho câu mới; giới tính nhân vật khai báo trong `SPEAKER_SEX` ở đầu file đó. Câu chưa có audio hoặc khi mất mạng thì app đọc bằng giọng của máy.
 - Nhắc ôn chỉ hiện **trong app**. Web app trên iPhone không tự gửi thông báo khi đang đóng.
 
 ## Đồng bộ đám mây (GitHub Gist)

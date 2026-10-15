@@ -29,9 +29,9 @@ function readJSON(key) {
 function loadStore() {
   // known: { hanzi: ngày thuộc }   srs: { hanzi: { lv, due } }   completed: { mã bài: ngày hoàn thành }
   // wordAt / unitAt: thời điểm (ms) thay đổi gần nhất của từng từ / từng bài — dùng để gộp khi đồng bộ nhiều máy.
-  const base = { known: {}, srs: {}, completed: {}, wrong: {}, quizzes: [], convoBest: {}, wordAt: {}, unitAt: {}, backup: {}, prefs: {} };
+  const base = { known: {}, srs: {}, srsV: 2, completed: {}, wrong: {}, quizzes: [], convoBest: {}, daily: {}, goalMet: {}, wordAt: {}, unitAt: {}, backup: {}, prefs: {} };
   const saved = readJSON(STORE_KEY);
-  if (saved) return { ...base, ...saved, prefs: { ...base.prefs, ...(saved.prefs || {}) } };
+  if (saved) return { ...base, srsV: 1, ...saved, prefs: { ...base.prefs, ...(saved.prefs || {}) } };
   // Chuyển tiến độ từ bản app cũ (nếu mở trên cùng trình duyệt)
   const old = readJSON(OLD_PROGRESS_KEY);
   if (old) {
@@ -49,25 +49,76 @@ let syncTimer = null, syncing = false;
 // Khai báo kiểu function (được "hoist") vì save() bên dưới gọi tới ngay từ lúc khởi động.
 function syncOn() { return !!syncCfg.token; }
 function save() {
+  if (typeof quotaTick !== 'undefined') quotaTick++;
   try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* private mode */ }
   scheduleSync();
 }
 
 // ================================================================
-// LỊCH ÔN TẬP (spaced repetition): từ đã thuộc được nhắc lại sau 1 → 3 → 7 → 14 → 28 → 60 ngày.
-// lv = mốc đang chờ (0 = mốc 1 ngày … 5 = mốc 60 ngày, 6 = đã thành thạo, không nhắc nữa).
+// LỊCH ÔN TẬP (spaced repetition): từ đã thuộc được nhắc lại sau 1 → 3 → 7 → 14 → 20 → 30 → 60 → 90 ngày.
+// lv = mốc đang chờ (0 = mốc 1 ngày … 7 = mốc 90 ngày, 8 = đã thành thạo, không nhắc nữa).
 // "Vẫn nhớ" → lên mốc kế tiếp. "Quên rồi" → quay về mốc 1 ngày (từ vẫn tính là đã thuộc).
+// Mỗi ngày chỉ ôn tối đa theo mục tiêu (30 / 50 / 100 từ); từ đến hạn còn lại dời sang hôm sau.
+// Đạt mục tiêu (hoặc ôn hết từ đến hạn) → ngày đó tính vào chuỗi ngày học.
 // ================================================================
-const INTERVALS = [1, 3, 7, 14, 28, 60];
+const INTERVALS = [1, 3, 7, 14, 20, 30, 60, 90];
 const MASTERED = INTERVALS.length;
+const INTERVAL_TEXT = INTERVALS.join(' → ');
+const GOALS = [30, 50, 100];
+// Dữ liệu cũ (mốc 1-3-7-14-28-60, lv 6 = thành thạo) → mốc mới.
+function migrateSrs(d) {
+  if (!d || (d.srsV || 1) >= 2) return d;
+  const srs = {};
+  for (const [h, r] of Object.entries(d.srs || {})) {
+    const lv = r.lv || 0;
+    srs[h] = lv >= 6 ? { lv: MASTERED, due: null } : { ...r, lv: lv === 5 ? 6 : lv === 4 ? 5 : lv };
+  }
+  return { ...d, srs, srsV: 2 };
+}
+if ((store.srsV || 1) < 2) Object.assign(store, migrateSrs(store));
 // Từ đã thuộc từ trước khi có lịch ôn → bắt đầu ở mốc 1 ngày tính từ ngày thuộc.
 Object.entries(store.known).forEach(([h, d]) => {
   if (!store.srs[h]) store.srs[h] = { lv: 0, due: addDays(DATE_RE.test(d) ? d : todayKey(), INTERVALS[0]) };
 });
 const isKnown = h => !!store.known[h];
-function isDue(h) {
+// Đến hạn thật (kể cả từ đã dời vì vượt mục tiêu ngày)
+function isOverdue(h) {
   const r = store.srs[h];
   return isKnown(h) && !!r && !!r.due && r.due <= todayKey();
+}
+const dailyGoal = () => GOALS.includes(store.prefs.goal) ? store.prefs.goal : GOALS[0];
+const doneToday = () => store.daily[todayKey()] || 0;
+let reviewExtra = false; // "Ôn thêm" sau khi đã đạt mục tiêu (chỉ trong lần mở app này)
+// Danh sách từ cần ôn hôm nay: từ quá hạn lâu nhất trước, tối đa (mục tiêu − số đã ôn hôm nay).
+var quotaTick = 0; // var: save() có thể chạy trước dòng này
+let quotaMemo = null;
+function todayQuota() {
+  const key = todayKey() + '|' + doneToday() + '|' + dailyGoal() + '|' + reviewExtra + '|' + quotaTick;
+  if (quotaMemo && quotaMemo.key === key) return quotaMemo.set;
+  const all = Object.entries(store.srs).filter(([h, r]) => r.due && isOverdue(h) && WORD_BY_HANZI_READY(h))
+    .sort((a, b) => a[1].due < b[1].due ? -1 : a[1].due > b[1].due ? 1 : 0).map(([h]) => h);
+  const n = reviewExtra ? all.length : Math.max(0, dailyGoal() - doneToday());
+  quotaMemo = { key, set: new Set(all.slice(0, n)), total: all.length };
+  queueMicrotask(() => { quotaMemo = null; }); // chỉ nhớ trong một lần vẽ giao diện
+  return quotaMemo.set;
+}
+const WORD_BY_HANZI_READY = h => typeof WORD_BY_HANZI === 'undefined' || WORD_BY_HANZI.has(h);
+function isDue(h) { return todayQuota().has(h); }
+const overdueCount = () => { todayQuota(); return quotaMemo.total; };
+function markGoal() {
+  const t = todayKey();
+  if (!store.goalMet[t] && Object.keys(store.srs).length && (doneToday() >= dailyGoal() || overdueCount() === 0)) {
+    store.goalMet[t] = true;
+    return true;
+  }
+  return false;
+}
+// Chuỗi ngày: các ngày liên tiếp đạt mục tiêu, tính tới hôm nay (hoặc hôm qua nếu hôm nay chưa xong).
+function streak() {
+  let d = todayKey(), n = 0;
+  if (!store.goalMet[d]) d = addDays(d, -1);
+  while (store.goalMet[d]) { n++; d = addDays(d, -1); }
+  return n;
 }
 function review(h, remembered) {
   const r = store.srs[h] || { lv: 0 };
@@ -77,15 +128,19 @@ function review(h, remembered) {
   } else {
     store.srs[h] = { lv: 0, due: addDays(todayKey(), INTERVALS[0]) };
   }
+  const t = todayKey();
+  store.daily[t] = (store.daily[t] || 0) + 1;
+  quotaTick++;
+  const met = markGoal();
   store.wordAt[h] = Date.now();
   save();
-  return store.srs[h];
+  return { ...store.srs[h], met };
 }
 function srsText(h) {
   if (!isKnown(h)) return '';
   const r = store.srs[h];
   if (!r) return '';
-  if (r.lv >= MASTERED) return 'Đã thành thạo, qua đủ 6 mốc ôn';
+  if (r.lv >= MASTERED) return `Đã thành thạo, qua đủ ${MASTERED} mốc ôn`;
   return `Mốc ${INTERVALS[r.lv]} ngày · ${r.due <= todayKey() ? 'cần ôn hôm nay' : 'ôn lại ngày ' + fmtVN(r.due)}`;
 }
 
@@ -128,6 +183,7 @@ function unitShort(i) {
 }
 const unitId = u => u.key || u.title;
 const dueWords = () => UNIQUE_WORDS.filter(w => isDue(w.hanzi));
+const dueCount = () => todayQuota().size;
 
 // ================================================================
 // TIẾN ĐỘ BÀI HỌC: bài thuộc hết từ → "Hoàn thành". Giữ nguyên trạng thái này
@@ -156,6 +212,7 @@ function setKnown(h, val) {
     delete store.known[h];
     delete store.srs[h];
   }
+  quotaTick++;
   store.wordAt[h] = Date.now();
   save();
   return val ? checkCompletion()[0] : null;
@@ -190,7 +247,7 @@ const SNAP_KEY = 'zhStudy.snapshots';
 const MAX_SNAPS = 10;
 const BACKUP_REMIND_DAYS = 7;
 const DAILY = 'Tự động hằng ngày';
-const progressData = () => ({ known: store.known, srs: store.srs, completed: store.completed, wrong: store.wrong, quizzes: store.quizzes, convoBest: store.convoBest });
+const progressData = () => ({ known: store.known, srs: store.srs, srsV: 2, completed: store.completed, wrong: store.wrong, quizzes: store.quizzes, convoBest: store.convoBest, daily: store.daily, goalMet: store.goalMet });
 function progressSig() {
   const s = JSON.stringify([store.known, store.srs, store.completed]);
   let h = 0;
@@ -199,6 +256,7 @@ function progressSig() {
 }
 const validData = d => !!d && typeof d === 'object' && !!d.known && typeof d.known === 'object' && !Array.isArray(d.known);
 function applyData(d) {
+  d = migrateSrs(d);
   // Đánh dấu mọi từ/bài bị ảnh hưởng là "vừa thay đổi" → khi đồng bộ, bản vừa khôi phục sẽ thắng bản cũ trên mạng.
   const now = Date.now();
   new Set([...Object.keys(store.known), ...Object.keys(d.known)]).forEach(h => { store.wordAt[h] = now; });
@@ -209,6 +267,8 @@ function applyData(d) {
   store.wrong = { ...(d.wrong || {}) };
   store.quizzes = Array.isArray(d.quizzes) ? d.quizzes.slice(-200) : [];
   store.convoBest = { ...(d.convoBest || {}) };
+  store.daily = { ...(d.daily || {}) };
+  store.goalMet = { ...(d.goalMet || {}) };
   Object.entries(store.known).forEach(([h, dt]) => {
     if (!store.srs[h]) store.srs[h] = { lv: 0, due: addDays(DATE_RE.test(dt) ? dt : todayKey(), INTERVALS[0]) };
   });
@@ -339,7 +399,8 @@ function scheduleSync() {
 }
 
 function mergeProgress(L, R) {
-  const out = { known: {}, srs: {}, completed: {}, wordAt: {}, unitAt: {}, wrong: {}, convoBest: {} };
+  L = migrateSrs(L); R = migrateSrs(R);
+  const out = { known: {}, srs: {}, srsV: 2, completed: {}, wordAt: {}, unitAt: {}, wrong: {}, convoBest: {}, daily: {}, goalMet: {} };
   const LW = L.wordAt || {}, RW = R.wordAt || {};
   const words = new Set([...Object.keys(L.known || {}), ...Object.keys(R.known || {}), ...Object.keys(LW), ...Object.keys(RW)]);
   for (const h of words) {
@@ -370,6 +431,8 @@ function mergeProgress(L, R) {
   }
   for (const src of [L.wrong || {}, R.wrong || {}]) for (const [h, n] of Object.entries(src)) out.wrong[h] = Math.max(out.wrong[h] || 0, n);
   for (const src of [L.convoBest || {}, R.convoBest || {}]) for (const [t, p] of Object.entries(src)) out.convoBest[t] = Math.max(out.convoBest[t] || 0, p);
+  for (const src of [L.daily || {}, R.daily || {}]) for (const [t, n] of Object.entries(src)) out.daily[t] = Math.max(out.daily[t] || 0, n);
+  for (const src of [L.goalMet || {}, R.goalMet || {}]) for (const t of Object.keys(src)) out.goalMet[t] = true;
   const qmap = new Map();
   for (const q of [...(L.quizzes || []), ...(R.quizzes || [])]) qmap.set(q.at ? 'a' + q.at : JSON.stringify([q.date, q.topic, q.total, q.correct]), q);
   out.quizzes = [...qmap.values()].sort((a, b) => (a.at || Date.parse(a.date) || 0) - (b.at || Date.parse(b.date) || 0)).slice(-200);
@@ -420,7 +483,7 @@ async function writeGist() {
 }
 function applyMerged(m) {
   if (Object.keys(store.known).some(h => !m.known[h])) takeSnapshot('Trước khi đồng bộ'); // sắp mất từ → giữ một bản để quay lại
-  Object.assign(store, { known: m.known, srs: m.srs, completed: m.completed, wrong: m.wrong, quizzes: m.quizzes, convoBest: m.convoBest, wordAt: m.wordAt, unitAt: m.unitAt });
+  Object.assign(store, { known: m.known, srs: m.srs, srsV: 2, completed: m.completed, wrong: m.wrong, quizzes: m.quizzes, convoBest: m.convoBest, daily: m.daily, goalMet: m.goalMet, wordAt: m.wordAt, unitAt: m.unitAt });
   save();
 }
 // Trả về số từ đã thuộc tăng/giảm do nhận thay đổi từ máy khác (null nếu không đổi gì trên máy này).
@@ -574,79 +637,59 @@ const icon = (name, size) => `<svg viewBox="0 0 24 24" ${size ? `width="${size}"
 // ---- phát âm (Web Speech API, iOS Safari hỗ trợ sẵn) ----
 const TTS = 'speechSynthesis' in window;
 let zhVoice = null, zhVoices = [];
-const zhRank = v => /zh[-_]TW/i.test(v.lang) ? 0 : /zh[-_]CN/i.test(v.lang) ? 1 : 2;
+// Chỉ lấy giọng phổ thông (Đài Loan trước, rồi đại lục). Giọng Hồng Kông đọc tiếng Quảng nên bỏ qua.
+const zhRank = v => /zh[-_]TW/i.test(v.lang) ? 0 : 1;
 function pickVoice() {
   if (!TTS) return;
-  zhVoices = speechSynthesis.getVoices().filter(v => /^(zh|cmn|yue)/i.test(v.lang)).sort((a, b) => zhRank(a) - zhRank(b));
+  zhVoices = speechSynthesis.getVoices().filter(v => /^(zh|cmn)/i.test(v.lang) && !/HK|yue|Cantonese|粵/i.test(v.lang + ' ' + v.name)).sort((a, b) => zhRank(a) - zhRank(b));
   zhVoice = zhVoices[0] || null;
 }
 if (TTS) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-// opt: { voice, pitch, rate, onend } — dùng cho hội thoại nhiều giọng.
+// opt: { pitch, rate, onend, keep } — keep = không dừng bài hội thoại đang phát.
 function speak(text, opt = {}) {
-  if (!TTS || !text) return;
-  if (!opt.keep) { speechSynthesis.cancel(); chatPlay = null; }
+  if (!opt.keep) stopConvo();
+  if (!TTS || !text) { if (opt.onend) opt.onend(); return; }
+  speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
-  const v = opt.voice || zhVoice;
-  u.lang = v ? v.lang : 'zh-TW';
-  if (v) try { u.voice = v; } catch (e) {}
+  u.lang = zhVoice ? zhVoice.lang : 'zh-TW';
+  if (zhVoice) try { u.voice = zhVoice; } catch (e) {}
   u.rate = opt.rate || 0.85;
   u.pitch = opt.pitch || 1;
   if (opt.onend) { u.onend = opt.onend; u.onerror = opt.onend; }
   speechSynthesis.speak(u);
 }
 
-// ---- giọng theo nhân vật trong hội thoại ----
-// Giới tính nhân vật trong sách (đoán theo tên / chức danh); nhân vật lạ thì xen kẽ nam–nữ.
-const SPEAKER_SEX = {
-  '偉立': 'm', '建國': 'm', '陸康': 'm', '錢先生': 'm', '教授': 'm', '叔叔': 'm', '爸爸': 'm',
-  '周開文': 'm', '林中平': 'm', '費南多': 'm', '周學盛': 'm', '陳士豐': 'm', '維克': 'm', '陳永慶': 'm', '何平': 'm',
-  '美真': 'f', '台麗': 'f', '錢太太': 'f', '師母': 'f', '姐姐': 'f', '媽媽': 'f',
-  '珊珊': 'f', '小雅': 'f', '明萱': 'f', '高繪玲': 'f', '敏華': 'f', '秀秀': 'f', '怡君': 'f', '黃淑華': 'f', '范美文': 'f',
-};
-function guessSex(name) {
-  if (SPEAKER_SEX[name]) return SPEAKER_SEX[name];
-  if (/(先生|爸|爺|叔|伯|哥|弟|兒子|男|舅|公公)/.test(name)) return 'm';
-  if (/(太太|小姐|媽|奶|姨|姐|妹|女|嫂|婆|母)/.test(name)) return 'f';
-  return null;
-}
-const MALE_VOICE = /(male|男|zhiwei|kangkang|yunxi|yunyang|yunjian|yunze|yunfeng|yunhao|limu|li-mu|yu-shu|wanlung)/i;
-const FEMALE_VOICE = /(female|女|hanhan|yating|huihui|yaoyao|xiaoxiao|xiaoyi|hsiaochen|hsiaoyu|meijia|mei-jia|tingting|ting-ting|sinji|lili|shanshan|yu-na)/i;
-const voiceSex = v => MALE_VOICE.test(v.name) && !/female/i.test(v.name) ? 'm' : FEMALE_VOICE.test(v.name) ? 'f' : null;
-// Gán cho mỗi nhân vật một giọng: ưu tiên giọng đúng giới tính, chưa ai dùng;
-// thiếu giọng thì dùng lại giọng có sẵn nhưng đổi cao độ (nam trầm, nữ cao) để vẫn nghe ra khác người.
-function castVoices(lines) {
-  const names = [...new Set(lines.map(l => l.speaker).filter(Boolean))];
-  const used = new Map(), cast = {};
-  let alt = 0;
-  names.forEach(n => {
-    const sex = guessSex(n) || (alt++ % 2 ? 'f' : 'm');
-    const same = zhVoices.filter(v => voiceSex(v) === sex);
-    const pool = same.length ? same : zhVoices;
-    const voice = pool.slice().sort((a, b) => (used.get(a) || 0) - (used.get(b) || 0) || zhRank(a) - zhRank(b))[0] || null;
-    const k = used.get(voice) || 0; used.set(voice, k + 1);
-    // giọng thật đúng giới tính thì chỉnh nhẹ; phải "mượn" giọng khác giới thì hạ/nâng cao độ rõ hơn
-    const native = voice && voiceSex(voice) === sex;
-    const base = sex === 'm' ? (native ? 1 : 0.6) : (native ? 1.05 : 1.2);
-    const step = [0, 0.12, -0.12, 0.22, -0.22][k % 5];
-    cast[n] = { voice, pitch: Math.max(0.3, Math.min(1.8, base + step)), rate: 0.85 + (k % 3) * 0.04 };
-  });
-  return cast;
-}
-let chatCast = null, chatCastFor = null, chatPlay = null;
-function convoCast(c) {
-  if (chatCastFor !== c || !chatCast) { chatCast = castVoices(c.lines); chatCastFor = c; }
-  return chatCast;
+// ---- hội thoại: mỗi nhân vật một giọng thật ----
+// File mp3 tạo sẵn bằng tools/build-audio.js (audio-map.js). Không tải được (mất mạng, câu mới
+// chưa tạo audio) thì đọc bằng giọng của máy, hạ/nâng cao độ để vẫn phân biệt nam–nữ.
+const AUDIO_MAP = typeof CONVO_AUDIO === 'undefined' ? {} : CONVO_AUDIO;
+const player = typeof Audio === 'undefined' ? null : new Audio();
+let chatPlay = null;
+function speakerPitch(c, name) {
+  const m = AUDIO_MAP[c.title], sex = m && m.sex[name];
+  const same = Object.keys((m && m.sex) || {}).filter(n => m.sex[n] === sex);
+  const k = Math.max(0, same.indexOf(name));
+  return sex === 'm' ? 0.55 + k * 0.12 : sex === 'f' ? 1.1 + k * 0.12 : 1;
 }
 function speakLine(c, i, opt = {}) {
   const l = c.lines[i];
   if (!l) return;
-  const who = l.speaker ? convoCast(c)[l.speaker] : null;
-  speak(l.zh, { ...(who || { rate: 0.9 }), ...opt });
+  if (!opt.keep) stopConvo();
+  if (TTS) speechSynthesis.cancel();
+  const fallback = () => speak(l.zh, { keep: true, onend: opt.onend, rate: 0.85, pitch: l.speaker ? speakerPitch(c, l.speaker) : 1 });
+  const m = AUDIO_MAP[c.title], f = m && m.files[i];
+  if (!player || !f) { fallback(); return; }
+  let done = false;
+  const finish = ok => { if (done) return; done = true; if (ok) { if (opt.onend) opt.onend(); } else fallback(); };
+  player.onended = () => finish(true);
+  player.onerror = () => finish(false);
+  player.src = 'audio/c/' + f;
+  const pr = player.play();
+  if (pr && pr.catch) pr.catch(() => finish(false));
 }
-// Nghe cả bài: đọc lần lượt từng câu, mỗi nhân vật một giọng; tô sáng câu đang đọc.
+// Nghe cả bài: đọc lần lượt từng câu, tô sáng câu đang đọc.
 function playConvo(c, from = 0) {
-  if (!TTS) { toast('Máy không hỗ trợ đọc'); return; }
-  speechSynthesis.cancel();
+  stopConvo();
   const run = { c, i: from };
   chatPlay = run;
   const mark = () => {
@@ -661,12 +704,15 @@ function playConvo(c, from = 0) {
     if (!document.querySelector('.chat')) { stopConvo(); return; }
     if (run.i >= c.lines.length) { chatPlay = null; mark(); return; }
     mark();
-    speakLine(c, run.i, { keep: true, onend: () => { if (chatPlay !== run) return; run.i++; setTimeout(next, 250); } });
+    speakLine(c, run.i, { keep: true, onend: () => { if (chatPlay !== run) return; run.i++; setTimeout(next, 300); } });
   };
   next();
 }
 function stopConvo() {
+  const was = chatPlay;
   chatPlay = null;
+  if (player) { player.onended = player.onerror = null; try { player.pause(); } catch (e) {} }
+  if (!was) return;
   if (TTS) speechSynthesis.cancel();
   document.querySelectorAll('.chat .playing').forEach(x => x.classList.remove('playing'));
   const b = $('[data-act="chat-play"]');
@@ -731,7 +777,8 @@ function savePrefs() {
 // ================================================================
 function render() {
   const tab = TABS.find(t => t.key === state.tab) || TABS[0];
-  const due = dueWords().length;
+  if (overdueCount() === 0 && markGoal()) save(); // không có từ nào đến hạn → hôm nay vẫn giữ chuỗi
+  const due = dueCount();
   $('#title').textContent = tab.label;
   $('#tabbar').innerHTML = `<div class="tabbar-inner">${TABS.map(t =>
     `<button class="tab ${t.key === state.tab ? 'active' : ''}" data-act="tab" data-tab="${t.key}">
@@ -761,7 +808,8 @@ function viewHome() {
   const weekStart = addDays(today, -6);
   const learnedWeek = Object.values(store.known).filter(d => d >= weekStart).length;
   const learnedToday = Object.values(store.known).filter(d => d === today).length;
-  const due = dueWords().length;
+  const due = dueCount();
+  const goal = dailyGoal(), done = doneToday(), over = overdueCount(), met = !!store.goalMet[today], st = streak();
   const last = qs.slice(-12);
 
   // phân bố từ đã thuộc theo mốc ôn
@@ -778,11 +826,15 @@ function viewHome() {
     .sort((a, b) => b[1] - a[1]).slice(0, 8);
 
   return `
-  ${due ? `<div class="card review-card">
-    <span class="review-icon">${icon('bell', 22)}</span>
-    <div class="grow"><b>${due} từ đến hạn ôn hôm nay</b><div class="small muted">Ôn đúng hạn để nhớ lâu hơn</div></div>
-    <button class="btn btn-primary" data-act="review-now">Ôn ngay</button>
-  </div>` : ''}
+  <div class="card review-card goal-card">
+    <span class="review-icon">${icon(met ? 'check' : 'bell', 22)}</span>
+    <div class="grow">
+      <b>${due ? `Hôm nay cần ôn ${due} từ` : met ? (over ? `Đã đạt mục tiêu hôm nay 🎉` : 'Đã ôn xong hôm nay 🎉') : 'Hôm nay không có từ cần ôn'}</b>
+      <div class="bar ${met ? 'ok' : ''}" style="margin:6px 0 4px"><span style="width:${met ? 100 : pct(Math.min(done, goal), goal)}%"></span></div>
+      <div class="small muted">Đã ôn ${done}/${goal} từ · ${st ? `🔥 Chuỗi ${st} ngày` : 'Đạt mục tiêu để bắt đầu chuỗi ngày'}${met && over && !due ? ` · ${over} từ còn lại dời sang mai` : ''}</div>
+    </div>
+    ${due ? `<button class="btn btn-primary" data-act="review-now">Ôn ngay</button>` : met && over ? `<button class="btn" data-act="review-extra">Ôn thêm</button>` : ''}
+  </div>
   ${bs.remind ? `<div class="card backup-card">
     <span class="review-icon">${icon('save', 22)}</span>
     <div class="grow"><b>${bs.lastAt ? `${bs.days} ngày chưa sao lưu` : 'Chưa sao lưu tiến độ lần nào'}</b><div class="small muted">Lưu ra file để không mất tiến độ khi xoá app hay đổi máy</div></div>
@@ -815,7 +867,9 @@ function viewHome() {
       ${INTERVALS.map((d, i) => `<div class="level"><b>${levels[i]}</b><span>${d} ngày</span></div>`).join('')}
       <div class="level mastered"><b>${levels[MASTERED]}</b><span>Thành thạo</span></div>
     </div>
-    <p class="small muted" style="margin:10px 0 0">Từ đã thuộc được nhắc ôn lại sau 1 → 3 → 7 → 14 → 28 → 60 ngày. Quên thì quay về mốc 1 ngày.
+    <div class="row between" style="margin-top:12px;gap:10px"><span class="small"><b>Mục tiêu ôn mỗi ngày</b></span>
+      <div class="seg goal-seg">${GOALS.map(g => `<button class="${g === goal ? 'active' : ''}" data-act="goal" data-g="${g}">${g} từ</button>`).join('')}</div></div>
+    <p class="small muted" style="margin:10px 0 0">Từ đã thuộc được nhắc ôn lại sau ${INTERVAL_TEXT} ngày. Quên thì quay về mốc 1 ngày. Mỗi ngày chỉ ôn tối đa theo mục tiêu, từ đến hạn còn lại dời sang hôm sau.
       ${!due && nextDue ? `Lần ôn tiếp theo: <b>${fmtVN(nextDue)}</b>.` : ''}</p>
   </div>
 
@@ -944,6 +998,12 @@ function viewDeck() {
       emoji = '🎉'; msg = 'Bạn đã thuộc hết từ trong bài này.';
     } else if (state.filter === 'due') {
       emoji = '👍'; msg = 'Không có từ nào cần ôn hôm nay.';
+      const left = overdueCount();
+      if (store.goalMet[todayKey()] && left) {
+        emoji = '🔥'; msg = `Đã đạt mục tiêu ${dailyGoal()} từ hôm nay. ${left} từ còn lại dời sang mai.`;
+        return `<div class="card empty"><div style="font-size:40px">${emoji}</div><p>${msg}</p><p class="small muted">Chuỗi ${streak()} ngày</p>
+          <button class="btn" data-act="review-extra">Ôn thêm</button></div>`;
+      }
       const ups = filterWords(unitWords(), 'known').map(w => store.srs[w.hanzi]).filter(s => s && s.due).map(s => s.due).sort();
       if (ups[0]) extra = `<p class="small muted">Lần ôn tiếp theo: ${fmtVN(ups[0])} (${ups.filter(d => d === ups[0]).length} từ)</p>`;
     } else if (state.filter === 'known') msg = 'Chưa có từ nào được đánh dấu đã thuộc.';
@@ -955,7 +1015,7 @@ function viewDeck() {
     const reviewing = state.filter === 'due';
     if (state.filter === 'todo' && state.unit !== 'all' && unitProgress(state.unit).done && !filterWords(unitWords(), 'todo').length) {
       return `<div class="card empty"><div style="font-size:40px">🎉</div><p><b>Bạn đã thuộc hết bài này!</b></p>
-        <p class="small muted">Các từ sẽ được nhắc ôn lại sau 1 → 3 → 7 → 14 → 28 → 60 ngày.</p>
+        <p class="small muted">Các từ sẽ được nhắc ôn lại sau ${INTERVAL_TEXT} ngày.</p>
         <button class="btn btn-primary" data-act="tab" data-tab="quiz">Làm bài ôn tập</button></div>`;
     }
     return `<div class="card empty"><div style="font-size:40px">✅</div><p>${reviewing ? `Đã ôn xong ${state.deck.length} từ!` : `Hết lượt! Đã xem ${state.deck.length} thẻ.`}</p>
@@ -1051,6 +1111,7 @@ function reviewCurrent(remembered) {
   const w = state.deck[state.deckIdx];
   if (!w) return;
   const r = review(w.hanzi, remembered);
+  if (r.met) { toast(`🔥 Đạt mục tiêu ${dailyGoal()} từ hôm nay · chuỗi ${streak()} ngày`); moveTo(state.deckIdx + 1); return; }
   toast(remembered ? (r.lv >= MASTERED ? '🎉 Đã thành thạo ' + w.hanzi : `Lần ôn tới: ${fmtVN(r.due)} (sau ${INTERVALS[r.lv]} ngày)`) : 'Sẽ nhắc lại vào ngày mai');
   moveTo(state.deckIdx + 1);
 }
@@ -1706,6 +1767,8 @@ document.addEventListener('click', e => {
     case 'restore-file': { const inp = $('#restore-input'); inp.value = ''; inp.click(); break; }
     case 'restore-snap': restoreSnapshot(+d.i); break;
     case 'review-now': state.unit = 'all'; state.filter = 'due'; state.view = 'card'; buildDeck(false); go('cards'); break;
+    case 'review-extra': reviewExtra = true; state.unit = 'all'; state.filter = 'due'; state.view = 'card'; buildDeck(false); go('cards'); break;
+    case 'goal': store.prefs.goal = +d.g; markGoal(); save(); render(); break;
     case 'open-unit': state.unit = +d.unit; state.filter = 'todo'; buildDeck(false); go('cards'); break;
     case 'reset-unit': resetUnit(+d.unit); break;
     case 'filter': state.filter = d.f; buildDeck(false); savePrefs(); render(); break;
