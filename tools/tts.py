@@ -18,13 +18,13 @@ async def one(job, sem):
 
 async def main(path):
     jobs = json.load(open(path, encoding='utf-8'))
-    sem = asyncio.Semaphore(6)
+    sem = asyncio.Semaphore(8)
     done = 0
     async def run(j):
         nonlocal done
         await one(j, sem)
         done += 1
-        if done % 25 == 0 or done == len(jobs):
+        if done % 100 == 0 or done == len(jobs):
             print(f'  {done}/{len(jobs)}', flush=True)
     await asyncio.gather(*(run(j) for j in jobs))
 

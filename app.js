@@ -645,11 +645,32 @@ function pickVoice() {
   zhVoice = zhVoices[0] || null;
 }
 if (TTS) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-// opt: { pitch, rate, onend, keep } — keep = không dừng bài hội thoại đang phát.
-function speak(text, opt = {}) {
-  if (!opt.keep) stopConvo();
-  if (!TTS || !text) { if (opt.onend) opt.onend(); return; }
-  speechSynthesis.cancel();
+// Phát âm: ưu tiên file mp3 tạo sẵn (giọng thật, chạy ổn trên iPhone), không có file thì dùng giọng của máy.
+// File tạo bằng tools/build-audio.js: audio/w/<sayKey>.mp3 cho từ vựng / ví dụ, audio/c/ cho hội thoại.
+const AUDIO_MAP = typeof CONVO_AUDIO === 'undefined' ? {} : CONVO_AUDIO;
+const SAY_SET = new Set(typeof SAY_AUDIO === 'string' ? SAY_AUDIO.split(' ') : []);
+const player = typeof Audio === 'undefined' ? null : new Audio();
+let chatPlay = null;
+// Giống hệt sayKey() trong tools/build-audio.js: 2 lần FNV-1a 32 bit + độ dài.
+function sayKey(t) {
+  let a = 0x811c9dc5, b = 0x9747b28c;
+  for (let i = 0; i < t.length; i++) { const c = t.charCodeAt(i); a = Math.imul(a ^ c, 0x01000193) >>> 0; b = Math.imul(b ^ c, 0x5bd1e995) >>> 0; }
+  return a.toString(16).padStart(8, '0') + b.toString(16).padStart(8, '0') + t.length.toString(36);
+}
+// Phát 1 file qua trình phát dùng chung (gọi ngay trong lúc bấm để iPhone cho phép phát).
+function playFile(url, onend, onfail) {
+  let done = false;
+  const finish = ok => { if (done) return; done = true; (ok ? onend : onfail)(); };
+  player.onended = () => finish(true);
+  player.onerror = () => finish(false);
+  player.src = url;
+  const pr = player.play();
+  if (pr && pr.catch) pr.catch(() => finish(false));
+}
+function ttsSay(text, opt) {
+  if (!TTS) { if (opt.onend) opt.onend(); return; }
+  // iPhone: gọi cancel() khi máy không đọc gì đôi khi làm mất luôn câu kế tiếp → chỉ huỷ khi đang đọc.
+  if (speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
   u.lang = zhVoice ? zhVoice.lang : 'zh-TW';
   if (zhVoice) try { u.voice = zhVoice; } catch (e) {}
@@ -658,13 +679,23 @@ function speak(text, opt = {}) {
   if (opt.onend) { u.onend = opt.onend; u.onerror = opt.onend; }
   speechSynthesis.speak(u);
 }
+// opt: { pitch, rate, onend, keep, ttsOnly } — keep = không dừng bài hội thoại đang phát.
+function speak(text, opt = {}) {
+  if (!opt.keep) stopConvo();
+  text = (text || '').trim();
+  if (!text) { if (opt.onend) opt.onend(); return; }
+  const k = !opt.ttsOnly && player && sayKey(text);
+  if (k && SAY_SET.has(k)) {
+    if (TTS && (speechSynthesis.speaking || speechSynthesis.pending)) speechSynthesis.cancel();
+    playFile(`audio/w/${k}.mp3`, () => { if (opt.onend) opt.onend(); }, () => ttsSay(text, opt));
+    return;
+  }
+  if (player) { player.onended = player.onerror = null; try { player.pause(); } catch (e) {} }
+  ttsSay(text, opt);
+}
 
 // ---- hội thoại: mỗi nhân vật một giọng thật ----
-// File mp3 tạo sẵn bằng tools/build-audio.js (audio-map.js). Không tải được (mất mạng, câu mới
-// chưa tạo audio) thì đọc bằng giọng của máy, hạ/nâng cao độ để vẫn phân biệt nam–nữ.
-const AUDIO_MAP = typeof CONVO_AUDIO === 'undefined' ? {} : CONVO_AUDIO;
-const player = typeof Audio === 'undefined' ? null : new Audio();
-let chatPlay = null;
+// Không tải được file (mất mạng, câu mới chưa tạo audio) thì đọc bằng giọng của máy, hạ/nâng cao độ để vẫn phân biệt nam–nữ.
 function speakerPitch(c, name) {
   const m = AUDIO_MAP[c.title], sex = m && m.sex[name];
   const same = Object.keys((m && m.sex) || {}).filter(n => m.sex[n] === sex);
@@ -675,17 +706,11 @@ function speakLine(c, i, opt = {}) {
   const l = c.lines[i];
   if (!l) return;
   if (!opt.keep) stopConvo();
-  if (TTS) speechSynthesis.cancel();
-  const fallback = () => speak(l.zh, { keep: true, onend: opt.onend, rate: 0.85, pitch: l.speaker ? speakerPitch(c, l.speaker) : 1 });
+  if (TTS && (speechSynthesis.speaking || speechSynthesis.pending)) speechSynthesis.cancel();
+  const fallback = () => speak(l.zh, { keep: true, ttsOnly: true, onend: opt.onend, rate: 0.85, pitch: l.speaker ? speakerPitch(c, l.speaker) : 1 });
   const m = AUDIO_MAP[c.title], f = m && m.files[i];
   if (!player || !f) { fallback(); return; }
-  let done = false;
-  const finish = ok => { if (done) return; done = true; if (ok) { if (opt.onend) opt.onend(); } else fallback(); };
-  player.onended = () => finish(true);
-  player.onerror = () => finish(false);
-  player.src = 'audio/c/' + f;
-  const pr = player.play();
-  if (pr && pr.catch) pr.catch(() => finish(false));
+  playFile('audio/c/' + f, () => { if (opt.onend) opt.onend(); }, fallback);
 }
 // Nghe cả bài: đọc lần lượt từng câu, tô sáng câu đang đọc.
 function playConvo(c, from = 0) {
@@ -713,7 +738,7 @@ function stopConvo() {
   chatPlay = null;
   if (player) { player.onended = player.onerror = null; try { player.pause(); } catch (e) {} }
   if (!was) return;
-  if (TTS) speechSynthesis.cancel();
+  if (TTS && (speechSynthesis.speaking || speechSynthesis.pending)) speechSynthesis.cancel();
   document.querySelectorAll('.chat .playing').forEach(x => x.classList.remove('playing'));
   const b = $('[data-act="chat-play"]');
   if (b) b.innerHTML = `${icon('speak')} Nghe cả bài`;

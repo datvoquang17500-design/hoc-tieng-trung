@@ -1,10 +1,20 @@
-// Tạo file đọc (mp3) cho mọi câu hội thoại, mỗi nhân vật một giọng thật (nam/nữ).
-//   node tools/build-audio.js        → tạo file còn thiếu trong audio/c/ + viết lại audio-map.js
+// Tạo file đọc (mp3):
+//  - audio/c/: mọi câu hội thoại, mỗi nhân vật một giọng thật (nam/nữ)
+//  - audio/w/: mọi từ vựng, câu ví dụ, ví dụ ngữ pháp (1 giọng). Tên file = sayKey(câu), app tự tính ra.
+//   node tools/build-audio.js        → tạo file còn thiếu + viết lại audio-map.js
 // Cần Python + gói edge-tts bản mới (pip install -U edge-tts; bản cũ bị máy chủ từ chối, lỗi 403) và có mạng. File đã có thì bỏ qua,
 // nên sửa / thêm hội thoại chỉ tạo thêm những câu mới.
 const fs = require('fs'), path = require('path'), crypto = require('crypto'), { execFileSync } = require('child_process');
 const ROOT = path.join(__dirname, '..');
 const OUT = path.join(ROOT, 'audio', 'c');
+const OUT_W = path.join(ROOT, 'audio', 'w');
+const SAY_VOICE = 'zh-TW-HsiaoChenNeural';
+// Giống hệt sayKey() trong app.js: 2 lần FNV-1a 32 bit + độ dài.
+function sayKey(t) {
+  let a = 0x811c9dc5, b = 0x9747b28c;
+  for (let i = 0; i < t.length; i++) { const c = t.charCodeAt(i); a = Math.imul(a ^ c, 0x01000193) >>> 0; b = Math.imul(b ^ c, 0x5bd1e995) >>> 0; }
+  return a.toString(16).padStart(8, '0') + b.toString(16).padStart(8, '0') + t.length.toString(36);
+}
 
 // Giới tính nhân vật. Nhân vật không có ở đây thì đoán theo chức danh, không đoán được thì xen kẽ nam–nữ.
 const SPEAKER_SEX = {
@@ -28,7 +38,7 @@ const NARRATOR = 'zh-TW-HsiaoYuNeural';
 const RATE = '-10%';
 
 const src = ['data.js', 'data-pavc.js'].map(f => fs.readFileSync(path.join(ROOT, f), 'utf8')).join('\n');
-const CONVERSATIONS = new Function('window', src + ';return CONVERSATIONS;')({});
+const { CONVERSATIONS, UNITS, GRAMMAR } = new Function('window', src + ';return { CONVERSATIONS, UNITS, GRAMMAR };')({});
 
 const jobs = [], map = {};
 for (const c of CONVERSATIONS) {
@@ -51,6 +61,17 @@ for (const c of CONVERSATIONS) {
   map[c.title] = { sex, cast, files };
 }
 
+const says = new Set();
+UNITS.forEach(u => u.vocab.forEach(w => { says.add(w.hanzi.trim()); if (w.exampleZh) says.add(w.exampleZh.trim()); }));
+GRAMMAR.forEach(g => (g.examples || []).forEach(e => { if (e.zh) says.add(e.zh.trim()); }));
+says.delete('');
+const sayKeys = [];
+for (const text of says) {
+  const k = sayKey(text);
+  sayKeys.push(k);
+  jobs.push({ file: path.join(OUT_W, k + '.mp3'), voice: SAY_VOICE, rate: RATE, text });
+}
+fs.mkdirSync(OUT_W, { recursive: true });
 fs.mkdirSync(OUT, { recursive: true });
 const ok = f => fs.existsSync(f) && fs.statSync(f).size > 1000;
 const todo = jobs.filter((j, i) => !ok(j.file) && jobs.findIndex(k => k.file === j.file) === i);
@@ -66,8 +87,9 @@ if (missing.length) { console.error(`Còn ${missing.length} file chưa tạo đ�
 
 // Xoá file không còn dùng (câu đã sửa / xoá)
 const keep = new Set(jobs.map(j => path.basename(j.file)));
-fs.readdirSync(OUT).filter(f => f.endsWith('.mp3') && !keep.has(f)).forEach(f => fs.unlinkSync(path.join(OUT, f)));
+for (const dir of [OUT, OUT_W]) fs.readdirSync(dir).filter(f => f.endsWith('.mp3') && !keep.has(f)).forEach(f => fs.unlinkSync(path.join(dir, f)));
 
 fs.writeFileSync(path.join(ROOT, 'audio-map.js'),
-  '// Tự sinh bởi tools/build-audio.js, đừng sửa tay.\n// Mỗi hội thoại: giới tính + giọng của nhân vật, và file mp3 cho từng câu (theo thứ tự câu).\nconst CONVO_AUDIO = ' + JSON.stringify(map) + ';\n');
+  '// Tự sinh bởi tools/build-audio.js, đừng sửa tay.\n// Mỗi hội thoại: giới tính + giọng của nhân vật, và file mp3 cho từng câu (theo thứ tự câu).\nconst CONVO_AUDIO = ' + JSON.stringify(map) + ';\n' +
+  '// Từ vựng / ví dụ đã có file trong audio/w/ (tên = sayKey(câu)).\nconst SAY_AUDIO = ' + JSON.stringify(sayKeys.sort().join(' ')) + ';\n');
 console.log('Đã viết audio-map.js');
