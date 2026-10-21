@@ -1,0 +1,18 @@
+// 各行各業說中文 1 · 第7課 旅遊補助 — nguồn: slide 目錄 trên Drive (語言點 + 熟語).
+// Bảng từ vựng và bài hội thoại của bài chưa có trên Drive → sẽ bổ sung khi có tài liệu.
+// Giải thích tiếng Việt và câu ví dụ do Claude soạn.
+#UNIT GH-07|各行各業 L7 · 旅遊補助（金融及保險業）
+#VOCAB
+攜家帶眷|xiéjiā-dàijuàn|huề gia đái quyến|IDIOM|dắt díu cả gia đình (đi cùng)|今年的員工旅遊可以攜家帶眷，所以報名的人特別多。|Chuyến du lịch công ty năm nay được dẫn cả gia đình theo nên người đăng ký đặc biệt đông.
+有聲有色|yǒushēng-yǒusè|hữu thanh hữu sắc|IDIOM|sinh động, làm rất khởi sắc, rất bài bản|她把福利委員會辦得有聲有色，大家都很滿意。|Cô ấy điều hành ban phúc lợi rất bài bản, ai cũng hài lòng.
+心花怒放|xīnhuā-nùfàng|tâm hoa nộ phóng|IDIOM|vui sướng như mở cờ trong bụng|一聽到公司要補助出國旅遊，同事們都心花怒放。|Vừa nghe công ty sẽ hỗ trợ du lịch nước ngoài, đồng nghiệp ai nấy đều mừng như mở cờ.
+一視同仁|yíshì-tóngrén|nhất thị đồng nhân|IDIOM|đối xử công bằng như nhau, không phân biệt|旅遊補助對正職和約聘員工一視同仁。|Trợ cấp du lịch áp dụng như nhau cho nhân viên chính thức và nhân viên hợp đồng.
+有所不知|yǒusuǒ bùzhī|hữu sở bất tri|IDIOM|(anh/chị) có điều chưa biết (dùng để giải thích thêm)|你有所不知，申請補助以前一定要先拿到主管的簽名。|Anh có điều chưa biết, trước khi xin trợ cấp nhất định phải có chữ ký của trưởng phòng.
+大同小異|dàtóng-xiǎoyì|đại đồng tiểu dị|IDIOM|giống nhau là chính, chỉ khác chút ít|這兩家旅行社的行程大同小異，主要是價錢不一樣。|Lịch trình của hai công ty du lịch này gần như giống nhau, chủ yếu khác ở giá.
+老少咸宜|lǎoshào-xiányí|lão thiếu hàm nghi|IDIOM|già trẻ đều thích hợp|這個行程老少咸宜，帶父母和孩子一起去都沒問題。|Lịch trình này già trẻ đều hợp, dẫn cả bố mẹ lẫn con cái đi đều không sao.
+#GRAMMAR
+有一部分的人傾向……|Nêu xu hướng/sở thích của một nhóm người: "có một bộ phận người có xu hướng (thích)…". Dùng khi tổng hợp ý kiến, khảo sát.|根據問卷調查，有一部分的人傾向國內旅遊，因為比較不用請長假。|Theo khảo sát, có một bộ phận người thiên về du lịch trong nước vì không cần xin nghỉ dài ngày.|有一部分的人傾向領現金，不想參加公司安排的旅遊。|Có một bộ phận người thích nhận tiền mặt, không muốn tham gia chuyến đi công ty sắp xếp.
+……就可以了。況且，……|"…là được rồi. Hơn nữa, …" — đưa ra một đề xuất đơn giản rồi dùng 況且 bổ sung thêm lý do để thuyết phục.|大家自己選日期，再拿收據來申請補助就可以了。況且這樣也比較有彈性。|Mọi người tự chọn ngày, rồi mang hóa đơn đến xin trợ cấp là được. Hơn nữa như vậy cũng linh hoạt hơn.|訂三天兩夜的行程就可以了。況且很多同事週末還要照顧家人。|Đặt lịch ba ngày hai đêm là được rồi. Huống chi nhiều đồng nghiệp cuối tuần còn phải chăm sóc gia đình.
+就我所知，……。……沒辦法……，還是以……為優先吧！|"Theo tôi được biết… . (Nếu) không thể…, thì vẫn nên ưu tiên… đi!" — nêu thông tin mình biết, rồi đưa ra lựa chọn ưu tiên.|就我所知，七月的機票特別貴。預算沒辦法增加，還是以國內行程為優先吧！|Theo tôi biết, vé máy bay tháng Bảy đặc biệt đắt. Ngân sách không tăng được thì vẫn nên ưu tiên lịch trình trong nước đi!|就我所知，業務部月底很忙。沒辦法全部的人一起去，還是以輪流請假為優先吧！|Theo tôi biết, cuối tháng phòng kinh doanh rất bận. Không thể đi cả phòng một lúc thì cứ ưu tiên thay phiên nhau nghỉ đi!
+跟……接洽之前，還要……|"Trước khi liên hệ/làm việc với…, còn cần (làm)…" — nói rõ bước chuẩn bị trong quy trình.|跟旅行社接洽之前，還要先確認參加的人數。|Trước khi liên hệ với công ty du lịch, còn phải xác nhận số người tham gia trước.|跟保險公司接洽之前，還要把大家的資料整理好。|Trước khi làm việc với công ty bảo hiểm, còn phải sắp xếp hồ sơ của mọi người cho xong.
+……有……的規定，……才能……|"(Công ty) có quy định về…, phải… thì mới được…" — giải thích điều kiện theo quy định.|公司有旅遊補助的規定，到職滿一年才能申請。|Công ty có quy định về trợ cấp du lịch, làm đủ một năm mới được xin.|福委會有報帳的規定，收據上要有統一編號才能報銷。|Ban phúc lợi có quy định thanh toán, hóa đơn phải có mã số thuế công ty mới được hoàn tiền.

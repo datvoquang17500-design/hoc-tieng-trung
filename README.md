@@ -11,6 +11,7 @@ Mở `index.html` để dùng. Toàn bộ nội dung học nằm trong **`data.j
 - **Hoàn thành bài:** thuộc hết từ trong bài thì bài được đánh dấu Hoàn thành và giữ nguyên trạng thái đó. Muốn học lại từ đầu thì bấm **Học lại** (ở Tổng quan hoặc tab Thẻ từ). Việc này xoá trạng thái đã thuộc và lịch ôn của các từ trong bài.
 - **Phát âm:** từ vựng, câu ví dụ, ví dụ ngữ pháp đọc từ file mp3 tạo sẵn trong `audio/w/`; câu không có file (đáp án bài tập…) thì dùng giọng của máy.
 - **Hội thoại:** mỗi nhân vật có giọng đọc riêng (nam/nữ), đọc từ file mp3 tạo sẵn trong `audio/c/`. Nút **Nghe cả bài** đọc lần lượt cả bài. Sửa hoặc thêm hội thoại / từ vựng thì chạy `node tools/build-audio.js` (cần `pip install edge-tts` và có mạng) để tạo audio cho câu mới; giới tính nhân vật khai báo trong `SPEAKER_SEX` ở đầu file đó. Câu chưa có audio hoặc khi mất mạng thì app đọc bằng giọng của máy.
+- **Học ngữ pháp** (thẻ ở Tổng quan): mỗi lượt gồm các mẫu đến hạn ôn + tối đa 5 mẫu mới. Mẫu mới: đọc giải thích, ví dụ rồi làm 1 câu kiểm tra; mẫu ôn: kiểm tra trước. Đúng thì lên mốc ôn kế tiếp (cùng mốc với từ vựng), sai thì ôn lại hôm sau và được hỏi lại cuối lượt. Tiến độ ngữ pháp được sao lưu và đồng bộ cùng từ vựng.
 - Nhắc ôn chỉ hiện **trong app**. Web app trên iPhone không tự gửi thông báo khi đang đóng.
 
 ## Đồng bộ đám mây (GitHub Gist)
@@ -44,6 +45,8 @@ node tools/build-pavc.js     # dựng lại data-pavc.js
 ```
 
 Sau đó tăng `VERSION` trong `sw.js` và đẩy lên như mục 3. Bài 1–2 của PAVC4 trùng với L7–L9 đã có nên không nhập lại.
+
+Cùng thư mục có `GH-07…GH-10.v.txt`: sách 各行各業說中文 1 bài 7–10 (hiện mới có thành ngữ + mẫu ngữ pháp lấy từ slide mục lục; bảng từ vựng và hội thoại sẽ thêm khi có tài liệu).
 
 ### Bài tập sách (Workbook)
 

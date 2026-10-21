@@ -1,0 +1,21 @@
+// 各行各業說中文 1 · 第10課 人往高處爬 — nguồn: slide 目錄 trên Drive (語言點 + 熟語).
+// Bảng từ vựng và bài hội thoại của bài chưa có trên Drive → sẽ bổ sung khi có tài liệu.
+// Giải thích tiếng Việt và câu ví dụ do Claude soạn.
+#UNIT GH-10|各行各業 L10 · 人往高處爬（出版傳媒業）
+#VOCAB
+人往高處爬|rén wǎng gāochù pá|nhân vãng cao xứ ba|IDIOM|người ta ai cũng muốn tiến lên chỗ cao hơn|人往高處爬，有更好的機會當然要試試看。|Người ta ai cũng muốn tiến lên, có cơ hội tốt hơn thì đương nhiên phải thử.
+讚不絕口|zànbùjuékǒu|tán bất tuyệt khẩu|IDIOM|khen không ngớt lời|讀者對這本新書讚不絕口。|Độc giả khen cuốn sách mới này không ngớt lời.
+夢寐以求|mèngmèi-yǐqiú|mộng mị dĩ cầu|IDIOM|mơ ước bấy lâu, ngày đêm mong mỏi|當總編輯是她夢寐以求的工作。|Làm tổng biên tập là công việc cô ấy mơ ước bấy lâu.
+亂槍打鳥|luànqiāng dǎniǎo|loạn thương đả điểu|IDIOM|bắn bừa may ra trúng, làm tràn lan không có trọng tâm|找工作不要亂槍打鳥，要先想清楚自己適合什麼。|Tìm việc đừng rải hồ sơ tràn lan, phải nghĩ rõ mình hợp với việc gì trước.
+每況愈下|měikuàng-yùxià|mỗi huống dũ hạ|IDIOM|ngày càng tệ đi|紙本雜誌的銷量每況愈下。|Doanh số tạp chí in ngày càng sa sút.
+人心惶惶|rénxīn-huánghuáng|nhân tâm hoàng hoàng|IDIOM|lòng người hoang mang lo sợ|聽說要合併，辦公室裡人心惶惶。|Nghe nói sắp sáp nhập, trong văn phòng ai cũng hoang mang.
+獅子大開口|shīzi dà kāikǒu|sư tử đại khai khẩu|IDIOM|hét giá trên trời, đòi hỏi quá đáng|談薪水的時候別獅子大開口，要參考市場行情。|Khi đàm phán lương đừng đòi quá cao, phải tham khảo mặt bằng thị trường.
+一路走來|yílù zǒulái|nhất lộ tẩu lai|IDIOM|suốt chặng đường đã qua|一路走來，我最感謝的是一直支持我的主管。|Suốt chặng đường đã qua, người tôi biết ơn nhất là trưởng phòng luôn ủng hộ tôi.
+神祕兮兮|shénmì xīxī|thần bí hề hề|IDIOM|ra vẻ bí mật, úp úp mở mở|他最近神祕兮兮的，是不是在找新工作？|Dạo này anh ấy úp úp mở mở, có phải đang tìm việc mới không?
+賠了夫人又折兵|péi le fūrén yòu zhé bīng|bồi liễu phu nhân hựu chiết binh|IDIOM|mất cả chì lẫn chài|為了跳槽辭職，結果新工作沒了，真是賠了夫人又折兵。|Vì nhảy việc mà nghỉ, kết quả việc mới cũng mất, đúng là mất cả chì lẫn chài.
+#GRAMMAR
+比起……，（B）可是只有A的X分之Y喔！|"So với… thì (B) chỉ bằng Y/X của A thôi đấy!" — so sánh bằng phân số để nhấn mạnh chênh lệch lớn.|比起現在的公司，那家出版社的薪水可是只有這裡的三分之二喔！|So với công ty hiện tại, lương nhà xuất bản kia chỉ bằng hai phần ba ở đây thôi đấy!|比起去年，今年的廣告收入可是只有去年的一半喔！|So với năm ngoái, doanh thu quảng cáo năm nay chỉ bằng một nửa thôi đấy!
+……只不過是……，可別為了……，不值得呀！|"…chẳng qua chỉ là…, đừng vì… mà…, không đáng đâu!" — khuyên can, giảm nhẹ tầm quan trọng.|這只不過是一次升遷機會，可別為了它跟同事鬧翻，不值得呀！|Đây chẳng qua chỉ là một cơ hội thăng chức, đừng vì nó mà trở mặt với đồng nghiệp, không đáng đâu!|那只不過是多一點獎金，可別為了錢天天加班到半夜，不值得呀！|Đó chỉ là thêm chút tiền thưởng, đừng vì tiền mà ngày nào cũng tăng ca tới nửa đêm, không đáng!
+眼看……，而……卻……|"Mắt thấy (sắp)…, mà… lại…" — tình hình đang diễn ra trước mắt, trái ngược với một việc khác.|眼看截稿日期就要到了，而作者卻還沒交稿。|Mắt thấy sắp đến hạn chót, mà tác giả lại vẫn chưa nộp bản thảo.|眼看同期進來的同事都升了職，而我卻還在原地。|Thấy đồng nghiệp vào cùng đợt đều đã thăng chức, còn tôi thì vẫn giậm chân tại chỗ.
+由於……，……只好……|"Do…, (nên) … đành phải…" — nêu nguyên nhân khách quan dẫn đến lựa chọn bất đắc dĩ.|由於預算不夠，出版社只好延後新書的出版日期。|Do ngân sách không đủ, nhà xuất bản đành phải lùi ngày phát hành sách mới.|由於人手不足，我們只好請外包幫忙。|Vì thiếu người, chúng tôi đành phải thuê bên ngoài hỗ trợ.
+首先……，接下來……，主要目標是……|"Trước tiên…, tiếp theo…, mục tiêu chính là…" — trình bày kế hoạch công việc có thứ tự.|首先我會熟悉編輯流程，接下來負責兩本新書，主要目標是提高網路銷量。|Trước tiên tôi sẽ làm quen quy trình biên tập, tiếp theo phụ trách hai đầu sách mới, mục tiêu chính là tăng doanh số trên mạng.|首先要了解讀者的需求，接下來調整內容，主要目標是吸引年輕讀者。|Trước tiên phải hiểu nhu cầu độc giả, tiếp theo điều chỉnh nội dung, mục tiêu chính là thu hút độc giả trẻ.

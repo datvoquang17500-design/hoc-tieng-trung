@@ -1,0 +1,22 @@
+// 各行各業說中文 1 · 第9課 老闆與老闆娘 — nguồn: slide 目錄 trên Drive (語言點 + 熟語).
+// Bảng từ vựng và bài hội thoại của bài chưa có trên Drive → sẽ bổ sung khi có tài liệu.
+// Giải thích tiếng Việt và câu ví dụ do Claude soạn.
+#UNIT GH-09|各行各業 L9 · 老闆與老闆娘（補教業）
+#VOCAB
+勾心鬥角|gōuxīn-dòujiǎo|câu tâm đấu giác|IDIOM|đấu đá, tranh giành ngầm với nhau|我不喜歡大公司裡勾心鬥角的氣氛。|Tôi không thích bầu không khí đấu đá ngầm trong công ty lớn.
+斤斤計較|jīnjīn-jìjiào|cân cân kế giảo|IDIOM|tính toán chi li, so đo từng chút|老闆娘對每一筆小錢都斤斤計較。|Bà chủ so đo từng đồng nhỏ một.
+說來話長|shuōlái-huàcháng|thuyết lai thoại trường|IDIOM|chuyện dài lắm, kể ra thì dài|我為什麼離開那家補習班？唉，說來話長。|Tại sao tôi rời trung tâm luyện thi đó à? Haiz, chuyện dài lắm.
+井水不犯河水|jǐngshuǐ bú fàn héshuǐ|tỉnh thủy bất phạm hà thủy|IDIOM|nước giếng không phạm nước sông, ai lo việc nấy|兩個部門井水不犯河水，很少合作。|Hai phòng ban nước sông không phạm nước giếng, rất ít hợp tác.
+惱羞成怒|nǎoxiū-chéngnù|não tu thành nộ|IDIOM|xấu hổ quá hóa giận|他被指出錯誤以後惱羞成怒，在會議上大聲罵人。|Bị chỉ ra lỗi sai, anh ta xấu hổ hóa giận, quát tháo ngay trong cuộc họp.
+一言不合|yìyán bùhé|nhất ngôn bất hợp|IDIOM|chỉ một câu không hợp ý (là cãi nhau)|他們兩個一言不合就吵起來了。|Hai người họ chỉ một câu không hợp là cãi nhau ngay.
+公私分明|gōngsī-fēnmíng|công tư phân minh|IDIOM|việc công việc tư rạch ròi|雖然是家族企業，老闆還是很公私分明。|Tuy là doanh nghiệp gia đình nhưng ông chủ vẫn rất rạch ròi công tư.
+無所適從|wúsuǒ-shìcóng|vô sở thích tòng|IDIOM|không biết nghe theo ai, lúng túng không biết làm sao|老闆和老闆娘的指示不一樣，員工都無所適從。|Chỉ thị của ông chủ và bà chủ khác nhau, nhân viên không biết nghe theo ai.
+白手起家|báishǒu-qǐjiā|bạch thủ khởi gia|IDIOM|tay trắng làm nên sự nghiệp|我們老闆是白手起家的，從一間小教室做到十家分校。|Ông chủ chúng tôi tay trắng làm nên, từ một phòng học nhỏ phát triển thành mười chi nhánh.
+朝令夕改|zhāolìng-xìgǎi|triêu lệnh tịch cải|IDIOM|sáng ra lệnh chiều đã đổi, chính sách thay đổi liên tục|公司的政策朝令夕改，大家都不知道該怎麼做。|Chính sách công ty sáng nắng chiều mưa, mọi người không biết nên làm thế nào.
+#GRAMMAR
+……也好不到哪兒去|"(Cái kia) cũng chẳng tốt hơn bao nhiêu" — so sánh hai thứ đều không tốt, cái được nói tới không khá hơn.|這家補習班薪水低，那家也好不到哪兒去。|Trung tâm này lương thấp, trung tâm kia cũng chẳng khá hơn là bao.|老闆脾氣不好，老闆娘也好不到哪兒去。|Ông chủ tính khí không tốt, bà chủ cũng chẳng hơn gì.
+這樣一來，……應該……吧！|"Như vậy thì…, chắc là sẽ… thôi!" — nêu kết quả dự đoán của một cách làm.|我們把工作分清楚，這樣一來，應該就不會再吵架了吧！|Chúng ta chia việc rõ ràng, như vậy chắc sẽ không cãi nhau nữa đâu!|每週開一次會，這樣一來，大家應該比較知道老闆的想法吧！|Mỗi tuần họp một lần, như vậy chắc mọi người sẽ hiểu ý sếp hơn!
+算了吧！……就是這樣|"Thôi bỏ đi! … là như vậy đó" — khuyên người kia chấp nhận vì tình hình/tính cách vốn là thế.|算了吧！老闆娘就是這樣，你別放在心上。|Thôi bỏ đi! Bà chủ tính vốn thế, cậu đừng để bụng.|算了吧！家族企業就是這樣，重要的事都是自己人決定。|Thôi kệ đi! Doanh nghiệp gia đình là vậy, việc quan trọng đều do người nhà quyết định.
+表面上……，暗地裡……|"Bề ngoài thì…, (nhưng) sau lưng thì…" — đối lập giữa vẻ ngoài và việc làm lén lút.|他表面上很支持新主管，暗地裡卻一直說她的壞話。|Bề ngoài anh ta rất ủng hộ trưởng phòng mới, sau lưng lại toàn nói xấu cô ấy.|兩家公司表面上是對手，暗地裡早就開始合作了。|Bề ngoài hai công ty là đối thủ, nhưng ngấm ngầm đã hợp tác từ lâu.
+A說了算|"A là người quyết định / A nói mới tính" — chỉ người có quyền quyết định thật sự.|在這家公司，大事小事都是老闆娘說了算。|Ở công ty này chuyện lớn chuyện nhỏ đều do bà chủ quyết.|這個案子預算多少，還是要經理說了算。|Dự án này ngân sách bao nhiêu vẫn phải do giám đốc quyết định.
+和……相比，……比較……|"So với…, … thì tương đối…" — so sánh hai đối tượng, phân tích ưu nhược điểm.|和大公司相比，家族企業的升遷機會比較少。|So với công ty lớn, doanh nghiệp gia đình ít cơ hội thăng tiến hơn.|和去年相比，今年的學生人數比較穩定。|So với năm ngoái, số học sinh năm nay ổn định hơn.

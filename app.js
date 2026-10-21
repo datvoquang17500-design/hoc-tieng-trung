@@ -29,7 +29,7 @@ function readJSON(key) {
 function loadStore() {
   // known: { hanzi: ngày thuộc }   srs: { hanzi: { lv, due } }   completed: { mã bài: ngày hoàn thành }
   // wordAt / unitAt: thời điểm (ms) thay đổi gần nhất của từng từ / từng bài — dùng để gộp khi đồng bộ nhiều máy.
-  const base = { known: {}, srs: {}, srsV: 2, completed: {}, wrong: {}, quizzes: [], convoBest: {}, daily: {}, goalMet: {}, wordAt: {}, unitAt: {}, backup: {}, prefs: {} };
+  const base = { known: {}, srs: {}, srsV: 2, completed: {}, wrong: {}, quizzes: [], convoBest: {}, daily: {}, goalMet: {}, gram: {}, wordAt: {}, unitAt: {}, backup: {}, prefs: {} };
   const saved = readJSON(STORE_KEY);
   if (saved) return { ...base, srsV: 1, ...saved, prefs: { ...base.prefs, ...(saved.prefs || {}) } };
   // Chuyển tiến độ từ bản app cũ (nếu mở trên cùng trình duyệt)
@@ -252,7 +252,7 @@ const SNAP_KEY = 'zhStudy.snapshots';
 const MAX_SNAPS = 10;
 const BACKUP_REMIND_DAYS = 7;
 const DAILY = 'Tự động hằng ngày';
-const progressData = () => ({ known: store.known, srs: store.srs, srsV: 2, completed: store.completed, wrong: store.wrong, quizzes: store.quizzes, convoBest: store.convoBest, daily: store.daily, goalMet: store.goalMet });
+const progressData = () => ({ known: store.known, srs: store.srs, srsV: 2, completed: store.completed, wrong: store.wrong, quizzes: store.quizzes, convoBest: store.convoBest, daily: store.daily, goalMet: store.goalMet, gram: store.gram });
 function progressSig() {
   const s = JSON.stringify([store.known, store.srs, store.completed]);
   let h = 0;
@@ -274,6 +274,7 @@ function applyData(d) {
   store.convoBest = { ...(d.convoBest || {}) };
   store.daily = { ...(d.daily || {}) };
   store.goalMet = { ...(d.goalMet || {}) };
+  store.gram = { ...(d.gram || {}) };
   Object.entries(store.known).forEach(([h, dt]) => {
     if (!store.srs[h]) store.srs[h] = { lv: 0, due: addDays(DATE_RE.test(dt) ? dt : todayKey(), INTERVALS[0]) };
   });
@@ -470,7 +471,7 @@ function scheduleSync() {
 
 function mergeProgress(L, R) {
   L = migrateSrs(L); R = migrateSrs(R);
-  const out = { known: {}, srs: {}, srsV: 2, completed: {}, wordAt: {}, unitAt: {}, wrong: {}, convoBest: {}, daily: {}, goalMet: {} };
+  const out = { known: {}, srs: {}, srsV: 2, completed: {}, wordAt: {}, unitAt: {}, wrong: {}, convoBest: {}, daily: {}, goalMet: {}, gram: {} };
   const LW = L.wordAt || {}, RW = R.wordAt || {};
   const words = new Set([...Object.keys(L.known || {}), ...Object.keys(R.known || {}), ...Object.keys(LW), ...Object.keys(RW)]);
   for (const h of words) {
@@ -503,6 +504,8 @@ function mergeProgress(L, R) {
   for (const src of [L.convoBest || {}, R.convoBest || {}]) for (const [t, p] of Object.entries(src)) out.convoBest[t] = Math.max(out.convoBest[t] || 0, p);
   for (const src of [L.daily || {}, R.daily || {}]) for (const [t, n] of Object.entries(src)) out.daily[t] = Math.max(out.daily[t] || 0, n);
   for (const src of [L.goalMet || {}, R.goalMet || {}]) for (const t of Object.keys(src)) out.goalMet[t] = true;
+  // ngữ pháp: mỗi mẫu lấy bản ôn gần nhất
+  for (const src of [L.gram || {}, R.gram || {}]) for (const [k, g] of Object.entries(src)) if (!out.gram[k] || (g.at || 0) > (out.gram[k].at || 0)) out.gram[k] = g;
   const qmap = new Map();
   for (const q of [...(L.quizzes || []), ...(R.quizzes || [])]) qmap.set(q.at ? 'a' + q.at : JSON.stringify([q.date, q.topic, q.total, q.correct]), q);
   out.quizzes = [...qmap.values()].sort((a, b) => (a.at || Date.parse(a.date) || 0) - (b.at || Date.parse(b.date) || 0)).slice(-200);
@@ -553,7 +556,7 @@ async function writeGist() {
 }
 function applyMerged(m) {
   if (Object.keys(store.known).some(h => !m.known[h])) takeSnapshot('Trước khi đồng bộ'); // sắp mất từ → giữ một bản để quay lại
-  Object.assign(store, { known: m.known, srs: m.srs, srsV: 2, completed: m.completed, wrong: m.wrong, quizzes: m.quizzes, convoBest: m.convoBest, daily: m.daily, goalMet: m.goalMet, wordAt: m.wordAt, unitAt: m.unitAt });
+  Object.assign(store, { known: m.known, srs: m.srs, srsV: 2, completed: m.completed, wrong: m.wrong, quizzes: m.quizzes, convoBest: m.convoBest, daily: m.daily, goalMet: m.goalMet, gram: m.gram || {}, wordAt: m.wordAt, unitAt: m.unitAt });
   save();
 }
 // Trả về số từ đã thuộc tăng/giảm do nhận thay đổi từ máy khác (null nếu không đổi gì trên máy này).
@@ -871,7 +874,7 @@ function savePrefs() {
 // RENDER ROOT
 // ================================================================
 function render() {
-  const tab = TABS.find(t => t.key === state.tab) || TABS[0];
+  const tab = state.tab === 'gstudy' ? { key: 'gstudy', label: 'Học ngữ pháp' } : TABS.find(t => t.key === state.tab) || TABS[0];
   if (overdueCount() === 0 && markGoal()) save(); // không có từ nào đến hạn → hôm nay vẫn giữ chuỗi
   const due = dueCount();
   $('#title').textContent = tab.label;
@@ -879,7 +882,7 @@ function render() {
     `<button class="tab ${t.key === state.tab ? 'active' : ''}" data-act="tab" data-tab="${t.key}">
       <span class="tab-icon">${icon(t.icon)}${t.key === 'cards' && due ? `<b class="tab-badge">${due > 99 ? '99+' : due}</b>` : ''}</span>
       <span>${t.label}</span></button>`).join('')}</div>`;
-  const views = { home: viewHome, cards: viewCards, chat: viewChat, grammar: viewGrammar, quiz: viewQuiz };
+  const views = { home: viewHome, cards: viewCards, chat: viewChat, grammar: viewGrammar, quiz: viewQuiz, gstudy: viewGStudy };
   $('#main').innerHTML = views[tab.key]();
 }
 function go(tab) {
@@ -930,6 +933,18 @@ function viewHome() {
     </div>
     ${due ? `<button class="btn btn-primary" data-act="review-now">Ôn ngay</button>` : met && over ? `<button class="btn" data-act="review-extra">Ôn thêm</button>` : ''}
   </div>
+  ${(() => {
+    const gDue = gramDue().length, gNew = gramNew().length, gDone = gramLearned();
+    return `<div class="card review-card gram-card">
+    <span class="review-icon">${icon('book', 22)}</span>
+    <div class="grow">
+      <b>Học ngữ pháp</b>
+      <div class="bar" style="margin:6px 0 4px"><span style="width:${pct(gDone, GRAMMAR.length)}%"></span></div>
+      <div class="small muted">Đã học ${gDone}/${GRAMMAR.length} mẫu${gDue ? ` · <b style="color:var(--accent)">${gDue} mẫu cần ôn</b>` : ''}${gNew ? '' : ' · đã học hết mẫu mới'}</div>
+    </div>
+    ${gDue || gNew ? `<button class="btn btn-primary" data-act="gs-start">${gDone ? 'Học tiếp' : 'Bắt đầu'}</button>` : ''}
+  </div>`;
+  })()}
   ${bs.remind ? `<div class="card backup-card">
     <span class="review-icon">${icon('save', 22)}</span>
     <div class="grow"><b>${bs.lastAt ? `${bs.days} ngày chưa sao lưu` : 'Chưa sao lưu tiến độ lần nào'}</b><div class="small muted">Lưu ra file để không mất tiến độ khi xoá app hay đổi máy</div></div>
@@ -1322,6 +1337,108 @@ function viewGrammar() {
         </div>
       </div>`).join('') : '<div class="card empty">Không tìm thấy mẫu câu.</div>'}
   </div>`;
+}
+
+// ================================================================
+// HỌC NGỮ PHÁP (mở từ Tổng quan): mỗi lượt các mẫu đến hạn ôn + tối đa 5 mẫu mới.
+// Mẫu mới: đọc giải thích + ví dụ → làm 1 câu kiểm tra. Mẫu ôn: kiểm tra trước, xem lại giải thích sau.
+// Đúng → lên mốc ôn kế tiếp (cùng mốc với từ vựng); sai → về mốc 1 ngày và được hỏi lại cuối lượt.
+// Lưu ở store.gram[mẫu câu] = { lv, due, at } → sao lưu + đồng bộ cùng tiến độ.
+// ================================================================
+const G_NEW = 5, G_MAX_REVIEW = 15;
+const gramState = g => store.gram[g.structure];
+const gramDue = () => GRAMMAR.filter(g => { const r = gramState(g); return r && r.due && r.due <= todayKey(); });
+const gramNew = () => GRAMMAR.filter(g => !gramState(g));
+const gramLearned = () => GRAMMAR.filter(g => gramState(g)).length;
+function gramReview(g, ok) {
+  const r = gramState(g) || { lv: -1 };
+  const lv = ok ? Math.min(r.lv + 1, MASTERED) : 0;
+  store.gram[g.structure] = lv >= MASTERED ? { lv: MASTERED, due: null, at: Date.now() } : { lv, due: addDays(todayKey(), INTERVALS[lv]), at: Date.now() };
+  save();
+}
+// Câu kiểm tra: chọn câu ví dụ đúng mẫu, hoặc nối mẫu ↔ cách dùng.
+function gramCheckQ(g) {
+  const exs = (g.examples || []).filter(e => e.zh);
+  if (exs.length && Math.random() < 0.6) {
+    const e = exs[Math.floor(Math.random() * exs.length)];
+    const pool = shuffle(GRAMMAR.filter(x => x !== g && x.lesson === g.lesson && (x.examples || []).length));
+    const more = shuffle(GRAMMAR.filter(x => x !== g && x.lesson !== g.lesson && (x.examples || []).length));
+    const d = pool.concat(more).slice(0, 3).map(x => x.examples[Math.floor(Math.random() * x.examples.length)].zh);
+    return { kind: 'Câu nào dùng mẫu này?', promptHtml: `<span class="han" style="font-size:22px">${esc(g.structure)}</span>`, ...mcq(e.zh, d), hanOpts: 'text' };
+  }
+  return makeGrammarQ(g);
+}
+function startGStudy() {
+  const due = shuffle(gramDue()).slice(0, G_MAX_REVIEW).map(g => ({ g, isNew: false }));
+  const fresh = gramNew().slice(0, G_NEW).map(g => ({ g, isNew: true }));
+  const queue = [...fresh, ...due];
+  if (!queue.length) { toast('Bạn đã học hết các mẫu ngữ pháp 🎉'); return; }
+  state.gs = { queue, idx: 0, step: null, q: null, picked: null, ok: 0, bad: 0, again: new Set() };
+  gsEnter();
+  go('gstudy');
+}
+function gsEnter() {
+  const gs = state.gs, it = gs.queue[gs.idx];
+  if (!it) return;
+  gs.step = it.isNew && !it.retry ? 'learn' : 'check';
+  gs.q = gramCheckQ(it.g);
+  gs.picked = null;
+}
+function gsPick(i) {
+  const gs = state.gs, it = gs.queue[gs.idx];
+  if (!it || gs.picked != null) return;
+  gs.picked = i;
+  const ok = i === gs.q.correct;
+  if (!it.retry) gramReview(it.g, ok); // hỏi lại trong lượt chỉ để luyện: mẫu đã sai vẫn ôn lại vào ngày mai
+  if (ok) gs.ok++; else {
+    gs.bad++;
+    if (!gs.again.has(it.g.structure)) { gs.again.add(it.g.structure); gs.queue.push({ g: it.g, isNew: false, retry: true }); }
+  }
+  render();
+}
+function gsNext() { state.gs.idx++; gsEnter(); render(); window.scrollTo(0, 0); }
+function gramCard(g, open = true) {
+  const unit = UNITS.find(u => u.key === g.lesson);
+  return `<div class="card">
+    ${unit ? `<span class="tag" style="margin-bottom:6px">${esc(unit.title)}</span>` : ''}
+    <div class="han" style="font-size:22px;font-weight:600;line-height:1.5">${esc(g.structure)}</div>
+    ${open ? `<p style="margin:8px 0 6px">${esc(g.usage)}</p>
+    ${(g.examples || []).map(e => `
+      <div class="g-ex"><div class="grow"><div class="zh han">${tokenize(e.zh)}</div>${e.en ? `<div class="vi">${esc(e.en)}</div>` : ''}</div>${speakBtn(e.zh)}</div>`).join('')}` : ''}
+  </div>`;
+}
+function viewGStudy() {
+  const gs = state.gs;
+  if (!gs) return `<div class="card empty"><p>Chưa có lượt học nào.</p><button class="btn btn-primary" data-act="gs-start">Bắt đầu học ngữ pháp</button></div>`;
+  const total = gs.queue.length;
+  const head = `<div class="row between" style="margin-bottom:10px"><button class="link-btn" data-act="gs-quit">← Tổng quan</button><span class="small muted">${Math.min(gs.idx + 1, total)}/${total}</span></div>
+    <div class="bar" style="margin-bottom:14px"><span style="width:${pct(gs.idx, total)}%"></span></div>`;
+  if (gs.idx >= total) {
+    const due = gramDue().length;
+    return `${head}<div class="card" style="text-align:center">
+      <div style="font-size:40px">📘</div>
+      <div class="score-big">${gs.ok}/${gs.ok + gs.bad}</div>
+      <p class="muted">câu kiểm tra làm đúng ngay lần đầu hoặc khi làm lại</p>
+      <p class="small muted">Đã học ${gramLearned()}/${GRAMMAR.length} mẫu · ${due ? `còn ${due} mẫu cần ôn` : 'không còn mẫu cần ôn hôm nay'}</p>
+      <div class="row" style="justify-content:center;gap:10px;margin-top:10px">
+        ${gramNew().length || due ? '<button class="btn btn-primary" data-act="gs-start">Học tiếp</button>' : ''}
+        <button class="btn" data-act="gs-quit">Về Tổng quan</button>
+      </div></div>`;
+  }
+  const it = gs.queue[gs.idx], g = it.g;
+  if (gs.step === 'learn') {
+    return `${head}<div class="small muted" style="margin:0 2px 8px">${it.isNew ? 'Mẫu mới · đọc kỹ giải thích và ví dụ' : 'Ôn lại'}</div>
+      ${gramCard(g)}
+      <button class="btn btn-primary btn-block" style="margin-top:14px" data-act="gs-check">Làm câu kiểm tra</button>`;
+  }
+  const q = gs.q, answered = gs.picked != null, ok = gs.picked === q.correct;
+  return `${head}<div class="card">
+      <div class="small muted" style="margin-bottom:6px">${it.retry ? 'Làm lại · ' : it.isNew ? '' : 'Ôn tập · '}${esc(q.kind)}</div>
+      <div style="margin-bottom:14px">${q.promptHtml}</div>
+      ${optionsHtml(q, gs.picked, 'gs-pick', q.hanOpts)}
+      ${answered ? `<div class="feedback"><b style="color:${ok ? 'var(--ok)' : 'var(--bad)'}">${ok ? 'Chính xác!' : 'Chưa đúng — mẫu này sẽ được hỏi lại cuối lượt.'}</b></div>` : ''}
+    </div>
+    ${answered ? `${gramCard(g)}<button class="btn btn-primary btn-block" style="margin-top:14px" data-act="gs-next">${gs.idx + 1 < total ? 'Tiếp' : 'Xem kết quả'}</button>` : ''}`;
 }
 
 // ================================================================
@@ -1864,6 +1981,11 @@ document.addEventListener('click', e => {
     case 'review-now': state.unit = 'all'; state.filter = 'due'; state.view = 'card'; buildDeck(false); go('cards'); break;
     case 'review-extra': reviewExtra = true; state.unit = 'all'; state.filter = 'due'; state.view = 'card'; buildDeck(false); go('cards'); break;
     case 'goal': store.prefs.goal = +d.g; markGoal(); save(); render(); break;
+    case 'gs-start': startGStudy(); break;
+    case 'gs-check': state.gs.step = 'check'; render(); window.scrollTo(0, 0); break;
+    case 'gs-pick': gsPick(+d.i); break;
+    case 'gs-next': gsNext(); break;
+    case 'gs-quit': state.gs = null; go('home'); break;
     case 'open-unit': state.unit = +d.unit; state.filter = 'todo'; buildDeck(false); go('cards'); break;
     case 'reset-unit': resetUnit(+d.unit); break;
     case 'filter': state.filter = d.f; buildDeck(false); savePrefs(); render(); break;
@@ -1999,6 +2121,7 @@ window.addEventListener('online', () => { if (syncOn()) syncNow(); });
 // ================================================================
 // BOOT
 // ================================================================
+if (state.tab === 'gstudy') state.tab = 'home'; // lượt học ngữ pháp không lưu qua lần mở app
 if (state.unit !== 'all' && !UNITS[state.unit]) state.unit = 0;
 if (!CONVERSATIONS[state.convo]) state.convo = 0;
 if (state.quizTopic !== 'grammar' && !QUIZ_TOPICS().some(t => t.key === state.quizTopic)) state.quizTopic = 'all';
