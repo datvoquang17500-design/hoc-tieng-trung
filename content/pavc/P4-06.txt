@@ -1,5 +1,5 @@
-#UNIT P4-06|PAVC4 · L6 小心壞習慣
-#CONVO PAVC4 · L6 小心壞習慣
+#UNIT P4-06|實用視聽華語4 · 第六課 小心壞習慣
+#CONVO 實用視聽華語4 · 第六課 小心壞習慣
 |（宿舍裡）|(Trong ký túc xá)
 偉立|欸，幫個忙，把你的臭襪子拿走，好不好？|Này, giúp cái, mang đôi tất thối của cậu đi được không?
 建國|對不起，我起不來。麻煩你先倒杯水給我。我喉嚨好乾，頭也痛得受不了。|Xin lỗi, tớ không dậy nổi. Phiền cậu rót giúp tớ cốc nước trước. Họng tớ khô quá, đầu cũng đau không chịu nổi.

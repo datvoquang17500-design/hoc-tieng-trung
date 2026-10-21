@@ -1,6 +1,6 @@
 // 各行各業說中文 1 · 第7課 旅遊補貼 — nguồn: Google Docs "L7 旅遊補貼 Travel Allowance" trên Drive.
 // Từ vựng, nghĩa tiếng Việt, câu ví dụ, mẫu ngữ pháp theo tài liệu; âm Hán Việt và bản dịch câu ví dụ do Claude bổ sung.
-#UNIT GH-07|各行各業 L7 · 旅遊補貼（金融及保險業）
+#UNIT GH-07|各行各業說中文1 · 第七課 旅遊補助
 #VOCAB
 員工旅遊|yuángōng lǚyóu|viên công lữ du|Ph|du lịch công ty (= 員旅)|我們公司每年都會舉辦一次國內外的員工旅遊。|Công ty chúng tôi mỗi năm đều tổ chức một chuyến du lịch công ty trong hoặc ngoài nước.
 福委|fúwěi|phúc ủy|N|ủy viên ban phúc lợi (= 福利委員)|他今年被推選為福委，負責籌辦年底的尾牙。|Năm nay anh ấy được bầu làm ủy viên phúc lợi, phụ trách tổ chức tiệc tất niên.

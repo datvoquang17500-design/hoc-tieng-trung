@@ -1,5 +1,5 @@
-#UNIT P4-08|PAVC4 · L8 女人的地位不同了
-#CONVO PAVC4 · L8 女人的地位不同了
+#UNIT P4-08|實用視聽華語4 · 第八課 女人的地位不同了
+#CONVO 實用視聽華語4 · 第八課 女人的地位不同了
 |（張教授家客廳）|(Phòng khách nhà giáo sư Trương)
 教授|大家隨便坐，別客氣。|Mọi người cứ ngồi tự nhiên, đừng khách sáo.
 偉立|張老師，胡老師說要來您這兒聊天，我就跟來了。|Thầy Trương, cô Hồ nói đến chỗ thầy nói chuyện nên em đi theo.

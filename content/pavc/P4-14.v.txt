@@ -1,0 +1,84 @@
+#VOCAB
+段|duàn|đoạn|M|đoạn, khúc, quãng (thời gian)|跟女朋友剛分手當然會很難過，可是過段時間，你就會忘了。|Vừa chia tay bạn gái đương nhiên sẽ buồn, nhưng qua một thời gian bạn sẽ quên.
+講台|jiǎngtái|giảng đài|N|bục giảng, bục diễn thuyết|（教室講台上）|(Trên bục giảng lớp học)
+西裝|xīzhuāng|tây trang|N|com-lê, âu phục|老闆規定：上班的時候，男職員要穿西裝，女職員要穿套裝。|Sếp quy định: giờ làm việc nhân viên nam phải mặc com-lê, nhân viên nữ mặc bộ vest.
+套裝|tàozhuāng|sáo trang|N|bộ vest nữ, bộ đồ công sở nữ||
+洋裝|yángzhuāng|dương trang|N|váy liền (kiểu Tây)||
+領帶|lǐngdài|lĩnh đái|N|cà vạt|小趙今天打了一條紅色的領帶，配上黑西裝，看起來精神特別好。|Hôm nay Tiểu Triệu thắt cà vạt đỏ, phối com-lê đen, trông đặc biệt tươi tỉnh.
+領結|lǐngjié|lĩnh kết|N|nơ cổ áo|穿西裝打領結，看起來比打領帶還正式。|Mặc com-lê thắt nơ trông còn trang trọng hơn thắt cà vạt.
+旗袍|qípáo|kỳ bào|N|sườn xám|現代年輕女孩不喜歡穿旗袍，因為行動起來不方便。|Các cô gái trẻ ngày nay không thích mặc sườn xám vì đi lại không tiện.
+彎腰|wān//yāo|loan yêu|VO|khom lưng, cúi người|李老師彎腰把地上的球撿起來，丟給運動場上的小孩子。|Thầy Lý cúi xuống nhặt quả bóng dưới đất, ném cho bọn trẻ trên sân.
+彎|wān|loan|V/SV|uốn cong; cong||
+腰|yāo|yêu|N|eo, thắt lưng|李愛美的身材很好，腰很細，穿起旗袍來特別好看。|Lý Ái Mỹ dáng đẹp, eo thon, mặc sườn xám đặc biệt đẹp.
+鞠躬|jū//gōng|cúc cung|VO|cúi chào|老闆說小高做事又快又好，小高就對著老闆鞠了一個躬，謝謝老闆的誇獎。|Sếp khen Tiểu Cao làm việc nhanh mà tốt, Tiểu Cao liền cúi chào cảm ơn lời khen của sếp.
+女士|nǚshì|nữ sĩ|N|quý bà, quý cô|那位穿黑色套裝的女士是你母親嗎？|Quý bà mặc bộ vest đen kia là mẹ bạn à?
+人士|rénshì|nhân sĩ|N|nhân sĩ, người (thuộc giới nào đó)|有一位文化界的人士昨天開記者會，批評政府給文化團體的經費補助太少。|Hôm qua một nhân sĩ giới văn hóa họp báo, phê bình chính phủ trợ cấp kinh phí cho các đoàn thể văn hóa quá ít.
+親愛的|qīn'ài de|thân ái đích|IE/AT|thân yêu, anh/em yêu|親愛的爸爸：我很想你，你好嗎？|Bố thân yêu: con rất nhớ bố, bố có khỏe không?
+擁抱|yōngbào|ủng bão|V|ôm|老張跟媽媽好幾年沒見了，一見面就高興得擁抱在一起。|Lão Trương mấy năm không gặp mẹ, vừa gặp đã vui mừng ôm chầm lấy nhau.
+動手動腳|dòngshǒu dòngjiǎo|động thủ động cước|IE|sàm sỡ, động tay động chân|陳老闆常對女職員動手動腳，不是摸摸她們的頭髮，就是拉拉她們的手。|Ông chủ Trần hay sàm sỡ nhân viên nữ, không sờ tóc thì cũng kéo tay họ.
+吃豆腐|chī//dòufu|cật đậu hủ|VO|sàm sỡ, giở trò với phụ nữ|你們才剛認識，你怎麼就吃起她的豆腐來了？|Các người mới quen, sao anh đã giở trò sàm sỡ cô ấy rồi?
+豆腐|dòufu|đậu hủ|N|đậu phụ|我認為有的西方人不愛吃豆腐，是因為他們不會用豆腐做菜。|Tôi cho rằng có người phương Tây không thích đậu phụ là vì họ không biết nấu món từ đậu phụ.
+公共場所|gōnggòng chǎngsuǒ|công cộng trường sở|N|nơi công cộng|舞廳、酒吧，這樣的公共場所不適合小孩子去。|Những nơi công cộng như vũ trường, quán bar không phù hợp cho trẻ em.
+摟|lǒu|lâu|V|ôm, quàng tay|我昨天看見小王摟著女朋友的腰，從電影院出來。|Hôm qua tôi thấy Tiểu Vương ôm eo bạn gái bước ra khỏi rạp chiếu phim.
+親|qīn|thân|V|hôn|法國人跟朋友見面就要親臉，這沒什麼，你別大驚小怪。|Người Pháp gặp bạn là hôn má, có gì đâu, bạn đừng ngạc nhiên.
+親嘴|qīn//zuǐ|thân chủy|VO|hôn môi|小林在校園裡跟女朋友親嘴，被我們看見了。|Tiểu Lâm hôn bạn gái trong sân trường, bị chúng tôi nhìn thấy.
+打耳光|dǎ//ěrguāng|đả nhĩ quang|VO|tát (vào mặt)|幸虧我剛才沒親你，要不然你要打我耳光了。|May mà nãy tôi không hôn bạn, không thì bạn tát tôi rồi.
+髮型|fǎxíng|phát hình|N|kiểu tóc|妳這個髮型真特別，一邊長一邊短，在哪一家美容院做的？|Kiểu tóc của bạn thật đặc biệt, một bên dài một bên ngắn, làm ở tiệm nào vậy?
+臉型|liǎnxíng|kiểm hình|N|khuôn mặt, dáng mặt|我的臉型太方了，剪短頭髮不合適。|Mặt tôi vuông quá, cắt tóc ngắn không hợp.
+血型|xiěxíng|huyết hình|N|nhóm máu|我們有一位重傷的病人需要輸血，你們哪一位的血型是B型？|Chúng tôi có một bệnh nhân bị thương nặng cần truyền máu, ai trong các bạn nhóm máu B?
+滿意|mǎnyì|mãn ý|SV|hài lòng|那個飯館不但菜好吃，服務也好，我們都很滿意。|Nhà hàng đó không chỉ món ngon mà phục vụ cũng tốt, chúng tôi đều rất hài lòng.
+滿足|mǎnzú|mãn túc|V/SV|thỏa mãn, đáp ứng; mãn nguyện||
+整齊|zhěngqí|chỉnh tề|SV|ngay ngắn, gọn gàng, đều|我們學校的啦啦隊動作真不整齊，該抬左腿的時候，卻有人抬右腿。|Đội cổ vũ trường tôi động tác thật không đều, lúc phải giơ chân trái lại có người giơ chân phải.
+整理|zhěnglǐ|chỉnh lý|V|sắp xếp, dọn dẹp|家裡這麼亂，客人馬上就來了，趕快整理整理吧！|Nhà bừa bộn thế này, khách sắp đến rồi, mau dọn dẹp đi!
+講究|jiǎngjiù|giảng cứu|SV/V|cầu kỳ, chú trọng|謝謝，其實我本來就很帥，只是平常對穿衣服不講究，看起來不修邊幅而已。|Cảm ơn, thật ra tôi vốn đẹp trai, chỉ là bình thường không chú trọng ăn mặc nên trông xuề xòa thôi.
+厚|hòu|hậu|SV|dày|這件夾克太薄了，冬天穿不夠暖和，有沒有厚一點的？|Áo khoác này mỏng quá, mùa đông mặc không đủ ấm, có cái nào dày hơn không?
+臉皮厚|liǎnpí hòu|kiểm bì hậu|IE|mặt dày|你的臉皮真厚，我不過隨便說說，你就這麼得意。|Bạn thật mặt dày, tôi chỉ nói đại thôi mà bạn đắc ý thế.
+謙虛|qiānxū|khiêm hư|SV|khiêm tốn|才不是謙虛！明明心裡高興得要命，還要假裝不在乎。|Đâu phải khiêm tốn! Rõ ràng trong lòng vui muốn chết, còn giả vờ không quan tâm.
+明明|míngmíng|minh minh|A|rõ ràng (là)|今天明明是禮拜三，你怎麼說是禮拜四呢？|Hôm nay rõ ràng là thứ Tư, sao bạn lại bảo là thứ Năm?
+在乎|zàihu|tại hồ|V|để ý, quan tâm, bận tâm|你這麼在乎她，我想你是愛上她了。|Bạn bận tâm đến cô ấy như vậy, tôi nghĩ bạn yêu cô ấy rồi.
+連A帶B|lián A dài B|liên A đái B|PT|cả A lẫn B|小錢騎摩托車騎得太快，結果轉彎的時候，連人帶車摔倒在人行道上。|Tiểu Tiền đi xe máy quá nhanh, kết quả lúc rẽ cả người lẫn xe ngã ra vỉa hè.
+一口氣|yì kǒu qì|nhất khẩu khí|A/Nu-M-N|một hơi, một mạch|哇！厲害，厲害！一口氣說這麼多。|Oa! Giỏi, giỏi thật! Nói một hơi được nhiều thế.
+好客|hàokè|hiếu khách|SV|hiếu khách|我們全家都很好客，所以家裡常常有客人來玩。|Cả nhà tôi đều rất hiếu khách nên nhà thường có khách đến chơi.
+好吃|hàochī|hiếu cật|SV|ham ăn|你真好吃，看到什麼都想吃。|Bạn thật ham ăn, thấy gì cũng muốn ăn.
+好學|hàoxué|hiếu học|SV|hiếu học, ham học|老王非常好學，年紀這麼大了，還去念研究所。|Lão Vương rất ham học, tuổi đã cao mà còn đi học cao học.
+好玩|hàowán|hiếu ngoạn|SV|ham chơi|我就是因為太好玩了，所以書沒念好。|Chính vì tôi quá ham chơi nên học hành không tốt.
+好賭|hàodǔ|hiếu đổ|SV|ham cờ bạc|十賭九輸，所以好賭的人一定存不了什麼錢。|Mười canh bạc chín canh thua, nên người ham cờ bạc chắc chắn không để dành được tiền.
+肚子|dùzi|đỗ tử|N|bụng|我中午吃的魚一定不新鮮，現在肚子好痛喔！|Cá tôi ăn trưa chắc chắn không tươi, giờ đau bụng quá!
+拉肚子|lā//dùzi|lạp đỗ tử|VO|tiêu chảy|這個飯館的菜太油，害我回家拉了兩次肚子。|Món ăn nhà hàng này nhiều dầu quá, làm tôi về nhà đi ngoài hai lần.
+浪費|làngfèi|lãng phí|V/SV|lãng phí|我倒覺得吃不完才浪費。|Tôi lại thấy ăn không hết mới là lãng phí.
+費|fèi|phí|V|tốn, hao tốn|我花了好大的精神，費了好多時間，才把她勸回家。|Tôi tốn bao công sức, mất bao thời gian mới khuyên được cô ấy về nhà.
+費油|fèi//yóu|phí du|SV/VO|tốn xăng|現在油價這麼高，大車太費油了，我要換一輛小的。|Giờ giá xăng cao thế, xe to tốn xăng quá, tôi muốn đổi chiếc nhỏ.
+費電|fèi//diàn|phí điện|SV/VO|tốn điện|最近我想換冷氣機，哪個牌子的比較不費電？|Gần đây tôi muốn đổi máy lạnh, hãng nào ít tốn điện hơn?
+費水|fèi//shuǐ|phí thủy|SV/VO|tốn nước|洗碗機太費水，講究環保的人都不鼓勵大家用。|Máy rửa bát tốn nước quá, người chú trọng bảo vệ môi trường đều không khuyến khích dùng.
+費力|fèi//lì|phí lực|SV/VO|tốn sức|這個山真高，我費了好大的力氣才爬上來。|Ngọn núi này cao thật, tôi tốn bao sức mới leo lên được.
+果汁|guǒzhī|quả trấp|N|nước ép trái cây|這種水果太硬，我奶奶牙不好，沒辦法吃，我媽就用果汁機打成果汁給她喝。|Loại quả này cứng quá, bà tôi răng yếu không ăn được, mẹ tôi bèn ép thành nước cho bà uống.
+乾杯|gān//bēi|can bôi|VO|cạn ly|你遲到了，要罰，你先乾了這杯再說。|Bạn đến muộn, phải phạt, cạn ly này trước rồi nói.
+根本|gēnběn|căn bản|A|hoàn toàn, căn bản (không)|你說你認識我，可是我根本沒見過你。|Bạn bảo bạn quen tôi, nhưng tôi hoàn toàn chưa gặp bạn bao giờ.
+不見得|bújiànde|bất kiến đắc|A|chưa chắc|醫生都很有愛心嗎？——不見得，有的醫生就只想賺錢。|Bác sĩ đều giàu lòng nhân ái à? — Chưa chắc, có bác sĩ chỉ muốn kiếm tiền.
+簡直|jiǎnzhí|giản trực|A|quả thực, đơn giản là|茶裡加了糖、牛奶，還能叫茶嗎？簡直可笑。|Trà mà cho đường, cho sữa thì còn gọi là trà được sao? Thật nực cười.
+可笑|kěxiào|khả tiếu|SV|nực cười, buồn cười|真是太可笑了！電腦公司的老闆居然弄不清楚電腦的價錢！|Thật quá nực cười! Ông chủ công ty máy tính lại không rõ giá máy tính!
+搖頭|yáo//tóu|dao đầu|VO|lắc đầu|我問他要不要喝咖啡，他搖搖頭說：「不要」。|Tôi hỏi anh ấy có uống cà phê không, anh ấy lắc đầu nói: "Không".
+點頭|diǎn//tóu|điểm đầu|VO|gật đầu||
+上當|shàng//dàng|thượng đáng|VO|mắc lừa|啊！我上當了。|A! Tôi mắc lừa rồi.
+打噴嚏|dǎ//pēntì|đả phún đế|VO|hắt xì|我剛剛一連打了四五個噴嚏，我的過敏又犯了。|Vừa rồi tôi hắt xì liền bốn năm cái, dị ứng lại tái phát.
+終於|zhōngyú|chung ư|A|cuối cùng|我們求了半天，老高終於答應幫忙了，結果卻越幫越忙。|Chúng tôi năn nỉ mãi, lão Cao cuối cùng đồng ý giúp, kết quả càng giúp càng rối.
+取笑|qǔxiào|thủ tiếu|V|chế giễu, trêu chọc|小林說話有南方口音，所以朋友們常常取笑他。|Tiểu Lâm nói giọng miền Nam nên bạn bè hay trêu cậu ấy.
+一時|yìshí|nhất thời|A|nhất thời, trong chốc lát|我記得見過這個人，可是一時想不起來他叫什麼名字。|Tôi nhớ đã gặp người này, nhưng nhất thời không nhớ ra tên.
+大人不記小人過|dàrén bú jì xiǎorén guò|đại nhân bất ký tiểu nhân quá|IE|người lớn không chấp kẻ nhỏ|李文德太年輕，也沒有經驗，不懂規矩。算了吧！大人不記小人過，您別生他的氣了。|Lý Văn Đức còn trẻ, chưa có kinh nghiệm, không biết phép tắc. Thôi bỏ qua! Người lớn không chấp kẻ nhỏ, ông đừng giận cậu ấy nữa.
+看在……的份上|kànzài…de fènshang|khán tại… đích phận thượng|PT|nể mặt…, vì…|大人不記小人過，看在我們是同學的份上，原諒你一次！|Người lớn không chấp kẻ nhỏ, nể tình chúng ta là bạn học, tha cho bạn một lần!
+懶得|lǎnde|lãn đắc|AV|lười (làm gì), chẳng buồn|好啦！我也懶得再罵你了。|Thôi được! Tôi cũng chẳng buồn mắng bạn nữa.
+懶|lǎn|lãn|SV|lười|小李真懶，從來不打掃房間，髒得受不了的時候就搬家。|Tiểu Lý lười thật, chưa bao giờ dọn phòng, bẩn quá không chịu nổi thì dọn nhà.
+打哈欠|dǎ//hāqian|đả cáp khiếm|VO|ngáp|孩子已經打了好幾個哈欠了，我們帶他去睡覺吧。|Bé đã ngáp mấy cái rồi, chúng ta đưa bé đi ngủ thôi.
+巧克力|qiǎokèlì|xảo khắc lực|N|sô-cô-la||
+三明治|sānmíngzhì|tam minh trị|N|bánh mì kẹp (sandwich)||
+沙拉|shālā|sa lạp|N|xa lát||
+白蘭地|báilándì|bạch lan địa|N|rượu brandy||
+#GRAMMAR
+明明|"Rõ ràng là": sau 明明 là một sự thật hiển nhiên; trước hoặc sau thường có một vế mâu thuẫn với sự thật đó.|才不是謙虛！明明心裡高興得要命，還要假裝不在乎。|Đâu phải khiêm tốn! Rõ ràng trong lòng vui muốn chết, còn giả vờ không quan tâm.|那邊明明還有一個停車位，他卻告訴我們都滿了，真可惡！|Bên kia rõ ràng còn một chỗ đỗ xe, anh ta lại bảo chúng tôi hết chỗ rồi, thật đáng ghét!
+連A帶B|"Cả A lẫn B": gộp hai đối tượng (hoặc hai hành động diễn ra cùng lúc) lại với nhau.|我們連大人帶小孩才七八個人，你媽媽卻準備了一隻雞、兩條魚、三盤肉……|Cả người lớn lẫn trẻ con chúng tôi chỉ bảy tám người, mẹ bạn lại chuẩn bị một con gà, hai con cá, ba đĩa thịt…|小錢騎摩托車騎得太快，結果轉彎的時候，連人帶車摔倒在人行道上。|Tiểu Tiền đi xe máy quá nhanh, lúc rẽ cả người lẫn xe ngã ra vỉa hè.
+一口氣|"Một hơi, một mạch": làm liền một lèo không nghỉ.|哇！厲害，厲害！一口氣說這麼多。|Oa! Giỏi thật! Nói một hơi được nhiều thế.|他一口氣跑了四百公尺才停下來。|Anh ấy chạy một mạch bốn trăm mét mới dừng lại.
+把A當做B|"Coi A là B, lấy A làm B" (thường là nhầm lẫn hoặc dùng sai mục đích).|聽說你們有人把白蘭地當做果汁，不停地乾杯。|Nghe nói bên các bạn có người coi brandy như nước ép, cạn ly liên tục.|我去替張教授打掃房間，結果他的學生把我當做小偷了。|Tôi đi dọn phòng giúp giáo sư Trương, kết quả sinh viên của ông ấy tưởng tôi là kẻ trộm.
+不見得|"Chưa chắc": phủ định nhẹ nhàng một nhận định, cho rằng điều đó không nhất định đúng.|我們不會喝酒，你們也不見得會喝茶啊！|Chúng tôi không biết uống rượu, các bạn cũng chưa chắc biết uống trà đâu!|你同事的錄音機跟你丟的一樣，不見得就是他偷了你的。|Máy ghi âm của đồng nghiệp giống cái bạn bị mất, chưa chắc là anh ta lấy của bạn.
+簡直|"Quả thực, đúng là": nói quá để nhấn mạnh mức độ, gần như đúng hoàn toàn.|茶裡加了糖、牛奶，還能叫茶嗎？簡直可笑。|Trà mà cho đường, cho sữa thì còn gọi là trà được sao? Thật nực cười.|我弟弟在公共場所大聲吵鬧，一點也不管別人，我簡直丟臉死了。|Em trai tôi làm ồn ở nơi công cộng, chẳng để ý ai, tôi quả thực xấu hổ chết đi được.
+終於|"Cuối cùng (cũng)": sau một thời gian dài hoặc nhiều khó khăn mới đạt được kết quả.|哈！我終於有機會取笑你了。|Ha! Cuối cùng tôi cũng có dịp trêu bạn.|警察查了好幾個月，終於查出來是誰偷了我的錄音機了。|Cảnh sát điều tra mấy tháng, cuối cùng cũng tìm ra ai trộm máy ghi âm của tôi.
+看在……的份上|"Nể mặt…, vì (tình nghĩa)…": vì một mối quan hệ hay lý do nào đó mà chấp nhận, tha thứ hoặc giúp đỡ.|大人不記小人過，看在我們是同學的份上，原諒你一次！|Người lớn không chấp kẻ nhỏ, nể tình chúng ta là bạn học, tha cho bạn một lần!|你室友雖然偷了你的錄音機，可是看在他是第一次偷東西的份上，原諒他吧！|Bạn cùng phòng tuy lấy máy ghi âm của bạn, nhưng nể tình là lần đầu, tha cho cậu ấy đi!

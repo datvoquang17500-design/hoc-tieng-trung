@@ -169,6 +169,28 @@ function srsText(h) {
 })();
 
 // ================================================================
+// SẮP XẾP THEO SÁCH: 各行各業說中文1 → 實用視聽華語4 → 實用視聽華語5 → tài liệu khác; trong mỗi cuốn theo số bài.
+// (Mã bài giữ nguyên nên tiến độ không đổi khi đổi tên / đổi thứ tự.)
+// ================================================================
+const BOOKS = ['各行各業說中文1', '實用視聽華語4', '實用視聽華語5'];
+const CN_NUM = s => { const d = '一二三四五六七八九'; if (!s) return 0; if (s === '十') return 10;
+  const i = s.indexOf('十'); if (i < 0) return d.indexOf(s) + 1;
+  return (i ? d.indexOf(s[0]) + 1 : 1) * 10 + (s[i + 1] ? d.indexOf(s[i + 1]) + 1 : 0); };
+function bookRank(title) {
+  const b = BOOKS.findIndex(x => title.startsWith(x));
+  const m = /第([一二三四五六七八九十]+)課/.exec(title);
+  return [b < 0 ? BOOKS.length : b, m ? CN_NUM(m[1]) : 999];
+}
+const byBook = (a, b) => { const x = bookRank(a.title), y = bookRank(b.title); return x[0] - y[0] || x[1] - y[1]; };
+UNITS.sort(byBook);       // sort ổn định: bài trùng số giữ thứ tự cũ
+CONVERSATIONS.sort(byBook);
+// Tên cũ → tên mới (đổi tên theo sách): điểm hội thoại lưu theo tên nên chuyển sang tên mới.
+const TITLE_RENAMES = {"PAVC4 · L3 你看不看電視": "實用視聽華語4 · 第三課 你看不看電視", "PAVC4 · L4 這個電影真好看": "實用視聽華語4 · 第四課 這個電影真好看", "PAVC4 · L5 我愛看表演": "實用視聽華語4 · 第五課 我愛看表演", "PAVC4 · L6 小心壞習慣": "實用視聽華語4 · 第六課 小心壞習慣", "PAVC4 · L7 感情的事": "實用視聽華語4 · 第七課 感情的事", "PAVC4 · L8 女人的地位不同了": "實用視聽華語4 · 第八課 女人的地位不同了", "PAVC4 · L9 我看經濟發展": "實用視聽華語4 · 第九課 我看經濟發展", "PAVC4 · L10 交通的問題": "實用視聽華語4 · 第十課 交通的問題", "PAVC4 · L11 探親": "實用視聽華語4 · 第十一課 探親", "PAVC4 · L12 救救我們的地球吧": "實用視聽華語4 · 第十二課 救救我們的地球吧", "PAVC4 · L1 新年晚會": "實用視聽華語4 · 第一課 新年晚會", "PAVC4 · L2 我們的休閒活動": "實用視聽華語4 · 第二課 我們的休閒活動", "PAVC4 · L13 比比看誰會說故事": "實用視聽華語4 · 第十三課 比比看誰會說故事", "PAVC4 · L14 來一段相聲": "實用視聽華語4 · 第十四課 來一段相聲", "各行各業 L7 · 旅遊補貼（金融及保險業）": "各行各業說中文1 · 第七課 旅遊補助", "各行各業 L7 · 旅遊補貼": "各行各業說中文1 · 第七課 旅遊補助", "各行各業 L8 · 裁員風波（醫療保健及社會工作服務業）": "各行各業說中文1 · 第八課 裁員風波", "各行各業 L8 · 裁員風波": "各行各業說中文1 · 第八課 裁員風波", "各行各業 L9 · 老闆與老闆娘（補教業）": "各行各業說中文1 · 第九課 老闆與老闆娘", "各行各業 L10 · 人往高處爬（出版傳媒業）": "各行各業說中文1 · 第十課 人往高處爬", "L1 · 新人的第一天（批發零售業）": "各行各業說中文1 · 第一課 新人的第一天", "L2 · 職場衝突（製造業）": "各行各業說中文1 · 第二課 職場衝突", "L3 · 專業經理人（電子商務業）": "各行各業說中文1 · 第三課 專業經理人", "L4 · 說話的藝術（建物裝潢業）": "各行各業說中文1 · 第四課 說話的藝術", "L5 · 舊瓶裝新酒（行銷業）": "各行各業說中文1 · 第五課 舊瓶裝新酒", "L6 · 給員工打考績（人力資源）": "各行各業說中文1 · 第六課 給員工打考績", "L7 · 新年晚會": "實用視聽華語4 · 第一課 新年晚會", "L8 · 考績": "補充閱讀 · 考績", "L9 · 台味中文「習慣」": "台味中文 · 習慣", "L1 · 第一課 新人的第一天（批發零售業）": "各行各業說中文1 · 第一課 新人的第一天", "L2 · 第二課 職場衝突（製造業）— 會議": "各行各業說中文1 · 第二課 職場衝突（會議）", "L2 · 第二課 職場衝突 — 茶水間": "各行各業說中文1 · 第二課 職場衝突（茶水間）", "L3 · 第三課 專業經理人（電子商務業）": "各行各業說中文1 · 第三課 專業經理人", "L4 · 第四課 說話的藝術（建物裝潢業）": "各行各業說中文1 · 第四課 說話的藝術", "L5 · 第五課 舊瓶裝新酒（行銷業）": "各行各業說中文1 · 第五課 舊瓶裝新酒", "L6 · 第六課 給員工打考績（人力資源）": "各行各業說中文1 · 第六課 給員工打考績"};
+Object.entries(TITLE_RENAMES).forEach(([o, n]) => {
+  if (store.convoBest[o] != null) { store.convoBest[n] = Math.max(store.convoBest[n] || 0, store.convoBest[o]); delete store.convoBest[o]; }
+});
+
+// ================================================================
 // DERIVED DATA
 // ================================================================
 UNITS.forEach((u, i) => u.vocab.forEach(w => { if (w.unit === undefined) w.unit = i; }));
@@ -842,14 +864,15 @@ const P = store.prefs;
 const state = {
   tab: P.tab || 'home',
   // flashcards
-  unit: P.unit ?? 0,            // index hoặc 'all'
+  // index hoặc 'all' — lấy theo mã bài đã lưu (thứ tự bài có thể đổi khi thêm sách mới)
+  unit: P.unitKey === 'all' ? 'all' : P.unitKey && UNITS.findIndex(u => u.key === P.unitKey) >= 0 ? UNITS.findIndex(u => u.key === P.unitKey) : (P.unit ?? 0),
   filter: P.filter || 'todo',   // todo | due | known | all
   view: P.view || 'card',       // card | list
   showPinyin: P.showPinyin ?? false,
   reverse: P.reverse ?? false,  // true: mặt trước là nghĩa tiếng Việt
   deck: [], deckIdx: 0, flipped: false, search: '',
   // conversation
-  convo: P.convo || 0,
+  convo: P.convoTitle && CONVERSATIONS.findIndex(c => c.title === P.convoTitle) >= 0 ? CONVERSATIONS.findIndex(c => c.title === P.convoTitle) : (P.convo || 0),
   cq: null,                     // { questions, idx, picked, score }
   // grammar
   gFilter: 'all', gSearch: '', gOpen: new Set(),
@@ -865,6 +888,7 @@ function savePrefs() {
   Object.assign(store.prefs, {
     tab: state.tab, unit: state.unit, filter: state.filter, view: state.view, showPinyin: state.showPinyin, reverse: state.reverse,
     convo: state.convo, quizTopic: state.quizTopic, quizLen: state.quizLen, quizMode: state.quizMode,
+    unitKey: state.unit === 'all' ? 'all' : (UNITS[state.unit] || {}).key, convoTitle: (CONVERSATIONS[state.convo] || {}).title,
     quizArea: state.quizArea, wbLesson: state.wbLesson,
   });
   save();

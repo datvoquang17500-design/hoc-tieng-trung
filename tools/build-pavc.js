@@ -80,9 +80,12 @@ out.push('// Sách 實用視聽華語 (Practical Audio-Visual Chinese) 4 & 5.');
 out.push('(function () {');
 for (const u of units.values()) {
   out.push(`  // ---- ${u.title}`);
-  out.push(`  UNITS.push({ key: ${J(u.key)}, title: ${J(u.title)}, vocab: [`);
-  u.vocab.forEach(w => out.push(`    x(${w.map(J).join(', ')}),`));
-  out.push('  ] });');
+  // Bài chỉ có hội thoại (từ vựng nằm ở bộ từ khác, ví dụ PAVC4 bài 1 = L7 trong data.js) → không tạo bộ từ rỗng
+  if (u.vocab.length) {
+    out.push(`  UNITS.push({ key: ${J(u.key)}, title: ${J(u.title)}, vocab: [`);
+    u.vocab.forEach(w => out.push(`    x(${w.map(J).join(', ')}),`));
+    out.push('  ] });');
+  }
   u.grammar.forEach(g => out.push(`  GRAMMAR.push({ structure: ${J(g.structure)}, usage: ${J(g.usage)}, lesson: ${J(u.key)}, examples: [${g.examples.map(e => `ex(${J(e[0])}, '', ${J(e[1])})`).join(', ')}] });`));
   u.convos.forEach(cv => out.push(`  CONVERSATIONS.push(${J(cv)});`));
 }

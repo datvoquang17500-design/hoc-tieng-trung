@@ -1,5 +1,5 @@
-#UNIT P4-11|PAVC4 · L11 探親
-#CONVO PAVC4 · L11 探親
+#UNIT P4-11|實用視聽華語4 · 第十一課 探親
+#CONVO 實用視聽華語4 · 第十一課 探親
 |（活動中心）|(Trung tâm hoạt động)
 錢太太|我們的語言交換要暫停兩個星期，因為我要陪我媽回大陸。|Buổi trao đổi ngôn ngữ của chúng ta phải tạm dừng hai tuần, vì tôi phải đưa mẹ về đại lục.
 偉立|哦，大陸什麼地方？那裡還有很多親戚嗎？|Ồ, chỗ nào ở đại lục? Ở đó còn nhiều họ hàng không?

@@ -1,5 +1,5 @@
-#UNIT P4-07|PAVC4 · L7 感情的事
-#CONVO PAVC4 · L7 感情的事
+#UNIT P4-07|實用視聽華語4 · 第七課 感情的事
+#CONVO 實用視聽華語4 · 第七課 感情的事
 |（謝美真、陳台麗的房間）|(Phòng của Tạ Mỹ Chân và Trần Đài Lệ)
 美真|好了，別哭了，也許事情沒有你想的那麼嚴重。|Thôi nào, đừng khóc nữa, có khi chuyện không nghiêm trọng như bạn nghĩ đâu.
 台麗|我妹妹親眼看見的，他跟一個女的手拉著手在公園散步，還會錯嗎？|Em gái tôi tận mắt nhìn thấy, anh ta tay trong tay với một cô gái đi dạo trong công viên, còn sai được sao?

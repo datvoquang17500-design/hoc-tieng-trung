@@ -44,7 +44,7 @@ Nội dung lấy từ sách nằm trong thư mục **`content/pavc/`**, mỗi b�
 node tools/build-pavc.js     # dựng lại data-pavc.js
 ```
 
-Sau đó tăng `VERSION` trong `sw.js` và đẩy lên như mục 3. Bài 1–2 của PAVC4 trùng với L7–L9 đã có nên không nhập lại.
+Sau đó tăng `VERSION` trong `sw.js` và đẩy lên như mục 3. PAVC4 bài 1 dùng bộ từ `L7` sẵn có trong data.js (file `P4-01.txt` chỉ thêm hội thoại). Tên bộ từ đặt theo sách: `實用視聽華語4 · 第N課 …`, `各行各業說中文1 · 第N課 …`; app tự sắp xếp theo sách rồi theo số bài. Từ trùng với bộ khác lọc bằng `node tools/dedupe-vocab.js <mã bài…>`.
 
 Cùng thư mục có `GH-07…GH-10.v.txt`: sách 各行各業說中文 1 bài 7–10 (L7, L8: hội thoại + từ vựng + thành ngữ + ngữ pháp theo Google Docs bài học trên Drive; L9, L10: mới có thành ngữ + mẫu ngữ pháp từ slide mục lục).
 

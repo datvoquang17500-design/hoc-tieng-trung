@@ -1,5 +1,5 @@
-#UNIT P4-03|PAVC4 · L3 你看不看電視
-#CONVO PAVC4 · L3 你看不看電視
+#UNIT P4-03|實用視聽華語4 · 第三課 你看不看電視
+#CONVO 實用視聽華語4 · 第三課 你看不看電視
 |（謝美真、陳台麗家飯廳）|(Phòng ăn nhà Tạ Mỹ Chân và Trần Đài Lệ)
 美真|大家都吃飽了吧？|Mọi người ăn no cả rồi chứ?
 建國|我從來沒吃得這麼飽過，明天不必吃早飯了。|Tôi chưa bao giờ ăn no thế này, mai khỏi cần ăn sáng luôn.

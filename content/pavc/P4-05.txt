@@ -1,5 +1,5 @@
-#UNIT P4-05|PAVC4 · L5 我愛看表演
-#CONVO PAVC4 · L5 我愛看表演
+#UNIT P4-05|實用視聽華語4 · 第五課 我愛看表演
+#CONVO 實用視聽華語4 · 第五課 我愛看表演
 |（高偉立跟謝美真在講電話）|(Cao Vỹ Lập và Tạ Mỹ Chân đang nói chuyện điện thoại)
 偉立|這星期五藝術中心有一個古典芭蕾舞表演，是紐約來的舞團。你們想不想去看？|Thứ sáu này ở trung tâm nghệ thuật có một buổi biểu diễn ba lê cổ điển, của đoàn múa đến từ New York. Các bạn có muốn đi xem không?
 美真|星期五不行，我另外有約了。不知道台麗要不要去。她在洗澡，你等一下，別掛喔！台麗！高偉立問你，星期五要不要去藝術中心看芭蕾舞？|Thứ sáu không được, tôi có hẹn khác rồi. Không biết Đài Lệ có muốn đi không. Cô ấy đang tắm, bạn chờ chút, đừng cúp máy nhé! Đài Lệ! Cao Vỹ Lập hỏi bạn thứ sáu có muốn đi trung tâm nghệ thuật xem ba lê không?

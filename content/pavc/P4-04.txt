@@ -1,5 +1,5 @@
-#UNIT P4-04|PAVC4 · L4 這個電影真好看
-#CONVO PAVC4 · L4 這個電影真好看
+#UNIT P4-04|實用視聽華語4 · 第四課 這個電影真好看
+#CONVO 實用視聽華語4 · 第四課 這個電影真好看
 |（在錢家）|(Ở nhà ông Tiền)
 錢先生|怎麼樣？都看懂了嗎？|Thế nào? Xem hiểu hết chứ?
 偉立|這部電影的對白都不太長。我不敢說每個字都懂，可是故事我想我懂了。這是什麼時候拍的電影？|Lời thoại phim này đều không dài lắm. Tôi không dám nói hiểu từng chữ, nhưng câu chuyện thì tôi nghĩ là hiểu rồi. Phim này quay khi nào vậy?

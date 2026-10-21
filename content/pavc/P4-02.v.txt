@@ -1,0 +1,77 @@
+#VOCAB
+休閒活動|xiūxián huódòng|hưu nhàn hoạt động|N|hoạt động giải trí, thư giãn|老高每個週末都安排不同的休閒活動，有時候跳舞，有時候打球。|Cuối tuần nào lão Cao cũng sắp xếp hoạt động giải trí khác nhau, lúc khiêu vũ, lúc chơi bóng.
+休閒生活|xiūxián shēnghuó|hưu nhàn sinh hoạt|N|đời sống giải trí, sinh hoạt ngoài giờ làm|現代人比以前注意休閒生活，該休息的時候就休息，不喜歡一直工作。|Người hiện đại chú ý đời sống giải trí hơn trước, đến lúc nghỉ thì nghỉ, không thích làm việc suốt.
+休閒服|xiūxiánfú|hưu nhàn phục|N|quần áo thường ngày, đồ thể thao||
+休閒鞋|xiūxiánxié|hưu nhàn hài|N|giày thể thao, giày đi chơi||
+敬|jìng|kính|V|kính trọng; mời (rượu) một cách kính trọng|王老師，這杯我敬您，祝您生日快樂！|Thầy Vương, ly này em kính thầy, chúc thầy sinh nhật vui vẻ!
+敬酒|jìng//jiǔ|kính tửu|VO|mời rượu, nâng ly chúc|你請客，應該一個一個地敬客人酒。|Bạn mời khách thì nên lần lượt mời rượu từng người.
+火鍋|huǒguō|hỏa oa|N|lẩu|我們喜歡吃火鍋，可以一邊煮一邊吃，比較有意思。|Chúng tôi thích ăn lẩu, vừa nấu vừa ăn, thú vị hơn.
+吃到飽|chīdàobǎo|cật đáo bão|AT|ăn thỏa thích (buffet)|這裡雖然是吃到飽的餐廳，你也不能點太多菜。|Đây tuy là nhà hàng ăn thỏa thích, bạn cũng không được gọi quá nhiều món.
+流口水|liú//kǒushuǐ|lưu khẩu thủy|VO|chảy nước miếng, thèm nhỏ dãi|我每次一想到好吃的臺灣小吃，就要流口水。|Mỗi lần nghĩ đến món ăn vặt Đài Loan ngon là tôi chảy nước miếng.
+口水|kǒushuǐ|khẩu thủy|N|nước bọt, nước miếng||
+流行|liúxíng|lưu hành|SV/V|thịnh hành, mốt; được ưa chuộng|藍色是今年最流行的顏色，店裡賣的衣服大部分都是藍的。|Màu xanh là màu thịnh hành nhất năm nay, quần áo trong tiệm phần lớn đều màu xanh.
+隔壁|gébì|cách bích|N|nhà bên cạnh, phòng bên cạnh|我住三〇三號房，他住我隔壁三〇四號。|Tôi ở phòng 303, anh ấy ở phòng bên cạnh 304.
+居然|jūrán|cư nhiên|A|vậy mà, không ngờ lại|今天要考試，你居然沒帶筆來！|Hôm nay thi mà bạn lại không mang bút!
+網咖|wǎngkā|võng già|N|quán net, quán cà phê internet|他常常跟朋友去網咖玩電腦遊戲。|Anh ấy hay cùng bạn ra quán net chơi game.
+吵|chǎo|sảo|V/SV|làm ồn, cãi nhau; ồn ào|隔壁在開舞會，吵得我不能念書。|Nhà bên mở tiệc nhảy, ồn đến mức tôi không học được.
+卻|què|khước|A|nhưng, lại (trái với mong đợi)|林先生什麼都說了，最重要的部分卻忘了說。|Ông Lâm nói đủ thứ, phần quan trọng nhất lại quên nói.
+不得不|bùdébù|bất đắc bất|A|không thể không, buộc phải|我討厭做飯，可是為了省錢，不得不自己做。|Tôi ghét nấu cơm, nhưng để tiết kiệm tiền buộc phải tự nấu.
+遊戲|yóuxì|du hí|N|trò chơi|捉迷藏是小孩玩的遊戲，你這麼大了，還有興趣啊？|Trốn tìm là trò trẻ con chơi, bạn lớn thế này rồi mà còn thích à?
+戶外|hùwài|hộ ngoại|AT|ngoài trời|我們學校每年辦兩次戶外教學，由老師帶著學生去各地參觀。|Trường chúng tôi mỗi năm tổ chức hai buổi học ngoài trời, thầy cô dẫn học sinh đi tham quan các nơi.
+潛水|qián//shuǐ|tiềm thủy|VO/N|lặn (dưới nước)|很多人喜歡去墾丁潛水，欣賞海底美麗的珊瑚。|Nhiều người thích đến Khẩn Đinh lặn biển, ngắm san hô đẹp dưới đáy biển.
+衝浪|chōng//làng|xung lãng|VO/N|lướt sóng|這個海邊的浪特別大，到這兒來衝浪的人都覺得很過癮。|Sóng ở bãi biển này đặc biệt lớn, ai đến đây lướt sóng cũng thấy đã.
+浪|làng|lãng|N|sóng||
+靜靜地|jìngjìng de|tĩnh tĩnh địa|A|lặng lẽ, yên lặng|我們出去吧！讓小趙一個人靜靜地休息一下。|Chúng ta ra ngoài đi! Để Tiểu Triệu một mình yên tĩnh nghỉ ngơi.
+安靜|ānjìng|an tĩnh|SV|yên tĩnh|孩子們都在睡覺，家裡好安靜。|Bọn trẻ đều đang ngủ, trong nhà thật yên tĩnh.
+打擾|dǎrǎo|đả nhiễu|V|làm phiền, quấy rầy|我在你們家住了這麼多天，真是打擾了。|Tôi ở nhà các bạn bao nhiêu ngày, thật là làm phiền quá.
+自由自在|zìyóu zìzài|tự do tự tại|A|tự do thoải mái, ung dung|一個人去旅行自由自在，愛到哪兒去，就到哪兒去。|Đi du lịch một mình tự do thoải mái, thích đi đâu thì đi đó.
+自由|zìyóu|tự do|N/SV/A|tự do|穿什麼衣服是我的自由，你管不著。|Mặc quần áo gì là quyền tự do của tôi, bạn không quản được.
+自在|zìzài|tự tại|SV|thoải mái, tự nhiên|跟好朋友在一起，總是覺得很自在，不必擔心說錯話，做錯事。|Ở bên bạn thân lúc nào cũng thấy thoải mái, không phải lo nói sai làm sai.
+鳥|niǎo|điểu|N|con chim|我希望能像鳥一樣，在天上飛來飛去。|Tôi mong có thể như con chim, bay lượn trên trời.
+滑翔翼|huáxiángyì|hoạt tường dực|N|dù lượn, tàu lượn treo|滑翔翼、高空彈跳這兩種休閒活動，怕高的人都不敢玩。|Dù lượn và nhảy bungee, người sợ độ cao đều không dám chơi.
+高空彈跳|gāokōng tántiào|cao không đạn khiêu|N|nhảy bungee|你們不要以為我只會在房子裡面玩，其實我也常去高空彈跳。|Các bạn đừng tưởng tôi chỉ biết chơi trong nhà, thật ra tôi cũng hay đi nhảy bungee.
+得意|déyì|đắc ý|SV|đắc ý, hãnh diện|別人都沒有他考得好，所以他得意得不得了。|Không ai thi tốt bằng anh ta, nên anh ta đắc ý vô cùng.
+保齡球|bǎolíngqiú|bảo linh cầu|N|bowling|我打保齡球的技術很爛，從來沒打過全倒。|Kỹ thuật chơi bowling của tôi rất tệ, chưa bao giờ đánh đổ hết các con ki.
+騎|qí|kỵ|V|cưỡi, đi (xe đạp, xe máy, ngựa)|騎馬是我最喜歡的休閒活動。|Cưỡi ngựa là hoạt động giải trí tôi thích nhất.
+騎腳踏車|qí jiǎotàchē|kỵ cước đạp xa|VO|đi xe đạp|我只能玩玩保齡球、騎騎腳踏車，安全一點。|Tôi chỉ dám chơi bowling, đạp xe thôi, an toàn hơn.
+腳踏車|jiǎotàchē|cước đạp xa|N|xe đạp (= 自行車)||
+堂哥|tánggē|đường ca|N|anh họ (con trai của anh/em trai bố, lớn tuổi hơn)|有一次我們從網咖出來，已經很晚了，堂哥就帶我去附近的夜市吃東西。|Có lần chúng tôi ra khỏi quán net đã khuya, anh họ dẫn tôi đi chợ đêm gần đó ăn.
+堂姐|tángjiě|đường thư|N|chị họ (con gái của anh/em trai bố, lớn tuổi hơn)||
+堂弟|tángdì|đường đệ|N|em họ trai (con trai của anh/em trai bố, nhỏ tuổi hơn)||
+堂妹|tángmèi|đường muội|N|em họ gái (con gái của anh/em trai bố, nhỏ tuổi hơn)||
+夜市|yèshì|dạ thị|N|chợ đêm|小李就住在夜市旁邊，半夜十二點正是最熱鬧的時候，吵得他睡不著。|Tiểu Lý ở ngay cạnh chợ đêm, 12 giờ đêm đúng lúc náo nhiệt nhất, ồn đến mức anh ấy không ngủ được.
+夜生活|yè shēnghuó|dạ sinh hoạt|N|cuộc sống về đêm|大城市裡的夜生活比較熱鬧，看電影、跳舞、喝酒的地方很多。|Cuộc sống về đêm ở thành phố lớn khá náo nhiệt, nhiều chỗ xem phim, khiêu vũ, uống rượu.
+夜店|yèdiàn|dạ điếm|N|hộp đêm, quán bar|常去夜店玩的人，大概都是夜貓族，雖然白天上班、上課，可是到了晚上精神卻更好。|Người hay đi hộp đêm có lẽ đều là cú đêm, ban ngày đi làm đi học nhưng tối lại càng tỉnh táo.
+逛|guàng|cuống|V|đi dạo, đi loanh quanh|你第一次來這裡，為什麼不出去逛逛，老在旅館睡覺？|Lần đầu bạn đến đây sao không ra ngoài dạo, cứ ngủ trong khách sạn mãi?
+逛街|guàng//jiē|cuống nhai|VO|dạo phố, đi shopping|我太太沒事就喜歡逛街，常常買回一些用不著的東西。|Vợ tôi rảnh là thích dạo phố, hay mua về những thứ không dùng đến.
+各種各樣|gèzhǒng gèyàng|các chủng các dạng|AT|đủ các loại, muôn hình muôn vẻ|在旅行社工作，可以碰到各種各樣的人。|Làm ở công ty du lịch có thể gặp đủ loại người.
+打麻將|dǎ//májiàng|đả ma tướng|VO|chơi mạt chược|我們只有三個人，還差一個，不能打麻將，玩別的吧！|Chúng ta chỉ có ba người, còn thiếu một, không chơi mạt chược được, chơi trò khác đi!
+陪|péi|bồi|V|đi cùng, ở bên|我想去買件衣服，你沒事的話，陪我一起去，好嗎？|Tôi muốn đi mua quần áo, nếu bạn rảnh thì đi cùng tôi nhé?
+耳朵|ěrduo|nhĩ đóa|N|tai|我媽媽耳朵不好，你說話要大聲一點。|Mẹ tôi tai không tốt, bạn nói to lên một chút.
+這下子|zhèxiàzi|giá hạ tử|A|lần này thì, thế là|聽說老闆叫老林走路了，這下子他的生活就有問題了。|Nghe nói sếp bảo lão Lâm nghỉ việc rồi, thế là cuộc sống của ông ấy gặp khó khăn.
+複雜|fùzá|phức tạp|SV|phức tạp|這個問題很複雜，跟好幾個人都有關係，一兩句話，說不清楚。|Vấn đề này rất phức tạp, liên quan đến mấy người, một hai câu không nói rõ được.
+散步|sàn//bù|tản bộ|VO|đi dạo, tản bộ|我媽常吃飽了飯，就在附近隨便走走，散散步。|Mẹ tôi hay ăn no xong là đi loanh quanh gần nhà, tản bộ.
+打太極拳|dǎ//tàijíquán|đả thái cực quyền|VO|tập Thái Cực Quyền|打太極拳看起來像慢動作的舞蹈。|Tập Thái Cực Quyền trông như điệu múa quay chậm.
+拳頭|quántou|quyền đầu|N|nắm đấm|你以為你的拳頭大，我就得聽你的嗎？|Bạn tưởng nắm đấm bạn to thì tôi phải nghe bạn à?
+健行|jiànxíng|kiện hành|V/N|đi bộ đường dài (hiking)|我們學校每個學期都辦一次健行活動，讓大家出去走走，運動運動。|Trường chúng tôi mỗi học kỳ tổ chức một lần đi bộ đường dài để mọi người ra ngoài vận động.
+溫泉|wēnquán|ôn tuyền|N|suối nước nóng|聽說有皮膚病的人，洗洗溫泉，病就好得快一點。|Nghe nói người bị bệnh ngoài da tắm suối nước nóng thì khỏi nhanh hơn.
+露營|lù//yíng|lộ doanh|VO|cắm trại|我對露營沒興趣，因為露營的時候，不管吃的、睡的都要自己弄，沒有家裡舒服。|Tôi không hứng thú cắm trại, vì khi cắm trại ăn ngủ đều phải tự lo, không thoải mái bằng ở nhà.
+釣魚|diào//yú|điếu ngư|VO|câu cá|他坐在湖邊釣魚，等了半天，一條魚也沒釣到。|Anh ấy ngồi bên hồ câu cá, chờ mãi mà không câu được con nào.
+攀岩|pān//yán|phàn nham|VO/N|leo núi đá|喜歡攀岩這種活動的人，認為攀岩的時候，可以學會碰到困難不再害怕。|Người thích leo núi đá cho rằng khi leo có thể học được cách không còn sợ khi gặp khó khăn.
+提|tí|đề|V|nhắc đến; xách; rút (tiền)|我給你介紹一下，這位就是以前我跟你提過的張教授。|Để tôi giới thiệu, đây là giáo sư Trương mà trước đây tôi từng nhắc với bạn.
+提到|tí//dào|đề đáo|RC|nhắc đến|老陳給我的信上提到他畢業後的計畫，聽起來不錯。|Thư lão Trần gửi tôi có nhắc đến kế hoạch sau khi tốt nghiệp của anh ấy, nghe khá hay.
+提起來|tí//qǐlái|đề khởi lai|RC|nhắc tới; nhấc lên|你別跟爸爸提那件事，每次一提起來，他就要生氣。|Bạn đừng nhắc chuyện đó với bố, cứ nhắc tới là bố lại giận.
+提出來|tí//chūlái|đề xuất lai|RC|nêu ra; rút ra (tiền)|有問題可以提出來，大家一塊兒討論。|Có vấn đề thì cứ nêu ra, mọi người cùng thảo luận.
+百聞不如一見|bǎi wén bùrú yí jiàn|bách văn bất như nhất kiến|IE|trăm nghe không bằng một thấy|很多人都說蒙地卡羅的表演很好看，我去看了以後，覺得真是百聞不如一見。|Nhiều người bảo buổi diễn ở Monte Carlo rất hay, tôi đi xem rồi thấy đúng là trăm nghe không bằng một thấy.
+不如|bùrú|bất như|V|không bằng|孩子考壞了，罵他沒有用，不如多鼓勵。|Con thi không tốt, mắng cũng vô ích, chi bằng động viên nhiều hơn.
+顧著|gùzhe|cố trước|V|chỉ lo, mải (làm gì)|他就顧著打麻將，不管孩子回家以後有沒有飯吃。|Anh ta chỉ mải chơi mạt chược, mặc kệ con về nhà có cơm ăn không.
+陽明山|Yángmíng Shān|Dương Minh Sơn|N|núi Dương Minh (khu nghỉ dưỡng phía bắc Đài Bắc)|週末的時候，跟家人去陽明山健行、烤肉、洗溫泉。|Cuối tuần cùng gia đình lên núi Dương Minh đi bộ, nướng thịt, tắm suối nước nóng.
+#GRAMMAR
+居然|"Vậy mà, không ngờ": người nói thấy bất ngờ, không nghĩ việc này lại xảy ra. 居然 đặt sau chủ ngữ của câu nêu sự việc bất ngờ.|我們的大歌星居然沒有人欣賞！|Ngôi sao ca nhạc lớn của chúng ta vậy mà không ai thưởng thức!|我以為小高只會念書，沒想到他的舞居然也跳得這麼好。|Tôi tưởng Tiểu Cao chỉ biết học, không ngờ cậu ấy nhảy cũng giỏi như vậy.
+卻|"Nhưng, lại": đặt sau chủ ngữ, trước vị ngữ, chỉ sự việc trái với mong đợi. Dùng cùng 可是 thì chủ ngữ đứng sau 可是.|有的人唱得不好，又愛唱，你卻不得不聽。|Có người hát dở lại thích hát, bạn lại buộc phải nghe.|我姐姐一直想有個女兒，可是這次卻又生了個兒子，她很難過。|Chị tôi luôn muốn có con gái, nhưng lần này lại sinh con trai, chị rất buồn.
+不得不|"Buộc phải, không thể không": trong lòng không muốn nhưng không còn cách nào khác, mang cảm giác bất đắc dĩ.|你卻不得不聽。|Bạn lại buộc phải nghe.|今天要去見女朋友的爸爸，我不得不把鬍子刮乾淨。|Hôm nay đi gặp bố bạn gái, tôi buộc phải cạo râu sạch sẽ.
+少＋V(O)|"Thôi đừng…, bớt… đi": 少 ở đây nghĩa là 別/不要, mang ý trách móc người nghe.|你少得意了。|Bạn bớt đắc ý đi.|他少來這套。他有神經病啊！我怎麼可能把女朋友借給別人？|Bảo anh ta đừng giở trò đó. Anh ta điên à! Sao tôi có thể cho người khác mượn bạn gái?
+除了……（以外），就是……|"Ngoài… ra thì chính là…": 除了 vẫn là không tính vào, 就是 nhấn mạnh "không phải gì khác, chính là cái này". Khác với 除了……還…….|他說他在臺灣最得意的事，除了打麻將贏了錢以外，就是在夜市買了一件皮夾克，才花了幾十塊錢。|Anh ấy nói chuyện đắc ý nhất ở Đài Loan, ngoài chơi mạt chược thắng tiền ra thì chính là mua được cái áo khoác da ở chợ đêm chỉ mấy chục đồng.|我喜歡的休閒活動除了健行，就是釣魚，別的我都不愛。|Hoạt động giải trí tôi thích ngoài đi bộ đường dài ra thì là câu cá, những thứ khác tôi đều không thích.
+V著玩|"Làm cho vui": làm việc gì không có mục đích nghiêm túc, chỉ để giải trí.|除夕晚上陪我爺爺奶奶打著玩。|Tối giao thừa chơi (mạt chược) cho vui cùng ông bà.|哪裡，我都是釣著玩的，釣得到釣不到沒關係。|Đâu có, tôi chỉ câu cho vui thôi, câu được hay không cũng không sao.
+不如|"Không bằng, chi bằng": so sánh hai sự vật đặt trước và sau 不如 (danh từ, động từ, mệnh đề), cái trước không tốt bằng cái sau.|打麻將不好玩，一直坐著沒意思。不如去跳舞，全身都可以運動。|Chơi mạt chược chẳng vui, ngồi suốt chán lắm. Chi bằng đi khiêu vũ, cả người được vận động.|我爸爸不喜歡出門，他覺得出去玩不如在家看電視。|Bố tôi không thích ra ngoài, ông thấy đi chơi không bằng ở nhà xem TV.
+這下子|"Thế là, lần này thì": 這樣一來; phải là trong cuộc nói chuyện vừa nhắc đến một việc, người nói đưa ra nhận xét về tình hình đó.|這下子你可見識到臺北人的夜生活了。|Lần này thì bạn được mở mang về cuộc sống về đêm của người Đài Bắc rồi.|我的報告都寫完了。——這下子你就輕鬆了。|Báo cáo của tôi viết xong hết rồi. — Thế là bạn thảnh thơi rồi.

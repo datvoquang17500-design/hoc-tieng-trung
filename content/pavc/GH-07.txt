@@ -1,6 +1,6 @@
 // 各行各業說中文 1 · 第7課 旅遊補貼 — hội thoại theo Google Docs trên Drive; bản dịch tiếng Việt và câu hỏi trắc nghiệm do Claude soạn từ phần 課前準備.
-#UNIT GH-07|各行各業 L7 · 旅遊補貼（金融及保險業）
-#CONVO 各行各業 L7 · 旅遊補貼
+#UNIT GH-07|各行各業說中文1 · 第七課 旅遊補助
+#CONVO 各行各業說中文1 · 第七課 旅遊補助
 |某家銀行將舉辦員工旅遊的活動，由擔任本屆福委的員工思齊、亞文負責規劃，他們正在討論旅遊地點和相關細節。|Một ngân hàng sắp tổ chức du lịch công ty, hai nhân viên làm ủy viên phúc lợi khóa này là Tư Tề và Á Văn phụ trách lên kế hoạch; họ đang bàn về địa điểm và các chi tiết liên quan.
 思齊|去年我們銀行旗下的關係企業整體業績很亮眼，董事長大手筆提供了一筆豐厚的預算來犒賞全體員工出遊，羨煞不少金融同業，我們得好好來規劃一下這次的員工旅遊。|Năm ngoái các công ty liên kết trực thuộc ngân hàng mình có thành tích chung rất nổi bật, chủ tịch mạnh tay cấp một khoản ngân sách hậu hĩnh để khao toàn thể nhân viên đi du lịch, khiến không ít đồng nghiệp ngành tài chính phải ghen tị. Chúng ta phải lên kế hoạch thật tốt cho chuyến du lịch công ty lần này.
 亞文|員工旅遊向來是我們公司重要的福利項目，而且董事長最在乎員工的向心力，因此都是以集團所有的員工共同參加的方式舉行，不像一般同質性企業，只限業務員參加或鼓勵員工分批參加。往年大家都攜家帶眷的，非常踴躍，今年也要辦得有聲有色才行。|Du lịch công ty xưa nay là hạng mục phúc lợi quan trọng của công ty mình, hơn nữa chủ tịch rất coi trọng sự gắn kết của nhân viên, nên luôn tổ chức cho toàn bộ nhân viên tập đoàn cùng tham gia, không như các doanh nghiệp cùng ngành chỉ cho nhân viên kinh doanh đi hoặc khuyến khích đi theo từng đợt. Những năm trước mọi người đều dẫn cả gia đình, rất sôi nổi, năm nay cũng phải tổ chức thật ra trò mới được.

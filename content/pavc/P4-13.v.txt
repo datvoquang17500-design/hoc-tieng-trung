@@ -1,0 +1,88 @@
+#VOCAB
+飛盤|fēipán|phi bàn|N|đĩa bay (frisbee)|我跟小林一起玩飛盤，他丟得太高，我老是接不到。|Tôi chơi đĩa bay với Tiểu Lâm, cậu ấy ném cao quá, tôi toàn không bắt được.
+蓋|gài|cái|V|che, đậy, đắp; xây (nhà)|雖然已經是秋天了，可是還不太冷，不必蓋毯子。|Tuy đã sang thu nhưng chưa lạnh lắm, không cần đắp chăn.
+蓋子|gàizi|cái tử|N|nắp, vung|趕快把蓋子蓋上吧！要不然茶一會兒就涼了。|Mau đậy nắp lại! Không thì trà lát nữa nguội mất.
+猜|cāi|sai|V|đoán|李愛美叫我猜她的年紀，我猜了半天都沒猜對。|Lý Ái Mỹ bảo tôi đoán tuổi cô ấy, tôi đoán mãi không đúng.
+猜出來|cāi chūlái|sai xuất lai|RC|đoán ra|我男朋友說我一定猜不出來他送我的禮物是什麼。|Bạn trai tôi nói tôi chắc chắn không đoán ra món quà anh ấy tặng là gì.
+做夢|zuò//mèng|tố mộng|VO|nằm mơ|主持人宣布王英英當選了世界小姐，她以為自己在做夢。|Người dẫn chương trình tuyên bố Vương Anh Anh đăng quang Hoa hậu Thế giới, cô tưởng mình đang nằm mơ.
+夢|mèng|mộng|N|giấc mơ||
+美夢|měimèng|mỹ mộng|N|giấc mơ đẹp|丁小青一直希望得獎，這次她得了最佳女主角獎，可以說是美夢成真了。|Đinh Tiểu Thanh luôn mong đoạt giải, lần này cô được giải nữ chính xuất sắc nhất, có thể nói giấc mơ đẹp đã thành sự thật.
+惡夢|èmèng|ác mộng|N|ác mộng|我再也不看恐怖片了，每次看了，晚上都會做惡夢。|Tôi không bao giờ xem phim kinh dị nữa, lần nào xem xong tối cũng gặp ác mộng.
+白日夢|báirìmèng|bạch nhật mộng|N|mơ mộng hão huyền (giấc mơ ban ngày)|別做白日夢了！你從來不念書，還想得博士？|Đừng mơ mộng hão huyền nữa! Bạn chẳng bao giờ học mà còn muốn lấy tiến sĩ?
+夢見|mèngjiàn|mộng kiến|V|mơ thấy|昨天晚上我做了一個很可怕的夢，夢見有人要殺我。|Tối qua tôi gặp một giấc mơ rất đáng sợ, mơ thấy có người muốn giết tôi.
+關於|guānyú|quan ư|CV|về, liên quan đến|關於出國留學的事，我得再考慮考慮。|Về chuyện đi du học, tôi phải cân nhắc thêm.
+孝順|xiàoshùn|hiếu thuận|SV/V|hiếu thảo|華人都覺得孝順父母比什麼都重要，不但要聽父母的話，等父母老了，還要照顧他們。|Người Hoa đều cho rằng hiếu thảo với cha mẹ quan trọng hơn hết, không chỉ phải nghe lời cha mẹ mà khi cha mẹ già còn phải chăm sóc.
+過世|guòshì|quá thế|V|qua đời|你爺爺的病好了沒有？——他上個禮拜已經過世了。|Bệnh của ông bạn khỏi chưa? — Ông đã qua đời tuần trước rồi.
+過日子|guò//rìzi|quá nhật tử|VO|sống qua ngày, sinh sống|小高每天糊裡糊塗地過日子，將來要做什麼，一點計畫也沒有。|Tiểu Cao ngày nào cũng sống mơ mơ màng màng, sau này làm gì chẳng có chút kế hoạch nào.
+結冰|jié//bīng|kết băng|VO|đóng băng|溫度太低，路上的雪都結成冰了。|Nhiệt độ quá thấp, tuyết trên đường đều đóng thành băng.
+結|jié|kết|V/N|kết (trái); thắt nút; nút|這棵樹上結的蘋果特別大。|Táo trên cây này kết quả đặc biệt to.
+窮|qióng|cùng|SV|nghèo|小陳家很窮，吃了這頓飯，不知道下頓在哪裡。|Nhà Tiểu Trần rất nghèo, ăn bữa này không biết bữa sau ở đâu.
+窮人|qióngrén|cùng nhân|N|người nghèo|如果政府的經濟政策不適當，會讓富人越來越富，窮人越來越窮。|Nếu chính sách kinh tế không phù hợp sẽ khiến người giàu ngày càng giàu, người nghèo ngày càng nghèo.
+薄|báo|bạc|SV|mỏng|天氣變冷了，你穿這麼薄的衣服，夠暖嗎？|Trời trở lạnh rồi, bạn mặc áo mỏng thế có đủ ấm không?
+瘋|fēng|phong|SV/V|điên; (chơi) điên cuồng|小高今天跟幾個朋友出去，又跳舞，又打球，又游泳，瘋了一天，現在累得動不了了。|Hôm nay Tiểu Cao đi chơi với mấy người bạn, vừa nhảy, vừa chơi bóng, vừa bơi, quậy cả ngày, giờ mệt không nhúc nhích nổi.
+瘋子|fēngzi|phong tử|N|kẻ điên|我今天回家的時候，看到一個瘋子站在十字路口，對著路上的人大聲演講。|Hôm nay về nhà tôi thấy một người điên đứng ở ngã tư, diễn thuyết to với người đi đường.
+發瘋|fā//fēng|phát phong|VO|phát điên|你發什麼瘋？這麼冷的天還開冷氣？！|Bạn điên à? Trời lạnh thế này còn bật điều hòa?!
+凍|dòng|đống|V/SV|đông cứng, rét cóng|去年冬天特別冷，凍死了好多人。|Mùa đông năm ngoái đặc biệt lạnh, rét chết rất nhiều người.
+冷凍|lěngdòng|lãnh đống|V|đông lạnh|今天我買了兩條魚，吃了一條，另外一條已經冷凍起來了。|Hôm nay tôi mua hai con cá, ăn một con, con kia đã cho vào đông lạnh.
+果凍|guǒdòng|quả đống|N|thạch rau câu||
+條件|tiáojiàn|điều kiện|N|điều kiện|我們跟對方簽約以前，一定要先把條件談好，免得賺不到錢。|Trước khi ký hợp đồng với đối phương, nhất định phải bàn xong điều kiện, kẻo không kiếm được tiền.
+說話算話|shuōhuà suànhuà|thuyết thoại toán thoại|IE|nói lời giữ lời (說話不算話: nói không giữ lời)|小王說昨天要還我錢的，結果到今天還沒看見他，這個人真是說話不算話。|Tiểu Vương bảo hôm qua trả tiền tôi, kết quả đến hôm nay vẫn chưa thấy đâu, người này thật nói không giữ lời.
+作證|zuò//zhèng|tác chứng|VO|làm chứng|王英英昨天晚上一直跟我在一起，不可能去你家偷東西，我可以作證。|Tối qua Vương Anh Anh luôn ở cùng tôi, không thể đến nhà bạn trộm đồ, tôi có thể làm chứng.
+證人|zhèngrén|chứng nhân|N|nhân chứng|銀行的職員都願意當證人，而且警察還有證物。|Nhân viên ngân hàng đều sẵn lòng làm nhân chứng, hơn nữa cảnh sát còn có vật chứng.
+證件|zhèngjiàn|chứng kiện|N|giấy tờ tùy thân, giấy chứng nhận|我把皮包忘在計程車上，很多證件都在裡面，像身分證、護照、駕照。|Tôi để quên ví trên taxi, nhiều giấy tờ ở trong đó như chứng minh thư, hộ chiếu, bằng lái.
+蛇|shé|xà|N|con rắn|眼鏡蛇的毒很厲害，千萬要小心。|Nọc rắn hổ mang rất độc, nhất định phải cẩn thận.
+迷信|míxìn|mê tín|SV/N/V|mê tín|有的人認為十三號星期五會發生不幸的事，這完全是迷信。|Có người cho rằng thứ Sáu ngày 13 sẽ xảy ra chuyện xui, đó hoàn toàn là mê tín.
+轉身|zhuǎn//shēn|chuyển thân|VO|quay người|我帶著孩子在排隊買票，一轉身就發現孩子不見了。|Tôi dẫn con xếp hàng mua vé, vừa quay người đã thấy con biến mất.
+轉眼|zhuǎnyǎn|chuyển nhãn|A|chớp mắt, thoáng chốc|時間過得真快，好像才剛開學，轉眼就要放暑假了。|Thời gian trôi nhanh thật, hình như mới khai giảng mà chớp mắt đã sắp nghỉ hè.
+勉強|miǎnqiǎng|miễn cưỡng|V/SV/A|ép buộc; gượng gạo; miễn cưỡng|孩子對法律沒興趣，你就不要勉強他念法律系吧。|Con không hứng thú với luật thì bạn đừng ép nó học khoa luật.
+插嘴|chā//zuǐ|sáp chủy|VO|chen ngang, nói leo|大人說話，小孩子不要插嘴，不然很沒禮貌。|Người lớn nói chuyện thì trẻ con đừng chen ngang, không thì rất mất lịch sự.
+插|chā|sáp|V|cắm, cài vào|吃飯的時候，不可以把筷子插在飯碗裡，這是臺灣人的規矩。|Khi ăn không được cắm đũa vào bát cơm, đây là phép tắc của người Đài Loan.
+插隊|chā//duì|sáp đội|VO|chen hàng|我們已經排了很久了，你才來，請你到後面去排隊，別插隊！|Chúng tôi xếp hàng lâu rồi, bạn mới đến, mời ra sau xếp, đừng chen hàng!
+插圖|chātú|sáp đồ|N|tranh minh họa|這本小說裡的插圖，不管是人、風景，都是我弟弟畫的。|Tranh minh họa trong cuốn tiểu thuyết này, dù là người hay phong cảnh, đều do em trai tôi vẽ.
+插花|chā//huā|sáp hoa|VO/N|cắm hoa|聽說從前的日本女人結婚以前一定要學插花。|Nghe nói phụ nữ Nhật ngày xưa trước khi cưới nhất định phải học cắm hoa.
+插曲|chāqǔ|sáp khúc|N|nhạc phim; tình tiết xen giữa|你說的這首歌是那部電影裡的插曲，並不是主題曲。|Bài bạn nói là nhạc chèn trong phim đó, không phải bài hát chủ đề.
+插頭|chātóu|sáp đầu|N|phích cắm|咦，錄音機怎麼沒有聲音？噢，原來是插頭鬆了。|Ơ, sao máy ghi âm không có tiếng? À, hóa ra phích cắm bị lỏng.
+插座|chāzuò|sáp tọa|N|ổ cắm|冰箱不能放這邊，因為這面牆上沒有插座，沒有地方插插頭。|Tủ lạnh không để bên này được vì bức tường này không có ổ cắm, không có chỗ cắm phích.
+於是|yúshì|ư thị|CONJ|thế là, do đó|鄰居說他們家可能有小偷進去了，於是他馬上跟老闆請假，趕回去看看。|Hàng xóm báo nhà anh ấy có thể có trộm vào, thế là anh ấy lập tức xin sếp nghỉ, vội về xem.
+摸|mō|mô|V|sờ, mò|我摸摸口袋，才發現一毛錢也沒帶！|Tôi sờ túi mới phát hiện không mang theo đồng nào!
+傻|shǎ|xọa|SV|ngốc, khờ|很多聰明女孩一談起戀愛來就變傻了，男朋友說什麼都相信。|Nhiều cô gái thông minh hễ yêu là trở nên ngốc, bạn trai nói gì cũng tin.
+傻瓜|shǎguā|xọa qua|N|đồ ngốc|大家都看得出來老張只是想利用你，只有你這個傻瓜才會以為他是好人。|Ai cũng thấy lão Trương chỉ muốn lợi dụng bạn, chỉ có đồ ngốc như bạn mới tưởng ông ta là người tốt.
+遲早|chízǎo|trì tảo|A|sớm muộn (= 早晚)|不管什麼人，遲早都會死的，不如趁活著的時候，好好兒地享受一下生活。|Dù là ai sớm muộn cũng chết, chi bằng nhân lúc còn sống tận hưởng cuộc sống.
+遲到|chídào|trì đáo|V|đến muộn|對不起！晚了二十分鐘，路上塞車，所以我遲到了。|Xin lỗi! Muộn hai mươi phút, đường tắc nên tôi đến muộn.
+羊|yáng|dương|N|con dê, con cừu|一隻黑羊在橋這邊，一隻白羊在橋那邊，兩隻羊都要過橋。|Một con dê đen ở đầu cầu này, một con dê trắng ở đầu cầu kia, cả hai con đều muốn qua cầu.
+窄|zhǎi|trách|SV|hẹp|我的腳寬，這雙鞋太窄了，我沒辦法穿。|Chân tôi bè, đôi giày này hẹp quá, tôi không đi được.
+肯|kěn|khẳng|AV|chịu, bằng lòng|老王雖然願意幫我搬家，可是不管我怎麼求他，他都不肯讓我用他的車來搬東西。|Lão Vương tuy sẵn lòng giúp tôi chuyển nhà, nhưng tôi năn nỉ thế nào cũng không chịu cho tôi dùng xe ông ấy chở đồ.
+讓|ràng|nhượng|V|nhường|在公共汽車上，我看見老人，一定把位子讓給他坐。|Trên xe buýt, thấy người già là tôi nhất định nhường chỗ.
+摔|shuāi|suất|V|ngã; quăng, đập mạnh|隔壁那對夫妻吵架以後，先生氣得把門一摔就走了。|Cặp vợ chồng bên cạnh cãi nhau xong, ông chồng tức giận đóng sầm cửa bỏ đi.
+摔倒|shuāi//dǎo|suất đảo|RC|ngã (xuống)|下了雪，路很滑，我一不小心就摔倒了。|Tuyết rơi, đường rất trơn, tôi sơ ý một cái là ngã.
+內容|nèiróng|nội dung|N|nội dung|李老師的演講沒什麼內容，大家都聽得很無聊。|Bài diễn thuyết của thầy Lý chẳng có nội dung gì, mọi người nghe rất chán.
+程度|chéngdù|trình độ|N|trình độ, mức độ|我對舞台劇的了解，程度沒有李教授那麼高，你還是去請教他吧。|Hiểu biết của tôi về kịch sân khấu không cao bằng giáo sư Lý, bạn nên đi hỏi ông ấy.
+亂七八糟|luàn qī bā zāo|loạn thất bát tao|IE|lộn xộn, rối tinh rối mù|小王今天歷史課的報告沒有準備好，講得亂七八糟。|Hôm nay Tiểu Vương không chuẩn bị báo cáo môn sử, trình bày lộn xộn hết cả.
+斧頭|fǔtou|phủ đầu|N|cái rìu|華盛頓小時候，有一次想試試看爸爸送的斧頭利不利。|Hồi nhỏ, có lần Washington muốn thử xem cái rìu bố tặng có sắc không.
+利|lì|lợi|SV|sắc, bén|這把刀是吃肉用的，所以很利。|Con dao này dùng để ăn thịt nên rất sắc.
+砍倒|kǎn//dǎo|khảm đảo|RC|chặt đổ|森林裡的樹不知道被誰砍倒了好幾棵，警察正在查。|Mấy cây trong rừng không biết bị ai chặt đổ, cảnh sát đang điều tra.
+砍|kǎn|khảm|V|chặt, chém; cắt giảm|我們實驗計畫的經費被砍了三分之一。|Kinh phí dự án thí nghiệm của chúng tôi bị cắt một phần ba.
+櫻桃|yīngtáo|anh đào|N|quả anh đào|那是爸爸最喜歡的一棵櫻桃樹。|Đó là cây anh đào bố thích nhất.
+桃子|táozi|đào tử|N|quả đào||
+屁股|pìgu|thí cổ|N|cái mông|小孩子坐不住，沒坐幾分鐘，就覺得屁股痛了。|Trẻ con không ngồi yên được, ngồi chưa được mấy phút đã thấy đau mông.
+放屁|fàng//pì|phóng thí|VO|đánh rắm; nói nhảm|剛剛有人在電梯裡放屁，臭得我受不了。|Vừa nãy có người đánh rắm trong thang máy, thối không chịu nổi.
+拍馬屁|pāi//mǎpì|phách mã thí|VO|nịnh bợ|小趙想要加薪，所以常常拍老闆馬屁。|Tiểu Triệu muốn tăng lương nên hay nịnh sếp.
+勇敢|yǒnggǎn|dũng cảm|SV|dũng cảm|房子裡的火很大，可是王太太還是很勇敢地跑進去救孩子。|Lửa trong nhà rất lớn, nhưng bà Vương vẫn dũng cảm chạy vào cứu con.
+站出來|zhàn chūlái|trạm xuất lai|V|đứng ra|老闆叫我走路，沒有一個人敢站出來替我說話，都怕自己也丟了工作。|Sếp đuổi việc tôi, không ai dám đứng ra nói giúp, ai cũng sợ mất việc.
+向|xiàng|hướng|CV|về phía, với (ai)|我一拿到獎學金，就馬上打電話向他道謝。|Tôi vừa nhận được học bổng là gọi điện cảm ơn ông ấy ngay.
+承認|chéngrèn|thừa nhận|V/N|thừa nhận, công nhận|這個孩子是小林的，可是他不想負責任，一直不肯承認。|Đứa bé này là con Tiểu Lâm, nhưng cậu ta không muốn chịu trách nhiệm, mãi không chịu thừa nhận.
+認錯|rèn//cuò|nhận thác|VO|nhận lỗi|這筆生意沒有做成，全公司都知道是張主任的問題，可是他為了面子，怎麼都不肯認錯。|Vụ làm ăn này không thành, cả công ty đều biết là lỗi của chủ nhiệm Trương, nhưng vì sĩ diện ông ấy nhất định không chịu nhận lỗi.
+誠實|chéngshí|thành thực|SV/N|thành thật, trung thực|誠實比什麼都重要，沒有老闆會願意用一個不誠實的人。|Trung thực quan trọng hơn hết, không ông chủ nào muốn dùng người không trung thực.
+老實|lǎoshí|lão thực|SV|thật thà|小高很老實，你跟他說什麼，他都相信。|Tiểu Cao rất thật thà, bạn nói gì cậu ấy cũng tin.
+老掉牙|lǎo diàoyá|lão điệu nha|AT|cũ rích, xưa như trái đất|這種老掉牙的笑話，我已經聽過幾千次了，誰還要聽啊？|Câu chuyện cười cũ rích này tôi nghe hàng nghìn lần rồi, ai còn muốn nghe?
+熟|shóu|thục|SV/RE|quen thuộc; chín; thuộc (lòng)|這附近我很熟，哪邊有餐廳，哪邊有郵局，我都很清楚。|Khu này tôi rất quen, chỗ nào có nhà hàng, chỗ nào có bưu điện tôi đều rõ.
+照|zhào|chiếu|A|vẫn cứ (như cũ)|明天要考試了，小錢還是照玩，去夜店喝酒、跳舞，一點也不緊張。|Mai thi rồi mà Tiểu Tiền vẫn cứ chơi, đi hộp đêm uống rượu, nhảy nhót, chẳng căng thẳng chút nào.
+#GRAMMAR
+NP1是關於NP2|"NP1 là về NP2": cho biết NP1 có liên quan đến NP2.|美真剛剛說了一個，是關於一個孝順孩子的故事。|Mỹ Chân vừa kể một chuyện, là chuyện về một đứa trẻ hiếu thảo.|張教授昨天講的內容是關於現代婦女的社會地位。|Nội dung giáo sư Trương giảng hôm qua là về địa vị xã hội của phụ nữ hiện đại.
+說也奇怪|"Nói ra cũng lạ": người nói thấy tình huống phía sau khó hiểu, không lý giải được nguyên nhân.|說也奇怪，他不但沒凍死，反而把冰融化了。|Nói ra cũng lạ, cậu bé không những không chết cóng mà còn làm tan cả băng.|那個人本來病得很重，快要死了，說也奇怪，吃了這個醫生的藥，第二天就好了。|Người đó vốn ốm rất nặng, sắp chết, nói cũng lạ, uống thuốc của bác sĩ này xong hôm sau đã khỏi.
+向來|"Xưa nay": 向來 và 從來 đều chỉ tình trạng không đổi từ trước đến nay; 向來 thường dùng câu khẳng định, 從來 thường dùng câu phủ định. 一直 chỉ tình trạng không đổi trong một khoảng thời gian có điểm đầu, điểm cuối rõ ràng.|我向來說話算話。|Tôi xưa nay nói lời giữ lời.|那還用說？！我向來重視環保。|Còn phải nói?! Tôi xưa nay luôn coi trọng bảo vệ môi trường.
+於是|"Thế là, bèn": việc sau 於是 thường do việc trước gây ra — vì tình huống trước nên có hành động sau; không chỉ là quan hệ nhân quả đơn thuần như 所以, không dùng cho hiện tượng tự nhiên. 於是 có thể đặt sau chủ ngữ.|他跑了幾步就想到不如把蛇打死，免得別人也看到，於是又跑回去把蛇打死了。|Cậu chạy được mấy bước thì nghĩ chi bằng đánh chết con rắn, kẻo người khác cũng nhìn thấy, thế là lại chạy về đánh chết con rắn.|政府注意到經濟全球化的影響，於是找專家研究出一些這方面的新政策。|Chính phủ nhận thấy ảnh hưởng của toàn cầu hóa kinh tế, bèn mời chuyên gia nghiên cứu một số chính sách mới về mặt này.
+遲早（早晚）|"Sớm muộn gì": một tình huống chắc chắn sẽ xảy ra trong tương lai, chỉ là sớm hay muộn.|好心的人遲早會有好結果的。|Người tốt bụng sớm muộn cũng sẽ có kết quả tốt.|我們應該對老人好一點，因為不管是誰，遲早都會老的。|Chúng ta nên đối xử tốt với người già, vì dù là ai sớm muộn cũng sẽ già.
+結果（CONJ）|"Kết quả là": ở bài 9 結果 là danh từ, ở đây là liên từ; phía sau là kết quả của việc phía trước, thường khác với mong đợi.|可是誰也不肯讓，就打了起來，結果都從橋上摔下來，掉進河裡去了。|Nhưng không con nào chịu nhường, thế là húc nhau, kết quả cả hai đều ngã khỏi cầu, rơi xuống sông.|那對夫婦整天吵個不停，朋友們怎麼勸都沒有用，結果離婚了。|Cặp vợ chồng đó cãi nhau suốt ngày, bạn bè khuyên thế nào cũng vô ích, kết quả là ly hôn.
+NP所V的（O）|"(Cái) mà NP V": bổ nghĩa cho tân ngữ phía sau, làm rõ chủ đề đang nói; 所 nhấn mạnh, bỏ đi nghĩa không đổi.|你可以用你所學過的詞彙，把故事說得有趣一點。|Bạn có thể dùng những từ vựng mà bạn đã học để kể câu chuyện thú vị hơn.|你所擔心的問題，我們已經想出辦法，可以解決了。|Vấn đề mà bạn lo lắng, chúng tôi đã nghĩ ra cách, có thể giải quyết rồi.
+照＋V|"Vẫn cứ V (như cũ)": 照 = 照樣/照舊; người nói thấy việc này lẽ ra không nên hoặc không cần làm, nhưng vẫn làm. V thường là động từ đơn âm tiết.|看你說得這麼辛苦，電影還是照請吧！|Thấy bạn kể vất vả thế, phim thì vẫn cứ mời vậy!|老李是老闆的親戚，什麼事都不做，可是工錢還是照拿。|Lão Lý là họ hàng của sếp, chẳng làm gì cả nhưng tiền công vẫn cứ lĩnh.

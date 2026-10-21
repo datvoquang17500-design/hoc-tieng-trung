@@ -1,0 +1,53 @@
+// PAVC4 bài 1: từ vựng + ngữ pháp đã có trong data.js (bộ L7), file này chỉ thêm bài hội thoại.
+#UNIT P4-01|實用視聽華語4 · 第一課 新年晚會
+#CONVO 實用視聽華語4 · 第一課 新年晚會
+|（在禮堂）|(Trong hội trường)
+李平|林建國，你把這張海報貼在門口，好不好？|Lâm Kiến Quốc, cậu dán tấm áp phích này ở cửa ra vào nhé?
+建國|等一下，我把這些桌子排好就去貼。|Đợi chút, tớ xếp xong mấy cái bàn này rồi đi dán.
+台麗|李平，你買的紙杯、紙盤放在哪裡了？我找不到。|Lý Bình, cốc giấy, đĩa giấy cậu mua để đâu rồi? Tớ tìm không thấy.
+李平|就在舞台上那個裝光碟的大紙袋裡。高偉立呢？|Ở trong cái túi giấy to đựng đĩa CD trên sân khấu ấy. Cao Vỹ Lập đâu?
+建國|他在舞台後面弄音響。（說著偉立走出來）|Cậu ấy đang chỉnh âm thanh sau sân khấu. (Đang nói thì Vỹ Lập bước ra)
+偉立|總算修理好了，剛剛那個機器忽然沒聲音了，把我急得滿頭大汗。誰管燈光啊？|Cuối cùng cũng sửa xong, vừa nãy cái máy tự nhiên mất tiếng, làm tớ cuống toát mồ hôi. Ai phụ trách ánh sáng thế?
+美真|那邊那個戴眼鏡，穿白襯衫的就是。你不認識吧？他是教育系的陸康。|Cái người đeo kính, mặc sơ mi trắng đằng kia đấy. Cậu không quen à? Cậu ấy là Lục Khang khoa Giáo dục.
+李平|喂！老陸！你過來一下。（陸康過來）這是高偉立，他負責音效。這是陸康。有什麼需要互相配合的，你們談談吧！|Này! Lão Lục! Qua đây chút. (Lục Khang đi tới) Đây là Cao Vỹ Lập, phụ trách âm thanh. Đây là Lục Khang. Có gì cần phối hợp thì hai cậu bàn với nhau nhé!
+美真|李平，你叫人去搬飲料跟點心了沒有？|Lý Bình, cậu đã cho người đi chở đồ uống với đồ ăn nhẹ chưa?
+李平|我已經派人去了，現在應該在回來的路上了。對了，等東西到了以後，麻煩你把點心拿出來，一樣一樣地排好。就擺在那兩個大桌子上好了。|Tớ cử người đi rồi, giờ chắc đang trên đường về. À, đồ đến rồi thì phiền cậu lấy đồ ăn nhẹ ra, bày từng loại một cho đẹp. Cứ bày trên hai cái bàn lớn kia là được.
+美真|是，會長！|Vâng, thưa hội trưởng!
+李平|別叫我會長，都是你們害的，下次可別再選我了！|Đừng gọi tớ là hội trưởng, đều tại các cậu cả, lần sau đừng bầu tớ nữa nhé!
+台麗|大家輪流服務嘛！|Mọi người thay phiên nhau phục vụ mà!
+李平|那明年就輪到你了！參加表演的人都準備好了嗎？|Vậy sang năm đến lượt cậu! Những người tham gia biểu diễn chuẩn bị xong cả chưa?
+台麗|我的節目大概沒問題，只要上台不緊張就行了。我看到參加服裝表演的同學已經開始化妝了。|Tiết mục của tớ chắc không vấn đề gì, chỉ cần lên sân khấu không run là được. Tớ thấy các bạn tham gia trình diễn trang phục đã bắt đầu trang điểm rồi.
+建國|（過來）海報貼好了，還要我做什麼？|(Đi tới) Dán áp phích xong rồi, còn cần tớ làm gì nữa?
+李平|好像都準備得差不多了，你休息一下吧！|Hình như chuẩn bị gần xong rồi, cậu nghỉ một lát đi!
+建國|今天有沒有人錄影啊？|Hôm nay có ai quay phim không?
+李平|活動中心的辦公室會派一個人來錄影，另外還有幾個同學會帶照相機來。|Văn phòng trung tâm hoạt động sẽ cử một người đến quay, ngoài ra còn mấy bạn sẽ mang máy ảnh đến.
+美真|（過來）今天有哪些老師會來？誰當招待啊？|(Đi tới) Hôm nay có những thầy cô nào đến? Ai lo tiếp khách?
+李平|校長、中文系、歷史系的主任都會來，到時候由我跟副會長來招待他們。|Hiệu trưởng, chủ nhiệm khoa Trung văn, khoa Lịch sử đều đến, lúc đó tớ và phó hội trưởng sẽ tiếp đón.
+偉立|（和陸康一起過來）行了，就等晚會開始了。|(Cùng Lục Khang đi tới) Xong rồi, chỉ chờ dạ hội bắt đầu thôi.
+李平|各位辛苦了，要不是大家幫忙，我一定忙不過來。|Mọi người vất vả rồi, nếu không có mọi người giúp chắc tớ lo không xuể.
+建國|那就給個紅包吧！大家發財。|Vậy thì lì xì đi! Chúc mọi người phát tài.
+李平|可惜經費不夠，很抱歉！我只能代表臺灣同學會謝謝大家。希望你們今天晚上都玩得很愉快。|Tiếc là kinh phí không đủ, xin lỗi nhé! Tớ chỉ có thể thay mặt Hội đồng hương Đài Loan cảm ơn mọi người. Mong tối nay mọi người chơi thật vui.
+|（在活動中心）|(Ở trung tâm hoạt động)
+李平|（走過來）咦！你們在這裡正好，要不要看相片？（打開背包拿出相機）|(Đi tới) Ơ! Các cậu ở đây đúng lúc quá, có muốn xem ảnh không? (Mở ba lô lấy máy ảnh ra)
+偉立|什麼相片？|Ảnh gì thế?
+李平|新年晚會照的啊！|Ảnh chụp ở dạ hội năm mới đấy!
+建國|噢！快給我看看。哇！你這個數位相機的螢幕好大，好清楚。|Ồ! Cho tớ xem mau. Oa! Màn hình máy ảnh kỹ thuật số của cậu to quá, rõ thật.
+偉立|台麗這張不錯。沒想到她的民族舞蹈跳得這麼好。|Tấm này của Đài Lệ đẹp đấy. Không ngờ cô ấy múa dân tộc giỏi thế.
+建國|（看另外一張）中間這個人是美真嗎？嘴張得這麼大，唱得好高興啊！|(Xem tấm khác) Người ở giữa là Mỹ Chân à? Há miệng to thế, hát vui ghê!
+偉立|她們唱歌的樣子很可愛，可是有一首我聽不懂。|Dáng các cô ấy hát rất dễ thương, nhưng có một bài tớ nghe không hiểu.
+李平|一定是那首臺灣民謠。你請美真給你翻譯吧！|Chắc là bài dân ca Đài Loan đó. Cậu nhờ Mỹ Chân dịch cho!
+偉立|好。（看下一張）這個人唱的京劇，我也是一句都不懂。我倒是對他的化妝很有興趣，他的動作也很美。|Được. (Xem tấm tiếp) Kinh kịch người này hát tớ cũng không hiểu câu nào. Nhưng tớ lại rất thích cách hóa trang của anh ấy, động tác cũng rất đẹp.
+李平|京劇的每一個動作都代表不同的意思，想了解的話，可以去請教張教授，聽說他對京劇相當有研究。|Mỗi động tác trong Kinh kịch đều mang một ý nghĩa khác nhau, muốn hiểu thì có thể hỏi giáo sư Trương, nghe nói ông ấy nghiên cứu Kinh kịch khá sâu.
+建國|哇！我這張真難看。我不記得我吃春捲的時候有人照相啊！|Oa! Tấm này của tớ xấu quá. Tớ không nhớ lúc ăn chả giò lại có người chụp!
+偉立|那是因為你一會兒餃子，一會兒餛飩，一會兒紅茶，一會兒咖啡，吃個不停，哪裡有時間注意別人？|Đó là vì cậu lúc thì sủi cảo, lúc thì hoành thánh, lúc thì hồng trà, lúc thì cà phê, ăn không ngừng, đâu còn thời gian để ý người khác?
+建國|不能怪我啊！誰叫他們準備了那麼多好吃的東西呢？|Không trách tớ được! Ai bảo họ chuẩn bị nhiều đồ ngon thế chứ?
+偉立|這倒是真的。李平，你們這次的晚會不但點心多、節目精彩，時間控制得也正好，真是成功極了！|Cái đó thì đúng. Lý Bình, dạ hội lần này của các cậu không chỉ nhiều đồ ăn, tiết mục đặc sắc mà thời gian cũng canh vừa khéo, thật thành công!
+李平|這次晚會辦得這麼順利，是大家合作得好。你們兩位也幫了不少忙啊！|Dạ hội lần này suôn sẻ như vậy là nhờ mọi người hợp tác tốt. Hai cậu cũng giúp không ít đâu!
+#Q
+晚會開始以前，高偉立負責什麼？|音效（在舞台後面弄音響）|燈光|招待老師|錄影|0
+誰管燈光？|教育系的陸康|林建國|李平|謝美真|0
+李平為什麼說「別叫我會長」？|他不喜歡當會長，下次別再選他了|他不是會長|他是副會長|會長是台麗|0
+誰會來錄影？|活動中心的辦公室會派一個人來錄影|張教授|台麗|沒有人錄影|0
+建國為什麼沒注意到有人替他照相？|他一會兒吃這個，一會兒吃那個，吃個不停|他在弄音響|他在貼海報|他在跳舞|0
+想了解京劇的動作，李平建議去請教誰？|張教授|陸康|美真|校長|0
+李平認為晚會為什麼辦得這麼順利？|大家合作得好|經費很多|節目很少|老師幫了很多忙|0

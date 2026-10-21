@@ -2,7 +2,7 @@
 // Từ vựng, nghĩa tiếng Việt, câu ví dụ theo tài liệu; âm Hán Việt và bản dịch câu ví dụ do Claude bổ sung.
 // Phần 語言點 trong tài liệu còn trống → mẫu câu lấy từ slide mục lục, ví dụ lấy từ bài hội thoại; giải thích do Claude soạn.
 // 毋庸置疑 có trong slide mục lục nhưng chưa có trong tài liệu → nghĩa và ví dụ do Claude soạn.
-#UNIT GH-08|各行各業 L8 · 裁員風波（醫療保健及社會工作服務業）
+#UNIT GH-08|各行各業說中文1 · 第八課 裁員風波
 #VOCAB
 風波|fēngbō|phong ba|N|sóng gió, rắc rối, khủng hoảng|這場裁員風波讓員工們非常不安。|Đợt sóng gió cắt giảm nhân sự này khiến nhân viên rất bất an.
 照護中心|zhàohù zhōngxīn|chiếu hộ trung tâm|Ph|trung tâm chăm sóc|奶奶目前住在一家設備完善的照護中心。|Bà hiện đang ở một trung tâm chăm sóc có trang thiết bị đầy đủ.

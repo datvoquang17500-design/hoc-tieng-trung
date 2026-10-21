@@ -1,7 +1,7 @@
 // 各行各業說中文 1 · 第10課 人往高處爬 — nguồn: slide 目錄 trên Drive (語言點 + 熟語).
 // Bảng từ vựng và bài hội thoại của bài chưa có trên Drive → sẽ bổ sung khi có tài liệu.
 // Giải thích tiếng Việt và câu ví dụ do Claude soạn.
-#UNIT GH-10|各行各業 L10 · 人往高處爬（出版傳媒業）
+#UNIT GH-10|各行各業說中文1 · 第十課 人往高處爬
 #VOCAB
 人往高處爬|rén wǎng gāochù pá|nhân vãng cao xứ ba|IDIOM|người ta ai cũng muốn tiến lên chỗ cao hơn|人往高處爬，有更好的機會當然要試試看。|Người ta ai cũng muốn tiến lên, có cơ hội tốt hơn thì đương nhiên phải thử.
 讚不絕口|zànbùjuékǒu|tán bất tuyệt khẩu|IDIOM|khen không ngớt lời|讀者對這本新書讚不絕口。|Độc giả khen cuốn sách mới này không ngớt lời.

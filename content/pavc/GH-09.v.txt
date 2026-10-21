@@ -1,7 +1,7 @@
 // 各行各業說中文 1 · 第9課 老闆與老闆娘 — nguồn: slide 目錄 trên Drive (語言點 + 熟語).
 // Bảng từ vựng và bài hội thoại của bài chưa có trên Drive → sẽ bổ sung khi có tài liệu.
 // Giải thích tiếng Việt và câu ví dụ do Claude soạn.
-#UNIT GH-09|各行各業 L9 · 老闆與老闆娘（補教業）
+#UNIT GH-09|各行各業說中文1 · 第九課 老闆與老闆娘
 #VOCAB
 勾心鬥角|gōuxīn-dòujiǎo|câu tâm đấu giác|IDIOM|đấu đá, tranh giành ngầm với nhau|我不喜歡大公司裡勾心鬥角的氣氛。|Tôi không thích bầu không khí đấu đá ngầm trong công ty lớn.
 斤斤計較|jīnjīn-jìjiào|cân cân kế giảo|IDIOM|tính toán chi li, so đo từng chút|老闆娘對每一筆小錢都斤斤計較。|Bà chủ so đo từng đồng nhỏ một.

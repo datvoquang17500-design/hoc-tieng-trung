@@ -1,5 +1,5 @@
-#UNIT P4-10|PAVC4 · L10 交通的問題
-#CONVO PAVC4 · L10 交通的問題
+#UNIT P4-10|實用視聽華語4 · 第十課 交通的問題
+#CONVO 實用視聽華語4 · 第十課 交通的問題
 |（活動中心外面）|(Bên ngoài trung tâm hoạt động)
 偉立|欸？那個穿紅上衣的是不是美真？|Ơ? Người mặc áo đỏ kia có phải Mỹ Chân không?
 建國|我也不敢確定，我來叫叫看。謝美真！|Tớ cũng không dám chắc, để tớ gọi thử. Tạ Mỹ Chân!

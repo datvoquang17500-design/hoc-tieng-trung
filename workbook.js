@@ -3,7 +3,7 @@
 const WORKBOOK = [
  {
   "id": "W4-01",
-  "title": "PAVC4 · L1 新年晚會",
+  "title": "實用視聽華語4 · 第一課 新年晚會",
   "sections": [
    {
     "id": "W4-01-1",
@@ -695,7 +695,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-02",
-  "title": "PAVC4 · L2 我們的休閒活動",
+  "title": "實用視聽華語4 · 第二課 我們的休閒活動",
   "sections": [
    {
     "id": "W4-02-1",
@@ -1201,7 +1201,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-03",
-  "title": "PAVC4 · L3 你看不看電視",
+  "title": "實用視聽華語4 · 第三課 你看不看電視",
   "sections": [
    {
     "id": "W4-03-1",
@@ -1857,7 +1857,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-04",
-  "title": "PAVC4 · L4 這個電影真好看",
+  "title": "實用視聽華語4 · 第四課 這個電影真好看",
   "sections": [
    {
     "id": "W4-04-1",
@@ -2609,7 +2609,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-05",
-  "title": "PAVC4 · L5 我愛看表演",
+  "title": "實用視聽華語4 · 第五課 我愛看表演",
   "sections": [
    {
     "id": "W4-05-1",
@@ -3277,7 +3277,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-06",
-  "title": "PAVC4 · L6 小心壞習慣",
+  "title": "實用視聽華語4 · 第六課 小心壞習慣",
   "sections": [
    {
     "id": "W4-06-1",
@@ -3872,7 +3872,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-07",
-  "title": "PAVC4 · L7 感情的事",
+  "title": "實用視聽華語4 · 第七課 感情的事",
   "sections": [
    {
     "id": "W4-07-1",
@@ -4611,7 +4611,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-08",
-  "title": "PAVC4 · L8 女人的地位不同了",
+  "title": "實用視聽華語4 · 第八課 女人的地位不同了",
   "sections": [
    {
     "id": "W4-08-1",
@@ -5461,7 +5461,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-09",
-  "title": "PAVC4 · L9 我看經濟發展",
+  "title": "實用視聽華語4 · 第九課 我看經濟發展",
   "sections": [
    {
     "id": "W4-09-1",
@@ -6184,7 +6184,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-10",
-  "title": "PAVC4 · L10 交通的問題",
+  "title": "實用視聽華語4 · 第十課 交通的問題",
   "sections": [
    {
     "id": "W4-10-1",
@@ -7083,7 +7083,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-11",
-  "title": "PAVC4 · L11 探親",
+  "title": "實用視聽華語4 · 第十一課 探親",
   "sections": [
    {
     "id": "W4-11-1",
@@ -7781,7 +7781,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-12",
-  "title": "PAVC4 · L12 救救我們的地球吧",
+  "title": "實用視聽華語4 · 第十二課 救救我們的地球吧",
   "sections": [
    {
     "id": "W4-12-1",
@@ -8615,7 +8615,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-13",
-  "title": "PAVC4 · L13 比比看誰會說故事",
+  "title": "實用視聽華語4 · 第十三課 比比看誰會說故事",
   "sections": [
    {
     "id": "W4-13-1",
@@ -9375,7 +9375,7 @@ const WORKBOOK = [
  },
  {
   "id": "W4-14",
-  "title": "PAVC4 · L14 來一段相聲",
+  "title": "實用視聽華語4 · 第十四課 來一段相聲",
   "sections": [
    {
     "id": "W4-14-1",

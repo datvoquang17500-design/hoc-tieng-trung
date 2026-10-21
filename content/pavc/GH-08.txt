@@ -1,6 +1,6 @@
 // 各行各業說中文 1 · 第8課 裁員風波 — hội thoại theo Google Docs trên Drive; bản dịch tiếng Việt và câu hỏi trắc nghiệm do Claude soạn từ phần 課前準備.
-#UNIT GH-08|各行各業 L8 · 裁員風波（醫療保健及社會工作服務業）
-#CONVO 各行各業 L8 · 裁員風波
+#UNIT GH-08|各行各業說中文1 · 第八課 裁員風波
+#CONVO 各行各業說中文1 · 第八課 裁員風波
 |在照護中心工作的老周面臨可能被裁員的問題，所以他到律師事務所請教律師李律。|Ông Chu làm ở một trung tâm chăm sóc đang đối mặt nguy cơ bị cắt giảm, nên đến văn phòng luật nhờ luật sư Lý tư vấn.
 老周|李律師，我昨天忽然被公司告知不必再去上班了，一點心理準備也沒有。我問老闆理由，只得到「現在公司面臨資金危機，必須減少人事成本」的回答。我已經快要退休了，哪裡有辦法再去找工作？我該怎麼辦？幫幫我吧，律師！|Luật sư Lý, hôm qua tôi đột nhiên bị công ty báo không cần đi làm nữa, không chuẩn bị tâm lý chút nào. Tôi hỏi sếp lý do thì chỉ nhận được câu "công ty đang khủng hoảng vốn, phải giảm chi phí nhân sự". Tôi sắp nghỉ hưu rồi, làm sao mà đi tìm việc khác được? Tôi phải làm sao? Giúp tôi với, luật sư!
 李律|你先別急，我處理過很多類似的案例，包在我身上。我國的勞基法中規定，如果雇主想解雇員工，有一定的條件和程序。尤其是當員工沒有重大過失，雇主是基於經營上的理由單方面要員工走路時，一定要提早通知，還要主動支付資遣費。只要登記在案的公司，就要按照勞基法的規定來走，並不能說裁就裁，你不必太過擔心。|Ông đừng vội, tôi đã xử lý nhiều vụ tương tự rồi, cứ để tôi lo. Luật Lao động nước ta quy định, nếu chủ muốn sa thải nhân viên thì phải có điều kiện và thủ tục nhất định. Đặc biệt khi nhân viên không có lỗi nghiêm trọng mà chủ đơn phương cho nghỉ vì lý do kinh doanh, thì nhất định phải báo trước và chủ động trả trợ cấp thôi việc. Công ty nào đã đăng ký thì đều phải làm theo Luật Lao động, không thể muốn cắt là cắt, ông không cần lo quá.
