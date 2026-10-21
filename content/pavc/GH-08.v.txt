@@ -1,20 +1,79 @@
-// 各行各業說中文 1 · 第8課 裁員風波 — nguồn: slide 目錄 trên Drive (語言點 + 熟語).
-// Bảng từ vựng và bài hội thoại của bài chưa có trên Drive → sẽ bổ sung khi có tài liệu.
-// Giải thích tiếng Việt và câu ví dụ do Claude soạn.
+// 各行各業說中文 1 · 第8課 裁員風波 — nguồn: Google Docs "L8 裁員風波 Layoff Crisis" trên Drive.
+// Từ vựng, nghĩa tiếng Việt, câu ví dụ theo tài liệu; âm Hán Việt và bản dịch câu ví dụ do Claude bổ sung.
+// Phần 語言點 trong tài liệu còn trống → mẫu câu lấy từ slide mục lục, ví dụ lấy từ bài hội thoại; giải thích do Claude soạn.
+// 毋庸置疑 có trong slide mục lục nhưng chưa có trong tài liệu → nghĩa và ví dụ do Claude soạn.
 #UNIT GH-08|各行各業 L8 · 裁員風波（醫療保健及社會工作服務業）
 #VOCAB
-共體時艱|gòngtǐ-shíjiān|cộng thể thời gian|IDIOM|cùng nhau chia sẻ, vượt qua thời buổi khó khăn|景氣不好，老闆希望大家共體時艱，暫時不加薪。|Kinh tế khó khăn, sếp mong mọi người cùng chia sẻ, tạm thời không tăng lương.
-風風雨雨|fēngfēng-yǔyǔ|phong phong vũ vũ|IDIOM|bao sóng gió, thăng trầm|這家醫院經歷了三十年的風風雨雨，才有今天的規模。|Bệnh viện này trải qua ba mươi năm sóng gió mới có quy mô như hôm nay.
-關關難過關關過|guānguān nánguò guānguān guò|quan quan nan quá quan quan quá|IDIOM|ải nào cũng khó nhưng rồi ải nào cũng qua|別太擔心，關關難過關關過，我們一起想辦法。|Đừng lo quá, cửa ải nào cũng khó nhưng rồi sẽ qua, chúng ta cùng nghĩ cách.
-一夕之間|yíxì zhījiān|nhất tịch chi gian|IDIOM|chỉ trong một đêm, rất đột ngột|公司一夕之間宣布裁員，大家都嚇了一跳。|Chỉ trong một đêm công ty tuyên bố cắt giảm nhân sự, ai cũng giật mình.
-何去何從|héqù-hécóng|hà khứ hà tòng|IDIOM|đi đâu về đâu, nên chọn hướng nào|被資遣以後，他一時不知道該何去何從。|Sau khi bị cho thôi việc, anh ấy nhất thời không biết nên đi đâu về đâu.
-無可避免|wúkě bìmiǎn|vô khả tị miễn|IDIOM|không thể tránh khỏi|部門合併以後，人事調整是無可避免的。|Sau khi sáp nhập phòng ban, việc điều chỉnh nhân sự là không thể tránh khỏi.
-好聚好散|hǎojù-hǎosàn|hảo tụ hảo tán|IDIOM|hợp tác vui vẻ thì chia tay cũng êm đẹp|就算要離職，也希望大家好聚好散。|Cho dù phải nghỉ việc, cũng mong mọi người chia tay trong êm đẹp.
-曠日費時|kuàngrì-fèishí|khoáng nhật phí thời|IDIOM|kéo dài, tốn nhiều thời gian|打官司曠日費時，不如先跟公司協商。|Kiện tụng rất mất thời gian, chi bằng thương lượng với công ty trước.
-求助無門|qiúzhù wúmén|cầu trợ vô môn|IDIOM|muốn nhờ giúp đỡ mà không biết tìm ai|很多外籍勞工被欠薪的時候都求助無門。|Nhiều lao động nước ngoài khi bị nợ lương đều không biết tìm ai giúp.
-毋庸置疑|wúyōng-zhìyí|vô dung trí nghi|IDIOM|không cần phải nghi ngờ, chắc chắn|她的專業能力是毋庸置疑的。|Năng lực chuyên môn của cô ấy là điều không cần bàn cãi.
+風波|fēngbō|phong ba|N|sóng gió, rắc rối, khủng hoảng|這場裁員風波讓員工們非常不安。|Đợt sóng gió cắt giảm nhân sự này khiến nhân viên rất bất an.
+照護中心|zhàohù zhōngxīn|chiếu hộ trung tâm|Ph|trung tâm chăm sóc|奶奶目前住在一家設備完善的照護中心。|Bà hiện đang ở một trung tâm chăm sóc có trang thiết bị đầy đủ.
+事務所|shìwùsuǒ|sự vụ sở|N|văn phòng (luật sư, kế toán…)|他畢業後進入了一家知名的律師事務所。|Tốt nghiệp xong anh ấy vào làm ở một văn phòng luật nổi tiếng.
+告知|gàozhī|cáo tri|V|thông báo, báo cho biết|公司已經提早告知員工這個變動。|Công ty đã báo trước cho nhân viên về thay đổi này.
+理由|lǐyóu|lý do|N|lý do|他辭職的理由是想回南部陪伴家人。|Lý do anh ấy nghỉ việc là muốn về miền Nam ở với gia đình.
+勞基法|láojīfǎ|lao cơ pháp|N|Luật Tiêu chuẩn Lao động (勞動基準法)|公司的規定必須符合勞基法的標準。|Quy định của công ty phải phù hợp tiêu chuẩn của Luật Lao động.
+雇主|gùzhǔ|cố chủ|N|người sử dụng lao động, chủ|身為雇主，他非常關心員工的福利。|Là người sử dụng lao động, ông ấy rất quan tâm đến phúc lợi của nhân viên.
+解雇|jiěgù|giải cố|V|sa thải, cho nghỉ việc|因為公司業務緊縮，他被解雇了。|Vì công ty thu hẹp hoạt động nên anh ấy bị cho nghỉ việc.
+過失|guòshī|quá thất|N|lỗi lầm, sơ suất|這次的意外完全是他的個人過失。|Tai nạn lần này hoàn toàn là lỗi của cá nhân anh ấy.
+基於|jīyú|cơ ư|Prep|dựa trên, xuất phát từ|基於成本考量，公司決定縮減預算。|Xuất phát từ cân nhắc chi phí, công ty quyết định cắt giảm ngân sách.
+支付|zhīfù|chi phó|V|chi trả, thanh toán|公司每個月五號會按時支付薪水。|Công ty trả lương đúng hạn vào ngày 5 hằng tháng.
+資遣|zīqiǎn|tư khiển|V|cho thôi việc (có trợ cấp); trợ cấp thôi việc|依法規定，公司必須支付資遣費給員工。|Theo luật, công ty phải trả trợ cấp thôi việc cho nhân viên.
+登記在案|dēngjì zài'àn|đăng ký tại án|Ph|đã đăng ký, có hồ sơ ghi nhận|這是一家合法登記在案的公司。|Đây là một công ty đã đăng ký hợp pháp.
+無預警|wú yùjǐng|vô dự cảnh|Vs-attr|không báo trước|公司昨天無預警地宣布關閉兩家分店。|Hôm qua công ty bất ngờ tuyên bố đóng cửa hai chi nhánh mà không báo trước.
+震驚|zhènjīng|chấn kinh|Vp|chấn động, bàng hoàng|聽到他突然離世的消息，我們都感到非常震驚。|Nghe tin anh ấy đột ngột qua đời, chúng tôi đều rất bàng hoàng.
+起碼|qǐmǎ|khởi mã|Adv|ít nhất, tối thiểu|這份工作起碼可以讓我維持基本的生活。|Công việc này ít nhất cũng giúp tôi duy trì cuộc sống cơ bản.
+殘酷|cánkù|tàn khốc|Vs|tàn khốc, tàn nhẫn|職場的競爭有時候是非常殘酷的。|Cạnh tranh nơi công sở đôi khi rất tàn khốc.
+粗糙|cūcāo|thô tháo|Vs|thô thiển, cẩu thả, không tinh tế|公司這次處理裁員的手法實在太粗糙了。|Cách công ty xử lý việc cắt giảm nhân sự lần này thật quá thô thiển.
+心寒|xīnhán|tâm hàn|Vs|lạnh lòng, thất vọng tràn trề|為公司賣命多年卻被無情解雇，讓他感到非常心寒。|Bán mạng cho công ty bao năm lại bị sa thải không thương tiếc, khiến anh ấy rất lạnh lòng.
+資方|zīfāng|tư phương|N|giới chủ, bên sử dụng lao động|資方同意在下個月調漲員工底薪。|Phía chủ đồng ý tăng lương cơ bản cho nhân viên từ tháng sau.
+濫用|lànyòng|lạm dụng|V|lạm dụng|這個主管常常濫用自己的職權欺負下屬。|Trưởng phòng này thường lạm dụng chức quyền bắt nạt cấp dưới.
+緊縮|jǐnsuō|khẩn súc|Vs|thu hẹp, cắt giảm|由於景氣不好，公司決定緊縮明年的預算。|Do kinh tế khó khăn, công ty quyết định cắt giảm ngân sách năm sau.
+終止|zhōngzhǐ|chung chỉ|V|chấm dứt, kết thúc|雙方決定在月底正式終止合作關係。|Hai bên quyết định chính thức chấm dứt hợp tác vào cuối tháng.
+契約|qìyuē|khế ước|N|hợp đồng, khế ước|員工到職時必須簽訂勞動契約。|Nhân viên khi nhận việc phải ký hợp đồng lao động.
+財務|cáiwù|tài vụ|N|tài chính (của cơ quan, doanh nghiệp)|公司的財務狀況最近出現了問題。|Tình hình tài chính của công ty gần đây có vấn đề.
+造假|zàojiǎ|tạo giả|Vi|làm giả, ngụy tạo|這家公司被查出有財務報表造假的行為。|Công ty này bị phát hiện làm giả báo cáo tài chính.
+自保|zìbǎo|tự bảo|Vi|tự bảo vệ bản thân|遇到職場性騷擾時，必須學會蒐集證據自保。|Khi bị quấy rối ở nơi làm việc, phải biết thu thập chứng cứ để tự bảo vệ.
+絕望|juéwàng|tuyệt vọng|Vs|tuyệt vọng|找工作連續碰壁幾個月，讓他感到非常絕望。|Tìm việc liên tục thất bại mấy tháng khiến anh ấy rất tuyệt vọng.
+悲觀|bēiguān|bi quan|Vs|bi quan|他對目前的經濟情勢抱持非常悲觀的態度。|Anh ấy có thái độ rất bi quan về tình hình kinh tế hiện nay.
+證明|zhèngmíng|chứng minh|N/V|chứng minh; bằng chứng, giấy xác nhận|他用實際行動證明了自己可以勝任這份工作。|Anh ấy dùng hành động thực tế chứng minh mình đảm nhận được công việc này.
+事實|shìshí|sự thực|N|sự thật, thực tế|無論你怎麼掩飾，事實終究會水落石出。|Dù bạn che giấu thế nào, sự thật rồi cũng sáng tỏ.
+泡湯了|pàotāng le|phao thang liễu|Id|đi tong, tan thành mây khói|突然下起大雨，我們去海邊的計畫全泡湯了。|Trời đột nhiên mưa to, kế hoạch đi biển của chúng tôi đi tong hết.
+安置|ānzhì|an trí|V|bố trí, sắp xếp chỗ (ở, làm việc)|政府已經將受災戶妥善安置在臨時收容所。|Chính phủ đã bố trí ổn thỏa các hộ bị thiên tai ở nơi tạm trú.
+迴避|huíbì|hồi tị|V|né tránh|他總是在迴避我們提出的核心問題。|Anh ta luôn né tránh vấn đề cốt lõi chúng tôi đặt ra.
+招募|zhāomù|chiêu mộ|V|tuyển dụng, chiêu mộ|公司目前正在大規模招募工程師。|Công ty hiện đang tuyển kỹ sư quy mô lớn.
+自願|zìyuàn|tự nguyện|Adv|tự nguyện|他是自願放棄這次升遷機會的。|Anh ấy tự nguyện từ bỏ cơ hội thăng chức lần này.
+為止|wéizhǐ|vi chỉ|Vs|cho đến (khi)|到目前為止，我們還沒收到任何回應。|Cho đến nay chúng tôi vẫn chưa nhận được phản hồi nào.
+風聲|fēngshēng|phong thanh|N|tin đồn, tiếng gió|最近公司有要裁員的風聲傳出來。|Gần đây có tin đồn công ty sắp cắt giảm nhân sự.
+法院|fǎyuàn|pháp viện|N|tòa án|他決定向法院提起訴訟來爭取權利。|Anh ấy quyết định khởi kiện ra tòa để đòi quyền lợi.
+屆齡|jièlíng|giới linh|Adv|đến tuổi (thường là tuổi nghỉ hưu)|王經理明年就屆齡退休了。|Năm sau giám đốc Vương đến tuổi nghỉ hưu.
+強制|qiángzhì|cưỡng chế|V|cưỡng chế, ép buộc|法院已經下令強制執行這項扣款。|Tòa án đã ra lệnh cưỡng chế thi hành khoản khấu trừ này.
+不得|bùdé|bất đắc|Vaux|không được phép|考試期間，考生不得攜帶手機入場。|Trong giờ thi, thí sinh không được mang điện thoại vào phòng.
+予以|yǔyǐ|dữ dĩ|Vaux|cho, dành cho (xử phạt, xem xét… — văn bản trang trọng)|對於嚴重違反紀律的員工，公司將予以開除。|Với nhân viên vi phạm kỷ luật nghiêm trọng, công ty sẽ cho thôi việc.
+站不住腳|zhànbúzhù jiǎo|trạm bất trụ cước|Ph|không đứng vững, không có cơ sở|他的辯解充滿漏洞，根本站不住腳。|Lời biện hộ của anh ta đầy lỗ hổng, hoàn toàn không đứng vững.
+寄託|jìtuō|ký thác|Vi|gửi gắm|父母將所有的希望都寄託在孩子身上。|Cha mẹ gửi gắm mọi hy vọng vào con cái.
+樂觀|lèguān|lạc quan|Vs|lạc quan|儘管遇到挫折，他依然保持樂觀的心態。|Dù gặp thất bại, anh ấy vẫn giữ tinh thần lạc quan.
+籌碼|chóumǎ|trù mã|N|lợi thế thương lượng, con bài mặc cả|手中的關鍵技術是我們談判的最大籌碼。|Công nghệ then chốt trong tay là con bài thương lượng lớn nhất của chúng tôi.
+任意|rènyì|nhậm ý|Adv|tùy ý, tự ý|請不要在公共場所任意丟棄垃圾。|Xin đừng tùy tiện vứt rác ở nơi công cộng.
+倘若|tǎngruò|thảng nhược|Conj|nếu như, giả sử (trang trọng)|倘若明天下雨，活動就改在室內舉行。|Nếu mai trời mưa, hoạt động sẽ chuyển vào trong nhà.
+不當|búdàng|bất đáng|Adv|không thỏa đáng, không đúng (cách)|由於主管處理不當，導致顧客非常生氣。|Do trưởng phòng xử lý không thỏa đáng nên khách hàng rất tức giận.
+雇傭|gùyōng|cố dung|N|thuê mướn; quan hệ chủ – người làm|雙方簽名後，正式建立合法的雇傭關係。|Sau khi hai bên ký, quan hệ thuê mướn hợp pháp chính thức được xác lập.
+訴訟|sùsòng|tố tụng|N|kiện tụng, tố tụng|為了解決版權爭議，這家公司決定提起訴訟。|Để giải quyết tranh chấp bản quyền, công ty này quyết định khởi kiện.
+撕破臉|sīpò liǎn|tê phá kiểm|Id|trở mặt, cạn tình|為了爭奪家產，兄弟倆最後還是撕破臉了。|Vì tranh giành gia sản, hai anh em cuối cùng vẫn trở mặt.
+途徑|tújìng|đồ kính|N|con đường, cách thức|他決定透過法律途徑來討回公道。|Anh ấy quyết định đòi lại công bằng bằng con đường pháp lý.
+行政主管機關|xíngzhèng zhǔguǎn jīguān|hành chính chủ quản cơ quan|Ph|cơ quan hành chính chủ quản|勞資糾紛可以向當地的勞工行政主管機關申請調解。|Tranh chấp lao động có thể xin hòa giải tại cơ quan quản lý lao động địa phương.
+調解|tiáojiě|điều giải|V|hòa giải|經過委員的耐心調解，雙方終於達成共識。|Qua sự hòa giải kiên nhẫn của ủy viên, hai bên cuối cùng đạt được đồng thuận.
+有個底|yǒu ge dǐ|hữu cá để|Ph|nắm được tình hình, trong lòng có tính toán|聽完主管的說明，我對明年的計畫總算有個底了。|Nghe trưởng phòng giải thích xong, tôi cuối cùng cũng nắm được kế hoạch năm sau.
+安心|ānxīn|an tâm|Vs|yên tâm|看到孩子平安回家，父母才終於安心下來。|Thấy con về nhà bình an, cha mẹ mới yên tâm.
+共體時艱|gòngtǐ shíjiān|cộng thể thời gian|IDIOM|cùng nhau vượt qua thời kỳ khó khăn|最近公司業績不好，暫時不能幫大家加薪，也請各位同仁共體時艱。|Gần đây kết quả kinh doanh không tốt, tạm thời không thể tăng lương, mong các đồng nghiệp cùng chia sẻ khó khăn.
+風風雨雨|fēngfēng yǔyǔ|phong phong vũ vũ|IDIOM|sóng gió thăng trầm, gian nan thử thách|老闆為了感謝員工跟公司一起走過風風雨雨，宣布全體員工加薪百分之十。|Để cảm ơn nhân viên đã cùng công ty vượt qua sóng gió, sếp tuyên bố tăng lương 10% cho toàn thể nhân viên.
+關關難過關關過|guānguān nánguò guānguān guò|quan quan nan quá quan quan quá|IDIOM|ải nào cũng khó nhưng rồi ải nào cũng qua|我剛開始經營這家公司的時候碰到很多困難，幸好沒放棄，關關難過關關過，到現在已經過了十年了。|Lúc mới điều hành công ty tôi gặp nhiều khó khăn, may mà không bỏ cuộc, khó mấy rồi cũng qua, đến nay đã mười năm.
+一夕之間|yíxì zhījiān|nhất tịch chi gian|IDIOM|chỉ trong một đêm, trong chốc lát|如果我在一夕之間丟了工作，那可慘了！|Nếu chỉ trong một đêm mà tôi mất việc thì thảm rồi!
+何去何從|héqù hécóng|hà khứ hà tòng|IDIOM|biết đi đâu về đâu, nên chọn đường nào|公司倒閉了，這些員工都不知道該何去何從。|Công ty phá sản, những nhân viên này không biết đi đâu về đâu.
+無可避免|wúkě bìmiǎn|vô khả tị miễn|IDIOM|không thể tránh khỏi|總經理表示，因為虧損嚴重，所以裁員是無可避免的決定。|Tổng giám đốc cho biết vì lỗ nặng nên cắt giảm nhân sự là quyết định không thể tránh khỏi.
+好聚好散|hǎojù hǎosàn|hảo tụ hảo tán|IDIOM|đến với nhau vui vẻ, chia tay nhẹ nhàng|員工辭職時，主管跟下屬好聚好散是一門學問。|Khi nhân viên nghỉ việc, để cấp trên và cấp dưới chia tay êm đẹp là cả một nghệ thuật.
+曠日費時|kuàngrì fèishí|khoáng nhật phí thời|IDIOM|tốn nhiều thời gian và sức lực|走法律途徑的話，不但曠日費時，還會影響正常的生活。|Đi đường pháp lý thì không những tốn thời gian mà còn ảnh hưởng đến cuộc sống bình thường.
+求助無門|qiúzhù wúmén|cầu trợ vô môn|IDIOM|muốn nhờ giúp mà không biết tìm ai|他在網路上買到了瑕疵品，現在找不到賣家了，真是求助無門。|Anh ấy mua phải hàng lỗi trên mạng, giờ không tìm được người bán, thật không biết kêu ai.
+毋庸置疑|wúyōng zhìyí|vô dung trí nghi|IDIOM|không cần phải nghi ngờ, chắc chắn|她的專業能力是毋庸置疑的。|Năng lực chuyên môn của cô ấy là điều không cần bàn cãi.
 #GRAMMAR
-……忽然被（公司）告知……|"…đột nhiên bị (công ty) thông báo…" — kể lại một tình huống bất ngờ ở nơi làm việc (bị động với 被).|我上個月忽然被公司告知，下個月起不用來上班了。|Tháng trước tôi đột nhiên bị công ty thông báo từ tháng sau không cần đi làm nữa.|她昨天忽然被主管告知，要調到別的分院。|Hôm qua cô ấy bất ngờ được trưởng phòng báo sẽ bị điều sang chi nhánh khác.
-……規定……，尤其是……，一定要……|"(Luật) quy định…, đặc biệt là…, nhất định phải…" — trích dẫn quy định rồi nhấn mạnh điểm quan trọng nhất.|勞基法規定資遣要事先預告，尤其是年資長的員工，一定要給足資遣費。|Luật lao động quy định cho thôi việc phải báo trước, đặc biệt là nhân viên thâm niên lâu thì nhất định phải trả đủ trợ cấp thôi việc.|公司規定請假要先申請，尤其是連續請三天以上，一定要附證明。|Công ty quy định nghỉ phép phải xin trước, nhất là nghỉ liên tục từ ba ngày trở lên thì nhất định phải kèm giấy tờ.
-真的沒想到……，我們該怎麼自保？|"Thật không ngờ…, chúng ta nên tự bảo vệ mình thế nào?" — bày tỏ bất ngờ rồi hỏi cách ứng phó.|真的沒想到公司會一次裁掉這麼多人，我們該怎麼自保？|Thật không ngờ công ty cắt một lúc nhiều người như vậy, chúng ta nên tự bảo vệ thế nào?|真的沒想到合約裡有這麼多陷阱，我們該怎麼自保？|Thật không ngờ trong hợp đồng có nhiều cái bẫy thế, chúng ta phải tự bảo vệ ra sao?
-不要說……，倘若真的……|"Đừng nói (đến chuyện)…, nếu thật sự… (thì…)" — gạt đi điều nhỏ, nêu giả thiết nghiêm trọng hơn; 倘若 = 如果 (văn viết, trang trọng).|不要說加薪了，倘若真的裁員，我們連工作都保不住。|Đừng nói chuyện tăng lương, nếu thật sự cắt giảm nhân sự thì chúng ta đến việc làm cũng không giữ được.|不要說年終獎金，倘若真的倒閉，薪水都不一定拿得到。|Đừng nói tiền thưởng cuối năm, nếu thật sự phá sản thì lương cũng chưa chắc lấy được.
+……忽然被（公司）告知……|Kể lại tình huống đột xuất gặp phải ở nơi làm việc: "…đột nhiên bị (công ty) thông báo…" (bị động với 被).|李律師，我昨天忽然被公司告知不必再去上班了，一點心理準備也沒有。|Luật sư Lý, hôm qua tôi đột nhiên bị công ty báo không cần đi làm nữa, không chuẩn bị tâm lý chút nào.|她上個月忽然被主管告知，要調到別的分院。|Tháng trước cô ấy bất ngờ được trưởng phòng báo sẽ bị điều sang chi nhánh khác.
+……規定……，尤其是……，一定要……|Trích dẫn quy định (luật) rồi nhấn mạnh điểm quan trọng: "…quy định…, đặc biệt là…, nhất định phải…".|我國的勞基法中規定，如果雇主想解雇員工，有一定的條件和程序。尤其是當員工沒有重大過失，雇主是基於經營上的理由單方面要員工走路時，一定要提早通知，還要主動支付資遣費。|Luật Lao động nước ta quy định, nếu chủ muốn sa thải nhân viên thì phải có điều kiện và thủ tục nhất định. Đặc biệt khi nhân viên không có lỗi nghiêm trọng mà chủ đơn phương cho nghỉ vì lý do kinh doanh, thì nhất định phải báo trước và chủ động trả trợ cấp thôi việc.|公司規定請假要先申請，尤其是連續請三天以上，一定要附證明。|Công ty quy định nghỉ phép phải xin trước, nhất là nghỉ liên tục từ ba ngày trở lên thì nhất định phải kèm giấy tờ.
+真的沒想到……，我們該怎麼自保？|Bày tỏ cảm xúc bất ngờ rồi nêu băn khoăn, hỏi cách ứng phó: "Thật không ngờ…, chúng ta nên tự bảo vệ thế nào?".|從年輕為公司努力工作，一路上風風雨雨，真的沒想到會有這麼一天。我們這些資深員工真的不能接受！我們該怎麼自保？|Từ hồi trẻ đã làm việc chăm chỉ cho công ty, suốt chặng đường sóng gió, thật không ngờ lại có ngày này. Chúng tôi là nhân viên lâu năm thật sự không chấp nhận được! Chúng tôi nên tự bảo vệ thế nào?|真的沒想到合約裡有這麼多陷阱，我們該怎麼自保？|Thật không ngờ trong hợp đồng có nhiều cái bẫy thế, chúng ta phải tự bảo vệ ra sao?
+不要說……，倘若真的……|Trấn an rồi nêu giả thiết xấu nhất kèm cách giải quyết: "Đừng nói (đến chuyện)…, nếu thật sự… (thì…)"; 倘若 = 如果 (trang trọng).|不要說你的公司不能任意把你裁掉，倘若真的遭到不當解雇，你可以向法院提起確認雇傭關係的訴訟。|Chưa nói công ty bạn không được tùy tiện cắt bạn, nếu thật sự bị sa thải không đúng luật, bạn có thể khởi kiện ra tòa yêu cầu xác nhận quan hệ lao động.|不要說加薪了，倘若真的裁員，我們連工作都保不住。|Đừng nói chuyện tăng lương, nếu thật sự cắt giảm nhân sự thì chúng ta đến việc làm cũng không giữ được.

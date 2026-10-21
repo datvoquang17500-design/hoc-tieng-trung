@@ -1,18 +1,86 @@
-// 各行各業說中文 1 · 第7課 旅遊補助 — nguồn: slide 目錄 trên Drive (語言點 + 熟語).
-// Bảng từ vựng và bài hội thoại của bài chưa có trên Drive → sẽ bổ sung khi có tài liệu.
-// Giải thích tiếng Việt và câu ví dụ do Claude soạn.
-#UNIT GH-07|各行各業 L7 · 旅遊補助（金融及保險業）
+// 各行各業說中文 1 · 第7課 旅遊補貼 — nguồn: Google Docs "L7 旅遊補貼 Travel Allowance" trên Drive.
+// Từ vựng, nghĩa tiếng Việt, câu ví dụ, mẫu ngữ pháp theo tài liệu; âm Hán Việt và bản dịch câu ví dụ do Claude bổ sung.
+#UNIT GH-07|各行各業 L7 · 旅遊補貼（金融及保險業）
 #VOCAB
-攜家帶眷|xiéjiā-dàijuàn|huề gia đái quyến|IDIOM|dắt díu cả gia đình (đi cùng)|今年的員工旅遊可以攜家帶眷，所以報名的人特別多。|Chuyến du lịch công ty năm nay được dẫn cả gia đình theo nên người đăng ký đặc biệt đông.
-有聲有色|yǒushēng-yǒusè|hữu thanh hữu sắc|IDIOM|sinh động, làm rất khởi sắc, rất bài bản|她把福利委員會辦得有聲有色，大家都很滿意。|Cô ấy điều hành ban phúc lợi rất bài bản, ai cũng hài lòng.
-心花怒放|xīnhuā-nùfàng|tâm hoa nộ phóng|IDIOM|vui sướng như mở cờ trong bụng|一聽到公司要補助出國旅遊，同事們都心花怒放。|Vừa nghe công ty sẽ hỗ trợ du lịch nước ngoài, đồng nghiệp ai nấy đều mừng như mở cờ.
-一視同仁|yíshì-tóngrén|nhất thị đồng nhân|IDIOM|đối xử công bằng như nhau, không phân biệt|旅遊補助對正職和約聘員工一視同仁。|Trợ cấp du lịch áp dụng như nhau cho nhân viên chính thức và nhân viên hợp đồng.
-有所不知|yǒusuǒ bùzhī|hữu sở bất tri|IDIOM|(anh/chị) có điều chưa biết (dùng để giải thích thêm)|你有所不知，申請補助以前一定要先拿到主管的簽名。|Anh có điều chưa biết, trước khi xin trợ cấp nhất định phải có chữ ký của trưởng phòng.
-大同小異|dàtóng-xiǎoyì|đại đồng tiểu dị|IDIOM|giống nhau là chính, chỉ khác chút ít|這兩家旅行社的行程大同小異，主要是價錢不一樣。|Lịch trình của hai công ty du lịch này gần như giống nhau, chủ yếu khác ở giá.
-老少咸宜|lǎoshào-xiányí|lão thiếu hàm nghi|IDIOM|già trẻ đều thích hợp|這個行程老少咸宜，帶父母和孩子一起去都沒問題。|Lịch trình này già trẻ đều hợp, dẫn cả bố mẹ lẫn con cái đi đều không sao.
+員工旅遊|yuángōng lǚyóu|viên công lữ du|Ph|du lịch công ty (= 員旅)|我們公司每年都會舉辦一次國內外的員工旅遊。|Công ty chúng tôi mỗi năm đều tổ chức một chuyến du lịch công ty trong hoặc ngoài nước.
+福委|fúwěi|phúc ủy|N|ủy viên ban phúc lợi (= 福利委員)|他今年被推選為福委，負責籌辦年底的尾牙。|Năm nay anh ấy được bầu làm ủy viên phúc lợi, phụ trách tổ chức tiệc tất niên.
+旗下|qíxià|kỳ hạ|N|trực thuộc, dưới trướng (công ty con, thương hiệu)|這家餐廳是知名餐飲集團旗下的新品牌。|Nhà hàng này là thương hiệu mới trực thuộc một tập đoàn ẩm thực nổi tiếng.
+亮眼|liàngyǎn|lượng nhãn|Vs|nổi bật, xuất sắc (thành tích)|我們部門在上一季交出了非常亮眼的銷售成績。|Phòng chúng tôi quý trước đạt thành tích bán hàng rất nổi bật.
+大手筆|dàshǒubǐ|đại thủ bút|Adv|hào phóng, mạnh tay (chi tiền)|董事長大手筆包下整間飯店，讓員工免費入住。|Chủ tịch mạnh tay bao trọn cả khách sạn cho nhân viên ở miễn phí.
+豐厚|fēnghòu|phong hậu|Vs|hậu hĩnh, dồi dào|只要達成業績目標，公司會發放豐厚的獎金。|Chỉ cần đạt chỉ tiêu doanh số, công ty sẽ phát tiền thưởng hậu hĩnh.
+犒賞|kàoshǎng|khao thưởng|V|khao thưởng, tưởng thưởng (vì làm việc vất vả)|專案順利結束後，老闆請吃大餐來犒賞大家。|Dự án kết thúc suôn sẻ, sếp mời ăn một bữa lớn để khao mọi người.
+全體|quántǐ|toàn thể|N|toàn thể (nhân viên)|這封重要郵件已經發送給全體員工了。|Email quan trọng này đã được gửi cho toàn thể nhân viên.
+出遊|chūyóu|xuất du|Vi|đi chơi, đi du lịch|趁著連假，我們全家人打算去花東出遊。|Nhân kỳ nghỉ dài, cả nhà tôi định đi chơi Hoa Liên – Đài Đông.
+羨煞|xiànshà|tiện sát|Vpt|khiến (ai) vô cùng ghen tị|他抽中了頭獎，真是羨煞了在場的所有人。|Anh ấy bốc trúng giải nhất, khiến tất cả mọi người có mặt ghen tị.
+金融|jīnróng|kim dung|N|tài chính, ngân hàng|他大學畢業後就進入金融業工作。|Tốt nghiệp đại học xong anh ấy vào làm ngành tài chính.
+向來|xiànglái|hướng lai|Adv|từ trước đến nay, xưa nay|他向來準時，今天遲到一定是遇到了突發狀況。|Anh ấy xưa nay luôn đúng giờ, hôm nay đến muộn chắc chắn là gặp chuyện đột xuất.
+向心力|xiàngxīnlì|hướng tâm lực|N|tinh thần đoàn kết, sự gắn kết|舉辦員工旅遊可以有效提升團隊的向心力。|Tổ chức du lịch công ty có thể nâng cao sự gắn kết của đội ngũ.
+集團|jítuán|tập đoàn|N|tập đoàn (kinh doanh)|這間連鎖超市是由一家大型跨國集團所經營的。|Chuỗi siêu thị này do một tập đoàn đa quốc gia lớn điều hành.
+同質性|tóngzhíxìng|đồng chất tính|Vs-attr|tính đồng nhất, cùng loại|市面上的智慧型手機同質性越來越高了。|Điện thoại thông minh trên thị trường ngày càng giống nhau.
+分批|fēnpī|phân phê|Adv|chia thành từng đợt, từng nhóm|因為人數太多，員工旅遊將分批舉辦。|Vì quá đông người nên du lịch công ty sẽ tổ chức thành nhiều đợt.
+往年|wǎngnián|vãng niên|N|những năm trước (= 以往)|今年的冬天比往年還要冷很多。|Mùa đông năm nay lạnh hơn những năm trước nhiều.
+踴躍|yǒngyuè|dũng dược|Vs/Adv|sôi nổi, hăng hái, nhiệt tình|這次的講座非常受歡迎，大家報名得很踴躍。|Buổi tọa đàm lần này rất được hoan nghênh, mọi người đăng ký rất sôi nổi.
+私下|sīxià|tư hạ|Adv|riêng tư, ngấm ngầm (= 私底下 ↔ 公開)|關於薪資的問題，你可以私下找主管討論。|Chuyện lương bổng bạn có thể tìm trưởng phòng bàn riêng.
+承辦|chéngbàn|thừa biện|V|đảm nhận tổ chức, thụ lý|今年的運動會由我們公關部負責承辦。|Hội thao năm nay do phòng PR chúng tôi đảm nhận tổ chức.
+長灘島|Chángtāndǎo|Trường Than đảo|N|đảo Boracay (Philippines)|我一直很想去長灘島享受陽光和沙灘。|Tôi luôn muốn đến Boracay tận hưởng nắng và bãi cát.
+傾向|qīngxiàng|khuynh hướng|V/N|thiên về, có khuynh hướng; khuynh hướng|在選擇旅遊地點時，我個人比較傾向去日本。|Khi chọn điểm du lịch, cá nhân tôi thiên về đi Nhật hơn.
+高檔|gāodǎng|cao đáng|Vs-attr|cao cấp, đắt tiền|為了慶祝結婚紀念日，他訂了一間高檔的法式餐廳。|Để kỷ niệm ngày cưới, anh ấy đặt một nhà hàng Pháp cao cấp.
+飯店|fàndiàn|phạn điếm|N|khách sạn (ở Đài Loan)|這家飯店的設施非常齊全，還有游泳池和健身房。|Khách sạn này tiện nghi rất đầy đủ, còn có hồ bơi và phòng gym.
+乾脆|gāncuì|can thúy|Adv/Vs|dứt khoát; thà… luôn cho rồi|既然車子一直修不好，乾脆買一輛新的吧。|Xe đã sửa mãi không được thì mua luôn chiếc mới cho rồi.
+額度|édù|ngạch độ|N|hạn mức|公司今年給每個員工的旅遊補助額度是一萬元。|Hạn mức trợ cấp du lịch công ty cho mỗi nhân viên năm nay là 10.000 tệ.
+自費|zìfèi|tự phí|Vi|tự túc, tự trả tiền|行程表上寫得很清楚，水上活動是需要自費的。|Lịch trình ghi rất rõ, các hoạt động dưới nước phải tự trả tiền.
+況且|kuàngqiě|huống thả|Conj|hơn nữa, vả lại|外面下大雨，況且現在也很晚了，你就別出去了吧。|Ngoài trời mưa to, vả lại bây giờ cũng muộn rồi, bạn đừng ra ngoài nữa.
+就我所知|jiù wǒ suǒzhī|tựu ngã sở tri|Ph|theo như tôi biết|就我所知，老闆明天會出差，不會進辦公室。|Theo tôi biết, mai sếp đi công tác, không vào văn phòng.
+優先|yōuxiān|ưu tiên|N/Adv|ưu tiên|在招募新員工時，我們會優先考慮有相關經驗的人。|Khi tuyển nhân viên mới, chúng tôi ưu tiên người có kinh nghiệm liên quan.
+暫定|zhàndìng|tạm định|V|tạm định, tạm thời quyết định|下次會議的時間暫定在下週三下午兩點。|Cuộc họp lần sau tạm định vào 2 giờ chiều thứ Tư tuần sau.
+接洽|jiēqià|tiếp hiệp|V|liên hệ, bàn bạc (công việc)|這次的場地租借，我已經請助理去跟飯店接洽了。|Việc thuê địa điểm lần này, tôi đã nhờ trợ lý liên hệ với khách sạn.
+請領|qǐnglǐng|thỉnh lĩnh|V|xin nhận (tiền, trợ cấp, vật dụng)|員工到職滿半年，就可以向福委會請領生日禮金。|Nhân viên làm đủ nửa năm là có thể xin ban phúc lợi nhận tiền mừng sinh nhật.
+攜伴|xiébàn|huề bạn|Vi|dẫn theo người đi cùng|這次的公司尾牙歡迎員工攜伴參加。|Tiệc tất niên công ty lần này hoan nghênh nhân viên dẫn người đi cùng.
+直系|zhíxì|trực hệ|Vs-attr|trực hệ (họ hàng)|父母、祖父母和子女都屬於直系血親。|Bố mẹ, ông bà và con cái đều là người thân trực hệ.
+親屬|qīnshǔ|thân thuộc|N|người thân, họ hàng|他在美國沒有任何親屬，是一個人去留學的。|Anh ấy không có người thân nào ở Mỹ, một mình sang du học.
+眷屬|juànshǔ|quyến thuộc|N|người nhà, thân nhân (vợ/chồng, con cái)|公司的醫療保險也涵蓋了員工的眷屬。|Bảo hiểm y tế của công ty cũng bao gồm người nhà của nhân viên.
+配給|pèijǐ|phối cấp|V|phân phối, cấp phát (theo tiêu chuẩn)|公司的制服是依照職級來配給的。|Đồng phục công ty được cấp phát theo cấp bậc.
+全額|quán'é|toàn ngạch|Vs-attr|toàn bộ số tiền, toàn phần|只要年資滿十年，參加員工旅遊就可以獲得全額補助。|Chỉ cần thâm niên đủ mười năm, đi du lịch công ty sẽ được trợ cấp toàn phần.
+體恤|tǐxù|thể tuất|Vst|cảm thông, quan tâm (cấp trên với cấp dưới)|老闆非常體恤員工的辛勞，常常請大家喝下午茶。|Sếp rất thông cảm với sự vất vả của nhân viên, thường mời mọi người uống trà chiều.
+資深|zīshēn|tư thâm|Vs-attr|thâm niên, lâu năm|林經理是我們公司最資深的員工，對業務非常熟悉。|Giám đốc Lâm là nhân viên lâu năm nhất công ty, rất thạo nghiệp vụ.
+不克|búkè|bất khắc|Vaux|không thể (trang trọng)|由於臨時有緊急會議，我明天不克出席研討會。|Vì có cuộc họp khẩn đột xuất, ngày mai tôi không thể dự hội thảo.
+虧大了|kuī dà le|khuy đại liễu|Ph|thiệt to rồi, lỗ lớn rồi|這麼好的員工旅遊你沒去，真是虧大了！|Chuyến du lịch công ty hay như vậy mà bạn không đi, đúng là thiệt to!
+清明|Qīngmíng|Thanh Minh|N|Tết Thanh Minh|今年的清明連假有四天，大家都打算返鄉掃墓。|Kỳ nghỉ Thanh Minh năm nay có bốn ngày, mọi người đều định về quê tảo mộ.
+撥出|bōchū|bát xuất|Vpt|dành ra (thời gian, tiền bạc)|就算工作再忙，我也會撥出時間陪小孩。|Dù công việc bận đến mấy, tôi cũng dành thời gian ở bên con.
+揭曉|jiēxiǎo|yết hiểu|V|công bố (kết quả)|員工旅遊地點的投票結果終於揭曉了。|Kết quả bình chọn địa điểm du lịch công ty cuối cùng đã được công bố.
+囉|luo|la|Ptc|trợ từ cuối câu, làm nhẹ ngữ khí ("rồi nhé", "nha")|我們兩個的任務就算完成一半囉。|Nhiệm vụ của hai chúng ta coi như xong một nửa rồi nhé.
+處於|chǔyú|xử ư|Vst|ở vào (tình trạng, giai đoạn)|目前全球經濟正處於逐漸復甦的階段。|Hiện kinh tế toàn cầu đang ở giai đoạn dần phục hồi.
+徵才|zhēngcái|trưng tài|Vi|tuyển dụng (nhân tài)|公司下個月將在大學舉辦大型的徵才活動。|Tháng sau công ty sẽ tổ chức ngày hội tuyển dụng lớn ở trường đại học.
+流動率|liúdònglǜ|lưu động suất|N|tỷ lệ luân chuyển (nhân sự), tỷ lệ nghỉ việc|這家企業的員工福利很好，所以流動率非常低。|Phúc lợi của doanh nghiệp này rất tốt nên tỷ lệ nghỉ việc rất thấp.
+特例|tèlì|đặc lệ|N|trường hợp đặc biệt, ngoại lệ|這次的獎金發放是一個特例，以後不一定會有。|Lần phát thưởng này là ngoại lệ, sau này chưa chắc có.
+個位數|gèwèishù|cá vị số|N|số có một chữ số|這個部門今年的離職人數控制得很好，只有個位數。|Số người nghỉ việc năm nay của phòng này được kiểm soát tốt, chỉ một chữ số.
+兼職|jiānzhí|kiêm chức|Vs-attr|bán thời gian, làm thêm (part-time)|他除了正職工作之外，晚上還在餐廳兼職。|Ngoài công việc chính, buổi tối anh ấy còn làm thêm ở nhà hàng.
+相比|xiāngbǐ|tương bỉ|Vi|so với|與去年相比，我們今年的營業額成長了兩成。|So với năm ngoái, doanh thu năm nay của chúng tôi tăng 20%.
+夥伴|huǒbàn|khỏa bạn|N|đối tác, cộng sự, đồng đội|他是我創業路上最信任的合作夥伴。|Anh ấy là cộng sự tôi tin tưởng nhất trên con đường khởi nghiệp.
+禮金|lǐjīn|lễ kim|N|tiền mừng|公司每年都會發放豐厚的三節禮金給員工。|Mỗi năm công ty đều phát tiền mừng ba dịp lễ hậu hĩnh cho nhân viên.
+津貼|jīntiē|tân thiếp|N|trợ cấp, phụ cấp|只要出差，公司都會給予額外的交通與住宿津貼。|Cứ đi công tác là công ty cấp thêm phụ cấp đi lại và lưu trú.
+急難|jínàn|cấp nạn|Vs-attr|khẩn cấp, hoạn nạn|公司特別設立了基金，用來幫助遭遇急難的員工家庭。|Công ty lập riêng một quỹ để giúp gia đình nhân viên gặp hoạn nạn.
+救助金|jiùzhùjīn|cứu trợ kim|N|tiền cứu trợ|受災的員工們已經陸續收到了公司發放的救助金。|Các nhân viên bị thiên tai đã lần lượt nhận được tiền cứu trợ của công ty.
+享有|xiǎngyǒu|hưởng hữu|Vst|được hưởng (quyền lợi, phúc lợi)|正職員工享有每年十天的帶薪年假。|Nhân viên chính thức được hưởng mười ngày phép năm có lương.
+公假|gōngjià|công giả|N|nghỉ việc công (có lương)|他明天要代表公司去開會，所以請了一天公假。|Mai anh ấy đại diện công ty đi họp nên xin nghỉ công một ngày.
+額外|éwài|ngạch ngoại|Adv|thêm, ngoài định mức|只要達到業績目標，大家就能拿到額外的獎金。|Chỉ cần đạt chỉ tiêu, mọi người sẽ nhận thêm tiền thưởng.
+給付|jǐfù|cấp phó|V|chi trả, thanh toán|公司會在每個月的五號準時給付上個月的薪水。|Công ty trả lương tháng trước đúng hạn vào ngày 5 hằng tháng.
+挖角|wājiǎo|oạt giác|Vi|săn người, lôi kéo nhân tài|競爭對手試圖用高薪把我們的技術主管挖角過去。|Đối thủ định dùng lương cao lôi kéo trưởng phòng kỹ thuật của chúng tôi.
+順序|shùnxù|thuận tự|N|thứ tự, trình tự|請大家按照報名的順序，依次上台面試。|Mời mọi người lần lượt lên phỏng vấn theo thứ tự đăng ký.
+紅利|hónglì|hồng lợi|N|tiền thưởng, cổ tức, điểm thưởng|公司今年賺大錢，年底會發放豐厚的紅利給員工。|Năm nay công ty lãi lớn, cuối năm sẽ chia thưởng hậu hĩnh cho nhân viên.
+在職|zàizhí|tại chức|Vs-attr|đang làm việc, tại chức|這項健康檢查福利只有目前的在職員工才能申請。|Phúc lợi khám sức khỏe này chỉ nhân viên đang làm việc mới được đăng ký.
+透明|tòumíng|thấu minh|Vs|minh bạch|我們公司的升遷與薪資制度非常公開透明。|Chế độ thăng tiến và lương của công ty chúng tôi rất công khai minh bạch.
+順暢|shùnchàng|thuận sướng|Vs|suôn sẻ, trôi chảy|經過幾次會議後，跨部門的溝通變得更加順暢了。|Sau vài cuộc họp, việc trao đổi giữa các phòng ban trôi chảy hơn.
+攜家帶眷|xiéjiā dàijuàn|huề gia đái quyến|IDIOM|dẫn theo cả gia đình|公司鼓勵員工攜家帶眷來參加活動。|Công ty khuyến khích nhân viên dẫn cả gia đình đến tham gia hoạt động.
+有聲有色|yǒushēng yǒusè|hữu thanh hữu sắc|IDIOM|sống động, đặc sắc, làm ra trò|他把生意擴大到全國，經營得有聲有色。|Anh ấy mở rộng việc kinh doanh ra toàn quốc, làm ăn rất ra trò.
+心花怒放|xīnhuā nùfàng|tâm hoa nộ phóng|IDIOM|vui như mở cờ trong bụng|一聽說王先生對這個企劃有興趣，小張馬上心花怒放地帶著合約去找他。|Vừa nghe ông Vương có hứng thú với kế hoạch này, Tiểu Trương mừng như mở cờ, cầm hợp đồng đi gặp ông ngay.
+一視同仁|yíshì tóngrén|nhất thị đồng nhân|IDIOM|đối xử bình đẳng, không phân biệt|主管對員工一視同仁，把工作內容平均分給大家。|Trưởng phòng đối xử với nhân viên như nhau, chia đều công việc cho mọi người.
+有所不知|yǒusuǒ bùzhī|hữu sở bất tri|IDIOM|(bạn) có điều chưa biết, chưa rõ nội tình|有些事情公司內部的人才了解，外人很難知道。唉！你有所不知啊！|Có những chuyện chỉ người trong công ty mới hiểu, người ngoài khó mà biết. Haiz! Bạn có điều chưa biết đấy!
+大同小異|dàtóng xiǎoyì|đại đồng tiểu dị|IDIOM|na ná nhau, cơ bản giống nhau|智慧型手機不管什麼品牌，功能都大同小異。|Điện thoại thông minh dù hãng nào thì tính năng cũng na ná nhau.
+老少咸宜|lǎoshào xiányí|lão thiếu hàm nghi|IDIOM|già trẻ đều thích hợp|這家店的甜點口味老少咸宜，生意非常好。|Đồ ngọt của tiệm này già trẻ đều ưa, buôn bán rất đắt.
 #GRAMMAR
-有一部分的人傾向……|Nêu xu hướng/sở thích của một nhóm người: "có một bộ phận người có xu hướng (thích)…". Dùng khi tổng hợp ý kiến, khảo sát.|根據問卷調查，有一部分的人傾向國內旅遊，因為比較不用請長假。|Theo khảo sát, có một bộ phận người thiên về du lịch trong nước vì không cần xin nghỉ dài ngày.|有一部分的人傾向領現金，不想參加公司安排的旅遊。|Có một bộ phận người thích nhận tiền mặt, không muốn tham gia chuyến đi công ty sắp xếp.
-……就可以了。況且，……|"…là được rồi. Hơn nữa, …" — đưa ra một đề xuất đơn giản rồi dùng 況且 bổ sung thêm lý do để thuyết phục.|大家自己選日期，再拿收據來申請補助就可以了。況且這樣也比較有彈性。|Mọi người tự chọn ngày, rồi mang hóa đơn đến xin trợ cấp là được. Hơn nữa như vậy cũng linh hoạt hơn.|訂三天兩夜的行程就可以了。況且很多同事週末還要照顧家人。|Đặt lịch ba ngày hai đêm là được rồi. Huống chi nhiều đồng nghiệp cuối tuần còn phải chăm sóc gia đình.
-就我所知，……。……沒辦法……，還是以……為優先吧！|"Theo tôi được biết… . (Nếu) không thể…, thì vẫn nên ưu tiên… đi!" — nêu thông tin mình biết, rồi đưa ra lựa chọn ưu tiên.|就我所知，七月的機票特別貴。預算沒辦法增加，還是以國內行程為優先吧！|Theo tôi biết, vé máy bay tháng Bảy đặc biệt đắt. Ngân sách không tăng được thì vẫn nên ưu tiên lịch trình trong nước đi!|就我所知，業務部月底很忙。沒辦法全部的人一起去，還是以輪流請假為優先吧！|Theo tôi biết, cuối tháng phòng kinh doanh rất bận. Không thể đi cả phòng một lúc thì cứ ưu tiên thay phiên nhau nghỉ đi!
-跟……接洽之前，還要……|"Trước khi liên hệ/làm việc với…, còn cần (làm)…" — nói rõ bước chuẩn bị trong quy trình.|跟旅行社接洽之前，還要先確認參加的人數。|Trước khi liên hệ với công ty du lịch, còn phải xác nhận số người tham gia trước.|跟保險公司接洽之前，還要把大家的資料整理好。|Trước khi làm việc với công ty bảo hiểm, còn phải sắp xếp hồ sơ của mọi người cho xong.
-……有……的規定，……才能……|"(Công ty) có quy định về…, phải… thì mới được…" — giải thích điều kiện theo quy định.|公司有旅遊補助的規定，到職滿一年才能申請。|Công ty có quy định về trợ cấp du lịch, làm đủ một năm mới được xin.|福委會有報帳的規定，收據上要有統一編號才能報銷。|Ban phúc lợi có quy định thanh toán, hóa đơn phải có mã số thuế công ty mới được hoàn tiền.
+有一部分的人傾向……|Diễn đạt sở thích, xu hướng; trình bày các ý kiến khác nhau: "có một bộ phận người thiên về…".|有一部分的人傾向留在國內，入住高檔的六星級飯店，自由參加飯店的半日遊或一日遊，或是乾脆留在飯店休息。|Có một bộ phận người thiên về ở lại trong nước, nghỉ khách sạn sáu sao cao cấp, tự do tham gia tour nửa ngày hay một ngày của khách sạn, hoặc ở luôn khách sạn nghỉ ngơi.|根據我們的市場調查，有一部分的人傾向購買新鮮、有機產品、未加工的食品。|Theo khảo sát thị trường của chúng tôi, có một bộ phận người thiên về mua sản phẩm tươi, hữu cơ, thực phẩm chưa qua chế biến.
+……就可以了。況且，……|Làm giảm bớt lo lắng, nghi ngại của đối phương: "chỉ cần… là được rồi. Hơn nữa, …".|旅遊規格方面交代旅行社就可以了。況且，我們應該可以跟旅行社談談看，請他們為我們規劃合適的國外旅遊路線。|Về quy cách chuyến đi thì giao cho công ty du lịch là được. Hơn nữa, ta có thể bàn với họ, nhờ họ lên tuyến du lịch nước ngoài phù hợp.|你別擔心，保險費並不高。你只要每天省下一杯咖啡的錢就可以了。況且，你還可以有意外、住院、手術等保障。|Bạn đừng lo, phí bảo hiểm không cao. Chỉ cần mỗi ngày bớt tiền một ly cà phê là được. Hơn nữa bạn còn được bảo hiểm tai nạn, nằm viện, phẫu thuật.
+就我所知，……。……沒辦法……，還是以……為優先吧！|Đưa ra kiến giải của mình để thuyết phục người khác: "Theo tôi biết… . Không thể…, vẫn nên ưu tiên… đi!".|就我所知，今年想要出國的人占了大多數。辦員工旅遊沒辦法顧及到所有人的需求，還是以多數人的意願為優先吧！|Theo tôi biết, năm nay người muốn ra nước ngoài chiếm đa số. Tổ chức du lịch công ty không thể đáp ứng nhu cầu của tất cả, vẫn nên ưu tiên nguyện vọng của số đông đi!|就我所知，那家新的商店會開在我們對面。我們在價錢上沒辦法跟他們競爭，還是以客戶服務為優先吧！|Theo tôi biết, cửa hàng mới đó sẽ mở đối diện chúng ta. Về giá cả mình không cạnh tranh nổi, vẫn nên ưu tiên dịch vụ khách hàng đi!
+跟……接洽之前，還要……|Nói rõ trình tự trước sau khi tiến hành kế hoạch: "trước khi liên hệ với…, còn phải…".|跟旅行社接洽之前，還要確認公司的補助方式和許可的旅遊天數。|Trước khi liên hệ công ty du lịch, còn phải xác nhận cách thức trợ cấp của công ty và số ngày du lịch được phép.|你可以跟廠商進一點貨，自己上網當賣家。不過在跟廠商接洽之前，還要了解一下市場行情，談價錢的時候才不會差太遠。|Bạn có thể nhập ít hàng của nhà cung cấp, tự lên mạng bán. Nhưng trước khi liên hệ nhà cung cấp, còn phải tìm hiểu giá thị trường, lúc thương lượng mới không lệch quá xa.
+……有……的規定，……才能……|Giải thích quy định, nguyên tắc, điều kiện trong kinh doanh – quản lý: "có quy định về…, phải… mới được…".|今年開始有年資相關的規定，像是年資滿六個月才能請領補助。|Từ năm nay có quy định liên quan đến thâm niên, ví dụ thâm niên đủ sáu tháng mới được xin trợ cấp.|因為這家民宿有入住時間的規定，必須等到下午三點以後才能入住。|Vì nhà nghỉ này có quy định về giờ nhận phòng, phải đợi sau 3 giờ chiều mới được nhận phòng.

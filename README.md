@@ -46,7 +46,7 @@ node tools/build-pavc.js     # dựng lại data-pavc.js
 
 Sau đó tăng `VERSION` trong `sw.js` và đẩy lên như mục 3. Bài 1–2 của PAVC4 trùng với L7–L9 đã có nên không nhập lại.
 
-Cùng thư mục có `GH-07…GH-10.v.txt`: sách 各行各業說中文 1 bài 7–10 (hiện mới có thành ngữ + mẫu ngữ pháp lấy từ slide mục lục; bảng từ vựng và hội thoại sẽ thêm khi có tài liệu).
+Cùng thư mục có `GH-07…GH-10.v.txt`: sách 各行各業說中文 1 bài 7–10 (L7, L8: hội thoại + từ vựng + thành ngữ + ngữ pháp theo Google Docs bài học trên Drive; L9, L10: mới có thành ngữ + mẫu ngữ pháp từ slide mục lục).
 
 ### Bài tập sách (Workbook)
 

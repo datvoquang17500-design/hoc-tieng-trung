@@ -21,6 +21,9 @@ const POS = {
   N: 'danh từ', V: 'động từ', SV: 'tính từ', VO: 'động từ li hợp', A: 'phó từ', IE: 'cụm cố định',
   CONJ: 'liên từ', M: 'lượng từ', AT: 'định ngữ', PREP: 'giới từ', IDIOM: 'thành ngữ', PH: 'cụm từ',
   NU: 'số từ', DEM: 'chỉ thị từ', PRO: 'đại từ', P: 'trợ từ', RE: 'bổ ngữ kết quả', BF: 'hình vị',
+  // ký hiệu của sách 各行各業說中文
+  Vs: 'tính từ', 'Vs-attr': 'tính từ (chỉ làm định ngữ)', Vi: 'nội động từ', Vpt: 'động từ quá trình (cập vật)', Vp: 'động từ quá trình',
+  Vst: 'động từ trạng thái (cập vật)', Vaux: 'trợ động từ', Adv: 'phó từ', Conj: 'liên từ', Ph: 'cụm từ', Prep: 'giới từ', Ptc: 'trợ từ ngữ khí', Id: 'quán ngữ',
 };
 const posLabel = p => (p || '').split('/').map(s => POS[s.trim()] || s.trim()).filter(Boolean).join(' / ');
 
