@@ -1,0 +1,39 @@
+#VOCAB
+飽和|bǎohé|bão hòa|V|bão hòa|這個城市的人口已經飽和了。|Dân số thành phố này đã bão hòa.
+潛力|qiánlì|tiềm lực|N|tiềm năng|青少年「有錢有閒」的消費潛力，近來吸引更多人投入青少年市場的開發。|Tiềm năng tiêu dùng "có tiền có thời gian" của thanh thiếu niên gần đây thu hút nhiều người khai thác thị trường này.
+風潮|fēngcháo|phong triều|N|trào lưu, làn sóng|一部深受歡迎的動物電影，帶動了飼養小動物的風潮。|Một bộ phim động vật rất được yêu thích đã tạo trào lưu nuôi thú nhỏ.
+衝擊|chōngjí|xung kích|V/N|tác động mạnh, cú đánh|網路教學為傳統的教學方式帶來很大的衝擊。|Dạy học trực tuyến tác động mạnh đến cách dạy truyền thống.
+結構|jiégòu|kết cấu|N|cơ cấu, cấu trúc|這股風潮直接衝擊國內的消費結構。|Làn sóng này tác động trực tiếp đến cơ cấu tiêu dùng trong nước.
+暢銷|chàngxiāo|sướng tiêu|SV/AT|bán chạy|這部恐怖電影是有名的暢銷小說改編的。|Phim kinh dị này chuyển thể từ cuốn tiểu thuyết bán chạy nổi tiếng.
+週刊|zhōukān|chu san|N|tuần san, tạp chí tuần||
+零庫存|língkùcún|linh khố tồn|N|không tồn kho|所謂零庫存，是指因為貨物很暢銷而完全沒有庫存。|Không tồn kho là hàng bán chạy đến mức hoàn toàn không còn hàng tồn.
+導致|dǎozhì|đạo trí|V|dẫn đến|常常看太小的字會導致眼睛近視。|Thường xuyên đọc chữ quá nhỏ sẽ dẫn đến cận thị.
+萎縮|wěisuō|nuy súc|V|teo lại, suy giảm|她的手腳因得病而逐漸萎縮。|Tay chân cô ấy vì bệnh mà dần teo lại.
+相對地|xiāngduì de|tương đối địa|A|tương ứng, theo đó|大家的薪水增加了，相對地物價也高了。|Lương mọi người tăng, giá cả cũng tăng tương ứng.
+賺取|zhuànqǔ|trám thủ|V|kiếm (tiền)|她每天替人照顧小孩，賺取自己的生活費。|Cô ấy mỗi ngày trông trẻ cho người khác để kiếm tiền sinh hoạt.
+外快|wàikuài|ngoại khoái|N|thu nhập thêm|代課或代班都可以在薪水之外賺一筆外快。|Dạy thay hay làm thay ca đều kiếm thêm được ngoài lương.
+現金卡|xiànjīnkǎ|hiện kim tạp|N|thẻ tiền mặt (thẻ vay)||
+忽視|hūshì|hốt thị|V|xem nhẹ, bỏ qua|工作緊張繁忙的人，常會忽視自己的健康。|Người làm việc căng thẳng bận rộn thường xem nhẹ sức khỏe mình.
+因應|yīnyìng|nhân ứng|V|ứng phó, thích ứng|社會變化太快，他不知道如何因應。|Xã hội thay đổi quá nhanh, anh không biết ứng phó thế nào.
+可觀|kěguān|khả quan|SV|đáng kể, lớn|她有好幾份工作，收入很可觀。|Cô có mấy công việc, thu nhập rất đáng kể.
+掏腰包|tāo//yāobāo|đào yêu bao|VO|móc hầu bao, bỏ tiền ra|逛街的時候看到喜歡的東西很難不掏腰包買下來。|Đi dạo thấy đồ thích thì khó mà không móc ví mua.
+言情小說|yánqíng xiǎoshuō|ngôn tình tiểu thuyết|N|tiểu thuyết ngôn tình||
+服飾|fúshì|phục sức|N|quần áo và phụ kiện|服飾雜誌中介紹最新流行的服裝跟飾品。|Tạp chí thời trang giới thiệu quần áo và phụ kiện thịnh hành nhất.
+書卡|shūkǎ|thư tạp|N|thẻ đánh dấu sách||
+專櫃|zhuānguì|chuyên quỹ|N|quầy chuyên doanh (trong trung tâm thương mại)||
+流連|liúlián|lưu liên|V|lưu luyến, quanh quẩn không muốn rời|名勝古蹟的美麗風光，使人流連忘返。|Cảnh đẹp danh thắng khiến người ta lưu luyến quên về.
+興隆|xīnglóng|hưng long|SV|thịnh vượng, phát đạt|春節快到了，賣春聯的攤子生意興隆。|Sắp Tết, sạp bán câu đối làm ăn phát đạt.
+指名|zhǐmíng|chỉ danh|V|chỉ đích danh|因為他的發音正確，學校指名要他參加校外演講比賽。|Vì phát âm chuẩn, trường chỉ định anh tham gia cuộc thi diễn thuyết ngoài trường.
+闊綽|kuòchuò|khoát xước|SV/AT|xa hoa, hào phóng|生活闊綽的人不一定很有錢，可能是利用信用卡借錢花用。|Người sống xa hoa chưa chắc giàu, có thể dùng thẻ tín dụng vay tiêu.
+偶爾|ǒu'ěr|ngẫu nhĩ|A|thỉnh thoảng|牛排的價位高，偶爾吃一次可以，天天吃就太浪費了。|Bò bít tết giá cao, thỉnh thoảng ăn thì được, ngày nào cũng ăn thì quá phí.
+幾乎|jīhū|cơ hồ|A|gần như|服飾店裡賣的幾乎都是少女裝。|Cửa hàng thời trang bán gần như toàn đồ thiếu nữ.
+有錢有閒|yǒuqián yǒuxián|hữu tiền hữu nhàn|IDIOM|có tiền có thời gian rảnh|有錢有閒的人最適合做服務性的休閒活動。|Người có tiền có thời gian rảnh hợp nhất với hoạt động giải trí phục vụ.
+雨後春筍|yǔhòu chūnsǔn|vũ hậu xuân duẩn|IDIOM|như nấm sau mưa|都市的房子已經飽和了，於是郊外的房子像雨後春筍般地蓋起來了。|Nhà ở đô thị đã bão hòa, thế là nhà ngoại ô mọc lên như nấm sau mưa.
+生意興隆|shēngyì xīnglóng|sinh ý hưng long|IDIOM|buôn bán phát đạt|有些小吃店，店面雖小卻生意興隆，老闆常忙不過來。|Có quán ăn vặt mặt tiền nhỏ mà buôn bán phát đạt, chủ quán bận không xuể.
+出手闊綽|chūshǒu kuòchuò|xuất thủ khoát xước|IDIOM|vung tay quá trán, chi tiêu hào phóng|他一次就買幾百萬元的首飾，出手闊綽，引人注意。|Anh ta một lần mua trang sức mấy triệu, chi tiêu hào phóng, gây chú ý.
+討價還價|tǎojià huánjià|thảo giá hoàn giá|IDIOM|mặc cả|在夜市買東西的人都免不了討價還價。|Người mua đồ ở chợ đêm đều không tránh khỏi mặc cả.
+#GRAMMAR
+以……為主|"Lấy… làm chính, chủ yếu là…".|由於以成人為主的消費市場漸趨飽和……|Do thị trường tiêu dùng chủ yếu là người lớn dần bão hòa…|玩電腦遊戲的以年輕人為主。|Người chơi game chủ yếu là người trẻ.
+隨著……，……也相對地……|"Cùng với…, … cũng tương ứng…".|但隨著父母的薪水年年增加，青少年的零用金也相對地增加了。|Nhưng cùng với lương cha mẹ tăng hằng năm, tiền tiêu vặt của thanh thiếu niên cũng tăng tương ứng.|隨著經濟的發展，休閒活動也相對地增加了。|Cùng với phát triển kinh tế, hoạt động giải trí cũng tăng tương ứng.
+……不必太……，就……|"…không cần quá…, cũng đã…".|因此，一本書字數不必太多，就賣得很好。|Vì vậy một cuốn sách không cần quá nhiều chữ cũng đã bán rất chạy.|一部好電影不必太長，就能吸引觀眾。|Một bộ phim hay không cần quá dài cũng thu hút khán giả.
+為了……，不但……，甚至……|"Để…, không những…, thậm chí…".|為了因應青少年可觀的消費實力，不但傳統書店的商品中大量增加言情小說……，甚至還出現了「漫畫屋」之類的漫畫專賣店。|Để đáp ứng sức mua đáng kể của thanh thiếu niên, không những hiệu sách truyền thống tăng mạnh tiểu thuyết ngôn tình…, thậm chí còn xuất hiện cửa hàng chuyên truyện tranh.|他為了賺錢，不但晚上加班，甚至假日也工作。|Để kiếm tiền, anh không những tăng ca buổi tối mà thậm chí làm cả ngày nghỉ.

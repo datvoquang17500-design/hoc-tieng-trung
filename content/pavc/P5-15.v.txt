@@ -1,0 +1,40 @@
+#VOCAB
+新潮|xīncháo|tân triều|SV/AT|hợp thời, sành điệu|新潮的服裝總是受到年輕人的喜愛。|Quần áo sành điệu luôn được giới trẻ yêu thích.
+尖端|jiānduān|tiêm đoan|N/AT|mũi nhọn, tiên tiến nhất|服裝設計師設計的服裝永遠走在流行的尖端。|Quần áo nhà thiết kế làm ra luôn đi đầu xu hướng.
+拼命|pīnmìng|bính mệnh|VO|liều mạng, dốc sức|拼命念書或工作的人常常忽視健康。|Người dốc sức học hay làm việc thường xem nhẹ sức khỏe.
+模式|móshì|mô thức|N|mô hình, kiểu||
+豪宅|háozhái|hào trạch|N|nhà sang, biệt thự sang trọng|這棟豪宅不僅佔地寬廣，室內佈置也很豪華。|Căn biệt thự này không chỉ rộng mà nội thất cũng rất xa hoa.
+開伙|kāihuǒ|khai hỏa|V|nấu ăn ở nhà|他們夫妻二人每天在飯館吃飯或買便當吃，家裡從來不開伙。|Hai vợ chồng ngày nào cũng ăn quán hay mua cơm hộp, ở nhà chẳng bao giờ nấu.
+健身房|jiànshēnfáng|kiện thân phòng|N|phòng gym|現在新潮的大飯店都設有健身房，供房客使用。|Khách sạn lớn hiện đại đều có phòng gym cho khách dùng.
+典型|diǎnxíng|điển hình|N/SV|điển hình|「年獸」是典型的中國傳說。|"Niên thú" là truyền thuyết Trung Hoa điển hình.
+濃厚|nónghòu|nùng hậu|SV|đậm, nồng hậu|他對下棋有濃厚的興趣。|Anh ấy rất hứng thú với cờ.
+鄉土|xiāngtǔ|hương thổ|N/AT|quê hương|每個人都愛自己的鄉土。|Ai cũng yêu quê hương mình.
+別墅|biéshù|biệt thự|N|biệt thự||
+菜圃|càipǔ|thái phố|N|vườn rau||
+淘汰|táotài|đào thải|V/N/AT|đào thải, loại bỏ|在這競爭激烈的時代裡，表現太差的公司都會被淘汰。|Trong thời đại cạnh tranh gay gắt này, công ty làm ăn kém đều bị đào thải.
+擬定|nǐdìng|nghĩ định|V|lập, soạn (kế hoạch)|在做一件大事以前，要先擬定一個計畫。|Trước khi làm việc lớn phải lập kế hoạch trước.
+範圍|fànwéi|phạm vi|N|phạm vi|學生在考前總要知道老師考試的範圍。|Trước kỳ thi học sinh luôn muốn biết phạm vi thi.
+理性|lǐxìng|lý tính|SV/A|lý trí|我們理性地思考一下未來要走的路吧！|Hãy suy nghĩ lý trí về con đường tương lai!
+打消念頭|dǎxiāo niàntou|đả tiêu niệm đầu|VO|từ bỏ ý định|經過同事的勸告，他終於打消了跳槽的念頭。|Nhờ đồng nghiệp khuyên, cuối cùng anh bỏ ý định nhảy việc.
+負債|fùzhài|phụ trái|VO/N|mắc nợ|他不但沒有存款，還負債三十萬。|Anh không những không có tiền tiết kiệm mà còn nợ ba trăm nghìn.
+投保|tóubǎo|đầu bảo|V|mua bảo hiểm|為了安全，他投保了火險、意外險、壽險等。|Vì an toàn, anh mua bảo hiểm cháy nổ, tai nạn, nhân thọ…
+壽險|shòuxiǎn|thọ hiểm|N|bảo hiểm nhân thọ|壽險是「人壽保險」的簡稱。|Thọ hiểm là gọi tắt của "bảo hiểm nhân thọ".
+缺乏|quēfá|khuyết phạp|V|thiếu|有些國家物資缺乏，必須依賴進口。|Một số nước thiếu vật tư, phải dựa vào nhập khẩu.
+規畫|guīhuà|quy hoạch|V/N|lên kế hoạch, quy hoạch|市政府正在細心規畫一座森林公園。|Thành phố đang cẩn thận quy hoạch một công viên rừng.
+擔憂|dānyōu|đảm ưu|V|lo lắng|他缺乏信心，整天擔憂自己做不好事。|Anh thiếu tự tin, cả ngày lo mình làm không tốt.
+調職|diào//zhí|điều chức|VO|thuyên chuyển công tác|由於調職，她非搬家不可。|Vì thuyên chuyển công tác, cô buộc phải chuyển nhà.
+割愛|gē'ài|cát ái|V|nhường lại thứ mình yêu thích|你做的這件藝術品太傳神了，我很喜歡，你能不能割愛？|Tác phẩm bạn làm sống động quá, tôi rất thích, bạn có thể nhường lại không?
+狂想|kuángxiǎng|cuồng tưởng|N/AT|ý nghĩ ngông cuồng|他突發狂想，要到沙漠中去住一年。|Anh bỗng nảy ý nghĩ điên rồ, muốn vào sa mạc sống một năm.
+野心|yěxīn|dã tâm|N|tham vọng|以前有些國家具有統治別的國家的野心。|Trước đây có nước có tham vọng thống trị nước khác.
+少年老成|shàonián lǎochéng|thiếu niên lão thành|IDIOM|trẻ mà chín chắn|少年老成的人比較穩重。|Người trẻ mà chín chắn thường điềm đạm hơn.
+芒刺在背|mángcì zàibèi|mang thích tại bối|IDIOM|như có gai sau lưng, bồn chồn bất an|他欠了別人的錢，好像芒刺在背。|Anh nợ tiền người ta, bồn chồn như có gai sau lưng.
+隨遇而安|suíyù ér'ān|tùy ngộ nhi an|IDIOM|tùy hoàn cảnh mà an phận|隨遇而安的人是最能適應新環境的。|Người tùy duyên an phận là người thích nghi môi trường mới tốt nhất.
+飄忽不定|piāohū búdìng|phiêu hốt bất định|IDIOM|trôi nổi bất định|過了幾年飄忽不定的生活以後，他想安定下來。|Sau mấy năm sống trôi nổi, anh muốn ổn định.
+憂患意識|yōuhuàn yìshì|ưu hoạn ý thức|IDIOM|ý thức lo xa|生活遭遇過困難的人比較有憂患意識。|Người từng gặp khó khăn trong đời thường có ý thức lo xa.
+旦夕禍福|dànxī huòfú|đán tịch họa phúc|IDIOM|họa phúc khôn lường|天有不測風雲，人有旦夕禍福。|Trời có gió mây khó lường, người có họa phúc sớm chiều.
+維持現狀|wéichí xiànzhuàng|duy trì hiện trạng|IDIOM|giữ nguyên hiện trạng|如果現在的情況很好，那就維持現狀吧！|Nếu tình hình hiện tại tốt thì giữ nguyên đi!
+#GRAMMAR
+……帶給……|"…mang lại cho…".|這種隨遇而安、飄忽不定的生活方式，帶給他們新鮮感與無限的滿足。|Lối sống tùy duyên, trôi nổi này mang lại cho họ cảm giác mới mẻ và sự thỏa mãn vô hạn.|喜劇片總是帶給觀眾很多歡樂。|Phim hài luôn mang lại cho khán giả nhiều niềm vui.
+……雖不及……，然而卻是……|"…tuy không bằng…, nhưng lại là…".|表面上看來，雖不及那些人新潮，然而他們卻是永遠不會被時代淘汰的人。|Bề ngoài tuy không sành điệu bằng những người kia, nhưng họ lại là người không bao giờ bị thời đại đào thải.|這個博物館雖不及你們國家的，然而卻是我國最大的。|Bảo tàng này tuy không bằng của nước bạn, nhưng lại là lớn nhất nước tôi.
+若有……也會……|"Nếu có… thì cũng sẽ…".|若有喜歡的物品，也會存錢購買。|Nếu có món đồ thích thì cũng sẽ để dành tiền mua.|我若有好的機會，也會出國留學。|Nếu có cơ hội tốt, tôi cũng sẽ đi du học.
+從……就……，但過於……|"Từ… đã…, nhưng quá…".|這些人從年輕時代起就會規畫人生，但過於實際，根本不敢隨便冒險。|Những người này từ khi còn trẻ đã biết lên kế hoạch cuộc đời, nhưng quá thực tế, hoàn toàn không dám mạo hiểm.|他從小就喜歡念書，但過於死記，不知活用。|Anh từ nhỏ đã thích học, nhưng quá học vẹt, không biết vận dụng.

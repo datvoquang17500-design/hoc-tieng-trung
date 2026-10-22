@@ -1,0 +1,35 @@
+#VOCAB
+攜帶|xīdài|huề đái|V|mang theo|為了攜帶方便，筆記型電腦越來越輕。|Để tiện mang theo, máy tính xách tay ngày càng nhẹ.
+問世|wènshì|vấn thế|V|ra đời, ra mắt|這部新發明的機器何時問世？|Cỗ máy mới phát minh này khi nào ra mắt?
+採取|cǎiqǔ|thải thủ|V|áp dụng, chọn|便利商店採取三班制，每天有三個人輪流上班。|Cửa hàng tiện lợi áp dụng ba ca, mỗi ngày ba người thay phiên.
+同義字|tóngyìzì|đồng nghĩa tự|N|từ đồng nghĩa||
+校正|jiàozhèng|hiệu chính|V|hiệu chỉnh, sửa lỗi|電腦已經具有自動校正拼字或文法的功能。|Máy tính đã có chức năng tự sửa lỗi chính tả và ngữ pháp.
+全民英檢|Quánmín Yīngjiǎn|toàn dân Anh kiểm|N|kỳ thi tiếng Anh GEPT (Đài Loan)||
+顯示|xiǎnshì|hiển thị|V|cho thấy, hiển thị|近來國人的購買力日漸提高，顯示國內的經濟已逐漸好轉。|Gần đây sức mua người dân ngày càng tăng, cho thấy kinh tế trong nước đang dần khởi sắc.
+時差|shíchā|thời sai|N|chênh lệch múi giờ||
+貨幣|huòbì|hóa tệ|N|tiền tệ||
+度量衡|dùliànghéng|độ lượng hành|N|đo lường (dài, dung tích, cân nặng)||
+換算|huànsuàn|hoán toán|V|quy đổi|一美元換算成臺幣是多少？|Một đô la đổi ra Đài tệ là bao nhiêu?
+靈敏|língmǐn|linh mẫn|SV|nhạy|這部新機器的反應很靈敏，工作起來效率很高。|Máy mới này phản ứng rất nhạy, làm việc hiệu suất cao.
+熱潮|rècháo|nhiệt triều|N|cơn sốt, trào lưu|這種新產品帶來了新鮮感，同時帶起學習外語的熱潮。|Sản phẩm mới mang lại cảm giác mới lạ, đồng thời tạo cơn sốt học ngoại ngữ.
+誤導|wùdǎo|ngộ đạo|V|gây hiểu lầm, dẫn dắt sai|模特兒高瘦的身材令人羨慕，常常誤導年輕女孩子吃得太少。|Dáng cao gầy của người mẫu khiến người ta ngưỡng mộ, thường làm các cô gái trẻ hiểu sai mà ăn quá ít.
+威脅|wēixié|uy hiếp|V/N|đe dọa|吃多了防腐劑之類的食品添加物，可能威脅身體健康。|Ăn nhiều phụ gia như chất bảo quản có thể đe dọa sức khỏe.
+收錄|shōulù|thu lục|V|thu thập, đưa vào|「世界名人錄」收錄了一千位世界上的名人。|"Danh nhân thế giới" thu thập một nghìn người nổi tiếng.
+字庫|zìkù|tự khố|N|kho từ, cơ sở dữ liệu chữ||
+內建|nèijiàn|nội kiến|V|tích hợp sẵn|有些新型筆記型電腦內建電視卡，可用來看電視。|Một số laptop mới tích hợp card TV, có thể xem truyền hình.
+儲存|chǔcún|trữ tồn|V|lưu trữ|電腦儲存大量的資料，使用起來非常方便。|Máy tính lưu được lượng lớn dữ liệu, dùng rất tiện.
+容量|róngliàng|dung lượng|N|dung lượng||
+提供|tígōng|đề cung|V|cung cấp|這次運動會，學校提供選手名單及各項運動比賽的時間表。|Hội thao lần này trường cung cấp danh sách vận động viên và lịch thi đấu.
+多元化|duōyuánhuà|đa nguyên hóa|V/AT/SV|đa dạng hóa|現代人的學習方式已經多元化了。|Cách học của người hiện đại đã đa dạng hóa.
+似乎|sìhū|tự hồ|A|dường như|他說話似乎有點兒保留，並沒完全把心裡的意思說出來。|Anh ấy nói dường như còn giữ lại, không nói hết ý trong lòng.
+缺點|quēdiǎn|khuyết điểm|N|khuyết điểm|任何人都不是完美的，難免會有缺點。|Không ai hoàn hảo, khó tránh có khuyết điểm.
+考驗|kǎoyàn|khảo nghiệm|V/N|thử thách|他的新工作考驗著他的能力。|Công việc mới thử thách năng lực của anh ấy.
+朝著|cháozhe|triều trước|V|hướng về|不論學習什麼，都要先定一個目標，然後朝著這個目標，努力前進。|Học gì cũng phải đặt mục tiêu rồi hướng về đó mà nỗ lực tiến lên.
+畢竟|bìjìng|tất cánh|A|rốt cuộc, suy cho cùng|對學生來說，完成學業畢竟是最重要的。|Với học sinh, suy cho cùng hoàn thành việc học là quan trọng nhất.
+測試|cèshì|trắc thí|V|kiểm tra, thử nghiệm|一部新機器一定要經過測試才能用。|Máy mới nhất định phải qua kiểm tra mới dùng được.
+推陳出新|tuīchén chūxīn|thôi trần xuất tân|IDIOM|bỏ cũ ra mới, liên tục đổi mới|電器的產品，不斷地推陳出新。|Sản phẩm điện máy liên tục đổi mới.
+#GRAMMAR
+由於……過於……，對……有……|"Do… quá…, nên có… đối với…".|但是由於內容過於簡化，對學語言的人有誤導的危險。|Nhưng do nội dung quá giản lược, có nguy cơ gây hiểu sai cho người học ngôn ngữ.|由於這次的颱風過於強烈，對農作物有很嚴重的損害。|Do cơn bão lần này quá mạnh, gây thiệt hại nghiêm trọng cho hoa màu.
+……能否……仍需……|"…có thể… hay không, vẫn cần…".|所以電子字典能否使人類從「翻字典」轉入「按字典」的時代，仍需接受考驗。|Vì vậy từ điển điện tử có đưa loài người từ thời "lật từ điển" sang thời "bấm từ điển" hay không vẫn cần chịu thử thách.|他的病能否治好，仍需觀察。|Bệnh anh ấy có chữa khỏi không vẫn cần theo dõi.
+……也不例外|"…cũng không ngoại lệ".|最近許多新時代產品，都朝著一機多用的方向發展，電子字典也不例外。|Gần đây nhiều sản phẩm thời đại mới đều phát triển theo hướng một máy nhiều công dụng, từ điển điện tử cũng không ngoại lệ.|人人都是環保的尖兵，小孩子也不例外。|Ai cũng là chiến sĩ bảo vệ môi trường, trẻ em cũng không ngoại lệ.
+不僅……也……|"Không chỉ… mà còn…".|不僅能成為課業上的好幫手，出國旅遊也很有用。|Không chỉ là trợ thủ đắc lực cho việc học mà đi du lịch nước ngoài cũng rất hữu ích.|素食不僅有助於健康，也不至於污染環境。|Ăn chay không chỉ tốt cho sức khỏe mà còn không đến nỗi ô nhiễm môi trường.

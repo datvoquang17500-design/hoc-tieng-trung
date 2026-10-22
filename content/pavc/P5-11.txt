@@ -1,0 +1,27 @@
+#UNIT P5-11|實用視聽華語5 · 第十一課 強化體質
+#CONVO 實用視聽華語5 · 第十一課 強化體質
+|劇中人：王太太，大明的母親；王大明，國中二年級的學生；林醫師，一家私人診所醫生。|Nhân vật: bà Vương, mẹ Đại Minh; Vương Đại Minh, học sinh lớp 8; bác sĩ Lâm, bác sĩ phòng khám tư.
+大明|咳！咳！咳！（一陣咳嗽聲）|Khụ! Khụ! Khụ! (Một tràng ho)
+王太太|林醫師，為什麼這孩子的體質總是比別人差，動不動就感冒呢？|Bác sĩ Lâm, sao thể trạng cháu này cứ kém hơn người khác, hơi tí là cảm?
+林醫師|其實體質的強弱是父母給的，無法自己選擇。就像皮膚被蚊子咬了，有的人擦了藥，依然紅腫潰爛，有的卻不管它，反而平安無事。|Thật ra thể chất mạnh hay yếu là do cha mẹ cho, không tự chọn được. Như da bị muỗi đốt, có người bôi thuốc vẫn sưng đỏ lở loét, có người mặc kệ lại bình an vô sự.
+王太太|說實在的，我還不完全明白體質的意思，你可不可以給我解釋一下？|Nói thật, tôi chưa hiểu hết thể chất nghĩa là gì, bác sĩ giải thích giúp được không?
+林醫師|體質就是身體強弱的性質，體質強的抵抗力也強。每個人在生長的過程中，由於先天遺傳或後天因素，在很多方面都跟別人不同，形成了個人的體質。比方說，皮膚跟頭髮是乾性還是油性，或者介於乾性和油性之間；腸胃的吸收能力好不好；容不容易過敏等。認清了自己是哪一種體質，才知道怎麼保養。|Thể chất là tính chất khỏe yếu của cơ thể, thể chất mạnh thì sức đề kháng cũng mạnh. Trong quá trình lớn lên, do di truyền bẩm sinh hay yếu tố sau này, mỗi người khác người khác ở nhiều mặt, hình thành thể chất riêng. Ví dụ da và tóc là khô hay dầu, hay ở giữa; khả năng hấp thu của dạ dày tốt không; có dễ dị ứng không… Nhận rõ mình thuộc thể chất nào mới biết cách giữ gìn.
+王太太|像我們大明這種抵抗力弱的體質該怎麼保養啊？|Thể chất đề kháng yếu như Đại Minh nhà tôi nên giữ gìn thế nào?
+林醫師|一般來說，保養方法是隨著季節、氣候、溫度、濕度等環境因素而加減衣服，少吃不利於體質的食物、藥物等。|Nói chung, cách giữ gìn là theo mùa, khí hậu, nhiệt độ, độ ẩm mà thêm bớt quần áo, ăn ít thức ăn, thuốc không có lợi cho thể chất.
+王太太|（看著大明）你看！咳得那麼厲害，叫你多穿幾件衣服都不肯，還跟同學去吃冰！|(Nhìn Đại Minh) Con xem! Ho dữ thế, bảo mặc thêm áo không chịu, còn đi ăn kem với bạn!
+林醫師|（笑）雖然要注意加減衣服，可是千萬不要過度保護孩子。有的人孩子咳一聲就加一件衣服，咳兩聲就加兩件，這樣做，只會產生惡性循環。聰明的父母在孩子感冒好了以後，帶他出去做做戶外活動，這樣強化體質之後，衣服就可以少穿一點，也不必擔心他會再感冒了。|(Cười) Tuy phải chú ý thêm bớt áo, nhưng đừng bảo bọc con quá mức. Có người con ho một tiếng là thêm một áo, ho hai tiếng thêm hai áo, làm vậy chỉ tạo vòng luẩn quẩn. Cha mẹ thông minh đợi con khỏi cảm thì đưa đi hoạt động ngoài trời, tăng cường thể chất rồi thì có thể mặc ít đi, cũng không lo con cảm lại.
+王太太|這孩子上國中以後，就有點兒過敏，小時候倒不會，不知道是為什麼？|Cháu lên cấp hai thì bị dị ứng, hồi nhỏ lại không, không biết tại sao?
+林醫師|如果不是先天遺傳過敏性體質的話，就是由於最近食品添加物、農藥等化學藥品的使用越來越普遍，使得後天容易過敏的因素增加了。|Nếu không phải di truyền thể chất dị ứng bẩm sinh thì là do gần đây phụ gia thực phẩm, thuốc trừ sâu… ngày càng phổ biến, khiến yếu tố dễ dị ứng sau này tăng lên.
+王太太|那這種後天因素怎麼避免呢？|Vậy yếu tố sau này làm sao tránh?
+林醫師|平常少吃一些含有色素的糖果、點心，或是調味料、防腐劑過多的泡麵，青菜、水果浸泡得久一點，就比較不容易過敏了。|Bình thường ăn ít kẹo, bánh có phẩm màu, hay mì gói nhiều gia vị, chất bảo quản; rau, trái cây ngâm lâu một chút thì sẽ ít bị dị ứng hơn.
+王太太|是不是需要吃點什麼藥，補補他的身子？|Có cần uống thuốc gì bồi bổ cho cháu không?
+林醫師|俗話說得好，「藥補不如食補」。只要三餐飲食正常，營養均衡，不必花很多錢，就可以保持身體健康，效果絕對好過那些昂貴的藥材。還有，平時不要一味姑息或縱容子女，讓他們養成偏食的習慣。常常孩子病了，父母就以求仙丹的心態來找醫生，其實仙丹不在醫生這兒，只有父母才有。|Tục ngữ nói hay lắm, "bổ bằng thuốc không bằng bổ bằng ăn". Chỉ cần ba bữa ăn uống điều độ, dinh dưỡng cân bằng, không tốn nhiều tiền mà giữ được sức khỏe, hiệu quả chắc chắn hơn những vị thuốc đắt tiền. Còn nữa, bình thường đừng một mực dung túng, nuông chiều con, để chúng quen kén ăn. Thường con ốm là cha mẹ đến tìm bác sĩ với tâm lý xin thuốc tiên, thật ra tiên đan không ở chỗ bác sĩ, chỉ cha mẹ mới có.
+王太太|謝謝你告訴我這麼多，真是「聽君一席話，勝讀十年書」！大明，還不趕快過來，向林醫師說聲謝謝！|Cảm ơn bác sĩ nói cho tôi nhiều điều, đúng là "nghe ngài một buổi bằng đọc sách mười năm"! Đại Minh, còn không mau lại cảm ơn bác sĩ Lâm!
+大明|謝謝林醫師。|Cháu cảm ơn bác sĩ Lâm.
+林醫師|再見！|Tạm biệt!
+#Q
+林醫師說體質的強弱是誰給的？|父母給的，無法自己選擇|醫生給的|自己選擇的|吃藥就能改變|0
+過度保護孩子會怎麼樣？|只會產生惡性循環|孩子會更健康|孩子不會感冒|孩子會更聽話|0
+大明為什麼上國中以後容易過敏？|可能是食品添加物、農藥等化學藥品的使用越來越普遍|因為他吃太多青菜|因為他常運動|因為天氣太熱|0
+林醫師建議怎麼補身子？|三餐飲食正常、營養均衡（藥補不如食補）|吃昂貴的藥材|吃仙丹|多吃泡麵|0
+林醫師說「仙丹」在哪裡？|只有父母才有|在醫生那兒|在藥房|在廟裡|0

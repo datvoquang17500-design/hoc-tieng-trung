@@ -1,0 +1,40 @@
+#VOCAB
+體質|tǐzhí|thể chất|N|thể chất, thể trạng|林醫師，為什麼這孩子的體質總是比別人差，動不動就感冒呢？|Bác sĩ Lâm, sao thể trạng cháu này cứ kém hơn người khác, hơi tí là cảm?
+紅腫|hóngzhǒng|hồng thũng|V/AT|sưng đỏ|他手上被蚊子咬的地方紅腫起來了。|Chỗ muỗi đốt trên tay anh ấy sưng đỏ lên.
+潰爛|kuìlàn|hội lạn|V/AT|lở loét|被火燒傷的皮膚因沒有擦藥而開始潰爛了。|Da bị bỏng không bôi thuốc nên bắt đầu lở loét.
+性質|xìngzhí|tính chất|N|tính chất|辦事員和勞工的工作性質不同，一個勞心，一個勞力。|Công việc của nhân viên văn phòng và lao động chân tay khác tính chất, một bên lao tâm, một bên lao lực.
+抵抗力|dǐkànglì|để kháng lực|N|sức đề kháng|體質強的抵抗力也強。|Thể chất khỏe thì sức đề kháng cũng mạnh.
+過程|guòchéng|quá trình|N|quá trình|現代人流行把結婚典禮的過程拍成影片。|Người hiện đại thích quay phim toàn bộ quá trình lễ cưới.
+先天|xiāntiān|tiên thiên|AT|bẩm sinh|有先天性疾病的人，一出生就需要特別照顧。|Người mắc bệnh bẩm sinh, vừa sinh ra đã cần chăm sóc đặc biệt.
+遺傳|yíchuán|di truyền|N|di truyền|由於先天遺傳或後天因素，在很多方面都跟別人不同。|Do di truyền bẩm sinh hay yếu tố sau này mà nhiều mặt khác người khác.
+後天|hòutiān|hậu thiên|AT|sau này, do môi trường (không bẩm sinh)|後天的努力才是成功的要素。|Nỗ lực sau này mới là yếu tố thành công.
+因素|yīnsù|nhân tố|N|nhân tố, yếu tố|使得後天容易過敏的因素增加了。|Khiến các yếu tố dễ gây dị ứng tăng lên.
+腸胃|chángwèi|tràng vị|N|dạ dày, đường ruột|腸胃的吸收能力好不好。|Khả năng hấp thu của dạ dày, đường ruột có tốt không.
+保養|bǎoyǎng|bảo dưỡng|V|giữ gìn, chăm sóc|女人重視保養皮膚，而老人重視保養身體。|Phụ nữ coi trọng chăm sóc da, người già coi trọng giữ gìn sức khỏe.
+惡性|èxìng|ác tính|AT|ác tính, tồi tệ|那家公司惡性倒閉，老闆獨自帶著一大筆錢出國去了。|Công ty đó phá sản có chủ ý, ông chủ một mình mang khoản tiền lớn ra nước ngoài.
+循環|xúnhuán|tuần hoàn|N/V|vòng tuần hoàn; tuần hoàn|窮人的孩子無法接受較好的教育，往往形成惡性循環。|Con nhà nghèo không được học hành tốt, thường thành vòng luẩn quẩn.
+添加物|tiānjiāwù|thiêm gia vật|N|chất phụ gia|由於最近食品添加物、農藥等化學藥品的使用越來越普遍。|Do việc dùng phụ gia thực phẩm, thuốc trừ sâu… ngày càng phổ biến.
+農藥|nóngyào|nông dược|N|thuốc trừ sâu||
+含有|hányǒu|hàm hữu|V|chứa|咖啡跟茶都含有咖啡因。|Cà phê và trà đều chứa caffeine.
+色素|sèsù|sắc tố|N|chất tạo màu|平常少吃一些含有色素的糖果、點心。|Bình thường ăn ít kẹo, bánh có phẩm màu.
+調味料|tiáowèiliào|điều vị liệu|N|gia vị|一般的調味料包括糖、醋、鹽、醬油等。|Gia vị thông thường gồm đường, giấm, muối, nước tương…
+防腐劑|fángfǔjì|phòng hủ tễ|N|chất bảo quản|或是調味料、防腐劑過多的泡麵。|Hoặc mì gói quá nhiều gia vị, chất bảo quản.
+浸泡|jìnpào|tẩm phao|V|ngâm|先把衣服浸泡在加了洗衣精的水裡再洗，可以洗得更乾淨。|Ngâm quần áo vào nước có bột giặt trước rồi giặt sẽ sạch hơn.
+營養|yíngyǎng|doanh dưỡng|N/SV/AT|dinh dưỡng|營養豐富的食物可以幫助小孩成長。|Thức ăn giàu dinh dưỡng giúp trẻ phát triển.
+均衡|jūnhéng|quân hành|SV/AT|cân bằng|均衡的營養能使人保持健康。|Dinh dưỡng cân bằng giúp người ta giữ sức khỏe.
+昂貴|ángguì|ngang quý|SV|đắt đỏ|價錢昂貴的東西不一定是最合適的。|Đồ đắt tiền chưa chắc đã phù hợp nhất.
+一味|yíwèi|nhất vị|A|cứ một mực, chỉ biết|有些人生了病不去看醫生，一味求神拜佛。|Có người ốm không đi khám, cứ một mực cầu thần bái Phật.
+姑息|gūxí|cô tức|V|dung túng|政府對那些隨意破壞環境的人不能姑息。|Chính phủ không thể dung túng kẻ tùy tiện phá hoại môi trường.
+縱容|zòngróng|túng dung|V|nuông chiều, dung túng|天底下有縱容自己的兒子跟別人打架的父母嗎？|Trên đời có cha mẹ nào dung túng con mình đánh nhau với người khác?
+偏食|piānshí|thiên thực|AT/N|kén ăn|小孩兒偏食，不吃青菜，愛喝汽水，是父母頭痛的問題。|Trẻ kén ăn, không ăn rau, thích uống nước ngọt là vấn đề đau đầu của cha mẹ.
+仙丹|xiāndān|tiên đan|N|thuốc tiên, thần dược|這種藥又不是仙丹，怎麼可能讓你的病突然好起來？|Thuốc này đâu phải tiên đan, sao có thể khiến bệnh bạn đột nhiên khỏi?
+心態|xīntài|tâm thái|N|tâm lý, thái độ|當別人碰到災禍的時候，他反而很開心，這種心態是不正常的。|Người khác gặp tai họa mà anh ta lại vui, tâm lý này không bình thường.
+平安無事|píng'ān wúshì|bình an vô sự|IDIOM|bình an vô sự|這次地震，我們全家平安無事，真是幸運！|Trận động đất lần này cả nhà tôi bình an vô sự, thật may mắn!
+藥補不如食補|yàobǔ bùrú shíbǔ|dược bổ bất như thực bổ|IDIOM|bồi bổ bằng thuốc không bằng bằng ăn uống|吃營養的東西，不要吃補藥，因為藥補不如食補。|Ăn đồ bổ dưỡng, đừng uống thuốc bổ, vì bổ bằng thuốc không bằng bổ bằng ăn.
+聽君一席話，勝讀十年書|tīng jūn yì xí huà, shèng dú shí nián shū|thính quân nhất tịch thoại, thắng độc thập niên thư|IDIOM|nghe ngài một buổi bằng đọc sách mười năm|今天聽了李教授的演講，真是「聽君一席話，勝讀十年書」啊！|Hôm nay nghe giáo sư Lý diễn thuyết, đúng là "nghe ngài một buổi bằng đọc sách mười năm"!
+#GRAMMAR
+（有的）……依然……；（有的）……反而……|"Có người… vẫn…; có người… ngược lại…".|就像皮膚被蚊子咬了，有的人擦了藥，依然紅腫潰爛，有的卻不管它，反而平安無事。|Như da bị muỗi đốt, có người bôi thuốc vẫn sưng loét, có người mặc kệ lại bình an vô sự.|都市人在吵鬧的環境裡依然能入睡，到了鄉下安靜的地方反而睡不著。|Người thành phố trong môi trường ồn ào vẫn ngủ được, về quê yên tĩnh lại không ngủ được.
+介於……之間|"Nằm giữa…, ở giữa…".|皮膚跟頭髮是乾性還是油性，或者介於乾性和油性之間。|Da và tóc là khô hay dầu, hay nằm giữa khô và dầu.|紫色是介於藍色和紅色之間的顏色。|Màu tím là màu nằm giữa xanh và đỏ.
+隨著……而……|"Theo… mà…": thay đổi theo một yếu tố.|保養方法是隨著季節、氣候、溫度、濕度等環境因素而加減衣服。|Cách giữ gìn là theo mùa, khí hậu, nhiệt độ, độ ẩm mà thêm bớt quần áo.|物價常隨著油價的高低而不同。|Giá cả thường thay đổi theo giá xăng.
+由於……使得……|"Do…, khiến cho…".|由於最近食品添加物、農藥等化學藥品的使用越來越普遍，使得後天容易過敏的因素增加了。|Do phụ gia thực phẩm, thuốc trừ sâu ngày càng phổ biến, khiến yếu tố dễ dị ứng tăng lên.|由於喜歡賭博，使得他輸光了錢，家庭也破碎了。|Do mê cờ bạc khiến anh thua sạch tiền, gia đình tan vỡ.
+其實……，只有……才……|"Thật ra…, chỉ có… mới…".|其實仙丹不在醫生這兒，只有父母才有。|Thật ra tiên đan không ở chỗ bác sĩ, chỉ cha mẹ mới có.|其實成功沒有捷徑，只有努力才能達到目標。|Thật ra thành công không có lối tắt, chỉ có nỗ lực mới đạt mục tiêu.

@@ -1,0 +1,14 @@
+#UNIT P5-15|實用視聽華語5 · 第十五課 新潮與保守
+#CONVO 實用視聽華語5 · 第十五課 新潮與保守
+|你是新潮的，還是保守的人？如果你有許多錢，會選擇怎樣的生活方式？|Bạn là người sành điệu hay bảo thủ? Nếu có nhiều tiền, bạn sẽ chọn lối sống thế nào?
+|有些走在時代尖端的人，努力工作，實現自我，同時拼命花錢，追求流行，他們的生活模式常常是住在租來的豪宅或飯店中，不開伙，假日上健身房或到國外旅行。這種隨遇而安、飄忽不定的生活方式，帶給他們新鮮感與無限的滿足。|Có những người đi đầu thời đại, làm việc chăm chỉ, khẳng định bản thân, đồng thời tiêu tiền thả ga, chạy theo mốt; lối sống của họ thường là ở nhà sang thuê hoặc khách sạn, không nấu ăn, ngày nghỉ đi gym hoặc du lịch nước ngoài. Lối sống tùy duyên, trôi nổi này mang lại cho họ cảm giác mới mẻ và sự thỏa mãn vô hạn.
+|但社會上也有另一種不同典型的人，他們喜歡家庭生活，重視親子關係，具有濃厚的鄉土意識。如果經濟能力許可的話，他們會到鄉下蓋一棟別墅，擁有一片菜圃，享受田園生活。表面上看來，雖不及那些人新潮，然而他們卻是永遠不會被時代淘汰的人。|Nhưng xã hội cũng có kiểu người khác hẳn, họ thích cuộc sống gia đình, coi trọng quan hệ cha mẹ – con cái, gắn bó sâu nặng với quê hương. Nếu điều kiện kinh tế cho phép, họ sẽ về quê xây một căn biệt thự, có một mảnh vườn rau, tận hưởng cuộc sống điền viên. Bề ngoài tuy không sành điệu bằng những người kia, nhưng họ lại là người không bao giờ bị thời đại đào thải.
+|這種保守的個性，使得他們做事相當的謹慎，必定先擬定計畫。若有喜歡的物品，也會存錢購買。至於高價位，超過經濟範圍的東西，就會理性地打消念頭。對這種人來說，貸款如同負債，讓他們覺得芒刺在背。|Tính cách bảo thủ khiến họ làm việc khá thận trọng, nhất định lập kế hoạch trước. Nếu có món đồ thích thì cũng sẽ để dành tiền mua. Còn đồ giá cao vượt khả năng tài chính thì sẽ lý trí bỏ ý định. Với kiểu người này, vay tiền như mắc nợ, khiến họ bồn chồn như có gai sau lưng.
+|這些人較具憂患意識，他們會不斷地努力增加存款數字，寧可將旅遊的錢省下，買些實用的家具。他們相信人有旦夕禍福，希望至少有兩名子女，並投保壽險。這一切有時是因為缺乏安全感所造成的。這些人從年輕時代起就會規畫人生，但過於實際，根本不敢隨便冒險。|Những người này có ý thức lo xa hơn, không ngừng cố gắng tăng tiền tiết kiệm, thà bớt tiền du lịch để mua đồ gia dụng thiết thực. Họ tin người có họa phúc khôn lường, mong có ít nhất hai con và mua bảo hiểm nhân thọ. Tất cả đôi khi là do thiếu cảm giác an toàn. Những người này từ khi còn trẻ đã biết lên kế hoạch cuộc đời, nhưng quá thực tế, hoàn toàn không dám mạo hiểm.
+|最令人擔憂的是有些機會到來時，可能暫時破壞了原有的安定生活，例如遇到調職或升遷，這些人往往因而忍痛割愛，以維持現狀，這是思想、做法過度保守的典型。|Đáng lo nhất là khi có cơ hội đến, có thể tạm thời phá vỡ cuộc sống ổn định vốn có, như gặp thuyên chuyển hay thăng chức, những người này thường vì thế mà đành lòng từ bỏ để giữ nguyên hiện trạng — đây là điển hình của suy nghĩ, cách làm quá bảo thủ.
+|事實上，有更多的人介於新潮與保守之間，有時安於現狀，有時也會有一些狂想或野心，想嘗試不同的生活方式。畢竟新潮與保守都各有利弊啊！|Thực tế, nhiều người hơn nằm giữa sành điệu và bảo thủ, có lúc an phận với hiện tại, có lúc cũng có ý nghĩ ngông cuồng hay tham vọng, muốn thử lối sống khác. Suy cho cùng, sành điệu và bảo thủ đều có lợi có hại!
+#Q
+新潮的人有什麼樣的生活方式？|住租來的豪宅或飯店，不開伙，上健身房或出國旅行|到鄉下蓋別墅|存錢買家具|投保壽險|0
+保守的人如果經濟許可，會做什麼？|到鄉下蓋一棟別墅，擁有一片菜圃|住大飯店|常常出國旅行|買很貴的名牌|0
+對保守的人來說，貸款像什麼？|如同負債，讓他們覺得芒刺在背|很方便的工具|一種投資|沒有關係|0
+作者認為過度保守的典型是什麼？|遇到調職或升遷的機會，為了維持現狀而放棄|喜歡存錢|喜歡家庭生活|投保壽險|0

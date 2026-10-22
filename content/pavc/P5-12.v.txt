@@ -1,0 +1,46 @@
+#VOCAB
+素食|sùshí|tố thực|N|đồ chay, ăn chay|原來吃素是近年來最流行的一種飲食方式。|Hóa ra ăn chay là cách ăn uống thịnh hành nhất những năm gần đây.
+招牌|zhāopái|chiêu bài|N|biển hiệu|在熙熙攘攘的大街上，你可能發現一些素食店的招牌。|Trên phố đông đúc, bạn có thể thấy biển hiệu vài quán chay.
+夾雜|jiázá|giáp tạp|V|xen lẫn|風聲雨聲夾雜著孩子的哭聲使我無法入睡。|Tiếng gió mưa xen lẫn tiếng trẻ khóc làm tôi không ngủ được.
+漢堡|hànbǎo|hán bảo|N|hamburger||
+披薩|pīsà|phi tát|N|pizza||
+盛行|shèngxíng|thịnh hành|V/SV|thịnh hành|近年來自己種菜自己吃的情況很盛行。|Gần đây việc tự trồng rau tự ăn rất thịnh hành.
+沙拉吧|shālābā|sa lạp ba|N|quầy salad||
+蔬菜|shūcài|sơ thái|N|rau|十幾種各式各樣的蔬菜，擺滿一桌，令人垂涎三尺。|Hơn chục loại rau đủ kiểu bày kín bàn, khiến người ta thèm nhỏ dãi.
+美乃滋|měinǎizī|mỹ nãi tư|N|sốt mayonnaise||
+拌|bàn|bạn|V|trộn, khuấy|飲料裡面加了糖以後，還要用湯匙拌一拌才能溶化。|Đồ uống cho đường xong còn phải khuấy bằng thìa mới tan.
+攝取|shèqǔ|nhiếp thủ|V|hấp thụ, nạp vào|吃橘子可以攝取維他命C。|Ăn quýt có thể bổ sung vitamin C.
+維生素|wéishēngsù|duy sinh tố|N|vitamin||
+不遜於|búxùnyú|bất tốn ư|V|không kém|有人說豆漿的營養不遜於牛奶。|Có người nói sữa đậu nành bổ dưỡng không kém sữa bò.
+香酥鴨|xiāngsūyā|hương tô áp|N|vịt chiên giòn||
+犧牲|xīshēng|hy sinh|V/N|hy sinh|許多軍人為保護國家而犧牲了。|Nhiều quân nhân đã hy sinh để bảo vệ đất nước.
+任何|rènhé|nhậm hà|DEM|bất kỳ|你有任何問題，都可問這裡的義工。|Bạn có bất kỳ câu hỏi nào đều có thể hỏi tình nguyện viên ở đây.
+暢快|chàngkuài|sướng khoái|SV/A|thoải mái, sảng khoái|他的計畫完成了，心裡很暢快。|Kế hoạch hoàn thành, lòng anh rất thoải mái.
+蛋白質|dànbáizhí|đản bạch chất|N|protein, chất đạm|如果用豆類的植物性蛋白質來代替肉類的動物性蛋白質……|Nếu dùng đạm thực vật từ đậu thay cho đạm động vật từ thịt…
+致命|zhìmìng|trí mạng|V/SV|chết người|千萬不要玩危險的遊戲，那會致命的。|Đừng chơi trò nguy hiểm, có thể chết người đấy.
+風行|fēngxíng|phong hành|V|thịnh hành, lan rộng|吃健康食品風行全世界。|Ăn thực phẩm lành mạnh thịnh hành khắp thế giới.
+素食主義|sùshí zhǔyì|tố thực chủ nghĩa|N|chủ nghĩa ăn chay||
+信仰|xìnyǎng|tín ngưỡng|V/N|tín ngưỡng; tin theo|世界上有很多人沒有任何宗教信仰。|Trên thế giới có nhiều người không có tín ngưỡng tôn giáo nào.
+衡量|héngliáng|hành lượng|V|cân nhắc, đánh giá|要先衡量自己的能力，再去選擇合適的工作。|Phải cân nhắc năng lực bản thân trước rồi mới chọn công việc phù hợp.
+利弊|lìbì|lợi tệ|N|lợi hại, ưu nhược|西方的素食者從其他方面來衡量素食的利弊。|Người ăn chay phương Tây cân nhắc lợi hại của ăn chay từ những mặt khác.
+飼養|sìyǎng|tự dưỡng|V|chăn nuôi|飼養小動物得有耐心。|Nuôi thú nhỏ phải kiên nhẫn.
+倡導|chàngdǎo|xướng đạo|V|đề xướng, cổ vũ|這家公司的老闆倡導以微笑服務顧客。|Ông chủ công ty này đề xướng phục vụ khách bằng nụ cười.
+鈣質|gàizhí|cái chất|N|canxi||
+美觀|měiguān|mỹ quan|N/SV|đẹp mắt|這家餐廳特別重視餐具的美觀。|Nhà hàng này đặc biệt chú trọng vẻ đẹp của bộ đồ ăn.
+口感|kǒugǎn|khẩu cảm|N|cảm giác khi ăn (độ giòn, dai…)|他覺得水餃皮厚一點兒，吃起來口感比較好。|Anh thấy vỏ sủi cảo dày chút ăn ngon miệng hơn.
+熙熙攘攘|xīxī rǎngrǎng|hy hy nhương nhương|IDIOM|đông đúc nhộn nhịp|這條街上每天都是熙熙攘攘的。|Con phố này ngày nào cũng đông đúc nhộn nhịp.
+各式各樣|gèshì gèyàng|các thức các dạng|IDIOM|đủ kiểu đủ loại|她會做各式各樣的蛋糕。|Cô ấy biết làm đủ loại bánh ngọt.
+垂涎三尺|chuíxián sānchǐ|thùy diên tam xích|IDIOM|thèm nhỏ dãi|小孩看見店裡的冰淇淋，可是沒錢買，常常會垂涎三尺。|Trẻ con thấy kem trong tiệm mà không có tiền mua, thường thèm nhỏ dãi.
+花樣百出|huāyàng bǎichū|hoa dạng bách xuất|IDIOM|đủ trò đủ kiểu|現在騙子騙錢的方法花樣百出，當心受騙。|Bây giờ kẻ lừa đảo có trăm phương nghìn kế, cẩn thận bị lừa.
+幾可亂真|jī kě luàn zhēn|cơ khả loạn chân|IDIOM|giống như thật|壞人印的假鈔票幾可亂真。|Tiền giả kẻ xấu in giống hệt tiền thật.
+色香味俱全|sè xiāng wèi jù quán|sắc hương vị câu toàn|IDIOM|đủ cả sắc, hương, vị|媽媽做的菜色香味俱全。|Món mẹ nấu đủ cả sắc hương vị.
+大快朵頤|dàkuài duǒyí|đại khoái đóa di|IDIOM|ăn uống thỏa thích|等明天拿到薪水以後，我要到飯館去大快朵頤一番。|Mai lĩnh lương xong tôi sẽ đi nhà hàng ăn một bữa thỏa thích.
+青菜豆腐保平安|qīngcài dòufu bǎo píng'ān|thanh thái đậu hủ bảo bình an|IDIOM|rau xanh đậu phụ giữ bình an|每日三餐不必花很多錢，青菜豆腐保平安。|Ba bữa mỗi ngày không cần tốn nhiều tiền, rau xanh đậu phụ giữ bình an.
+清清淡淡|qīngqīng dàndàn|thanh thanh đạm đạm|IDIOM|thanh đạm|夏天太熱，我喜歡吃清清淡淡的食物。|Mùa hè nóng quá, tôi thích ăn đồ thanh đạm.
+口腹之慾|kǒufù zhī yù|khẩu phúc chi dục|IDIOM|ham muốn ăn uống|每天都要滿足口腹之慾的人一定不健康。|Người ngày nào cũng phải thỏa mãn cơn thèm ăn chắc chắn không khỏe.
+#GRAMMAR
+最……的……可能算是……了|"Cái… nhất có lẽ phải kể đến…".|在西餐方面，最盛行的可能算是「沙拉吧」了。|Về món Tây, thịnh hành nhất có lẽ là "quầy salad".|她最喜歡的花可能算是玫瑰了。|Hoa cô ấy thích nhất có lẽ là hoa hồng.
+……之餘|"Sau khi…, ngoài lúc…": khoảng thời gian / trạng thái còn lại sau việc chính.|大快朵頤之餘，誰會想到一餐下來居然沒犧牲任何一條生命。|Sau khi ăn uống thỏa thích, ai ngờ cả bữa chẳng hy sinh một sinh mạng nào.|有些人常在工作之餘去當義工。|Có người thường làm tình nguyện ngoài giờ làm việc.
+……以……居多|"…phần lớn là…, chiếm đa số là…".|不要以為吃素的以東方人居多。|Đừng tưởng người ăn chay phần lớn là người phương Đông.|青少年打工的地方，以速食店居多。|Chỗ thanh thiếu niên làm thêm phần lớn là tiệm đồ ăn nhanh.
+為了……著想|"Vì nghĩ cho…, vì lợi ích của…".|除了為了個人的健康著想以外，還考慮到環保問題。|Ngoài nghĩ cho sức khỏe cá nhân, còn cân nhắc vấn đề môi trường.|政府為了市民的安全著想，建了很多地下道。|Chính phủ vì an toàn của người dân mà xây nhiều đường hầm.
+……固然……可是……|"…tuy… thật, nhưng…": thừa nhận một mặt rồi chuyển ý.|素食的好處固然很多，可是成長中的兒童與青少年，仍然需要大量的動物性蛋白質與鈣質。|Ăn chay tuy nhiều lợi ích, nhưng trẻ em và thanh thiếu niên đang lớn vẫn cần nhiều đạm động vật và canxi.|吸菸固然有樂趣，可是有得病的危險，最好戒菸。|Hút thuốc tuy có thú vị, nhưng có nguy cơ mắc bệnh, tốt nhất nên cai.
