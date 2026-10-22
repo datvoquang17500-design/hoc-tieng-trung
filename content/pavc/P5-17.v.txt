@@ -1,0 +1,42 @@
+#VOCAB
+生肖|shēngxiào|sinh tiêu|N|con giáp|華人除了姓名、籍貫之外，最重要的代表性標記就是「生肖」。|Người Hoa ngoài họ tên, quê quán, dấu hiệu tiêu biểu quan trọng nhất là "con giáp".
+籍貫|jíguàn|tịch quán|N|quê quán||
+屬|shǔ|thuộc|V|tuổi (con giáp)|今年生的小孩屬雞，明年生的屬狗，後年生的屬豬。|Trẻ sinh năm nay tuổi Dậu, sang năm tuổi Tuất, năm sau nữa tuổi Hợi.
+確實|quèshí|xác thực|A|quả thực, đúng là|我確實不知道這件事是誰做的。|Tôi quả thật không biết việc này ai làm.
+文獻|wénxiàn|văn hiến|N|tư liệu, văn bản cổ||
+記載|jìzài|ký tải|V|ghi chép|古書中記載著古人的生活經驗和思想觀念。|Sách cổ ghi chép kinh nghiệm sống và tư tưởng của người xưa.
+地支|dìzhī|địa chi|N|địa chi (Tý, Sửu, Dần…)|古人一向以十二地支來代表年。|Người xưa lấy mười hai địa chi để đại diện cho năm.
+排列|páiliè|bài liệt|V|sắp xếp|教材中的生詞都是按照出現的順序排列的。|Từ mới trong giáo trình đều xếp theo thứ tự xuất hiện.
+諳|ān|am|V|am hiểu, thông thạo|他因不諳法律，常常違法。|Anh không am hiểu pháp luật nên hay phạm luật.
+央求|yāngqiú|ương cầu|V|nài nỉ, van xin|他一遇到困難就央求朋友幫助。|Gặp khó khăn là anh nài nỉ bạn giúp.
+岸邊|ànbiān|ngạn biên|N|bờ (sông, biển)|那條小河的岸邊有一片茂密的樹林。|Bờ con sông nhỏ đó có một rừng cây rậm rạp.
+陸地|lùdì|lục địa|N|đất liền|你知道全世界陸地跟海洋的比率是多少嗎？|Bạn có biết tỷ lệ đất liền và đại dương trên thế giới là bao nhiêu không?
+躍|yuè|dược|V|nhảy vọt|這個人真厲害，一躍就過了牆。|Người này giỏi thật, nhảy một cái đã qua tường.
+落選|luòxuǎn|lạc tuyển|VO|trượt (bầu cử, tuyển chọn)|這次選舉，王家三個兄弟都落選了。|Kỳ bầu cử này ba anh em nhà họ Vương đều trượt.
+形象|xíngxiàng|hình tượng|N|hình ảnh, hình tượng|政治人物很怕破壞自己的形象，所以一言一行都很謹慎。|Chính trị gia rất sợ hỏng hình ảnh nên từng lời nói việc làm đều cẩn trọng.
+印證|yìnzhèng|ấn chứng|V|kiểm chứng, minh chứng|我不大相信他說的話，我要找人來印證一下。|Tôi không tin lắm lời anh ta, phải tìm người kiểm chứng.
+舉止|jǔzhǐ|cử chỉ|N|cử chỉ, phong thái||
+善於|shànyú|thiện ư|V|giỏi về|貓善於捕捉老鼠。|Mèo giỏi bắt chuột.
+機警|jījǐng|cơ cảnh|SV/AT|lanh lợi, cảnh giác|山上的動物都很機警。|Động vật trên núi đều rất cảnh giác.
+悠閒|yōuxián|du nhàn|SV|thong thả, nhàn nhã|放年假的時候，他每天吃吃喝喝，看看書，過得很悠閒。|Nghỉ Tết, ngày nào anh cũng ăn uống, đọc sách, sống rất nhàn nhã.
+固執|gùzhí|cố chấp|SV|cố chấp, bướng bỉnh|固執的人不容易接受別人的意見，常常跟別人吵架。|Người cố chấp khó tiếp nhận ý kiến người khác, hay cãi nhau.
+性情|xìngqíng|tính tình|N|tính tình|兔子和羊都是性情溫和的動物。|Thỏ và dê đều là con vật tính tình hiền lành.
+仔細|zǐxì|tử tế|SV/A|kỹ lưỡng|商品的瑕疵要仔細看才找得出來。|Lỗi của hàng hóa phải nhìn kỹ mới thấy.
+圖騰獸|túténgshòu|đồ đằng thú|N|con vật vật tổ||
+年神|niánshén|niên thần|N|thần cai quản năm||
+星座|xīngzuò|tinh tọa|N|cung hoàng đạo, chòm sao|年輕人之間，多以自己的星座來推測運氣及當作擇友的參考。|Giới trẻ thường dựa vào cung hoàng đạo để đoán vận may và làm tham khảo chọn bạn.
+逢|féng|phùng|V|gặp, đến (dịp)|每逢春節，大家都逢人就說恭喜。|Mỗi dịp Tết, ai gặp ai cũng chúc mừng.
+值年|zhínián|trị niên|AT|cai quản năm|華人以十二種動物當作每年的值年代表。|Người Hoa lấy mười hai con vật làm đại diện cai quản mỗi năm.
+吉祥|jíxiáng|cát tường|SV/AT|may mắn, tốt lành|過年的時候一定要說吉祥話。|Ngày Tết nhất định phải nói lời may mắn.
+奔騰|bēnténg|bôn đằng|V|phi nước đại, cuồn cuộn|她畫了一張萬馬奔騰的畫，很生動。|Cô vẽ bức tranh vạn mã phi nước đại, rất sinh động.
+歲月|suìyuè|tuế nguyệt|N|năm tháng|住在山上那幾年，是他一生中最悠閒的歲月。|Mấy năm sống trên núi là quãng đời nhàn nhã nhất của anh.
+玉皇大帝|Yùhuáng Dàdì|Ngọc Hoàng Đại Đế|N|Ngọc Hoàng||
+一席之地|yìxí zhī dì|nhất tịch chi địa|IDIOM|một chỗ đứng|每個國家在國際舞臺上都佔有一席之地。|Mỗi nước đều có một chỗ đứng trên trường quốc tế.
+津津樂道|jīnjīn lèdào|tân tân lạc đạo|IDIOM|say sưa bàn tán|本校得了足球比賽第一名，全校師生都津津樂道。|Trường giành giải nhất bóng đá, cả thầy trò say sưa bàn tán.
+令人捧腹|lìngrén pěngfù|lệnh nhân phủng phúc|IDIOM|khiến người ta ôm bụng cười|爸爸說的笑話令人捧腹。|Chuyện cười bố kể khiến người ta ôm bụng cười.
+威風凜凜|wēifēng lǐnlǐn|uy phong lẫm lẫm|IDIOM|oai phong lẫm liệt|那位將軍指揮作戰時，真是威風凜凜。|Vị tướng ấy khi chỉ huy tác chiến thật oai phong lẫm liệt.
+#GRAMMAR
+除了……最重要的是……|"Ngoài… ra, quan trọng nhất là…".|華人除了姓名、籍貫之外，最重要的代表性標記就是「生肖」。|Người Hoa ngoài họ tên, quê quán, dấu hiệu tiêu biểu quan trọng nhất là "con giáp".|你除了好好念書以外，最重要的是注意身體的健康。|Ngoài học hành chăm chỉ, quan trọng nhất là chú ý sức khỏe.
+……確實……而且也是……|"…quả thực…, hơn nữa còn là…".|生肖在華人生活中確實佔有一席之地，而且也是個人人津津樂道的話題。|Con giáp quả thực có chỗ đứng trong đời sống người Hoa, hơn nữa còn là chủ đề ai cũng say sưa bàn tán.|她確實漂亮，而且也是個能幹的人。|Cô ấy quả thật xinh đẹp, hơn nữa còn là người giỏi giang.
+信不信由你|"Tin hay không tùy bạn".|現在介紹一個民間比較熟知的傳說，信不信由你。|Giờ giới thiệu một truyền thuyết dân gian khá quen thuộc, tin hay không tùy bạn.|傳說古代有個人活到八百歲，信不信由你。|Tương truyền thời xưa có người sống tới tám trăm tuổi, tin hay không tùy bạn.
+並不只是……，也是……|"Không chỉ là…, mà còn là…".|生肖文化並不只是華人獨有的文化，因為生肖是一種圖騰獸，也是一種年神。|Văn hóa con giáp không chỉ riêng người Hoa có, vì con giáp là một loài vật tổ, cũng là một vị thần năm.|工作並不只是賺錢的方式，也是一種樂趣。|Công việc không chỉ là cách kiếm tiền mà còn là một niềm vui.

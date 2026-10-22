@@ -1,0 +1,37 @@
+#VOCAB
+宇宙|yǔzhòu|vũ trụ|N|vũ trụ||
+顆|kē|khỏa|M|hạt, ngôi (vật nhỏ tròn)|天上有多少顆星，你數得清嗎？|Trên trời có bao nhiêu ngôi sao, bạn đếm hết được không?
+星球|xīngqiú|tinh cầu|N|hành tinh, tinh cầu||
+生存|shēngcún|sinh tồn|V|sinh tồn, tồn tại||
+探討|tàntǎo|thám thảo|V/N|nghiên cứu, thảo luận|科學家對探討宇宙的來源有興趣。|Các nhà khoa học hứng thú nghiên cứu nguồn gốc vũ trụ.
+究竟|jiūjìng|cứu cánh|A|rốt cuộc|人口問題究竟有多嚴重呢？|Vấn đề dân số rốt cuộc nghiêm trọng đến đâu?
+誕生|dànshēng|đản sinh|V|ra đời, chào đời|基督誕生於一千多年前的十二月。|Chúa Giê-su ra đời vào tháng 12 hơn một nghìn năm trước.
+嬰兒|yīng'ér|anh nhi|N|trẻ sơ sinh|世界上的嬰兒中，男嬰和女嬰的比率應該是均衡的。|Trong số trẻ sơ sinh trên thế giới, tỷ lệ bé trai và bé gái nên cân bằng.
+死亡率|sǐwánglǜ|tử vong suất|N|tỷ lệ tử vong||
+降低|jiàngdī|giáng đê|V|giảm|由於醫學進步，嬰兒的死亡率普遍降低了。|Nhờ y học tiến bộ, tỷ lệ tử vong trẻ sơ sinh nói chung đã giảm.
+幾何級數|jǐhé jíshù|kỷ hà cấp số|N|cấp số nhân||
+攀升|pānshēng|phàn thăng|V|leo thang, tăng lên|近幾年物價一直往上攀升。|Mấy năm gần đây giá cả liên tục leo thang.
+開發中|kāifāzhōng|khai phát trung|AT|đang phát triển|開發中國家的經濟不斷地發展，希望能趕上已開發國家。|Kinh tế các nước đang phát triển không ngừng tăng trưởng, mong đuổi kịp các nước phát triển.
+未開發|wèikāifā|vị khai phát|AT|chưa phát triển|很多國家對未開發國家的人民伸出援手。|Nhiều nước chìa tay giúp đỡ người dân các nước chưa phát triển.
+膨脹|péngzhàng|bành trướng|V|phình ra, bùng nổ|大部分食物在水裡浸泡久了就會膨脹。|Phần lớn thức ăn ngâm nước lâu sẽ nở ra.
+外匯|wàihuì|ngoại hối|N|ngoại tệ||
+饑荒|jīhuāng|cơ hoang|N|nạn đói||
+節育|jiéyù|tiết dục|VO|kế hoạch hóa sinh đẻ|出生率高的國家倡導節育，希望家庭中的孩子不要太多。|Nước có tỷ lệ sinh cao đề xướng kế hoạch hóa, mong mỗi gia đình đừng nhiều con.
+一胎化|yìtāihuà|nhất thai hóa|N|chính sách một con||
+阻擋|zǔdǎng|trở đáng|V|ngăn cản|民主的潮流是無法阻擋的。|Trào lưu dân chủ không thể ngăn cản.
+洪流|hóngliú|hồng lưu|N|dòng lũ, dòng chảy mạnh||
+發達|fādá|phát đạt|SV|phát triển|交通發達的地方，經濟發展也比較快速。|Nơi giao thông phát triển thì kinh tế cũng phát triển nhanh hơn.
+壽命|shòumìng|thọ mệnh|N|tuổi thọ||
+延長|yáncháng|diên trường|V|kéo dài|延長簽證對留學生來說非常重要。|Gia hạn thị thực rất quan trọng với du học sinh.
+失衡|shīhéng|thất hành|V|mất cân bằng|偏食導致營養失衡，有害健康。|Kén ăn dẫn đến mất cân bằng dinh dưỡng, hại sức khỏe.
+奉養|fèngyǎng|phụng dưỡng|V|phụng dưỡng|兒女應該奉養年老的父母。|Con cái nên phụng dưỡng cha mẹ già.
+撫育|fǔyù|phủ dục|V|nuôi dạy|撫育孩子是父母應盡的責任。|Nuôi dạy con là trách nhiệm cha mẹ phải làm tròn.
+殆盡|dàijìn|đãi tận|A|gần hết, cạn kiệt|戰爭還未結束，軍人已經犧牲殆盡。|Chiến tranh chưa kết thúc mà quân lính đã hy sinh gần hết.
+閃亮|shǎnliàng|thiểm lượng|AT/V|lấp lánh|一到晚上，星星就開始閃亮了。|Tối đến là sao bắt đầu lấp lánh.
+人滿為患|rénmǎn wéihuàn|nhân mãn vi hoạn|IDIOM|quá tải vì đông người|世界上許多有名的大城市都人滿為患。|Nhiều thành phố lớn nổi tiếng trên thế giới đều quá tải vì đông người.
+無窮無盡|wúqióng wújìn|vô cùng vô tận|IDIOM|vô cùng vô tận|人必須坦然面對無窮無盡的煩惱。|Con người phải bình thản đối diện những phiền muộn vô tận.
+#GRAMMAR
+……小小……竟……|"…nhỏ bé như vậy mà lại…": nhấn mạnh sự trái ngược giữa nhỏ bé và kết quả bất ngờ.|地球在宇宙中只是一顆小小的星球，竟有無窮無盡的生物生存於其中。|Trái Đất trong vũ trụ chỉ là một hành tinh nhỏ bé mà lại có vô số sinh vật sống trong đó.|一隻小小的螞蟻竟能搬比牠身體重幾倍的東西。|Một con kiến nhỏ xíu mà lại khiêng được vật nặng gấp mấy lần thân nó.
+……高居……之冠|"…đứng đầu…".|例如非洲地區，人口的成長率高居世界之冠。|Ví dụ khu vực châu Phi, tỷ lệ tăng dân số đứng đầu thế giới.|臺北的人口總數高居臺灣之冠。|Tổng dân số Đài Bắc đứng đầu Đài Loan.
+就……而言|"Xét về…, về mặt…".|就經濟問題而言，人口成長率高的國家，必須提高經濟成長率。|Về vấn đề kinh tế, nước có tỷ lệ tăng dân số cao phải nâng tỷ lệ tăng trưởng kinh tế.|就本校而言，每年暑假是學生最多的時候。|Với trường chúng tôi, kỳ nghỉ hè hằng năm là lúc đông học sinh nhất.
+……必須……，才能……|"…phải…, mới có thể…".|人口成長率高的國家，必須提高經濟成長率，才能減輕人口膨脹的壓力。|Nước có tỷ lệ tăng dân số cao phải nâng tăng trưởng kinh tế mới giảm được áp lực bùng nổ dân số.|我們必須更加努力，才能克服工作上的困難。|Chúng ta phải cố gắng hơn nữa mới vượt qua được khó khăn trong công việc.

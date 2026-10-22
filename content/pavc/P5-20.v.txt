@@ -1,0 +1,41 @@
+#VOCAB
+救濟|jiùjì|cứu tế|V/N|cứu trợ, cứu tế|救濟世界各地的難民是這個國際組織的主要工作。|Cứu trợ người tị nạn khắp thế giới là công việc chính của tổ chức quốc tế này.
+自立|zìlì|tự lập|V|tự lập|他先接受救濟，經過一段時間就自立了。|Anh nhận cứu trợ trước, sau một thời gian thì tự lập.
+社會主義|shèhuì zhǔyì|xã hội chủ nghĩa|N|chủ nghĩa xã hội||
+存在|cúnzài|tồn tại|N/V|tồn tại; sự tồn tại|如果不設法改善，全球暖化的現象會繼續存在下去。|Nếu không tìm cách cải thiện, hiện tượng nóng lên toàn cầu sẽ tiếp tục tồn tại.
+界定|jièdìng|giới định|V|định nghĩa, xác định|「好人」的意義很難界定，到底行為要多好才算好人呢？|Nghĩa của "người tốt" rất khó xác định, rốt cuộc phải tốt đến đâu mới là người tốt?
+測量|cèliáng|trắc lượng|V|đo lường|工作人員正在測量這座山的高度。|Nhân viên đang đo độ cao ngọn núi này.
+貧窮線|pínqióngxiàn|bần cùng tuyến|N|chuẩn nghèo||
+核准|hézhǔn|hạch chuẩn|V/N|phê duyệt|他所申請的汽車牌照已經核准了。|Biển số xe anh xin đã được duyệt.
+謙卑|qiānbēi|khiêm ti|SV/AT|khiêm nhường, nhún nhường|面對顧客，他的態度總是那麼謙卑。|Trước khách hàng, thái độ anh luôn nhún nhường.
+苛責|kēzé|hà trách|V|trách móc nặng nề|學生參加比賽的成績不大好，但他已經盡力了，老師不忍心苛責他。|Học sinh thi không tốt lắm nhưng đã cố hết sức, thầy không nỡ trách nặng.
+口吻|kǒuwěn|khẩu vẫn|N|giọng điệu||
+爭取|zhēngqǔ|tranh thủ|V|tranh thủ, giành lấy|每個職員都在努力爭取升遷的機會。|Nhân viên nào cũng nỗ lực giành cơ hội thăng chức.
+宣揚|xuānyáng|tuyên dương|V|tuyên truyền, quảng bá|他們組織了一個青年團到海外宣揚中華文化。|Họ lập đoàn thanh niên ra nước ngoài quảng bá văn hóa Trung Hoa.
+期待|qīdài|kỳ đãi|V/N|kỳ vọng, mong đợi|過度的期待會造成雙方的壓力。|Kỳ vọng quá mức sẽ gây áp lực cho cả hai bên.
+脫離|tuōlí|thoát ly|V|thoát khỏi|有些人認為信教可以脫離煩惱。|Có người cho rằng theo đạo có thể thoát khỏi phiền muộn.
+擴張|kuòzhāng|khuếch trương|V/N|mở rộng, bành trướng|在歷史上，過度擴張領土的行為造成悲劇。|Trong lịch sử, việc bành trướng lãnh thổ quá mức đã gây bi kịch.
+後遺症|hòuyízhèng|hậu di chứng|N|di chứng, hệ quả||
+理念|lǐniàn|lý niệm|N|lý tưởng, quan niệm||
+消滅|xiāomiè|tiêu diệt|V|tiêu diệt, xóa bỏ|這種滅蟲劑可以消滅蚊蟲。|Thuốc diệt côn trùng này có thể diệt muỗi.
+憧憬|chōngjǐng|sung cảnh|N/V|khát khao, mơ ước|她憧憬著美麗的未來。|Cô mơ ước về một tương lai tươi đẹp.
+妥善|tuǒshàn|thỏa thiện|A/SV|thỏa đáng, chu đáo|自助旅行的人會妥善安排自己的行程。|Người du lịch tự túc sẽ sắp xếp lịch trình chu đáo.
+情操|qíngcāo|tình tháo|N|phẩm cách, tình cảm cao đẹp||
+尊嚴|zūnyán|tôn nghiêm|N|phẩm giá, lòng tự trọng||
+堅忍|jiānrěn|kiên nhẫn|SV/AT|kiên cường nhẫn nại|他有堅忍的意志，永遠不會動搖。|Anh có ý chí kiên cường, không bao giờ dao động.
+意志|yìzhì|ý chí|N|ý chí||
+倫理|lúnlǐ|luân lý|N|luân lý, đạo đức||
+舒緩|shūhuǎn|thư hoãn|V|làm dịu, xoa dịu|喝一杯熱茶，聽一段音樂，可以舒緩緊張的情緒。|Uống ly trà nóng, nghe đoạn nhạc có thể xoa dịu căng thẳng.
+策略|cèlüè|sách lược|N|chiến lược|每個學生都有適合他自己的學習策略。|Mỗi học sinh có chiến lược học phù hợp với mình.
+課題|kètí|khóa đề|N|đề tài, vấn đề cần giải quyết|如何解決世界人口問題，是我們應該努力的課題。|Giải quyết vấn đề dân số thế giới là bài toán chúng ta cần nỗ lực.
+尚無定論|shàng wú dìnglùn|thượng vô định luận|IDIOM|chưa có kết luận|到底什麼食物會引起癌症，尚無定論。|Rốt cuộc thực phẩm nào gây ung thư vẫn chưa có kết luận.
+互助互惠|hùzhù hùhuì|hỗ trợ hỗ huệ|IDIOM|giúp đỡ cùng có lợi|我們要組織一個團體，以團員互助互惠為目的。|Chúng ta lập một nhóm lấy việc thành viên giúp đỡ cùng có lợi làm mục đích.
+自給自足|zìjǐ zìzú|tự cấp tự túc|IDIOM|tự cung tự cấp|這個國家的糧食可以自給自足，但是石油必須進口。|Lương thực nước này tự cung tự cấp được nhưng dầu mỏ phải nhập.
+破壞無遺|pòhuài wúyí|phá hoại vô di|IDIOM|bị phá hủy hoàn toàn|戰爭以後，這些古蹟被破壞無遺。|Sau chiến tranh, những di tích này bị phá hủy hoàn toàn.
+有恃無恐|yǒushì wúkǒng|hữu thị vô khủng|IDIOM|có chỗ dựa nên không sợ|明天的考試他有恃無恐，因為他很早就開始預備了。|Bài thi mai anh không sợ vì đã chuẩn bị từ sớm.
+以工代賑|yǐgōng dàizhèn|dĩ công đại chẩn|IDIOM|cứu trợ bằng việc làm|有人認為「以工代賑」是救濟窮人最好的方法。|Có người cho rằng "cứu trợ bằng việc làm" là cách giúp người nghèo tốt nhất.
+#GRAMMAR
+……，亦即……|"…, tức là…" (văn viết).|因此各國都定有貧窮的測量方法，亦即一般所謂的貧窮線。|Vì vậy các nước đều có cách đo lường nghèo, tức là cái thường gọi là chuẩn nghèo.|掌中戲，亦即木偶戲或布袋戲。|Chưởng trung hí, tức là múa rối hay bố đại hí.
+……不再……，而是……|"…không còn…, mà là…".|申請救助者在排隊申請時，不再是謙卑的或低聲下氣的，而是用非常氣憤和苛責的口吻。|Người xin trợ giúp khi xếp hàng không còn nhún nhường hay khúm núm, mà dùng giọng rất tức giận và trách móc.|通過律師考試後，他不再是一個商人而是一個律師。|Đỗ kỳ thi luật sư, anh không còn là thương nhân mà là luật sư.
+……，又怎能……？|"…, thì sao có thể…?" (câu hỏi tu từ).|但在這種沒有相對責任的社會福利風行後，又怎能期待受救助者自助自救而脫離貧窮？|Nhưng sau khi phúc lợi xã hội không đi kèm trách nhiệm này thịnh hành, sao có thể mong người nhận trợ giúp tự cứu mình thoát nghèo?|如果父母自己都不遵守法律，又怎能做孩子的榜樣？|Nếu cha mẹ không tuân thủ pháp luật thì sao làm gương cho con được?
+……不僅……，更SV的是……|"…không chỉ…, còn… hơn nữa là…".|因為這樣不僅造成更多的福利依賴者，更嚴重的是改變價值觀與破壞家庭倫理。|Vì như vậy không chỉ tạo thêm người phụ thuộc phúc lợi, nghiêm trọng hơn là thay đổi giá trị quan và phá hoại luân lý gia đình.|喝茶不僅能解渴，更好的是對身體健康有幫助。|Uống trà không chỉ giải khát, tốt hơn nữa là có lợi cho sức khỏe.

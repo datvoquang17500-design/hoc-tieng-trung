@@ -1,0 +1,42 @@
+#VOCAB
+演變|yǎnbiàn|diễn biến|V/N|biến đổi, tiến hóa|字體的演變使現代人對很多字的來源無法了解。|Sự biến đổi tự thể khiến người hiện đại không hiểu nguồn gốc nhiều chữ.
+銅器|tóngqì|đồng khí|N|đồ đồng||
+墨|mò|mặc|N|mực tàu||
+硯|yàn|nghiễn|N|nghiên mực||
+印刷體|yìnshuātǐ|ấn loát thể|N|chữ in||
+正楷|zhèngkǎi|chính giai|N|chữ khải chuẩn||
+富有|fùyǒu|phú hữu|V/SV|giàu (có); đầy, chứa nhiều|他所設計的服裝都富有新潮的藝術感。|Quần áo anh thiết kế đều đầy cảm quan nghệ thuật hợp thời.
+典雅|diǎnyǎ|điển nhã|SV|tao nhã, thanh lịch|故宮博物院的外觀和內部看起來都很典雅。|Bảo tàng Cố Cung bên ngoài lẫn bên trong đều rất tao nhã.
+磨滅|mómiè|ma diệt|V|phai mờ, mài mòn|他對國家有不可磨滅的貢獻。|Ông có cống hiến không thể phai mờ cho đất nước.
+通行|tōngxíng|thông hành|V|lưu hành, dùng rộng rãi|這種信用卡通行全球。|Loại thẻ tín dụng này dùng được toàn cầu.
+經歷|jīnglì|kinh lịch|V/N|trải qua; kinh nghiệm|他一生經歷過兩次戰爭，無數次的打擊。|Cả đời ông trải qua hai cuộc chiến tranh, vô số lần sóng gió.
+文盲|wénmáng|văn manh|N|người mù chữ||
+暢遊|chàngyóu|sướng du|V|du ngoạn thỏa thích|他打算利用這次假期，暢遊名山大川。|Anh định nhân kỳ nghỉ này du ngoạn núi sông nổi tiếng.
+碑銘|bēimíng|bi minh|N|văn bia||
+匾額|biǎn'é|biển ngạch|N|bức hoành phi||
+題字|tízì|đề tự|N/VO|chữ đề; đề chữ|他是書法家，常常有人請他題字。|Ông là nhà thư pháp, hay có người nhờ đề chữ.
+接觸|jiēchù|tiếp xúc|V|tiếp xúc|太保守的人不喜歡接觸新的事物。|Người quá bảo thủ không thích tiếp xúc cái mới.
+古籍|gǔjí|cổ tịch|N|sách cổ|這位學者做了很多整理古籍的工作。|Học giả này làm nhiều công việc chỉnh lý sách cổ.
+經典|jīngdiǎn|kinh điển|N|kinh điển|古代的經典有永遠保存的價值。|Kinh điển cổ đại có giá trị lưu giữ mãi mãi.
+茫然|mángrán|mang nhiên|SV/A|ngơ ngác, mơ hồ|我問他一個數學問題，他一臉茫然。|Tôi hỏi anh một bài toán, mặt anh ngơ ngác.
+旁|páng|bàng|N|bộ (thành phần bên của chữ)|「氵」是水旁；「扌」是手旁。|"氵" là bộ thủy; "扌" là bộ thủ.
+商榷|shāngquè|thương xác|V|bàn bạc, cân nhắc lại|這篇文章提到的歷史年代，我想跟你商榷一下。|Niên đại lịch sử nhắc trong bài này, tôi muốn bàn lại với bạn.
+譬如|pìrú|thí như|V|ví như|有些人認為人生譬如一場夢。|Có người cho rằng đời người ví như một giấc mơ.
+困惑|kùnhuò|khốn hoặc|SV|bối rối, khó hiểu|他最近的行為舉止跟過去完全不同，令人困惑。|Cử chỉ gần đây của anh hoàn toàn khác trước, khiến người ta khó hiểu.
+推敲|tuīqiāo|thôi xao|V|suy ngẫm, cân nhắc kỹ|學生碰到生詞可以先根據上下文的意思去推敲。|Học sinh gặp từ mới có thể dựa vào ngữ cảnh để đoán nghĩa.
+會意|huìyì|hội ý|N/V|hội ý (một cách tạo chữ); hiểu ý|我對服務生招招手，他就會意了，過來把茶壺重新注滿水。|Tôi vẫy phục vụ, anh hiểu ý ngay, đến châm đầy ấm trà.
+刪除|shānchú|san trừ|V|xóa bỏ|他把電腦中不需要的資料都刪除了。|Anh xóa hết dữ liệu không cần trong máy tính.
+輪廓|lúnkuò|luân khuếch|N|đường nét, đường viền|學生對漢字往往只記得大概的輪廓，所以常寫錯。|Học sinh thường chỉ nhớ đường nét đại khái của chữ Hán nên hay viết sai.
+目前|mùqián|mục tiền|N|hiện nay|目前，中國大陸的招牌可以使用正體字。|Hiện nay biển hiệu ở Trung Quốc đại lục được dùng chữ phồn thể.
+甲骨文|jiǎgǔwén|giáp cốt văn|N|chữ giáp cốt||
+秦始皇|Qínshǐhuáng|Tần Thủy Hoàng|N|Tần Thủy Hoàng||
+繼之而起|jì zhī ér qǐ|kế chi nhi khởi|IDIOM|nối tiếp xuất hiện|收音機發明之後，繼之而起的是電視。|Sau khi radio được phát minh, tiếp nối là truyền hình.
+方方正正|fāngfāng zhèngzhèng|phương phương chính chính|IDIOM|vuông vắn ngay ngắn|方方正正的字看起來很整齊。|Chữ vuông vắn trông rất ngay ngắn.
+一筆不苟|yìbǐ bùgǒu|nhất bút bất cẩu|IDIOM|cẩn thận từng nét|練習書法時，要一筆不苟，才能寫得好。|Luyện thư pháp phải cẩn thận từng nét mới viết đẹp.
+龍飛鳳舞|lóngfēi fèngwǔ|long phi phượng vũ|IDIOM|rồng bay phượng múa|他寫的字像龍飛鳳舞，很美觀。|Chữ anh viết như rồng bay phượng múa, rất đẹp.
+行雲流水|xíngyún liúshuǐ|hành vân lưu thủy|IDIOM|trôi chảy tự nhiên như mây bay nước chảy|這篇文章寫得很流利，如行雲流水。|Bài văn viết rất trôi chảy, như mây bay nước chảy.
+#GRAMMAR
+被……視為……|"Được (bị) coi là…".|無論是楷書、行書、草書，都被華人視為既實用又藝術的書寫文字。|Dù khải thư, hành thư hay thảo thư đều được người Hoa coi là chữ viết vừa thiết thực vừa nghệ thuật.|李天祿生前被視為國寶級的掌中戲大師。|Lý Thiên Lộc lúc sinh thời được coi là bậc thầy múa rối cấp quốc bảo.
+一旦|"Một khi…".|一旦海峽兩岸正式來往以後，簡化字、正體字問題更會增加不少接觸時的困擾。|Một khi hai bờ eo biển chính thức qua lại, vấn đề chữ giản thể, phồn thể sẽ càng gây thêm nhiều khó khăn khi tiếp xúc.|一旦接觸古文字，你就會感受到它的魅力。|Một khi tiếp xúc chữ cổ, bạn sẽ cảm nhận được sức hút của nó.
+如此一來|"Như vậy thì, thế là".|如此一來，雙方都感到困惑。|Như vậy, cả hai bên đều thấy bối rối.|古籍經典都上了網路，如此一來，查資料就方便多了。|Sách cổ kinh điển đều lên mạng, như vậy tra tài liệu tiện hơn nhiều.
+除此以外，尚有……|"Ngoài ra, còn có…".|除此以外，尚有一些簡化字，例如「开」（開）與「业」（業）保留原字的一部分。|Ngoài ra còn có một số chữ giản thể như "开" (開) và "业" (業) giữ lại một phần chữ gốc.|本校有圖書館、運動場，除此之外，尚有游泳池。|Trường có thư viện, sân vận động, ngoài ra còn có hồ bơi.

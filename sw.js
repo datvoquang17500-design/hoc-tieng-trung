@@ -1,6 +1,6 @@
 // Service worker: cho phép app chạy offline sau lần mở đầu tiên.
 // Khi sửa data.js / app.js, tăng VERSION để iPhone tải bản mới.
-const VERSION = 'v21';
+const VERSION = 'v22';
 const CACHE = 'zh-study-' + VERSION;
 const AUDIO_CACHE = 'zh-audio'; // giữ qua các phiên bản, chỉ chứa mp3 đã nghe
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'data.js', 'data-pavc.js', 'workbook.js', 'audio-map.js', 'manifest.webmanifest', 'icon.svg', 'icon-180.png', 'icon-512.png'];
