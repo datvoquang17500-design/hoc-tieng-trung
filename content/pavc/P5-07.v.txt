@@ -1,0 +1,38 @@
+#VOCAB
+拒|jù|cự|V|từ chối, khước từ|她拒收我送給她的禮物，我覺得很糗。|Cô ấy từ chối nhận quà tôi tặng, tôi thấy rất quê.
+二手菸|èrshǒuyān|nhị thủ yên|N|khói thuốc thụ động|我們要站出來，大聲呼籲「拒吸二手菸」。|Chúng ta phải đứng lên kêu gọi "nói không với khói thuốc thụ động".
+靈感|línggǎn|linh cảm|N|cảm hứng|他靈感一來，一次就寫了好幾首歌。|Cảm hứng đến, anh ấy viết liền mấy bài hát.
+娛樂|yúlè|ngu lạc|V/N/AT|giải trí|娛樂場所吸菸的人很多。|Ở nơi giải trí có rất nhiều người hút thuốc.
+樂趣|lèqù|lạc thú|N|niềm vui, thú vui|每到假日，就有很多人到海邊享受釣魚的樂趣。|Cứ ngày nghỉ là nhiều người ra biển tận hưởng thú câu cá.
+賽過|sàiguò|tái quá|V|hơn, vượt qua|她美得賽過天上的仙女。|Cô ấy đẹp hơn cả tiên trên trời.
+活神仙|huóshénxiān|hoạt thần tiên|N|tiên sống (sung sướng như tiên)|更常常把「飯後一根菸，賽過活神仙」掛在口上。|Còn hay nói câu "Ăn xong một điếu thuốc, sướng hơn tiên".
+火災|huǒzāi|hỏa tai|N|hỏa hoạn|吸菸污染空氣，易引起火災，這是人人皆知的。|Hút thuốc làm ô nhiễm không khí, dễ gây hỏa hoạn, ai cũng biết.
+肺氣腫|fèiqìzhǒng|phế khí thũng|N|khí phế thũng||
+氣管炎|qìguǎnyán|khí quản viêm|N|viêm phế quản||
+怨不得|yuànbùdé|oán bất đắc|IE|không trách được|字寫不好怨不得別人，只能怨自己太懶，不常練習。|Chữ xấu không trách được ai, chỉ trách mình lười, ít luyện.
+污濁|wūzhuó|ô trọc|SV|vẩn đục, ô nhiễm|空氣污濁，影響健康，我們需要清新的空氣。|Không khí ô nhiễm ảnh hưởng sức khỏe, chúng ta cần không khí trong lành.
+迫|pò|bách|V|ép, buộc|他被迫加入黑社會後，就失去了大部分的自由。|Bị ép gia nhập xã hội đen, anh mất phần lớn tự do.
+尼古丁|nígǔdīng|ni cổ đinh|N|nicotin|不吸菸的人，因別人吸菸使空氣污濁，被迫吸入大量「尼古丁」而得了這些病。|Người không hút, vì người khác hút làm không khí ô nhiễm, buộc phải hít nhiều nicotin mà mắc bệnh.
+冤枉|yuānwang|oan uổng|V/SV|làm oan; oan uổng|我根本沒拿你的東西，別冤枉我。|Tôi hoàn toàn không lấy đồ của bạn, đừng đổ oan cho tôi.
+生動|shēngdòng|sinh động|SV/AT|sinh động|她演講時的表情很生動，吸引了聽眾。|Khi diễn thuyết cô có biểu cảm sinh động, thu hút người nghe.
+吸引力|xīyǐnlì|hấp dẫn lực|N|sức hấp dẫn|名牌皮包對女人有很大的吸引力。|Túi hàng hiệu có sức hấp dẫn lớn với phụ nữ.
+菸商|yānshāng|yên thương|N|nhà buôn thuốc lá, hãng thuốc lá||
+贊助|zànzhù|tán trợ|V|tài trợ|請贊助我們拒吸二手菸的活動吧！|Hãy tài trợ cho hoạt động nói không với khói thuốc thụ động của chúng tôi!
+迷惑|míhuò|mê hoặc|V/SV|mê hoặc; mơ hồ, khó hiểu|他對政治的亂象感到很迷惑。|Anh thấy rất mơ hồ trước sự hỗn loạn chính trị.
+養成|yǎngchéng|dưỡng thành|V|hình thành (thói quen)|不要為了尋找靈感而養成吸毒的壞習慣。|Đừng vì tìm cảm hứng mà sinh thói xấu hút ma túy.
+呼籲|hūyù|hô dụ|V/N|kêu gọi|她大聲呼籲開車的人要注意交通安全。|Cô lớn tiếng kêu gọi người lái xe chú ý an toàn giao thông.
+嚴禁|yánjìn|nghiêm cấm|V|nghiêm cấm|工廠嚴禁煙火，以免發生火災。|Nhà máy nghiêm cấm lửa để tránh hỏa hoạn.
+違規|wéi//guī|vi quy|VO|vi phạm quy định|他常常違規停車，被開了不少罰單。|Anh hay đỗ xe sai quy định, bị phạt không ít.
+制止|zhìzhǐ|chế chỉ|V|ngăn chặn|看見別人有不正當的行為，你敢去制止嗎？|Thấy người khác làm việc sai trái, bạn có dám ngăn không?
+灌輸|guànshū|quán thâu|V|truyền bá, nhồi nhét (tư tưởng)|有些書籍常常灌輸讀者錯誤的觀念。|Có sách hay nhồi vào đầu người đọc quan niệm sai.
+防止|fángzhǐ|phòng chỉ|V|phòng ngừa|為了防止日曬，夏天出門一定要戴帽子或是打傘。|Để chống nắng, mùa hè ra ngoài nhất định phải đội mũ hoặc che ô.
+日漸|rìjiàn|nhật tiệm|A|ngày càng|愛玩電腦遊戲的人日漸增多。|Người thích chơi game ngày càng nhiều.
+提神醒腦|tíshén xǐngnǎo|đề thần tỉnh não|IDIOM|tỉnh táo đầu óc|精神不好的時候喝杯茶，可以提神醒腦。|Lúc mệt uống chén trà giúp tỉnh táo.
+消愁解悶|xiāochóu jiěmèn|tiêu sầu giải muộn|IDIOM|giải sầu|跟朋友聊天、看喜劇電影都是消愁解悶的辦法。|Trò chuyện với bạn, xem phim hài đều là cách giải sầu.
+自我安慰|zìwǒ ānwèi|tự ngã an ủy|IDIOM|tự an ủi|「船到橋頭自然直」是自我安慰的話。|"Thuyền đến đầu cầu tự khắc thẳng" là câu tự an ủi.
+#GRAMMAR
+把……掛在口上|"Cửa miệng lúc nào cũng…": hay nói đi nói lại một câu.|更常常把「飯後一根菸，賽過活神仙」掛在口上。|Còn hay treo câu "Ăn xong một điếu thuốc, sướng hơn tiên" trên miệng.|便利商店的店員把「歡迎光臨」掛在口上。|Nhân viên cửa hàng tiện lợi câu "Hoan nghênh quý khách" luôn trên môi.
+不論……（都）有同等的……|"Bất kể… đều có… như nhau".|不論吸菸者或吸二手菸者，都有同等程度的得病機會。|Bất kể người hút hay người hít khói thuốc thụ động đều có nguy cơ mắc bệnh như nhau.|不論男人或女人，都有同等的受教育機會。|Bất kể nam hay nữ đều có cơ hội học tập như nhau.
+被迫|"Bị buộc phải": không muốn nhưng phải làm do hoàn cảnh hay người khác ép.|不吸菸的人，因別人吸菸使空氣污濁，被迫吸入大量「尼古丁」。|Người không hút vì người khác hút làm không khí ô nhiễm, bị buộc phải hít nhiều nicotin.|那班飛機晚到了，旅客被迫睡在機場。|Chuyến bay đến muộn, hành khách buộc phải ngủ ở sân bay.
+若有……應該……|"Nếu có… thì nên…": nêu cách xử lý khi gặp tình huống nào đó.|若有違規吸菸者，人人都應該勇敢地去制止他。|Nếu có người hút thuốc sai quy định, ai cũng nên dũng cảm ngăn lại.|坐捷運時，若有老人上車，應該讓座。|Đi tàu điện, nếu có người già lên thì nên nhường ghế.
+要……才能……|"Phải… mới có thể…": điều kiện cần để đạt mục đích.|總之，我們要多方努力，才能達到「拒吸二手菸」的目的。|Tóm lại, chúng ta phải nỗ lực nhiều mặt mới đạt mục đích "nói không với khói thuốc thụ động".|你要不斷努力，才能學好中文。|Bạn phải nỗ lực không ngừng mới học giỏi tiếng Trung.

@@ -1,0 +1,38 @@
+#VOCAB
+忍耐|rěnnài|nhẫn nại|V/N|nhẫn nại, nhịn; sự nhẫn nại|店員的態度太壞，顧客忍耐不住，跟她吵起來了。|Thái độ nhân viên quá tệ, khách hàng không nhịn được, cãi nhau với cô ta.
+住宅區|zhùzháiqū|trú trạch khu|N|khu dân cư|這是住宅區，很安靜的，不要製造噪音嘛！|Đây là khu dân cư, yên tĩnh lắm, đừng gây ồn chứ!
+快遞|kuàidì|khoái đệ|N|chuyển phát nhanh|我在快遞公司上班，特別講究效率。|Tôi làm ở công ty chuyển phát nhanh, đặc biệt coi trọng hiệu suất.
+故障|gùzhàng|cố chướng|V|hỏng hóc, trục trặc|從大的機器到小小的鐘錶都一樣，故障以後就停住了。|Từ máy móc lớn đến đồng hồ nhỏ đều vậy, hỏng là dừng lại.
+氣憤|qìfèn|khí phẫn|SV/A|tức giận, phẫn nộ|朋友對他不公平，讓他很氣憤。|Bạn bè đối xử bất công với anh ấy khiến anh rất tức giận.
+碎|suì|toái|V/SV|vỡ vụn, đập vỡ; vụn nát|汽車的車窗被小偷打碎了，裡面的音響都不見了。|Kính xe ô tô bị trộm đập vỡ, dàn âm thanh bên trong mất hết.
+諷刺|fèngcì|phúng thích|V/SV|châm biếm, mỉa mai|「不要亂丟垃圾」的牌子旁邊放了很多垃圾，讓人覺得很諷刺。|Cạnh tấm biển "Không vứt rác bừa bãi" lại chất đầy rác, thật mỉa mai.
+保證書|bǎozhèngshū|bảo chứng thư|N|giấy bảo hành|錶上是名牌標誌，又有保證書，我才買的。|Trên đồng hồ có logo hàng hiệu, lại có giấy bảo hành, tôi mới mua.
+蓋章|gài//zhāng|cái chương|VO|đóng dấu|現在辦手續時非蓋章不可的情形比以前少，簽名也行。|Bây giờ làm thủ tục ít khi bắt buộc đóng dấu như trước, ký tên cũng được.
+貪|tān|tham|V|tham, ham (cái lợi trước mắt)|他為了貪一時的方便，在路邊停車，結果被開了一張罰單。|Anh ta vì ham tiện một lúc mà đỗ xe bên đường, kết quả bị phạt.
+糗|qiǔ|khứu|V/SV|làm (ai) bẽ mặt, trêu chọc; xấu hổ, quê|我到了學校才發現左右腳的襪子顏色不一樣，真糗！|Đến trường tôi mới phát hiện hai chiếc tất khác màu, quê quá!
+起初|qǐchū|khởi sơ|A|lúc đầu, ban đầu|他起初只是一個小職員，現在已經是個大老闆了。|Ban đầu anh ấy chỉ là nhân viên quèn, giờ đã là ông chủ lớn.
+連續|liánxù|liên tục|A|liên tục, liên tiếp|這支足球隊已經連續得了三次世界冠軍，實力很強。|Đội bóng này đã liên tiếp ba lần vô địch thế giới, thực lực rất mạnh.
+愧疚|kuìjiù|quý cứu|SV/AT|áy náy, cắn rứt lương tâm|做了對不起家人的事，讓他覺得很愧疚。|Làm chuyện có lỗi với gia đình khiến anh ấy rất áy náy.
+仿冒品|fǎngmàopǐn|phỏng mạo phẩm|N|hàng giả, hàng nhái|仿冒品就是模仿名牌或是冒用名牌標誌的商品。|Hàng nhái là sản phẩm bắt chước hàng hiệu hoặc dùng trộm logo thương hiệu.
+瑕疵|xiácī|hà tỳ|N|tì vết, khuyết điểm|商品的外表或是使用上有缺點，都算是瑕疵。|Sản phẩm có khuyết điểm bên ngoài hay khi sử dụng đều coi là có tì vết.
+大道理|dàdàolǐ|đại đạo lý|N|lý lẽ to tát, bài giảng đạo lý|現在他最需要的是生活上的幫助，而不是聽你講一些大道理。|Bây giờ anh ấy cần nhất là giúp đỡ trong cuộc sống, chứ không phải nghe bạn giảng đạo lý.
+唱片行|chàngpiànháng|xướng phiến hành|N|cửa hàng băng đĩa nhạc|你得陪我到巷口那家新開的唱片行，買兩張歌星專輯跟我賠罪。|Anh phải đi cùng em đến tiệm đĩa mới mở đầu hẻm, mua hai album ca sĩ để xin lỗi em.
+專輯|zhuānjí|chuyên tập|N|album|這個名歌星所出的每一張專輯都有他唱紅的歌。|Mỗi album ca sĩ nổi tiếng này phát hành đều có bài hát làm nên tên tuổi anh ấy.
+賠罪|péi//zuì|bồi tội|VO|xin lỗi, tạ lỗi|口頭上道歉或是送個小禮物都是賠罪的方式。|Xin lỗi bằng lời hay tặng món quà nhỏ đều là cách tạ lỗi.
+正版|zhèngbǎn|chính bản|AT/N|bản quyền, hàng chính hãng|因為有版權，所以正版書或正版光碟通常比較貴。|Vì có bản quyền nên sách hay đĩa chính hãng thường đắt hơn.
+差別|chābié|sai biệt|N|sự khác biệt|仿冒品跟真品的差別，你看得出來嗎？|Sự khác biệt giữa hàng nhái và hàng thật bạn có nhìn ra không?
+索取|suǒqǔ|sách thủ|V|đòi, xin lấy|這場表演是免費的，顧客可以到便利商店索取入場券。|Buổi biểu diễn này miễn phí, khách có thể đến cửa hàng tiện lợi lấy vé vào cửa.
+統一發票|tǒngyī fāpiào|thống nhất phát phiếu|N|hóa đơn thống nhất (hóa đơn có số dự thưởng ở Đài Loan)|何況在店裡買東西，可以索取統一發票，運氣好的話，還可能會中獎呢！|Huống chi mua đồ trong tiệm còn lấy được hóa đơn, may mắn còn có thể trúng thưởng nữa!
+中獎|zhòng//jiǎng|trúng tưởng|VO|trúng thưởng|統一發票每兩個月對獎一次，每個人都希望能夠中獎。|Hóa đơn thống nhất hai tháng dò số một lần, ai cũng mong trúng thưởng.
+興致|xìngzhì|hứng trí|N|hứng thú, hứng khởi|一提到棒球明星的簽名球，他的興致就很高，談個不停。|Hễ nhắc đến quả bóng có chữ ký ngôi sao bóng chày là anh ấy hứng khởi, nói không ngừng.
+因小失大|yīn xiǎo shī dà|nhân tiểu thất đại|IDIOM|vì cái nhỏ mà mất cái lớn, tham bát bỏ mâm|只為了快一、兩分鐘到達目的地，不小心把車子撞壞了，真是因小失大。|Chỉ vì muốn đến sớm một hai phút mà sơ ý đâm hỏng xe, đúng là vì cái nhỏ mất cái lớn.
+貨比三家不吃虧|huò bǐ sānjiā bù chīkuī|hóa tỉ tam gia bất cật khuy|IDIOM|so giá ba nhà thì không bị thiệt|你現在別買，到別家看看再說，貨比三家不吃虧嘛！|Bây giờ đừng mua, sang nhà khác xem đã, so ba nhà không bị thiệt mà!
+上一次當學一次乖|shàng yí cì dàng xué yí cì guāi|thượng nhất thứ đáng học nhất thứ quai|IDIOM|mắc lừa một lần, khôn ra một lần|被騙過一次以後，人就學聰明了，這就叫「上一次當學一次乖」。|Bị lừa một lần thì người ta khôn ra, đó gọi là "mắc lừa một lần khôn ra một lần".
+得不償失|dé bù cháng shī|đắc bất thường thất|IDIOM|được không bù mất, lợi bất cập hại|貪便宜買到假貨，真是得不償失。|Ham rẻ mua phải hàng giả, đúng là được không bù mất.
+螳螂捕蟬，黃雀在後|tángláng bǔ chán, huángquè zài hòu|đường lang bổ thiền, hoàng tước tại hậu|IDIOM|bọ ngựa bắt ve, chim sẻ rình sau (chỉ thấy lợi trước mắt, quên họa sau lưng)|而螳螂只注意前面的蟬，也不知道牠的後面有隻黃雀，正準備啄牠。|Mà con bọ ngựa chỉ chú ý con ve phía trước, cũng không biết sau lưng nó có con chim sẻ đang chực mổ.
+#GRAMMAR
+只不過……而已|"Chỉ… mà thôi": giảm nhẹ mức độ, cho rằng việc đó không có gì to tát.|這隻手錶只不過五百元而已，真便宜。|Cái đồng hồ này chỉ có năm trăm đồng thôi, rẻ thật.|他只不過跟你開玩笑而已，並不是諷刺你。|Anh ấy chỉ đùa với bạn thôi, không phải mỉa mai bạn đâu.
+……不用……，只要……就……了|"Không cần…, chỉ cần… là được": nêu điều kiện tối thiểu, đủ để giải quyết.|你不用來等我，只要告訴我是哪棟大樓就可以了。|Bạn không cần đến đợi tôi, chỉ cần cho tôi biết là tòa nhà nào là được.|你不用多解釋，只要跟他賠個罪就行了。|Bạn không cần giải thích nhiều, chỉ cần xin lỗi anh ấy là được.
+……就算了，何必還……|"…thì thôi, việc gì còn phải…": chấp nhận điều thứ nhất nhưng trách người kia làm thêm việc không cần thiết.|美英，我花那麼多錢買東西送給你，你不喜歡它就算了，何必還諷刺我！|Mỹ Anh, anh tốn bao tiền mua quà tặng em, em không thích thì thôi, việc gì còn mỉa mai anh!|你不想吃就算了，何必還扔掉？|Bạn không muốn ăn thì thôi, việc gì còn vứt đi?
+不光是……，其他……|"Không chỉ…, những cái khác cũng…": mở rộng phạm vi từ một trường hợp sang các trường hợp khác.|不光是手錶，其他的東西也是一樣的。|Không chỉ đồng hồ, những thứ khác cũng vậy.|這句成語比較難，不光是你，其他的同學也不懂。|Câu thành ngữ này khá khó, không chỉ bạn mà các bạn khác cũng không hiểu.
+何況|"Huống chi, hơn nữa": đưa thêm lý do (thường mạnh hơn) để củng cố lập luận.|何況在店裡買東西，可以索取統一發票，運氣好的話，還可能會中獎呢！|Huống chi mua đồ trong tiệm còn lấy được hóa đơn, may mắn còn có thể trúng thưởng!|真玉跟假玉的差別，大人都看不出來，何況是小孩子？|Sự khác biệt giữa ngọc thật và ngọc giả người lớn còn không nhìn ra, huống chi là trẻ con?

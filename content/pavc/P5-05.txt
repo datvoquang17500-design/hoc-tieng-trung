@@ -1,0 +1,13 @@
+#UNIT P5-05|實用視聽華語5 · 第五課 世界運動會
+#CONVO 實用視聽華語5 · 第五課 世界運動會
+|四年一次的世界運動會是件全球矚目的大事。各國選手無不摩拳擦掌，希望在大會中奪得金牌與光榮。|Đại hội thể thao thế giới bốn năm một lần là sự kiện toàn cầu chú ý. Tuyển thủ các nước ai cũng háo hức, mong giành huy chương vàng và vinh quang tại đại hội.
+|世界運動會也稱為國際奧林匹克運動會，簡稱奧運會。遠在西元前七七六年，古代希臘人在希臘北部一個叫做奧林匹亞的地方，集合各城邦舉行每四年一次的祭祀儀式，在典禮中，加入一些競技活動。本來的目的是以和平與友愛的精神，來消弭各城邦之間的戰爭與仇視。相傳下來，形成了現代奧運會的精神。但在西元三九四年以後，因為羅馬人的關係，古代奧運會就不再舉行了。|Đại hội thể thao thế giới còn gọi là Thế vận hội Olympic quốc tế, gọi tắt là Olympic. Từ năm 776 trước Công nguyên, người Hy Lạp cổ đã tập hợp các thành bang ở một nơi tên Olympia phía bắc Hy Lạp, tổ chức nghi lễ cúng tế bốn năm một lần, trong buổi lễ có thêm một số hoạt động thi đấu. Mục đích ban đầu là dùng tinh thần hòa bình và hữu ái để xóa bỏ chiến tranh và thù hằn giữa các thành bang. Truyền lại về sau, hình thành tinh thần của Olympic hiện đại. Nhưng sau năm 394, vì người La Mã, Olympic cổ đại không còn được tổ chức nữa.
+|現代奧運會的組織，是在十九世紀末才成立的。由於在廢墟中發現了奧林匹克遺址，不少熱心體育的教育人士，貢獻出一生的力量，想要繼續舉辦這個有意義的競技活動。經過一番努力，到了一八九六年，終於在希臘雅典舉行了第一屆現代奧運會，此後按照傳統，每四年舉行一次。每一屆的主辦國家都不相同，各有各的特色。|Tổ chức Olympic hiện đại mãi đến cuối thế kỷ 19 mới được thành lập. Do phát hiện di chỉ Olympia trong đống phế tích, nhiều nhà giáo dục nhiệt tâm với thể thao đã cống hiến cả đời, muốn tiếp tục tổ chức hoạt động thi đấu ý nghĩa này. Trải qua một phen nỗ lực, đến năm 1896 cuối cùng đã tổ chức Olympic hiện đại đầu tiên ở Athens, Hy Lạp; từ đó theo truyền thống, bốn năm tổ chức một lần. Nước chủ nhà mỗi kỳ đều khác nhau, mỗi kỳ một nét riêng.
+|世界性的體育活動，應該是象徵著全人類的和諧共處與團結合作。我們由會旗上的五環，就可以了解，奧運會的主旨是使世界上五大洲的人，不分種族，不分國籍，都同場競技，以達到「世界大同，天下一家」的理想。但是近年來有些人藉大會舉行期間，製造不少恐怖事件，令人惋惜。|Hoạt động thể thao mang tính thế giới nên tượng trưng cho sự chung sống hài hòa và đoàn kết hợp tác của toàn nhân loại. Qua năm vòng tròn trên cờ Olympic, ta hiểu rằng mục đích của Thế vận hội là để người dân năm châu, không phân chủng tộc, quốc tịch, cùng thi đấu trên một sân, nhằm đạt lý tưởng "thế giới đại đồng, bốn bể một nhà". Nhưng những năm gần đây có kẻ mượn thời gian đại hội để gây ra nhiều vụ khủng bố, thật đáng tiếc.
+|人人都盼望，這轟動全球的大競技活動，能發揚奧運精神，永遠給我們帶來幸福、歡樂與進步。|Ai cũng mong hoạt động thi đấu lớn gây chấn động toàn cầu này phát huy được tinh thần Olympic, mãi mang lại cho chúng ta hạnh phúc, niềm vui và tiến bộ.
+#Q
+古代奧運會本來的目的是什麼？|以和平與友愛的精神，消弭各城邦之間的戰爭與仇視|為了賺錢|為了選總統|為了訓練軍隊|0
+古代奧運會為什麼不再舉行了？|因為羅馬人的關係|因為沒有選手|因為發生了戰爭|因為天氣不好|0
+第一屆現代奧運會在哪裡舉行？|希臘雅典|羅馬|奧林匹亞|紐約|0
+會旗上的五環有什麼意義？|代表五大洲的人不分種族、國籍，同場競技|代表五種運動|代表五個主辦國家|代表五屆奧運會|0
+近年來奧運會期間有什麼令人惋惜的事？|有些人藉大會舉行期間製造恐怖事件|選手太少|觀眾不多|金牌太少|0

@@ -1,0 +1,36 @@
+#VOCAB
+遺棄|yíqì|di khí|V|ruồng bỏ, bỏ rơi|遺棄妻子、孩子或父母，在法律上都有罪。|Ruồng bỏ vợ con hay cha mẹ đều có tội trước pháp luật.
+服刑|fú//xíng|phục hình|VO|thụ án, ngồi tù|他犯了偷竊罪，現在正在服刑。|Anh ta phạm tội trộm cắp, giờ đang thụ án.
+刻板|kèbǎn|khắc bản|AT/SV|rập khuôn, cứng nhắc|一般人對各行各業都有一些刻板印象，比方說認為老師都戴著眼鏡。|Người ta có ấn tượng rập khuôn về các ngành nghề, ví dụ cho rằng giáo viên đều đeo kính.
+破碎|pòsuì|phá toái|SV/AT|tan vỡ|單親家庭不一定是破碎家庭。|Gia đình đơn thân không nhất định là gia đình tan vỡ.
+重新|chóngxīn|trùng tân|A|lại từ đầu|失敗了不要放棄，應該重新再來。|Thất bại đừng bỏ cuộc, nên làm lại từ đầu.
+忍痛|rěntòng|nhẫn thống|A/VO|đành lòng; chịu đau|他需要付一大筆醫藥費，只好忍痛把最心愛的畫賣了。|Anh cần trả một khoản viện phí lớn, đành lòng bán bức tranh quý nhất.
+異樣|yìyàng|dị dạng|AT/N|khác thường|她理了一個大光頭，難怪別人用異樣的眼光看她。|Cô cạo trọc đầu, chẳng trách người ta nhìn cô bằng ánh mắt khác thường.
+撫養|fǔyǎng|phủ dưỡng|V|nuôi nấng|由於父母親都在服刑，孩子由祖父母撫養。|Vì bố mẹ đều đang ngồi tù, đứa trẻ do ông bà nuôi.
+面臨|miànlín|diện lâm|V|đối mặt với|這個剛獨立的國家面臨經濟困難的問題。|Đất nước mới độc lập này đối mặt khó khăn kinh tế.
+喪偶|sàng//ǒu|tang ngẫu|VO|góa vợ, góa chồng|老年喪偶的人特別孤單。|Người về già góa bụa đặc biệt cô đơn.
+承受|chéngshòu|thừa thụ|V|chịu đựng|大地震以後，很多人得承受親人死亡的痛苦。|Sau trận động đất lớn, nhiều người phải chịu nỗi đau mất người thân.
+莫大|mòdà|mạc đại|SV|to lớn nhất|奪得奧運會的金牌是莫大的光榮。|Giành huy chương vàng Olympic là vinh quang to lớn nhất.
+克服|kèfú|khắc phục|V|khắc phục, vượt qua|他終於克服一切困難，爬上世界最高峰。|Anh cuối cùng vượt qua mọi khó khăn, leo lên đỉnh núi cao nhất thế giới.
+分擔|fēndān|phân đảm|V|chia sẻ, gánh vác cùng|養育孩子的工作應由父母二人分擔。|Việc nuôi dạy con nên do cả bố và mẹ cùng gánh vác.
+時機|shíjī|thời cơ|N|thời cơ|春天正是種花的好時機。|Mùa xuân đúng là thời cơ tốt để trồng hoa.
+成熟|chéngshóu|thành thục|V/SV|chín muồi, trưởng thành|這只是一些不成熟的看法，請你多多指教。|Đây chỉ là vài ý kiến chưa chín chắn, mong bạn chỉ bảo.
+贍養費|shànyǎngfèi|thiệm dưỡng phí|N|tiền cấp dưỡng|所謂贍養費是指離婚以後付給對方的生活費。|Tiền cấp dưỡng là khoản sinh hoạt phí trả cho người kia sau ly hôn.
+促使|cùshǐ|xúc sử|V|thúc đẩy, khiến|得到肺癌的危險促使他戒菸。|Nguy cơ ung thư phổi thúc đẩy anh cai thuốc.
+穩定|wěndìng|ổn định|SV/V|ổn định|家人的陪伴與照顧可以穩定病人的情緒。|Sự bầu bạn chăm sóc của gia đình có thể ổn định tâm lý người bệnh.
+坦然|tǎnrán|thản nhiên|A/SV|thản nhiên, bình thản|孩子承認自己做錯了事，坦然地接受處罰。|Đứa trẻ thừa nhận làm sai, bình thản chịu phạt.
+機構|jīgòu|cơ cấu|N|cơ quan, tổ chức|或是找專業的輔導機構，尋求適應生活的方法。|Hoặc tìm cơ quan tư vấn chuyên nghiệp để tìm cách thích nghi với cuộc sống.
+技藝|jìyì|kỹ nghệ|N|kỹ năng, tay nghề|學習插花、美容、餐飲、髮型設計等技藝都很實用。|Học các kỹ năng như cắm hoa, làm đẹp, nấu ăn, tạo mẫu tóc đều rất thiết thực.
+打擊|dǎjí|đả kích|N/V|cú sốc, đòn; đả kích|由於受不了先生外遇的打擊，她快要精神失常了。|Không chịu nổi cú sốc chồng ngoại tình, cô sắp suy sụp tinh thần.
+調適|tiáoshì|điều thích|V|điều chỉnh, thích nghi|他調適自己的身心，來面對新的挑戰。|Anh điều chỉnh thân tâm để đối mặt thử thách mới.
+過度|guòdù|quá độ|A|quá mức|由於過度緊張，他在音樂會上的表現並不理想。|Vì quá căng thẳng, anh biểu diễn ở buổi hòa nhạc không được như ý.
+寵愛|chǒng'ài|sủng ái|V|cưng chiều|現代的家庭孩子比以前少，父母比較寵愛孩子。|Gia đình hiện đại ít con hơn trước, cha mẹ cưng chiều con hơn.
+彌補|míbǔ|di bổ|V|bù đắp|做錯了事、說錯了話，都要想法子彌補。|Làm sai, nói sai đều phải tìm cách bù đắp.
+創痛|chuāngtòng|sang thống|N|vết thương lòng|心理上的創痛往往比身體上的更令人痛苦。|Vết thương lòng thường đau đớn hơn vết thương thể xác.
+開創|kāichuàng|khai sáng|V|mở ra, khai sáng|開創新的事業就是創業。|Mở ra sự nghiệp mới chính là khởi nghiệp.
+第二春|dì'èrchūn|đệ nhị xuân|N|mùa xuân thứ hai, cơ hội thứ hai|婚姻或事業都可能有第二春。|Hôn nhân hay sự nghiệp đều có thể có mùa xuân thứ hai.
+#GRAMMAR
+所謂……是指……|"Cái gọi là… là chỉ…": giải thích định nghĩa một khái niệm.|所謂「單親家庭」，是指夫妻因離婚、分居、死亡、遺棄、服刑等原因，而造成雙親之一單獨與子女生活的家庭。|Cái gọi là "gia đình đơn thân" là chỉ gia đình mà do ly hôn, ly thân, qua đời, ruồng bỏ, ngồi tù… khiến chỉ còn một trong hai cha mẹ sống với con.|所謂單身貴族是指沒結婚、收入不錯的人。|Cái gọi là "quý tộc độc thân" là chỉ người chưa kết hôn, thu nhập khá.
+只要……仍能……|"Chỉ cần… thì vẫn có thể…": dù hoàn cảnh khó, đáp ứng điều kiện thì vẫn đạt được.|只要單親父母面對問題，重新安排生活，家人仍能過得自在而有意義。|Chỉ cần cha mẹ đơn thân đối mặt vấn đề, sắp xếp lại cuộc sống, gia đình vẫn sống thoải mái và có ý nghĩa.|只要每天運動，雖然年紀大了，仍能保持身體的健康。|Chỉ cần vận động mỗi ngày, dù tuổi đã cao vẫn giữ được sức khỏe.
+則|"Thì, còn": nối vế đối chiếu với vế trước (văn viết).|如果原來就是職業婦女，雖有工作能力，但因家中少了一份收入，經濟上可能面臨一些難題；若是家庭主婦，則可能因此不得不出外工作而增加生活的壓力。|Nếu vốn là phụ nữ đi làm, tuy có khả năng làm việc nhưng nhà thiếu một nguồn thu, kinh tế có thể gặp khó; còn nếu là nội trợ thì có thể buộc phải ra ngoài làm việc, tăng áp lực cuộc sống.|以前的人用異樣的眼光看離婚的人，現在則不同了。|Trước đây người ta nhìn người ly hôn bằng ánh mắt khác thường, bây giờ thì khác rồi.
+要是……最好先……|"Nếu…, tốt nhất nên… trước": đưa ra lời khuyên cho một tình huống.|要是情緒不穩定，體力難以負擔，最好先把孩子托給親人照顧一陣子。|Nếu tâm lý không ổn định, sức lực khó gánh, tốt nhất nên gửi con cho người thân chăm một thời gian.|學生要是想學書法，最好先買一枝好毛筆。|Học sinh nếu muốn học thư pháp, tốt nhất mua trước một cây bút lông tốt.

@@ -1,0 +1,46 @@
+#VOCAB
+尖兵|jiānbīng|tiêm binh|N|người tiên phong, chiến sĩ đi đầu|人人都應該做反菸、反毒的尖兵。|Ai cũng nên là người tiên phong chống thuốc lá, chống ma túy.
+刻意|kèyì|khắc ý|A|cố ý, dụng ý|每次外出，她都刻意打扮一番。|Mỗi lần ra ngoài cô đều cố ý chưng diện.
+清澈|qīngchè|thanh triệt|SV|trong vắt|我們坐在湖邊，看見清澈的湖水裡有雲和樹的倒影。|Ngồi bên hồ, chúng tôi thấy bóng mây và cây in trên mặt nước trong vắt.
+茂密|màomì|mậu mật|SV|rậm rạp, um tùm|山上的樹木在夏天枝葉非常茂密。|Cây trên núi mùa hè cành lá rất um tùm.
+濫伐|lànfá|lạm phạt|V|chặt phá bừa bãi|濫伐山上的樹是有罪的。|Chặt phá cây trên núi là có tội.
+乾枯|gānkū|can khô|SV/AT|khô héo|植物的傳染病使得這棵樹乾枯了。|Bệnh cây khiến cây này khô héo.
+荒山|huāngshān|hoang sơn|N|núi trọc|茂密的森林因被濫伐變成乾枯的荒山。|Khu rừng rậm vì bị chặt phá mà thành núi trọc khô cằn.
+清幽|qīngyōu|thanh u|SV|thanh tịnh, yên tĩnh|鄉下的環境清幽，所以很多人喜歡住在那裡。|Môi trường nông thôn yên tĩnh nên nhiều người thích sống ở đó.
+原野|yuányě|nguyên dã|N|đồng nội, thảo nguyên||
+濃煙|nóngyān|nồng yên|N|khói dày đặc|工廠排放濃煙和廢水的問題，應該設法解決。|Vấn đề nhà máy thải khói đặc và nước thải nên tìm cách giải quyết.
+溪流|xīliú|khê lưu|N|suối||
+混濁|hùnzhuó|hỗn trọc|SV|vẩn đục|下過大雨後，清澈的河水變得混濁了。|Sau trận mưa lớn, nước sông trong vắt trở nên đục.
+臭溝|chòugōu|xú câu|N|rãnh nước thối|山邊的溪流也因污水及化學廢水的流入成為混濁的臭溝。|Dòng suối bên núi cũng vì nước bẩn, nước thải hóa chất đổ vào mà thành rãnh nước thối đục ngầu.
+日趨|rìqū|nhật xu|A|ngày càng|辦公室的設備日趨現代化。|Thiết bị văn phòng ngày càng hiện đại.
+臭氧層|chòuyǎngcéng|xú dưỡng tầng|N|tầng ôzôn|在地球上空保護我們的臭氧層都成了百孔千瘡的破網。|Tầng ôzôn bảo vệ chúng ta trên bầu trời đã thành tấm lưới rách lỗ chỗ.
+威力|wēilì|uy lực|N|sức mạnh, uy lực|這次地震的威力相當於五顆原子彈。|Sức mạnh trận động đất này tương đương năm quả bom nguyên tử.
+紫外線|zǐwàixiàn|tử ngoại tuyến|N|tia cực tím|太陽最有威力的紫外線，現在都能直接傷害到我們的皮膚了。|Tia cực tím mạnh nhất của mặt trời giờ có thể trực tiếp làm hại da chúng ta.
+制定|zhìdìng|chế định|V|đặt ra, ban hành|為了改善交通，政府制定了新的交通規則。|Để cải thiện giao thông, chính phủ ban hành luật giao thông mới.
+溫室氣體|wēnshì qìtǐ|ôn thất khí thể|N|khí nhà kính|所謂溫室氣體是指會造成溫室效應的氣體。|Khí nhà kính là khí gây ra hiệu ứng nhà kính.
+排放|páifàng|bài phóng|V|thải ra, xả thải|規定減少二氧化碳等溫室氣體的排放量。|Quy định giảm lượng phát thải khí nhà kính như CO2.
+著手|zhuóshǒu|trước thủ|V|bắt tay vào|雖然早已計畫好了，還是要等時機成熟才能著手去做。|Tuy đã lên kế hoạch từ lâu, vẫn phải đợi thời cơ chín muồi mới bắt tay làm.
+推行|tuīxíng|thôi hành|V|thực hiện, thúc đẩy|政府推行國語的政策非常有效。|Chính sách phổ biến quốc ngữ của chính phủ rất hiệu quả.
+重鎮|zhòngzhèn|trọng trấn|N|trung tâm trọng yếu|這個城市是電腦科技的重鎮。|Thành phố này là trung tâm công nghệ máy tính.
+景觀|jǐngguān|cảnh quan|N|cảnh quan|自然的景觀跟大都市的景觀完全不同。|Cảnh quan thiên nhiên hoàn toàn khác cảnh quan đô thị lớn.
+神聖|shénshèng|thần thánh|SV/AT|thiêng liêng|選舉的時候，希望你能投下神聖的一票。|Khi bầu cử, mong bạn bỏ lá phiếu thiêng liêng của mình.
+使命|shǐmìng|sứ mệnh|N|sứ mệnh|他這次出國有跟歐洲國家建立外交關係的使命。|Chuyến xuất ngoại lần này anh mang sứ mệnh thiết lập quan hệ ngoại giao với các nước châu Âu.
+地球日|Dìqiúrì|Địa cầu nhật|N|Ngày Trái Đất|1970年4月22日在美國舉行的第一屆「地球日」活動，是全球環保運動的新起點。|Ngày Trái Đất đầu tiên ở Mỹ ngày 22/4/1970 là khởi điểm mới của phong trào môi trường toàn cầu.
+京都議定書|Jīngdū Yìdìngshū|Kinh Đô nghị định thư|N|Nghị định thư Kyoto||
+罪魁禍首|zuìkuí huòshǒu|tội khôi họa thủ|IDIOM|thủ phạm chính, kẻ cầm đầu|這條河變得又臭又髒，我們要找出罪魁禍首來。|Con sông này vừa thối vừa bẩn, chúng ta phải tìm ra thủ phạm chính.
+死氣沉沉|sǐqì chénchén|tử khí trầm trầm|IDIOM|ảm đạm, chết chóc, thiếu sức sống|這家公司死氣沉沉的，大概快要倒閉了。|Công ty này ảm đạm thiếu sức sống, chắc sắp phá sản.
+烏煙瘴氣|wūyān zhàngqì|ô yên chướng khí|IDIOM|khói mù mịt, ô nhiễm nặng|抽菸的人太多，把這間休息室弄得烏煙瘴氣。|Người hút thuốc nhiều quá làm phòng nghỉ này khói mù mịt.
+獨一無二|dúyī wú'èr|độc nhất vô nhị|IDIOM|độc nhất vô nhị|他是本校獨一無二的神槍手。|Anh là tay súng thiện xạ độc nhất vô nhị của trường.
+慘不忍睹|cǎn bù rěn dǔ|thảm bất nhẫn đổ|IDIOM|thảm khốc không nỡ nhìn|車禍現場慘不忍睹。|Hiện trường vụ tai nạn thảm khốc không nỡ nhìn.
+百孔千瘡|bǎikǒng qiānchuāng|bách khổng thiên sang|IDIOM|lỗ chỗ trăm nghìn vết, tan hoang|戰爭過後，許多房子百孔千瘡，得修理以後才能住。|Sau chiến tranh, nhiều nhà cửa tan hoang, phải sửa mới ở được.
+登高一呼|dēnggāo yìhū|đăng cao nhất hô|IDIOM|đứng lên kêu gọi|經過他登高一呼，大家都注意到環保問題。|Nhờ anh đứng lên kêu gọi, mọi người đều chú ý đến vấn đề môi trường.
+捫心自問|ménxīn zìwèn|môn tâm tự vấn|IDIOM|tự vấn lương tâm|我們要捫心自問，對自己的家庭和社會付出了多少？|Chúng ta phải tự hỏi mình đã cống hiến bao nhiêu cho gia đình và xã hội?
+小處著手|xiǎochù zhuóshǒu|tiểu xứ trước thủ|IDIOM|bắt đầu từ việc nhỏ|做事應該從大處著眼，小處著手。|Làm việc nên nhìn từ cái lớn, bắt tay từ cái nhỏ.
+以身作則|yǐshēn zuòzé|dĩ thân tác tắc|IDIOM|lấy mình làm gương|父母要以身作則，兒女的行為才會正確。|Cha mẹ phải lấy mình làm gương, hành vi con cái mới đúng đắn.
+耳濡目染|ěrrú mùrǎn|nhĩ nhu mục nhiễm|IDIOM|mưa dầm thấm lâu, nghe nhìn mãi mà thấm|他的父親喜歡親自下廚做菜，他從小耳濡目染，也做得一手好菜。|Bố anh thích tự vào bếp, anh từ nhỏ nhìn mãi thành quen, cũng nấu ăn rất giỏi.
+自然而然|zìrán érrán|tự nhiên nhi nhiên|IDIOM|tự nhiên mà thành|多聽、多看、多說、多寫，你的中文程度自然而然就提高了。|Nghe nhiều, đọc nhiều, nói nhiều, viết nhiều, trình độ tiếng Trung của bạn tự nhiên sẽ nâng cao.
+#GRAMMAR
+……因……變得（SV）|"…vì… mà trở nên (tính từ)".|清澈的海洋因垃圾的汙染變得死氣沉沉。|Biển trong xanh vì rác ô nhiễm mà trở nên chết chóc.|爸爸的身體因戒菸變得比以前健康多了。|Sức khỏe bố vì cai thuốc mà tốt hơn trước nhiều.
+……因……變成（N）|"…vì… mà biến thành (danh từ)".|茂密的森林因被濫伐變成乾枯的荒山。|Rừng rậm vì bị chặt phá mà biến thành núi trọc khô cằn.|他最近因心情不好每天喝很多的酒，變成了酒鬼。|Gần đây anh vì buồn mà ngày nào cũng uống nhiều rượu, thành kẻ nghiện rượu.
+怎不令人（SV）？|"Sao không khiến người ta… được?": câu hỏi tu từ nhấn mạnh cảm xúc.|人類把這個僅有的，獨一無二的美麗家園，破壞到這種慘不忍睹的程度，怎不令人惋惜！|Loài người phá hoại ngôi nhà đẹp độc nhất vô nhị này đến mức thảm hại, sao không khiến người ta tiếc nuối!|她畢業了，又找到了好工作，怎不令人羨慕？|Cô ấy tốt nghiệp lại tìm được việc tốt, sao không khiến người ta ghen tị?
+不論……也好，……也好，……都……|"Dù… hay…, đều…": mọi trường hợp đều như nhau.|不論高峰會議討論也好，家庭學校推行也好，我們每個人都應該有一份神聖的使命。|Dù là hội nghị thượng đỉnh bàn bạc hay gia đình, trường học thực hiện, mỗi chúng ta đều nên có một sứ mệnh thiêng liêng.|不論成功也好，失敗也好，都要保持鬥志。|Dù thành công hay thất bại đều phải giữ vững ý chí.

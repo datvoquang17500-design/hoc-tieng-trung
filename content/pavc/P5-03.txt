@@ -1,0 +1,16 @@
+#UNIT P5-03|實用視聽華語5 · 第三課 活到老學到老
+#CONVO 實用視聽華語5 · 第三課 活到老學到老
+|人的一生，要經過幾個不同的教育階段，有學前、幼稚、小學、中學、大學、研究所教育。由於時代的進步，除了一般正規教育外，教育學者也一再強調成人教育、終身教育的重要性。|Đời người phải trải qua mấy giai đoạn giáo dục khác nhau: tiền học đường, mẫu giáo, tiểu học, trung học, đại học, sau đại học. Do thời đại tiến bộ, ngoài giáo dục chính quy, các học giả giáo dục còn nhiều lần nhấn mạnh tầm quan trọng của giáo dục người lớn, giáo dục suốt đời.
+|很多人以為學校教育是教育唯一的來源，其實，家庭和社會對教育的影響都很大。父母是兒女的第一位老師，父母的一言一行，都是兒女學習的榜樣。兒女在入學以前，家庭就是他們的學校。|Nhiều người tưởng giáo dục ở trường là nguồn giáo dục duy nhất, thật ra gia đình và xã hội đều ảnh hưởng rất lớn. Cha mẹ là người thầy đầu tiên của con cái, từng lời nói việc làm của cha mẹ đều là tấm gương cho con học theo. Trước khi đi học, gia đình chính là trường học của con.
+|除了家庭以外，社會上形形色色的現象，也會影響孩子。感人的社會新聞，像捐款幫助窮人，替可憐的小動物找到新家，都會對他們形成正面的教育意義。相反地，一些打打殺殺的社會事件，也會帶來負面的影響。|Ngoài gia đình, muôn vàn hiện tượng ngoài xã hội cũng ảnh hưởng đến trẻ. Những tin xã hội cảm động như quyên góp giúp người nghèo, tìm nhà mới cho thú nhỏ đáng thương đều mang ý nghĩa giáo dục tích cực với các em. Ngược lại, những vụ đánh giết ngoài xã hội cũng mang lại ảnh hưởng tiêu cực.
+|由於學校教育的教材都是經過設計的，理論多於實際，剛踏出校門的人，往往不明白其中的差別，很容易迷失於多變的社會中，增加許多困擾。|Vì giáo trình ở trường đều được thiết kế sẵn, lý thuyết nhiều hơn thực tế, người vừa ra trường thường không hiểu sự khác biệt đó, rất dễ lạc lối trong xã hội nhiều biến đổi, thêm nhiều phiền muộn.
+|過去老師或父母教什麼，我們就學什麼，對他們有過多的依賴。今天教育的意義已經不同了，應該是教一個人懂得如何選擇，才能獨立自主，有自己的人生方向。|Trước đây thầy cô hay cha mẹ dạy gì ta học nấy, quá dựa dẫm vào họ. Ngày nay ý nghĩa giáo dục đã khác, phải dạy một người biết cách lựa chọn thì mới tự lập, có hướng đi riêng cho đời mình.
+|人生的成就是多方面的，成績決不是唯一的目標。一個對自己有信心，時時保持鬥志的人，即使失敗了，也會繼續努力，最後必有成就。受過教育的人，不但要對自己的行為負責，還要尊重自己，也尊重別人。總之，學業成績雖然重要，而人格教育更重要。|Thành tựu trong đời có nhiều mặt, điểm số tuyệt không phải mục tiêu duy nhất. Người tự tin vào bản thân, luôn giữ ý chí, dù thất bại cũng sẽ tiếp tục cố gắng, cuối cùng ắt có thành tựu. Người được giáo dục không chỉ phải chịu trách nhiệm với hành vi của mình mà còn phải tôn trọng bản thân và tôn trọng người khác. Tóm lại, thành tích học tập tuy quan trọng, nhưng giáo dục nhân cách còn quan trọng hơn.
+|俗語說：「活到老學到老。」完成學校的教育以後，踏入社會，更要不斷地學習，不斷地吸收新知，以充實自己，提升自己。這樣才能應付這多變的社會，工作時也才能得心應手，活得快樂，活得有意義、有價值。|Tục ngữ nói: "Học đến già." Học xong ở trường, bước vào xã hội càng phải không ngừng học hỏi, không ngừng tiếp thu kiến thức mới để bồi đắp, nâng cao bản thân. Như vậy mới ứng phó được với xã hội nhiều biến đổi, làm việc mới thuận tay, sống vui vẻ, sống có ý nghĩa, có giá trị.
+#Q
+除了學校，還有哪些對教育的影響很大？|家庭和社會|只有老師|只有課本|電視和網路|0
+誰是兒女的第一位老師？|父母|幼稚園老師|爺爺奶奶|小學老師|0
+剛踏出校門的人為什麼容易迷失？|學校教材理論多於實際，他們不明白其中的差別|他們不夠聰明|社會太安全|他們沒有朋友|0
+今天教育的意義是什麼？|教一個人懂得如何選擇，才能獨立自主|讓學生考高分|讓學生依賴老師|讓學生找到好工作|0
+作者認為什麼比學業成績更重要？|人格教育|考試技巧|外語能力|人際關係|0
+完成學校教育以後，應該怎麼做？|不斷地學習，吸收新知，充實、提升自己|休息一段時間|不必再學習了|只要努力工作|0

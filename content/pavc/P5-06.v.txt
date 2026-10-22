@@ -1,0 +1,39 @@
+#VOCAB
+趨勢|qūshì|xu thế|N|xu hướng|現代人有活得越來越久的趨勢。|Người hiện đại có xu hướng sống ngày càng thọ.
+繁忙|fánmáng|phồn mang|SV|bận rộn|近來我的工作量增加了，繁忙的工作使我的心情緊張。|Gần đây khối lượng công việc tăng, công việc bận rộn khiến tôi căng thẳng.
+舒展|shūzhǎn|thư triển|V|thư giãn, giãn ra|旅行時，把一切煩惱放在腦後，只欣賞美景，當然能舒展身心。|Khi du lịch, gác mọi phiền muộn ra sau, chỉ ngắm cảnh đẹp, đương nhiên thư giãn được thân tâm.
+消遣|xiāoqiǎn|tiêu khiển|V/N|tiêu khiển, giải trí|明天放假，你打算做什麼消遣？|Mai được nghỉ, bạn định giải trí gì?
+勞累|láolèi|lao lụy|SV|mệt nhọc|工人來回搬運重物，很勞累。|Công nhân khuân vác đồ nặng qua lại, rất mệt nhọc.
+混亂|hùnluàn|hỗn loạn|SV/AT|hỗn loạn|這個城市的交通很混亂。|Giao thông thành phố này rất hỗn loạn.
+意識|yìshì|ý thức|V/N|nhận thức được; ý thức|他意識到自己說錯了話，趕緊道歉。|Anh nhận ra mình nói sai, vội vàng xin lỗi.
+缺少|quēshǎo|khuyết thiểu|V|thiếu|這個家庭缺少一個女主人。|Gia đình này thiếu một người nữ chủ nhân.
+建設性|jiànshèxìng|kiến thiết tính|N/AT|tính xây dựng|請大家提出建設性的建議。|Mời mọi người đưa ra đề xuất mang tính xây dựng.
+逐漸|zhújiàn|trục tiệm|A|dần dần|天氣逐漸冷了，外出時得加一件衣服。|Trời dần lạnh, ra ngoài phải thêm áo.
+維護|wéihù|duy hộ|V|giữ gìn, bảo vệ|維護健康的辦法就是多運動、吃適量的食物。|Cách giữ gìn sức khỏe là vận động nhiều, ăn uống vừa phải.
+生態|shēngtài|sinh thái|N|sinh thái|亂砍樹木，會破壞生態環境。|Chặt cây bừa bãi sẽ phá hoại môi trường sinh thái.
+勸導|quàndǎo|khuyến đạo|V/N|khuyên bảo, hướng dẫn|義工在風景區勸導遊客不要製造髒亂。|Tình nguyện viên ở khu thắng cảnh khuyên du khách không xả rác bừa bãi.
+參與|cānyù|tham dự|V|tham gia|經濟學家參與這次的國家建設計畫。|Các nhà kinh tế tham gia kế hoạch xây dựng quốc gia lần này.
+有效|yǒuxiào|hữu hiệu|SV/AT|có hiệu lực, hiệu quả|這張車票只有今天有效，明天就不能用了。|Vé xe này chỉ có hiệu lực hôm nay, mai không dùng được.
+前提|qiántí|tiền đề|N|tiền đề, điều kiện tiên quyết|他的父母答應他參加課外活動，前提是得把書念好。|Bố mẹ đồng ý cho cậu tham gia hoạt động ngoại khóa, với điều kiện phải học tốt.
+受惠|shòu//huì|thụ huệ|VO|được hưởng lợi|學校提供免費停車位，使師生都受惠。|Trường cung cấp chỗ đỗ xe miễn phí, thầy trò đều được lợi.
+關切|guānqiè|quan thiết|V/N|quan tâm sâu sắc|油價上漲以後，民眾都關切物價是否也上漲。|Giá xăng tăng, người dân đều quan tâm giá cả có tăng theo không.
+獻身|xiàn//shēn|hiến thân|VO|hiến dâng (cuộc đời)|她獻身家族事業，一直沒結婚。|Cô hiến dâng cho sự nghiệp gia đình, mãi không lấy chồng.
+公益|gōngyì|công ích|N/AT|công ích, từ thiện|送書、送電腦給鄉下學童，是一種公益活動。|Tặng sách, máy tính cho trẻ em vùng quê là một hoạt động công ích.
+發揮|fāhuī|phát huy|V|phát huy|我們要發揮愛心，幫助遇到困難的人。|Chúng ta phải phát huy lòng nhân ái, giúp người gặp khó khăn.
+人際關係|rénjì guānxi|nhân tế quan hệ|N|quan hệ giữa người với người|這些活動，也可讓他們藉此充實知識，並能增進人際關係。|Những hoạt động này còn giúp họ bồi đắp kiến thức và cải thiện các mối quan hệ.
+地球村|dìqiúcūn|địa cầu thôn|N|ngôi làng toàn cầu|既然今日世界已成為一個「地球村」……|Hôm nay thế giới đã trở thành một "ngôi làng toàn cầu"…
+天災人禍|tiānzāi rénhuò|thiên tai nhân họa|N|thiên tai nhân họa|由於天災人禍不斷，人民的生活很不安定。|Do thiên tai nhân họa liên miên, đời sống người dân rất bất ổn.
+天災|tiānzāi|thiên tai|N|thiên tai|地震、颱風這一類的自然災害就是天災。|Động đất, bão là thiên tai.
+人禍|rénhuò|nhân họa|N|tai họa do con người|人禍是指人為的災難，例如戰爭、縱火等。|Nhân họa là tai họa do con người gây ra, như chiến tranh, phóng hỏa.
+飢餓|jī'è|cơ ngạ|N|nạn đói, cái đói|「飢餓三十」的活動，讓參加的民眾三十個小時不吃飯，體驗飢餓的感覺。|Hoạt động "Đói 30" cho người tham gia nhịn ăn 30 tiếng để trải nghiệm cảm giác đói.
+無數|wúshù|vô số|AT|vô số|他曾經到過無數國家，幫助過無數窮人。|Ông từng đến vô số nước, giúp vô số người nghèo.
+伸出援手|shēnchū yuánshǒu|thân xuất viện thủ|IE|chìa tay giúp đỡ|在你最需要的時候伸出援手的人，最令人感謝。|Người chìa tay giúp đỡ lúc bạn cần nhất là người đáng biết ơn nhất.
+行列|hángliè|hàng liệt|N|hàng ngũ|學生排隊的行列非常整齊。|Hàng học sinh xếp rất ngay ngắn.
+援助|yuánzhù|viện trợ|V|viện trợ, giúp đỡ|這個國際組織援助世界各地的難民。|Tổ chức quốc tế này viện trợ người tị nạn khắp thế giới.
+受難|shòunàn|thụ nạn|V|gặp nạn, chịu khổ nạn|戰爭不斷的國家，人民一直在受苦受難。|Ở đất nước chiến tranh liên miên, người dân luôn chịu khổ nạn.
+自己快樂，別人受惠|zìjǐ kuàilè, biérén shòuhuì|tự kỷ khoái lạc, biệt nhân thụ huệ|IDIOM|mình vui, người khác được lợi|幫助盲人過馬路，就是一件使「自己快樂，別人受惠」的事。|Giúp người mù qua đường là việc "mình vui, người được lợi".
+#GRAMMAR
+是否|"Có… hay không": dùng trong câu hỏi gián tiếp, văn viết (= 是不是).|我們是否缺少一些有建設性及教育性的休閒活動呢？|Liệu chúng ta có thiếu những hoạt động giải trí mang tính xây dựng và giáo dục không?|戶外的休閒活動是否能舒展疲勞的身心？|Hoạt động giải trí ngoài trời có giúp thư giãn thân tâm mệt mỏi không?
+在……的前提下|"Với điều kiện tiên quyết là…": nêu điều kiện phải giữ khi làm việc khác.|並且在提升生活品質的前提下，達到「自己快樂，別人受惠」的目標。|Và với điều kiện nâng cao chất lượng cuộc sống, đạt mục tiêu "mình vui, người được lợi".|在安全第一的前提下，喝酒以後不可開車。|Với tiền đề an toàn là trên hết, uống rượu rồi không được lái xe.
+……既可……也可藉此……並能……|"Vừa có thể…, lại nhờ đó…, đồng thời còn…": liệt kê nhiều lợi ích của một việc.|這些活動，既可發揮人們的愛心，也可讓他們藉此充實知識，並能增進人際關係。|Những hoạt động này vừa phát huy lòng nhân ái, lại nhờ đó bồi đắp kiến thức, đồng thời còn cải thiện quan hệ.|早起運動既可使身體健康，也可藉此交朋友，並能改掉貪睡的習慣。|Dậy sớm tập thể dục vừa khỏe người, lại nhờ đó kết bạn, đồng thời bỏ được thói ngủ nướng.
+加入……的行列|"Gia nhập hàng ngũ…": tham gia vào một nhóm / hoạt động.|加入服務性的休閒活動行列，不但有新的體驗……|Gia nhập hàng ngũ hoạt động giải trí phục vụ, không chỉ có trải nghiệm mới…|發生嚴重的地震以後，有越來越多的人加入援助的行列。|Sau trận động đất nghiêm trọng, ngày càng nhiều người tham gia cứu trợ.

@@ -1,0 +1,44 @@
+#VOCAB
+生活觀|shēnghuóguān|sinh hoạt quan|N|quan niệm sống, lối sống|每個時代的年輕人都有不同的生活觀。|Thanh niên mỗi thời đại có quan niệm sống khác nhau.
+具有|jùyǒu|cụ hữu|V|có, mang|故宮博物院的書畫具有很高的藝術價值。|Thư họa ở Bảo tàng Cố Cung có giá trị nghệ thuật rất cao.
+特質|tèzhì|đặc chất|N|đặc tính, phẩm chất riêng|具有不同個性、特質的男女，自此時起，開始人生中最重要的旅途。|Nam nữ với cá tính, phẩm chất khác nhau, từ lúc này bắt đầu chặng đường quan trọng nhất đời người.
+深造|shēnzào|thâm tạo|V|học lên cao, học chuyên sâu|他大學畢業後進研究所深造。|Tốt nghiệp đại học anh vào cao học để học sâu hơn.
+擇偶|zé//ǒu|trạch ngẫu|VO|chọn bạn đời|如何擇偶是青年男女關心的問題。|Chọn bạn đời thế nào là vấn đề nam nữ thanh niên quan tâm.
+旅途|lǚtú|lữ đồ|N|chặng đường, hành trình|遊客出發以前，朋友都會祝他旅途平安。|Trước khi du khách lên đường, bạn bè đều chúc thượng lộ bình an.
+擁有|yōngyǒu|ủng hữu|V|sở hữu|他擁有三家公司，是個成功的商人。|Ông ấy sở hữu ba công ty, là thương nhân thành công.
+操心|cāo//xīn|thao tâm|VO|lo lắng, bận lòng|父母總是為他們的子女操心。|Cha mẹ luôn lo lắng cho con cái.
+隱藏|yǐncáng|ẩn tàng|V|che giấu, ẩn giấu|有些人總是隱藏他們內心的想法，不表示意見。|Có người luôn che giấu suy nghĩ thật, không bày tỏ ý kiến.
+危機|wēijī|nguy cơ|N|khủng hoảng, nguy cơ|然而不同年紀的人，各有他們所操心的事情，而背後也隱藏著一些問題和危機。|Nhưng người ở mỗi độ tuổi có mối lo riêng, phía sau còn ẩn giấu một số vấn đề và nguy cơ.
+挑剔|tiāotì|khiêu dịch|V|kén chọn, bới móc|連這麼高級的茶葉你都覺得不夠好，你太挑剔了吧！|Trà cao cấp thế này mà bạn còn chê, bạn kén chọn quá!
+不妨|bùfáng|bất phương|A|cứ thử, chẳng ngại gì|要想了解每課書的內容，不妨多查字典。|Muốn hiểu nội dung mỗi bài, cứ chịu khó tra từ điển.
+修正|xiūzhèng|tu chính|V|điều chỉnh, sửa đổi|你對金錢的看法必須修正一下；金錢不一定是萬能的。|Quan niệm về tiền của bạn phải điều chỉnh lại; tiền không phải vạn năng.
+促成|cùchéng|xúc thành|V|thúc đẩy thành, góp phần tạo nên|共同的利益促成兩國的合作。|Lợi ích chung thúc đẩy sự hợp tác giữa hai nước.
+美滿|měimǎn|mỹ mãn|SV/AT|hạnh phúc, viên mãn|美滿的婚姻靠互愛、互信。|Hôn nhân hạnh phúc dựa vào yêu thương và tin tưởng lẫn nhau.
+成就感|chéngjiùgǎn|thành tựu cảm|N|cảm giác thành tựu|長期從事同樣的工作，累積的經驗會使人有成就感。|Làm lâu một công việc, kinh nghiệm tích lũy đem lại cảm giác thành tựu.
+跳槽|tiào//cáo|khiêu tào|VO|nhảy việc|你常常跳槽，別人會覺得你不可靠。|Bạn hay nhảy việc, người ta sẽ thấy bạn không đáng tin.
+累積|lěijī|lũy tích|V/N|tích lũy|一個人累積多年的經驗是很寶貴的。|Kinh nghiệm tích lũy nhiều năm của một người rất quý giá.
+探觸|tànchù|thám xúc|V|tìm hiểu, tiếp xúc (lĩnh vực mới)|這門學問我還沒探觸過，所以完全不懂。|Môn học vấn này tôi chưa tiếp xúc nên hoàn toàn không hiểu.
+領域|lǐngyù|lĩnh vực|N|lĩnh vực|除了專業知識以外，也要多探觸其他的領域，增廣見聞。|Ngoài kiến thức chuyên môn còn nên tìm hiểu lĩnh vực khác, mở mang hiểu biết.
+二度就業|èrdù jiùyè|nhị độ tựu nghiệp|V/N|quay lại đi làm (lần hai)|孩子大了以後，她想要二度就業。|Con lớn rồi, cô muốn đi làm trở lại.
+婆媳|póxí|bà tức|N|mẹ chồng nàng dâu|所謂婆媳，是指婆婆和媳婦。|Cái gọi là "bà tức" chỉ mẹ chồng và con dâu.
+誠意|chéngyì|thành ý|N|thành ý, lòng thành|道歉的時候必須有誠意，別人才會接受。|Xin lỗi phải có thành ý thì người ta mới chấp nhận.
+彼此|bǐcǐ|bỉ thử|PN|lẫn nhau|朋友之間應該彼此了解，互相幫助。|Bạn bè nên hiểu nhau, giúp đỡ lẫn nhau.
+固定|gùdìng|cố định|SV/V|cố định, ổn định|他沒有固定的工作，所以生活不安定。|Anh không có việc làm ổn định nên cuộc sống bấp bênh.
+項|xiàng|hạng|M|hạng mục, khoản|奧運會中的每一項比賽，都各有各的規定。|Mỗi môn thi ở Olympic đều có quy định riêng.
+開支|kāizhī|khai chi|N|chi tiêu, khoản chi|開支是指「開銷」和「支出」，有花費金錢的意思。|Khai chi chỉ việc tiêu pha, chi ra, nghĩa là tốn tiền.
+貶值|biǎn//zhí|biếm trị|VO|mất giá|美元貶值了，日圓升值了。|Đô la mất giá, yên Nhật tăng giá.
+儲蓄|chǔxù|trữ súc|V/N|tiết kiệm; tiền tiết kiệm|從小就養成儲蓄的習慣是很好的。|Từ nhỏ đã có thói quen tiết kiệm là rất tốt.
+設法|shèfǎ|thiết pháp|V|tìm cách|警察應該設法查出竊賊怎麼處理偷來的東西。|Cảnh sát nên tìm cách điều tra kẻ trộm xử lý đồ ăn cắp thế nào.
+各奔前程|gèbēn qiánchéng|các bôn tiền trình|IDIOM|mỗi người một ngả|大學畢業後，大家各奔前程，很難見面了。|Tốt nghiệp đại học xong mỗi người một ngả, khó gặp nhau.
+終身大事|zhōngshēn dàshì|chung thân đại sự|IDIOM|chuyện trọng đại cả đời (thường là hôn nhân)|結婚是一個人的終身大事。|Kết hôn là chuyện trọng đại cả đời của một người.
+黃金時段|huángjīn shíduàn|hoàng kim thời đoạn|IDIOM|khung giờ vàng, thời kỳ vàng|每晚八點鐘是電視節目的黃金時段。|8 giờ tối mỗi ngày là khung giờ vàng của truyền hình.
+男怕入錯行|nán pà rù cuò háng|nam phạ nhập thác hành|IDIOM|đàn ông sợ chọn nhầm nghề|「男怕入錯行」就是男人怕做一種不適合他或不理想的工作。|"Đàn ông sợ chọn nhầm nghề" là đàn ông sợ làm công việc không hợp hay không lý tưởng.
+知足常樂|zhīzú chánglè|tri túc thường lạc|IDIOM|biết đủ thì luôn vui|知足常樂的人從來不抱怨。|Người biết đủ thì chẳng bao giờ than phiền.
+畫地自限|huàdì zìxiàn|họa địa tự hạn|IDIOM|tự giới hạn mình|人要相信自己有無限發展的可能，千萬不要畫地自限。|Con người phải tin mình có khả năng phát triển vô hạn, đừng tự giới hạn mình.
+量入為出|liàngrù wéichū|lượng nhập vi xuất|IDIOM|liệu cơm gắp mắm|收入不多的人最好量入為出，免得需要向別人借錢。|Người thu nhập ít tốt nhất liệu cơm gắp mắm, kẻo phải vay mượn người khác.
+以備不時之需|yǐbèi bùshí zhī xū|dĩ bị bất thời chi nhu|IDIOM|để phòng khi cần|我們每個月都要儲蓄一點錢，以備不時之需。|Mỗi tháng chúng ta nên để dành ít tiền phòng khi cần.
+#GRAMMAR
+藉由……開始……|"Nhờ vào… mà bắt đầu…": nhờ phương tiện / con đường nào đó để khởi đầu việc gì.|具有不同個性、特質的男女，自此時起，藉由工作、深造、擇偶、結婚、生子、創業，開始人生中最重要的旅途。|Nam nữ cá tính khác nhau, từ lúc này nhờ công việc, học tiếp, chọn bạn đời, kết hôn, sinh con, lập nghiệp mà bắt đầu chặng đường quan trọng nhất đời người.|他藉由朋友的介紹，開始工作。|Nhờ bạn giới thiệu, anh bắt đầu đi làm.
+有助於|"Có ích cho, giúp ích cho".|結婚可能會促成男女雙方個性的改變，有助於婚姻的和諧與美滿。|Kết hôn có thể khiến tính cách hai bên thay đổi, giúp hôn nhân hòa hợp, hạnh phúc.|彼此溝通有助於雙方的了解。|Giao tiếp với nhau giúp hai bên hiểu nhau hơn.
+如果……又……就不至於……|"Nếu…, lại…, thì sẽ không đến nỗi…".|遇此情況，如果能明白知足常樂的道理，又能忍耐，就不至於失去信心或隨意跳槽。|Gặp tình huống này, nếu hiểu đạo lý biết đủ thì vui, lại biết nhẫn nại, thì sẽ không đến nỗi mất tự tin hay nhảy việc tùy tiện.|如果你能戒菸，又不喝酒，你太太就不至於生氣了。|Nếu bạn bỏ được thuốc lá, lại không uống rượu, vợ bạn đã không đến nỗi giận.
+飽受……之苦|"Chịu đủ nỗi khổ…".|因此，一般薪水階級常無力購屋，飽受無住屋之苦。|Vì vậy người làm công ăn lương thường không đủ sức mua nhà, chịu đủ nỗi khổ không có nhà ở.|這條道路車輛很多，上下班時間搭公車的人飽受塞車之苦。|Con đường này rất nhiều xe, giờ đi làm người đi xe buýt chịu đủ khổ vì kẹt xe.

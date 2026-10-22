@@ -1,0 +1,41 @@
+#VOCAB
+矚目|zhǔmù|chúc mục|V/N|chú ý, dõi theo|臺灣選舉總統是全國矚目的大事。|Bầu cử tổng thống ở Đài Loan là sự kiện cả nước chú ý.
+選手|xuǎnshǒu|tuyển thủ|N|tuyển thủ, vận động viên|各國選手無不摩拳擦掌，希望在大會中奪得金牌與光榮。|Tuyển thủ các nước ai cũng háo hức, mong giành huy chương vàng và vinh quang.
+奪|duó|đoạt|V|giành, đoạt; cướp|她的皮包在街上被一個機車騎士奪走了。|Túi xách của cô bị một người đi xe máy giật mất trên đường.
+金牌|jīnpái|kim bài|N|huy chương vàng||
+光榮|guāngróng|quang vinh|N/SV/AT|vinh quang, vẻ vang|這個城市被選為世界上環境最好的地方，當地人都覺得很光榮。|Thành phố này được chọn là nơi có môi trường tốt nhất thế giới, người dân thấy rất vẻ vang.
+簡稱|jiǎnchēng|giản xưng|V/N|gọi tắt; tên gọi tắt|國立臺灣師範大學簡稱「師大」或「臺師大」。|Đại học Sư phạm Quốc lập Đài Loan gọi tắt là "Sư Đại".
+集合|jíhé|tập hợp|V/AT|tập hợp|我只記得集合時間，卻忘了集合地點。|Tôi chỉ nhớ giờ tập hợp mà quên địa điểm tập hợp.
+城邦|chéngbāng|thành bang|N|thành bang|城邦就是古代的城市國家，以一個城市為中心，也包括四周的村子。|Thành bang là quốc gia thành phố thời cổ, lấy một thành phố làm trung tâm, gồm cả làng xung quanh.
+典禮|diǎnlǐ|điển lễ|N|lễ, nghi lễ|每年夏天，全國各地的學校都會舉行畢業典禮。|Mỗi mùa hè, trường học khắp nơi tổ chức lễ tốt nghiệp.
+競技|jìngjì|cạnh kỹ|N/V|thi đấu|這場趣味競賽，無論男女老少都可以同場競技。|Cuộc thi vui này, bất kể nam nữ già trẻ đều có thể cùng thi đấu.
+消弭|xiāomǐ|tiêu nhị|V|xóa bỏ, chấm dứt|消弭種族間的歧視是很多國家努力的目標。|Xóa bỏ phân biệt chủng tộc là mục tiêu nỗ lực của nhiều nước.
+仇視|chóushì|cừu thị|V/N|thù ghét, thù địch|不同種族的人若彼此仇視，就無法團結合作了。|Người các chủng tộc nếu thù ghét nhau thì không thể đoàn kết hợp tác.
+相傳|xiāngchuán|tương truyền|V|truyền lại, tương truyền|各國的風俗都是一代一代相傳下來的。|Phong tục các nước đều được truyền lại qua nhiều thế hệ.
+組織|zǔzhī|tổ chức|N/V|tổ chức|他們想組織一個樂團，到世界各國去表演。|Họ muốn lập một ban nhạc đi biểu diễn khắp thế giới.
+世紀|shìjì|thế kỷ|N|thế kỷ|現代奧運會的組織，是在十九世紀末才成立的。|Tổ chức Olympic hiện đại đến cuối thế kỷ 19 mới thành lập.
+廢墟|fèixū|phế khư|N|phế tích, đống đổ nát|美國的世貿大樓，在九一一事件後成了一片廢墟。|Tòa tháp Thương mại Thế giới ở Mỹ thành đống đổ nát sau sự kiện 11/9.
+遺址|yízhǐ|di chỉ|N|di chỉ, tàn tích|美國人在世貿大樓的遺址建立新大樓。|Người Mỹ xây tòa nhà mới trên di chỉ của Trung tâm Thương mại Thế giới.
+屆|jiè|giới|M|khóa, kỳ, lần (hội nghị, đại hội, tốt nghiệp)|你是本校第幾屆畢業生？|Bạn là sinh viên tốt nghiệp khóa thứ mấy của trường?
+象徵|xiàngzhēng|tượng trưng|V/N|tượng trưng, biểu tượng|玫瑰花是愛情的象徵。|Hoa hồng là biểu tượng của tình yêu.
+和諧|héxié|hòa hài|SV/N|hài hòa, hòa thuận|和諧與進步是社會發展的重要目標。|Hài hòa và tiến bộ là mục tiêu quan trọng của sự phát triển xã hội.
+團結|tuánjié|đoàn kết|V/N|đoàn kết|團結就是力量。|Đoàn kết là sức mạnh.
+會旗|huìqí|hội kỳ|N|cờ hiệu (của tổ chức)|像「紅十字會」這樣的組織都有自己的會旗。|Những tổ chức như "Hội Chữ thập đỏ" đều có cờ riêng.
+主旨|zhǔzhǐ|chủ chỉ|N|chủ đích, ý chính|這篇文章的主旨是運動精神的重要。|Ý chính của bài văn này là tầm quan trọng của tinh thần thể thao.
+種族|zhǒngzú|chủng tộc|N/AT|chủng tộc|嚴重的種族問題常引起戰爭。|Vấn đề chủng tộc nghiêm trọng thường gây ra chiến tranh.
+國籍|guójí|quốc tịch|N|quốc tịch|不分種族，不分國籍，都同場競技。|Không phân biệt chủng tộc, quốc tịch, đều cùng thi đấu.
+達到|dádào|đạt đáo|V|đạt được|運動選手必須不斷練習，才能達到奪得金牌的目標。|Vận động viên phải luyện tập không ngừng mới đạt mục tiêu giành huy chương vàng.
+惋惜|wǎnxí|uyển tích|SV/V|tiếc nuối, tiếc|有些奧運選手因為吃禁藥而退出比賽，令人惋惜。|Có vận động viên Olympic dùng doping phải rút khỏi cuộc thi, thật đáng tiếc.
+盼望|pànwàng|phán vọng|V|mong mỏi, trông mong|在寒冷的冬天裡，人們盼望著春天的到來。|Trong mùa đông giá rét, người ta mong mùa xuân đến.
+永遠|yǒngyuǎn|vĩnh viễn|A|mãi mãi|我們永遠忘不了對人類有貢獻的科學家。|Chúng ta mãi không quên những nhà khoa học có cống hiến cho nhân loại.
+奧林匹克|Àolínpǐkè|Áo Lâm Thất Khắc|N|Olympic|世界運動會也稱為國際奧林匹克運動會，簡稱奧運會。|Đại hội thể thao thế giới còn gọi là Thế vận hội Olympic quốc tế, gọi tắt là Olympic.
+希臘|Xīlà|Hy Lạp|N|Hy Lạp||
+雅典|Yǎdiǎn|Nhã Điển|N|Athens|到了一八九六年，終於在希臘雅典舉行了第一屆現代奧運會。|Đến năm 1896, cuối cùng đã tổ chức Thế vận hội hiện đại đầu tiên ở Athens, Hy Lạp.
+五環|wǔhuán|ngũ hoàn|N|năm vòng tròn (biểu tượng Olympic)|奧運會會旗上的五環，由左至右分別是：藍、黃、黑、綠、紅，五種顏色。|Năm vòng tròn trên cờ Olympic từ trái sang phải lần lượt là xanh dương, vàng, đen, xanh lá, đỏ.
+摩拳擦掌|móquán cāzhǎng|ma quyền sát chưởng|IDIOM|xoa tay chuẩn bị, háo hức sẵn sàng|賽車開始以前，選手們都在摩拳擦掌，希望奪得第一名。|Trước cuộc đua, các tay đua đều háo hức sẵn sàng, mong giành hạng nhất.
+世界大同，天下一家|shìjiè dàtóng, tiānxià yì jiā|thế giới đại đồng, thiên hạ nhất gia|IDIOM|thế giới đại đồng, bốn bể một nhà|你想如何才能達到「世界大同，天下一家」的理想呢？|Bạn nghĩ làm sao mới đạt được lý tưởng "thế giới đại đồng, bốn bể một nhà"?
+#GRAMMAR
+無不|"Không ai không, đều": phủ định kép để khẳng định mạnh — tất cả đều như vậy.|各國選手無不摩拳擦掌，希望在大會中奪得金牌與光榮。|Tuyển thủ các nước ai cũng háo hức, mong giành huy chương vàng và vinh quang.|看了這部感人的電影，觀眾無不流下淚來。|Xem bộ phim cảm động này, khán giả không ai không rơi nước mắt.
+……以……來……|"Dùng… để…": nêu phương tiện / cách thức để đạt mục đích.|本來的目的是以和平與友愛的精神，來消弭各城邦之間的戰爭與仇視。|Mục đích ban đầu là dùng tinh thần hòa bình và hữu ái để xóa bỏ chiến tranh và thù hằn giữa các thành bang.|他們以傳統的舞蹈來慶祝國慶。|Họ dùng điệu múa truyền thống để mừng Quốc khánh.
+經過一番……終於……|"Trải qua một phen…, cuối cùng…": sau một quá trình nỗ lực thì đạt kết quả.|經過一番努力，到了一八九六年，終於在希臘雅典舉行了第一屆現代奧運會。|Trải qua một phen nỗ lực, đến năm 1896 cuối cùng đã tổ chức Olympic hiện đại đầu tiên ở Athens.|經過一番尋找，科學家終於發現古文明的遺址。|Sau một hồi tìm kiếm, các nhà khoa học cuối cùng đã phát hiện di chỉ văn minh cổ.
+藉……製造……|"Mượn (dịp)… để tạo ra…": lợi dụng một cơ hội / cái cớ để gây ra điều gì.|但是近年來有些人藉大會舉行期間，製造不少恐怖事件，令人惋惜。|Nhưng những năm gần đây có kẻ mượn thời gian đại hội để gây ra nhiều vụ khủng bố, thật đáng tiếc.|有些人藉問路製造認識對方的機會。|Có người mượn cớ hỏi đường để tạo cơ hội làm quen.

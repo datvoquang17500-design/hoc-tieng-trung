@@ -1,0 +1,42 @@
+#VOCAB
+嚮往|xiàngwǎng|hướng vãng|V|khao khát, mong ước|她一直嚮往田園生活。|Cô ấy luôn khao khát cuộc sống điền viên.
+古蹟|gǔjī|cổ tích|N|di tích cổ|歐洲的美麗風光與著名古蹟深深地吸引著她。|Phong cảnh đẹp và di tích nổi tiếng của châu Âu thu hút cô ấy sâu sắc.
+存款|cúnkuǎn|tồn khoản|N|tiền gửi tiết kiệm|她把銀行的存款提出來，報名參加了一個遊歐洲的旅行團。|Cô rút tiền tiết kiệm ở ngân hàng, đăng ký một đoàn du lịch châu Âu.
+旅程|lǚchéng|lữ trình|N|hành trình, chuyến đi|他在旅程中不斷地發現迷人的風景。|Trong chuyến đi anh liên tục phát hiện những cảnh đẹp mê người.
+勝地|shèngdì|thắng địa|N|danh lam thắng cảnh|許多有名的海灘都是度假勝地。|Nhiều bãi biển nổi tiếng là thắng cảnh nghỉ dưỡng.
+緊湊|jǐncòu|khẩn thấu|SV/AT|dày đặc, chặt chẽ|新年晚會的節目很緊湊。|Chương trình dạ hội năm mới rất dày đặc.
+露天|lùtiān|lộ thiên|AT|ngoài trời|大家坐在露天音樂座上聆聽音樂演奏。|Mọi người ngồi ở sân khấu nhạc ngoài trời nghe hòa nhạc.
+音樂座|yīnyuèzuò|âm nhạc tọa|N|khán đài âm nhạc, phòng hòa nhạc||
+聆聽|língtīng|linh thính|V|lắng nghe|他坐在樹下聆聽鳥叫，忘了一切煩惱。|Anh ngồi dưới gốc cây lắng nghe chim hót, quên hết phiền muộn.
+演奏|yǎnzòu|diễn tấu|V|biểu diễn (nhạc cụ)|你剛才演奏的是什麼曲子？真好聽，我以前沒聽過。|Bản nhạc bạn vừa chơi là gì vậy? Hay thật, trước giờ tôi chưa nghe.
+美妙|měimiào|mỹ diệu|SV/AT|tuyệt diệu, du dương|她覺得人生太美妙了，真不明白為什麼每年有那麼多人自殺。|Cô thấy cuộc đời quá tuyệt diệu, thật không hiểu sao mỗi năm có nhiều người tự tử thế.
+旋律|xuánlǜ|toàn luật|N|giai điệu|這首歌的旋律非常輕快，使人聽了想跳起舞來。|Giai điệu bài hát này rất nhẹ nhàng vui tươi, nghe là muốn nhảy múa.
+焦急|jiāojí|tiêu cấp|SV/A|sốt ruột, lo lắng|現在已經晚上八點了，小孩還沒回來，父母焦急萬分。|Đã 8 giờ tối mà con chưa về, cha mẹ vô cùng sốt ruột.
+萬分|wànfēn|vạn phân|A|vô cùng, hết sức|他支持的球隊快要輸了，讓他緊張萬分。|Đội bóng anh ấy ủng hộ sắp thua, làm anh căng thẳng vô cùng.
+推測|tuīcè|thôi trắc|V/N|suy đoán, phỏng đoán|據他推測，明年物價會下降。|Theo anh ấy phỏng đoán, năm sau giá cả sẽ giảm.
+竊賊|qièzéi|thiết tặc|N|kẻ trộm|大家推測也許竊賊取出皮包裡的錢後，會把皮包連同護照丟在附近。|Mọi người đoán có lẽ tên trộm lấy tiền xong sẽ vứt cả ví lẫn hộ chiếu ở gần đó.
+尋找|xúnzhǎo|tầm trảo|V|tìm kiếm|戰爭過後，他到處尋找失散的親人。|Sau chiến tranh, anh khắp nơi tìm kiếm người thân thất lạc.
+獨自|dúzì|độc tự|A|một mình|她喜歡獨自散步，看電影、逛百貨公司。|Cô thích một mình đi dạo, xem phim, dạo trung tâm thương mại.
+懊惱|àonǎo|áo não|SV|bực bội, ân hận|考試時看錯了題目，讓他很懊惱。|Đi thi đọc nhầm đề khiến anh rất ân hận.
+惶恐|huángkǒng|hoàng khủng|SV|hoảng sợ, lo sợ|我懷著一顆惶恐的心去面試。|Tôi mang tâm trạng lo sợ đi phỏng vấn.
+湧|yǒng|dũng|V|trào lên, tuôn ra|清涼的泉水不斷地湧出來。|Nước suối mát lạnh không ngừng tuôn ra.
+首先|shǒuxiān|thủ tiên|A|trước tiên|第一次出國的人首先要辦護照。|Người lần đầu ra nước ngoài trước tiên phải làm hộ chiếu.
+報案|bào//àn|báo án|VO|báo cảnh sát, trình báo|有人被殺了，趕快報案！|Có người bị giết, mau báo cảnh sát!
+補辦|bǔbàn|bổ biện|V|làm lại (giấy tờ)|你的證件遺失了，必須補辦。|Giấy tờ của bạn bị mất, phải làm lại.
+旺季|wàngjì|vượng quý|N|mùa cao điểm|旺季跟淡季的生意差別很大。|Việc làm ăn mùa cao điểm và mùa thấp điểm chênh nhau rất nhiều.
+大排長龍|dàpái chánglóng|đại bài trường long|IE|xếp hàng dài|大概因為當時是旅遊旺季，每個地方都是大排長龍。|Có lẽ vì lúc đó là mùa du lịch cao điểm, chỗ nào cũng xếp hàng dài.
+團聚|tuánjù|đoàn tụ|V|đoàn tụ, sum họp|他的家人分散在各地，只有過年過節才回到老家團聚。|Gia đình anh ở rải rác khắp nơi, chỉ dịp lễ Tết mới về quê sum họp.
+辛酸|xīnsuān|tân toan|SV|chua xót, cay đắng|他不喜歡別人提起他的辛酸往事。|Anh không thích người khác nhắc chuyện cay đắng ngày xưa.
+叮嚀|dīngníng|đinh ninh|V/N|dặn dò|母親一再叮嚀兒子開車前不要喝酒，以免發生車禍。|Mẹ dặn đi dặn lại con trai không uống rượu trước khi lái xe để tránh tai nạn.
+貼身|tiēshēn|thiếp thân|AT|sát người; thân cận|海關為了查毒品，連貼身口袋裡的東西都要檢查。|Hải quan để tìm ma túy kiểm tra cả đồ trong túi sát người.
+英法領事館|Yīngfǎ lǐngshìguǎn|Anh Pháp lãnh sự quán|N|lãnh sự quán Anh và Pháp|然後到英法領事館去補辦簽證。|Sau đó đến lãnh sự quán Anh, Pháp làm lại thị thực.
+不經一事不長一智|bù jīng yí shì bù zhǎng yí zhì|bất kinh nhất sự bất trưởng nhất trí|IDIOM|không trải qua việc thì không khôn ra (đi một ngày đàng học một sàng khôn)|「不經一事不長一智」是告訴我們經驗的重要。|"Không trải qua việc thì không khôn ra" cho ta biết tầm quan trọng của kinh nghiệm.
+如醉如癡|rúzuì rúchī|như túy như si|IDIOM|say mê như say như dại|她的歌聲甜美，使聽眾如醉如癡。|Giọng hát ngọt ngào của cô làm khán giả say mê như say.
+不翼而飛|búyì érfēi|bất dực nhi phi|IDIOM|không cánh mà bay|我把手錶放在桌上，離開了五分鐘以後，居然不翼而飛了。|Tôi để đồng hồ trên bàn, đi ra năm phút mà đã không cánh mà bay.
+青天霹靂|qīngtiān pīlì|thanh thiên phích lịch|IDIOM|sét đánh ngang tai|有人告訴他，他家的房子倒了，真是青天霹靂。|Có người báo nhà anh bị sập, đúng là sét đánh ngang tai.
+徒勞無功|túláo wúgōng|đồ lao vô công|IDIOM|công cốc, uổng công|汽車的輪胎陷進坑裡去了，大家忙了半天，可是徒勞無功。|Lốp xe sa xuống hố, mọi người loay hoay cả buổi mà công cốc.
+#GRAMMAR
+把……連同……|"Mang… cùng với…": xử lý một đối tượng kèm theo cả đối tượng khác.|大家推測也許竊賊取出皮包裡的錢後，會把皮包連同護照丟在附近。|Mọi người đoán tên trộm lấy tiền xong sẽ vứt ví cùng hộ chiếu ở gần đó.|媽媽把被單連同床單一起拿去洗了。|Mẹ mang vỏ chăn cùng với ga giường đi giặt.
+頓時|"Ngay lập tức, tức thì": sự việc / cảm xúc xuất hiện ngay sau một sự việc khác.|但大家走後，頓時，懊惱、惶恐、無助的感覺一起湧上心頭。|Nhưng mọi người đi rồi, tức thì cảm giác ân hận, hoảng sợ, bất lực cùng trào dâng.|忽然停電了，房間裡頓時一片黑暗。|Đột nhiên mất điện, căn phòng tức thì tối om.
+首先……再……然後……|"Trước tiên…, rồi…, sau đó…": trình bày thứ tự các bước.|張先生首先帶她到警察局去報案，再去拍快照，補辦護照，然後到英法領事館去補辦簽證。|Anh Trương trước tiên đưa cô đến đồn cảnh sát trình báo, rồi đi chụp ảnh nhanh, làm lại hộ chiếu, sau đó đến lãnh sự quán Anh, Pháp làm lại thị thực.|他回家後，首先洗手、洗臉，再喝茶，然後做功課。|Về nhà anh ấy trước tiên rửa tay rửa mặt, rồi uống trà, sau đó làm bài.
+如果……那真是……|"Nếu…, thì thật là…": giả định một tình huống và bày tỏ đánh giá / cảm xúc.|她想如果沒有張先生的帶領，那真是寸步難行。|Cô nghĩ nếu không có anh Trương dẫn đường thì thật là không nhích được bước nào.|如果你能幫我忙，那真是太好了。|Nếu bạn giúp được tôi thì thật là tốt quá.

@@ -1,0 +1,12 @@
+#UNIT P5-07|實用視聽華語5 · 第七課 拒吸二手菸
+#CONVO 實用視聽華語5 · 第七課 拒吸二手菸
+|有些菸癮大的人，早上一起床就點一根菸來吸，說是能提神醒腦；辦公時吸菸，說是能提高工作效率；寫作時吸菸，說是能招來靈感；煩惱時吸菸，說是能消愁解悶；娛樂時吸菸，說是能增加樂趣。更常常把「飯後一根菸，賽過活神仙」掛在口上。吸菸真有這些好處嗎？還是他們自我安慰，把它拿來當作不願戒菸的藉口呢？|Có người nghiện thuốc nặng, sáng vừa dậy đã châm một điếu, bảo là giúp tỉnh táo; làm việc thì hút, bảo nâng cao hiệu suất; viết lách thì hút, bảo gọi cảm hứng; phiền muộn thì hút, bảo giải sầu; giải trí thì hút, bảo thêm vui. Lại hay nói câu "Ăn xong một điếu thuốc, sướng hơn tiên". Hút thuốc thật có những lợi ích này sao? Hay họ tự an ủi, lấy đó làm cái cớ không chịu cai?
+|吸菸污染空氣，易引起火災，這是人人皆知的。而根據醫學人士證明，吸菸造成的疾病如癌症、肺氣腫、氣管炎等等，不論吸菸者或吸二手菸者，都有同等程度的得病機會，這真使人震驚。吸菸者若得了這些疾病，無話可說，怨不得別人。不吸菸的人，因別人吸菸使空氣污濁，被迫吸入大量「尼古丁」而得了這些病，實在冤枉，真是太不公平了。|Hút thuốc làm ô nhiễm không khí, dễ gây hỏa hoạn, ai cũng biết. Mà theo giới y học chứng minh, các bệnh do hút thuốc như ung thư, khí phế thũng, viêm phế quản…, bất kể người hút hay người hít khói thụ động đều có nguy cơ mắc như nhau, thật đáng kinh ngạc. Người hút nếu mắc bệnh thì không có gì để nói, không trách được ai. Người không hút, vì người khác hút làm không khí ô nhiễm, bị buộc phải hít nhiều nicotin mà mắc bệnh, thật oan uổng, quá bất công.
+|在我們生活的環境中，到處都可見到販賣香菸的地方，而香菸的廣告又非常生動、有吸引力，再加上菸商常贊助各種體育活動，更令年輕一代迷惑而養成吸菸的壞習慣。|Trong môi trường sống của chúng ta, đâu đâu cũng thấy chỗ bán thuốc lá, mà quảng cáo thuốc lá lại rất sinh động, hấp dẫn, thêm vào đó các hãng thuốc lá hay tài trợ các hoạt động thể thao, càng khiến thế hệ trẻ bị mê hoặc mà sinh thói xấu hút thuốc.
+|我們要站出來，大聲呼籲「拒吸二手菸」。辦公室、電梯內、火車、汽車裡都嚴禁吸菸；公共場所嚴格規定「非吸菸區」和「吸菸區」。若有違規吸菸者，人人都應該勇敢地去制止他。對於下一代年輕人要多做勸導工作，灌輸他們正確的知識，以維護他們的健康，防止吸菸族日漸增加。|Chúng ta phải đứng lên, lớn tiếng kêu gọi "nói không với khói thuốc thụ động". Văn phòng, thang máy, tàu hỏa, ô tô đều nghiêm cấm hút thuốc; nơi công cộng quy định rõ "khu không hút thuốc" và "khu hút thuốc". Nếu có người hút sai quy định, ai cũng nên dũng cảm ngăn lại. Với thế hệ trẻ phải khuyên bảo nhiều, truyền đạt kiến thức đúng để giữ gìn sức khỏe cho họ, ngăn số người hút thuốc ngày càng tăng.
+|總之，我們要多方努力，才能達到「拒吸二手菸」的目的。|Tóm lại, chúng ta phải nỗ lực nhiều mặt mới đạt mục đích "nói không với khói thuốc thụ động".
+#Q
+菸癮大的人為什麼說吸菸有好處？|可能是自我安慰，當作不願戒菸的藉口|醫生說吸菸很好|吸菸真的能治病|吸菸很便宜|0
+吸二手菸的人得病的機會怎麼樣？|跟吸菸者有同等程度的得病機會|比吸菸者低很多|不會得病|比吸菸者高很多|0
+為什麼年輕一代容易養成吸菸的習慣？|香菸廣告生動有吸引力，菸商又常贊助體育活動|學校教他們吸菸|香菸很便宜|吸菸能提高成績|0
+若有違規吸菸者，應該怎麼做？|勇敢地去制止他|不理他|跟他一起吸|離開那裡|0

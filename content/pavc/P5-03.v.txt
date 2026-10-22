@@ -1,0 +1,36 @@
+#VOCAB
+階段|jiēduàn|giai đoạn|N|giai đoạn|在學習中文的初期階段，要特別重視發音和聲調。|Ở giai đoạn đầu học tiếng Trung phải đặc biệt chú trọng phát âm và thanh điệu.
+正規|zhèngguī|chính quy|AT|chính quy, chuẩn mực|職業訓練可補正規教育的不足。|Đào tạo nghề có thể bù đắp chỗ thiếu của giáo dục chính quy.
+強調|qiángdiào|cường điệu|V|nhấn mạnh|老師常常強調複習的重要。|Thầy cô thường nhấn mạnh tầm quan trọng của việc ôn tập.
+終身|zhōngshēn|chung thân|N|suốt đời|結婚是一個人的終身大事。|Kết hôn là chuyện hệ trọng cả đời của một người.
+唯一|wéiyī|duy nhất|AT|duy nhất|這座小島是世界上唯一沒有環境汙染的地方。|Hòn đảo nhỏ này là nơi duy nhất trên thế giới không bị ô nhiễm môi trường.
+來源|láiyuán|lai nguyên|N|nguồn, nguồn gốc|人民所繳的稅是政府收入的一大來源。|Thuế người dân nộp là nguồn thu lớn của chính phủ.
+榜樣|bǎngyàng|bảng dạng|N|tấm gương|成功的偉人是青少年的榜樣。|Những vĩ nhân thành công là tấm gương cho thanh thiếu niên.
+形成|xíngchéng|hình thành|V|hình thành, tạo thành|學校鼓勵大家多借書、多看書，形成讀書風氣。|Nhà trường khuyến khích mọi người mượn sách, đọc sách nhiều để hình thành phong trào đọc.
+正面|zhèngmiàn|chính diện|N/AT|mặt trước; mặt tích cực|好的、積極的一面就是正面，所以好的影響就是正面影響。|Mặt tốt, tích cực là mặt chính diện, nên ảnh hưởng tốt là ảnh hưởng tích cực.
+事件|shìjiàn|sự kiện|N|sự kiện, vụ việc|像殺人、騙錢這些社會事件常出現在報紙上。|Những vụ việc xã hội như giết người, lừa tiền thường xuất hiện trên báo.
+負面|fùmiàn|phụ diện|AT|tiêu cực|父母處罰孩子常常會造成負面效果。|Cha mẹ phạt con thường gây ra tác dụng tiêu cực.
+教材|jiàocái|giáo tài|N|giáo trình, tài liệu dạy học|除了課本以外，老師也會拿報上的新聞當作教材。|Ngoài sách giáo khoa, thầy cô cũng dùng tin tức trên báo làm tài liệu dạy học.
+設計|shèjì|thiết kế|V/N|thiết kế|經過室內設計師用心設計的房子非常漂亮。|Ngôi nhà được nhà thiết kế nội thất dày công thiết kế rất đẹp.
+理論|lǐlùn|lý luận|N|lý thuyết, lý luận|由於學校教育的教材都是經過設計的，理論多於實際。|Vì giáo trình ở trường đều được thiết kế sẵn nên lý thuyết nhiều hơn thực tế.
+迷失|míshī|mê thất|V/AT|lạc lối, mất phương hướng|人很容易迷失在森林中，找不到正確的方向。|Người ta rất dễ lạc trong rừng, không tìm được hướng đúng.
+依賴|yīlài|ỷ lại|V/AT|dựa dẫm, ỷ lại|孩子大了以後，就不再依賴父母了。|Con lớn rồi thì không còn dựa dẫm vào cha mẹ nữa.
+選擇|xuǎnzé|tuyển trạch|N/V|sự lựa chọn; lựa chọn|如果分手是你自己的選擇，就不能怪別人。|Nếu chia tay là lựa chọn của bạn thì không thể trách người khác.
+成就|chéngjiù|thành tựu|N|thành tựu, thành công|人生的成就是多方面的，成績決不是唯一的目標。|Thành tựu trong đời có nhiều mặt, điểm số tuyệt không phải mục tiêu duy nhất.
+鬥志|dòuzhì|đấu chí|N|ý chí chiến đấu|他雖然失敗了，卻還有鬥志，將來總有一天會成功的。|Anh ấy tuy thất bại nhưng vẫn còn ý chí, sau này nhất định có ngày thành công.
+行為|xíngwéi|hành vi|N|hành vi|一個人的行為包括他所做的一切事情。|Hành vi của một người bao gồm mọi việc người đó làm.
+尊重|zūnzhòng|tôn trọng|V/N|tôn trọng|不隨便插嘴是尊重別人的表現。|Không tùy tiện chen ngang là biểu hiện tôn trọng người khác.
+人格|réngé|nhân cách|N|nhân cách|一個人做出不道德的事，我們就認為他的人格有問題。|Một người làm việc vô đạo đức, ta cho là nhân cách người đó có vấn đề.
+不斷地|búduàn de|bất đoạn địa|A|không ngừng, liên tục|最近幾個月，電視新聞不斷地報導選舉的消息。|Mấy tháng gần đây, tin tức truyền hình liên tục đưa tin bầu cử.
+吸收|xīshōu|hấp thu|V|hấp thụ, tiếp thu|多與別人交談可以吸收豐富的經驗和知識。|Trò chuyện nhiều với người khác có thể tiếp thu được nhiều kinh nghiệm và kiến thức.
+充實|chōngshí|sung thực|V/SV|làm phong phú, bồi bổ; đầy đủ, phong phú|他下班以後上網吸收新知，週末做些休閒活動，生活非常充實。|Tan làm anh ấy lên mạng cập nhật kiến thức mới, cuối tuần sinh hoạt giải trí, cuộc sống rất phong phú.
+應付|yìngfù|ứng phó|V|ứng phó; đối phó qua loa|一個店員要應付這麼多顧客不容易。|Một nhân viên bán hàng phải ứng phó với nhiều khách thế này không dễ.
+一言一行|yìyán yìxíng|nhất ngôn nhất hành|IDIOM|từng lời nói việc làm|政治家的一言一行都成為大家注意的目標。|Từng lời nói việc làm của chính trị gia đều trở thành tâm điểm chú ý.
+形形色色|xíngxíng sèsè|hình hình sắc sắc|IDIOM|đủ hình đủ loại, muôn màu muôn vẻ|大賣場的商品種類很多，形形色色，應有盡有。|Hàng hóa ở đại siêu thị rất nhiều loại, muôn màu muôn vẻ, cái gì cũng có.
+得心應手|déxīn yìngshǒu|đắc tâm ứng thủ|IDIOM|thuận tay, thành thạo, làm đâu được đấy|他練習書法已經五年了，所以寫起毛筆字來得心應手。|Anh ấy luyện thư pháp đã năm năm nên viết chữ bút lông rất thành thạo.
+#GRAMMAR
+……以為……其實……|"Tưởng là…, thật ra…": nhận định trước là sai, sự thật là khác.|很多人以為學校教育是教育唯一的來源，其實，家庭和社會對教育的影響都很大。|Nhiều người tưởng giáo dục ở trường là nguồn giáo dục duy nhất, thật ra gia đình và xã hội ảnh hưởng rất lớn.|大家以為他很窮，其實他有錢得很。|Mọi người tưởng anh ta nghèo, thật ra anh ta giàu lắm.
+……多於……|"…nhiều hơn…": X nhiều hơn Y (văn viết).|理論多於實際。|Lý thuyết nhiều hơn thực tế.|今年的大學畢業生多於往年。|Sinh viên tốt nghiệp năm nay nhiều hơn những năm trước.
+往往|"Thường thường": tình huống hay xảy ra theo quy luật, kinh nghiệm.|剛踏出校門的人，往往不明白其中的差別。|Người vừa ra trường thường không hiểu sự khác biệt trong đó.|沒有法律常識的人往往會受騙。|Người không có hiểu biết pháp luật thường dễ bị lừa.
+……如何……才能……|"Phải… thế nào thì mới…": nêu cách thức cần thiết để đạt mục đích.|應該是教一個人懂得如何選擇，才能獨立自主，有自己的人生方向。|Phải dạy một người biết cách lựa chọn thì người đó mới tự lập, có hướng đi riêng cho đời mình.|我們要如何努力，才能達到世界和平？|Chúng ta phải nỗ lực thế nào mới đạt được hòa bình thế giới?
+雖然……而……|"Tuy…, nhưng…" (văn viết): 而 nối vế đối lập, thường so sánh mức độ quan trọng.|學業成績雖然重要，而人格教育更重要。|Thành tích học tập tuy quan trọng, nhưng giáo dục nhân cách còn quan trọng hơn.|生命雖然可貴，而自由更可貴。|Sinh mệnh tuy quý, nhưng tự do còn quý hơn.

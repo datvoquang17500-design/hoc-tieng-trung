@@ -1,0 +1,39 @@
+#VOCAB
+臘月|làyuè|lạp nguyệt|N|tháng Chạp (tháng 12 âm lịch)|其實臘月一開始，大街小巷就充滿了過年的氣氛。|Thật ra tháng Chạp vừa bắt đầu là phố lớn ngõ nhỏ đã ngập tràn không khí Tết.
+正月|zhēngyuè|chính nguyệt|N|tháng Giêng (tháng 1 âm lịch)|正月的第一天，春天開始，所以又叫「春節」。|Ngày đầu tiên tháng Giêng là khởi đầu mùa xuân, nên còn gọi là "Tết xuân".
+持續|chíxù|trì tục|A|liên tục, kéo dài|持續下了十天的雨，大家都希望能趕快轉晴。|Mưa liên tục mười ngày, ai cũng mong trời mau tạnh.
+祭祀|jìsì|tế tự|V|cúng tế|過年過節祭祀祖先是華人的傳統。|Cúng tổ tiên vào dịp lễ Tết là truyền thống của người Hoa.
+儀式|yíshì|nghi thức|N|nghi thức, nghi lễ|現在的結婚儀式越來越簡單了。|Nghi lễ cưới bây giờ ngày càng đơn giản.
+陰曆|yīnlì|âm lịch|N|âm lịch|又由於臘祭在陰曆十二月舉行，所以那個月就叫「臘月」。|Lại vì lễ tế "lạp" tổ chức vào tháng 12 âm lịch nên tháng đó gọi là "tháng Chạp".
+傳說|chuánshuō|truyền thuyết|V/N|truyền thuyết; tương truyền|每個民族都有人類起源的傳說。|Dân tộc nào cũng có truyền thuyết về nguồn gốc loài người.
+灶神|Zàoshén|Táo thần|N|Táo quân, ông Táo|臘月二十三這天，傳說是灶神升天的日子，也叫做「過小年」。|Ngày 23 tháng Chạp, tương truyền là ngày ông Táo lên trời, còn gọi là "Tết nhỏ".
+升天|shēngtiān|thăng thiên|V|lên trời; qua đời|以前的人相信，好人死了以後會升天做神仙。|Người xưa tin rằng người tốt chết đi sẽ lên trời thành tiên.
+積極|jījí|tích cực|SV/A|tích cực, hăng hái|他對工作的態度很積極。|Thái độ làm việc của anh ấy rất tích cực.
+兇惡|xiōng'è|hung ác|SV/AT|hung ác, dữ tợn|他夢見一隻兇惡的野獸正要咬他，把他嚇醒了。|Anh ấy mơ thấy một con thú dữ sắp cắn mình, sợ quá tỉnh giấc.
+怪獸|guàishòu|quái thú|N|quái thú|「年」這個字，古代是指一個兇惡的怪獸。|Chữ "niên" thời cổ chỉ một con quái thú hung ác.
+春聯|chūnlián|xuân liên|N|câu đối Tết (giấy đỏ dán cửa)|於是大家在門上貼紅紙，叫「春聯」。|Thế là mọi người dán giấy đỏ lên cửa, gọi là "câu đối Tết".
+守歲|shǒu//suì|thủ tuế|VO|thức đón giao thừa|除夕大家都在守歲，可是小孩子守著守著都睡著了。|Đêm giao thừa mọi người đều thức đón năm mới, nhưng bọn trẻ thức một lúc là ngủ mất.
+迎接|yíngjiē|nghênh tiếp|V|đón, chào đón|迎接新年到來，第一件要做的事，就是放鞭炮。|Đón năm mới đến, việc đầu tiên phải làm là đốt pháo.
+團圓|tuányuán|đoàn viên|V|đoàn tụ, sum họp|由於戰爭的關係，他們一家人分散了好幾年，現在終於團圓了。|Vì chiến tranh, gia đình họ ly tán mấy năm, giờ cuối cùng đã đoàn tụ.
+拜年|bài//nián|bái niên|VO|chúc Tết|從前過年時要到親戚、朋友家拜年，現在流行用電話拜年，方便多了。|Xưa Tết phải đến nhà họ hàng, bạn bè chúc Tết, giờ thịnh hành chúc Tết qua điện thoại, tiện hơn nhiều.
+壓歲錢|yāsuìqián|áp tuế tiền|N|tiền mừng tuổi, lì xì|飯後，孩子向長輩拜年，領壓歲錢。|Ăn cơm xong, trẻ con chúc Tết người lớn, nhận tiền mừng tuổi.
+午夜|wǔyè|ngọ dạ|N|nửa đêm|白天十二點是中午，夜裡十二點就是午夜了。|12 giờ ban ngày là buổi trưa, 12 giờ đêm là nửa đêm.
+元寶|yuánbǎo|nguyên bảo|N|nén vàng, nén bạc (thỏi tiền cổ)|接近午夜的時候，就吃長得像元寶的餃子，討個吉利。|Gần nửa đêm thì ăn sủi cảo hình nén vàng để lấy may.
+吉利|jílì|cát lợi|SV/AT|may mắn, tốt lành|過年時大家都會說「恭喜發財」這一類吉利話。|Tết mọi người đều nói những lời may mắn như "Cung hỷ phát tài".
+高潮|gāocháo|cao trào|N|cao trào|這本小說沒有高潮，太平淡了。|Cuốn tiểu thuyết này không có cao trào, quá nhạt nhẽo.
+元宵節|Yuánxiāojié|Nguyên Tiêu tiết|N|Tết Nguyên Tiêu (rằm tháng Giêng)|春節最後一個歡樂的高潮是正月十五的「元宵節」。|Cao trào vui vẻ cuối cùng của Tết là "Tết Nguyên Tiêu" ngày rằm tháng Giêng.
+花燈|huādēng|hoa đăng|N|đèn lồng hoa|元宵節一定要吃湯圓看花燈。|Tết Nguyên Tiêu nhất định phải ăn chè trôi nước và ngắm đèn lồng.
+燈謎|dēngmí|đăng mê|N|câu đố trên đèn lồng|每年我都參加猜燈謎大會，但從來沒得過獎。|Năm nào tôi cũng tham gia hội đố đèn, nhưng chưa từng được giải.
+湯圓|tāngyuán|thang viên|N|bánh trôi nước, chè trôi nước|這天到處張燈結綵，玩花燈、猜燈謎、吃元宵（湯圓），十分熱鬧。|Ngày này khắp nơi treo đèn kết hoa, chơi đèn lồng, đoán câu đố, ăn bánh trôi, vô cùng náo nhiệt.
+發揚|fāyáng|phát dương|V|phát huy, làm rạng rỡ|我們希望現代人能發揚傳統文化的精神。|Chúng tôi mong người hiện đại phát huy tinh thần văn hóa truyền thống.
+元旦|yuándàn|nguyên đán|N|Tết Dương lịch (1/1)|最近大家也開始熱烈慶祝陽曆一月一日的「元旦」了。|Gần đây mọi người cũng bắt đầu tổ chức đón Tết Dương lịch ngày 1/1 sôi nổi.
+大街小巷|dàjiē xiǎoxiàng|đại nhai tiểu hạng|IDIOM|phố lớn ngõ nhỏ, khắp nơi|這幾天大街小巷都有人放鞭炮。|Mấy hôm nay phố lớn ngõ nhỏ đều có người đốt pháo.
+家家戶戶|jiājiā hùhù|gia gia hộ hộ|IDIOM|nhà nhà, mọi gia đình|過年時，家家戶戶都要吃年糕。|Tết đến nhà nhà đều ăn bánh tổ.
+接二連三|jiē'èr liánsān|tiếp nhị liên tam|IDIOM|liên tiếp, hết cái này đến cái khác|這家工廠接二連三發生了幾次意外。|Nhà máy này liên tiếp xảy ra mấy vụ tai nạn.
+歲歲（碎碎）平安|suìsuì (suìsuì) píng'ān|tuế tuế (toái toái) bình an|IDIOM|năm năm bình an (nói khi lỡ làm vỡ đồ ngày Tết, chơi chữ 碎 = 歲)|過年時，打破了任何東西都要趕緊說「歲歲（碎碎）平安」。|Ngày Tết lỡ làm vỡ thứ gì phải nói ngay "tuế tuế bình an".
+張燈結綵|zhāngdēng jiécǎi|trương đăng kết thải|IDIOM|giăng đèn kết hoa|辦喜事的人家張燈結綵，喜洋洋。|Nhà có việc vui giăng đèn kết hoa, vui tưng bừng.
+#GRAMMAR
+跟……相當|"Tương đương với…": hai đối tượng ngang nhau về mức độ, giá trị, vai trò.|春節的重要性跟西方的聖誕節相當，可是風俗習慣完全不同。|Tầm quan trọng của Tết tương đương với lễ Giáng sinh phương Tây, nhưng phong tục hoàn toàn khác.|有些人每年花在旅遊上的錢跟薪水相當。|Có người mỗi năm chi cho du lịch ngang với tiền lương.
+至於|"Còn về…": chuyển sang nói một mặt / đối tượng liên quan khác.|至於「正月」，就是陰曆的第一個月。|Còn "tháng Giêng" là tháng đầu tiên của âm lịch.|我只知道這個宗教常舉行祭祀儀式，至於祭拜什麼神，我就不清楚了。|Tôi chỉ biết tôn giáo này hay tổ chức nghi lễ cúng tế, còn thờ vị thần nào thì tôi không rõ.
+凡是……都……|"Phàm là…, hễ là… đều…": mọi đối tượng thuộc phạm vi đó đều như nhau, không có ngoại lệ.|天一亮就是正月初一，凡是跟別人見面的人，都互相說「恭喜」。|Trời vừa sáng là mùng Một, hễ ai gặp nhau đều chúc nhau "Cung hỷ".|凡是有環保觀念的人都會做垃圾分類。|Phàm là người có ý thức bảo vệ môi trường đều phân loại rác.
+把……定為……|"Lấy… làm…, quy định… là…": chọn một ngày / thời điểm làm dịp gì đó.|1978年起，政府把這個能發揚中華文化的日子定為觀光節。|Từ năm 1978, chính phủ lấy ngày có thể phát huy văn hóa Trung Hoa này làm Ngày du lịch.|政府把孔子的生日定為教師節。|Chính phủ lấy ngày sinh của Khổng Tử làm Ngày Nhà giáo.
